@@ -1,3 +1,6 @@
+---
+title: Getting Started
+---
 This is the Home Page for the [[Echoes of the Departed]] Wiki!
 
 If you’re looking for how to get started in playing the game, then you’re in the right place. This article will point you in the direction of various different articles that include important information for playing the game.
