@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "The Legend of Zelda - Echoes of the Departed",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -28,13 +28,13 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#FBE9D0",
           lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          gray: "#90AEAD",
+          darkgray: "#244855",
+          dark: "#244855",
+          secondary: "#E64833",
+          tertiary: "#90AEAD",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
@@ -65,7 +65,9 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
+      Plugin.TableOfContents({
+        collapseByDefault: true
+      }),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
@@ -89,3 +91,30 @@ const config: QuartzConfig = {
 }
 
 export default config
+
+
+
+
+
+
+
+// Default Light Mode Colors
+          // light: "#faf8f8",
+          // lightgray: "#e5e5e5",
+         //  gray: "#b8b8b8",
+         //  darkgray: "#4e4e4e",
+         //  dark: "#2b2b2b",
+          // secondary: "#284b63",
+          // tertiary: "#84a59d",
+         // highlight: "rgba(143, 159, 169, 0.15)",
+
+
+// Deep Vintage
+          // light: "#FBE9D0",
+          // lightgray: "#e5e5e5",
+          // gray: "#90AEAD",
+          // darkgray: "#244855",
+          // dark: "#244855",
+          // secondary: "#E64833",
+          // tertiary: "#90AEAD",
+          // highlight: "rgba(143, 159, 169, 0.15)",
