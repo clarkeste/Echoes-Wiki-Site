@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Welcome to the Echoes of the Departed Wiki, and Getting Started
 ---
 This is the Home Page for the [[Echoes of the Departed]] Wiki!
 

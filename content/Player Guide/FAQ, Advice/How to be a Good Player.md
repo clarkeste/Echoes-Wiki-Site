@@ -50,3 +50,18 @@ tags:
 *And remember: No D&D is better than bad D&D.*
 
 ***Have any ideas, criticisms, or comments? Feel free to sound off in the comments below!***
+
+
+
+
+
+
+Hey, it’s Clark again. Here are some other videos have good tips. Keep in mind, though, that they’re assuming an in-person game, so not all tips are applicable. I do not expect you to mail me a pencil.
+
+
+[On Being a Good Player](https://www.youtube.com/watch?v=0MhjHHrfreo&pp=ygUUbWF0dCBjb2x2aWxsZSBwbGF5ZXI%3D)
+
+[Collaborating With The GM](https://www.youtube.com/watch?v=I-nfsi6B8d4&pp=ygUhbWF0dCBjb2x2aWxsZSBwbGF5ZXJzIGNvbGxhYnJvYXRl)
+
+
+
