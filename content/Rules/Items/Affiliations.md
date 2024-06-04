@@ -20,7 +20,7 @@ A Weapon produced for and or by the Revolutionary forces. Due to this, members o
 ## [[Gerudo|Gerudo]]
 A Weapon produced for and or by the Gerudo people. Due to their forced isolation from Hyrule, these weapons are extremely uncommon outside of the few Gerudo settlements.
 
-## [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/EotD - Peoples/Gorons|Goron]]
+## [[Gorons|Goron]]
 A weapon produced for and or by the Gorons of Death Mountain. Their peaceful nature and neutral stance in the war means most of their weapons are not to be used by either side; however, older weapon types whose blueprints long ago leaked, like the Giant’s Knife, are so widely sold that Goron City does not bother attempting to track them.
 
 ## Rito
@@ -29,7 +29,7 @@ A weapon produced for and or by the Rito of northern Holodrum. This bird-like sp
 ## [[Should my character believe in the Royalists, or the Followers?|Royalist]]
 A weapon produced for and or by the Royalist forces. Due to this, members of the citizenry or the Follower faction who wield these weapons are rare.
 
-## [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/EotD - Peoples/Sheikah|Sheikah]]
+## [[Sheikah]]
 A weapon produced for and or by the Sheikah. This mysterious tribe is well known for their affinity for weapons. Due to having little centralized leadership, many Sheikah weapons are sold to anyone who would appreciate them–although some modern Sheikah smiths have worked for the Followers exclusively.
 
 ## [[Zora|Zora]]

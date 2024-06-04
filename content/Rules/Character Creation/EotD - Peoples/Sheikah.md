@@ -8,7 +8,7 @@ tags:
   - RPGSessions
 ---
 ### Physical and Cultural Traits
-Sheikah are an ethnicity of humans. They share the long-ears of the [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/EotD - Peoples/Hylians|Hylians]], but are distinct with their white hair. They have a higher than average chance of being born with red eyes. The Sheikah have always been a small group and secretive, for their own survival. Some take up a peaceful life, devoted to their work, while others become warriors in the shadows.
+Sheikah are an ethnicity of humans. They share the long-ears of the [[Hylians]], but are distinct with their white hair. They have a higher than average chance of being born with red eyes. The Sheikah have always been a small group and secretive, for their own survival. Some take up a peaceful life, devoted to their work, while others become warriors in the shadows.
 
 One thing remains consistent since the first Civil War divided the Sheikah. The world treats them with distrust and disdain. The world sees them--paradoxically--either as unloyal to the Kingdom, or the shadowy eyes of the monarchy.
 

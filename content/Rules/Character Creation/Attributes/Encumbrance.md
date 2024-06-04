@@ -9,7 +9,7 @@ tags:
 ---
 Encumbrance is the amount of weight, space, or general strain that the [[Items|Items]] a [[Character|Character]] is carrying represents.
 
-The Encumbrance Threshold is by default 5 + the [[Brawn|Brawn]] of your Character, and additional items–like belts or backpacks– that increase your Encumbrance Threshold. Some [[Peoples|Peoples]]–notably, the [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/EotD - Peoples/Gorons|Gorons]]–may have a different default. The Gorons have 10 Encumbrance Threshold.
+The Encumbrance Threshold is by default 5 + the [[Brawn|Brawn]] of your Character, and additional items–like belts or backpacks– that increase your Encumbrance Threshold. Some [[Peoples|Peoples]]–notably, the [[Gorons]]–may have a different default. The Gorons have 10 Encumbrance Threshold.
 
 All Items that have an Encumbrance value add to your Encumbrance amount. [[Armor|Armor]], when worn, has its Encumbrance reduced by 3. This last bit is automated by [[RPGSessions|RPGSessions]].
 ## Penalties

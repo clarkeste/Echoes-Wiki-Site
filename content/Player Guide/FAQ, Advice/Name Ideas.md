@@ -13,11 +13,11 @@ The people of Hyrule do not tend to have the same names that we have. There are 
 
 Here are some examples for names that fit for each of the starting [[Peoples]], and some general tips.
 
-Oh, and if you want even more ideas, [visit this excellent name generator.](https://www.fantasynamegenerators.com/legend-of-zelda.php) Keep in mind that the “Blin” section seems to be designed for species names, and not individual [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/EotD - Peoples/Monsters|Monsters]], and is therefore not particularly applicable.
+Oh, and if you want even more ideas, [visit this excellent name generator.](https://www.fantasynamegenerators.com/legend-of-zelda.php) Keep in mind that the “Blin” section seems to be designed for species names, and not individual [[Monsters|Monsters]], and is therefore not particularly applicable.
 
 ### Hylian
 
-[[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/EotD - Peoples/Hylians|Hylian]] names are versatile, so almost anything fantastical-sounding will fly. They tend to have slightly more fantastical names.
+[[Hylians|Hylian]] names are versatile, so almost anything fantastical-sounding will fly. They tend to have slightly more fantastical names.
 
 The following are example names, for inspiration. It is suggested that you avoid taking from them directly, as a lot of these names are from various minor [[NPCs]] across the Zelda series. However, that just means that they’re common first names, so at the same time, go for it if one of them really strikes your fancy.
 
@@ -115,7 +115,7 @@ The following are example names, for inspiration. It is suggested that you avoid
 - Yona
 
 ### Gorons
-[[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/EotD - Peoples/Gorons|Goron]] names tend to be simple, but their names vary a lot in length. Most names sound “guttural” and reflect their rocky nature though, but there are of course exceptions. Some Goron names literally have ‘guron’ in the name, or allusions to it, like ‘Goro’. Plenty start with G.
+[[Gorons|Goron]] names tend to be simple, but their names vary a lot in length. Most names sound “guttural” and reflect their rocky nature though, but there are of course exceptions. Some Goron names literally have ‘guron’ in the name, or allusions to it, like ‘Goro’. Plenty start with G.
 
 The following are example names, for inspiration. It is suggested that you avoid taking from them directly, as a lot of these names are from various minor NPCs across the Zelda series. However, that just means that they’re common first names, so at the same time, go for it if one of them really strikes your fancy.
 
@@ -184,7 +184,7 @@ The following are example names, for inspiration. It is suggested that you avoid
 
 
 ### Sheikah
-[[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/EotD - Peoples/Sheikah|Sheikah]] names tend to be similar to Hylian names, probably owing to their shared history. Sheikah names tend to differ in that they’re a little more ‘grounded’, or sound a little less foreign.
+[[Sheikah]] names tend to be similar to Hylian names, probably owing to their shared history. Sheikah names tend to differ in that they’re a little more ‘grounded’, or sound a little less foreign.
 
 The following are example names, for inspiration. It is suggested that you avoid taking from them directly, as a lot of these names are from various minor NPCs across the Zelda series. However, that just means that they’re common first names, so at the same time, go for it if one of them really strikes your fancy.
 
@@ -212,7 +212,7 @@ The following are example names, for inspiration. It is suggested that you avoid
 
 
 ### Monster Names
-The names of [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/EotD - Peoples/Monsters|Monsters]] tend to be harsh or esoteric, fitting with their often frightening and uncanny nature. Some others are simple, deceptively so. When making a monster name, feel free to be very creative and don’t worry if it sounds a little unusual.
+The names of [[Monsters]] tend to be harsh or esoteric, fitting with their often frightening and uncanny nature. Some others are simple, deceptively so. When making a monster name, feel free to be very creative and don’t worry if it sounds a little unusual.
 
 The following are example names, for inspiration. It is suggested that you avoid taking from them directly, as a lot of these names are from various minor NPCs across the Zelda series. However, that just means that they’re common first names, so at the same time, go for it if one of them really strikes your fancy.
 

@@ -9,7 +9,7 @@ tags:
   - RPGSessions
 ---
 ### Physical and Cultural Traits
-The Gerudo are a human ethnicity characterized by above-average height and red hair. They're also genetically unable to produce sons, with only one boy born to their tribe every 100 years. Their names are in reverse order than the [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/EotD - Peoples/Hylians|Hylian]] usual, with their family name coming before their given name.
+The Gerudo are a human ethnicity characterized by above-average height and red hair. They're also genetically unable to produce sons, with only one boy born to their tribe every 100 years. Their names are in reverse order than the [[Hylians|Hylian]] usual, with their family name coming before their given name.
 
 The Gerudo now fend for themselves in the barren wastes of the Desert of Doubt, alone. Despite this, their steel resolve has not withered. Likely due to the harsh conditions of their lives, the Gerudo value perseverance and survival.
 
