@@ -22,3 +22,15 @@ But, as the [[Hylians|Hylian]] monarchy became overbearing, the Zora became demo
 As the situation became untenable, the Zora government chose to betray the King. The Domain allied themselves with the [[Should my character believe in the Royalists, or the Followers?|Followers of Dragmire]]. They were hesitant, in no small part due the crimes of Dragmire still being in living memory for the Zora. But as the Followers became more democratic, the Zora began covertly aiding them. During the Revolution, the Zora aided the Revolution and threw off their shackles of the [[Should my character believe in the Royalists, or the Followers?|Royalists]].
 
 Yet, just as there are these Zora, there are others who see it as shameful that their people would betray the King. They believe it to not be just dishonorable and dishonest, but tantamount to suicide. As artillery fire echoes throughout the night, these dissenters may turn out to be right…
+
+
+
+
+
+### Playing a Zora
+[Here is the template to make a Zora Character!](https://app.rpgsessions.com/char/nds/6424fa2dc1a8f5a7fd1a5e78) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit “clone” so you can start making your own [[Character]] using this template.
+
+#### Abilities
+**People of the Sea**: Zora can breath underwater without any additional help or items. Any [[Setback Dice|Setbacks]] usually added due to underwater disadvantages are removed, and they gain one rank by default in [[Swim|Swim]] (already added). They can take a second [[Maneuvers|Maneuver]] without suffering [[Strain|Strain]] in the water. May use [[Agility|Agility]] for [[Athletics|Athletics]] instead of [[Brawn|Brawn]].
+
+**Shock Vulnerability**: Much like the water they inhabit, the Zora are vulnerable to [[Shock (Active) (Quality)|shocks]] of electricity due to their biology. While it's rarely deadly, they can handle much less than other species, and suffer twice as much [[Strain|Strain]] from it.

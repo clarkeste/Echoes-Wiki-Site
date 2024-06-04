@@ -1,6 +1,7 @@
 ---
 aliases:
   - Career Skills
+  - Career Skill
 tags:
   - Characters
   - Rules

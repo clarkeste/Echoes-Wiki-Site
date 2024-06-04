@@ -23,3 +23,14 @@ After their exile, Gerudo Tribe formed new settlements in the wastes. Despite th
 Their new King and his sister were born nearly three decades ago. The boy was adopted from the family who had him. The Chief, controversially, allowed the boy to keep his birth name of Ganondorf. Since then, Hylian extremists have been making incursions again in the Desert of Doubt, attempting to snatch them away. This led to the tragic death of Ganondorf’s own sister when he was but a young adult. 
 
 In pursuit of resolution, revenge–and, perhaps, spiritual peace–Ganondorf left for Hyrule. His death months later at the hands of the revolutionaries echo the past sins of both the Hyruleans and the Gerudo. With Hyrule in flames as a result of its own civil war, it seems that the stage is set for the Gerudo to return to Hyrule. Whether that will be through an attempted peace, or fire and brimstone, is a decision for the Gerudo to make....
+
+
+
+
+### Playing a Gerudo
+[Here is the template to make a Gerudo Character!](https://app.rpgsessions.com/char/nds/6424f5f5c1a8f5a7fd1a3808) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit “clone” so you can start making your own [[Character]] using this template.
+
+#### Abilities
+**Fight to Survive:*** The Gerudo people have been hunted and persecuted by centuries; if not by [[Hylians|Hylians]], then by the cruel twists of fate given to them by the Desert and its creatures. Gerudo gain an extra 1+ [[Skills|Skill]] Rank in any [[Combat Skills|Combat Skill]] of their choice, and +1 in [[Survival|Survival]] (already added to this sheet). In addition, they remove up to two [[Setback Dice|Setback Dice]] from excessive heat; volcanos and lava are excluded.
+
+**Exiled:** By virtue of being shunned in Hyrule, their original homeland, the majority of nations and peoples will treat the Gerudo less seriously and with a higher level of distrust than other peoples.

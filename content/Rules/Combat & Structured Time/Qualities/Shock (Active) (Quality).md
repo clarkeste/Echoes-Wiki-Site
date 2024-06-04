@@ -1,6 +1,7 @@
 ---
 aliases:
   - Shock Quality
+  - shocks
   - Shock
 tags:
   - Rules

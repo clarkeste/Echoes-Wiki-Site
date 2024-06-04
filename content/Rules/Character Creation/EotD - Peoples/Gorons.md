@@ -19,3 +19,16 @@ As tensions swelled in Hyrule proper, the Goron City Administration stayed uninv
 When the Revolution broke out, the Goron Administration chose to break off from the Kingdom of Hyrule and remain neutral in the Civil War. This action has kept Death Mountain safe from both the Followers and the [[Should my character believe in the Royalists, or the Followers?|Royalists]]. As a result, it has become a haven for refugees of the war, which the Gorons have sheltered and protected. This has also made it the target of illicit arms sales, or illegal acts that would. Enough that, despite the best efforts of the Gorons, these operations elude the reach of Goron authorities.
 
 Regardless of Goron City’s position, many individuals who live there have picked sides. Whether they be Gorons or migrants, they choose between Royalists and Followers. They follow, first and foremost, their own morality.
+
+
+
+
+### Playing a Goron
+[Here is the template to make a Goron Character!](https://app.rpgsessions.com/char/nds/6424f822a3cc88d04e25ffc0) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit “clone” so you can start making your own [[Character]] using this template.
+
+#### Abilities
+**Goron Mettle:** Gorons can survive in incredible heat without penalty, and have strength beyond compare. They gain +3 to their default [[Encumbrance|Encumbrance Threshold]] (making it 8 as opposed to 5) and the [[Cumbersome (Passive) (Quality)|Cumbersome]] rating of all [[Weapons|Weapons]] is treated as one lower. However, they also weigh much more by default and will have difficulty swimming or staying at the top of bodies of water. To counteract this, they seem to be able to hold their breath four or five times longer than a [[Hylians|Hylian]].
+
+**Eats Rocks:** Gorons eat rocks. Literally. 
+
+**Silhouette 2:** This species is [[Silhouette|Silhouette]] 2 in size. 
