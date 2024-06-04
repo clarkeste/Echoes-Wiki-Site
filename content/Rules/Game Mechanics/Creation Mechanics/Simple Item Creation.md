@@ -1,5 +1,0 @@
-SImple Item Creation is, as the name implies, a less complicated version of [[Item Creation]], reserved for creating an Item that is not a [[Weapons|Weapon]], suit of [[Armor]], or otherwise has a clear mechanical purpose. Instead, Simple Item Creation is the realm of the craftsmen, making something like a rope, or a toy.
-
-Simple Item Creation is simple and functions like any other [[Skill Checks]]. The [[Player|Players]] declares what they want their [[Character]] to make, and [[The GM|GM]] sets a [[Difficulty]] and the [[Skills|Skill]] to use, almost always [[Craftsmanship]]. The GM may also set an amount of [[Downtime]] required, depending on the complexity of what is being made and if it is relevant to the situation.
-
-If the Check is successful, then congratulations! Your Item is now constructed.
