@@ -5,7 +5,7 @@ tags:
   - Rules
   - New-Rules
 ---
-There’s only one thing more valuable than [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/Rupees/Rupees|money]]–free time. If that time is spent having fun, accompanying your family, working on yourself, or… well, getting more money, is up to the individual.
+There’s only one thing more valuable than [[Rupees|Rupee]]–free time. If that time is spent having fun, accompanying your family, working on yourself, or… well, getting more money, is up to the individual.
 
 Downtime represents these moments when the focus is away, and when the [[PC|PCs]] are not on adventures, allowing themselves to continue their life–mostly–normally. Just like Rupees, Downtime is something of a currency that can be spent on certain things–by a [[Character|Character]] deciding what to do with their Downtime. For example, a Character with Downtime might work their job to get Rupees, if that be foraging in the wilderness using the [[Survival]] [[Skills|Skill]], boring guard duty with the [[Vigilance]] Skill, or [[Item Creation|crafting]] new [[Weapons]] as a blacksmith with the [[Craftsmanship|Craftsmanship]] Skill. They might also spend it doing various off-screen activities, such as training, that grant bonuses, such as increased [[Experience Points]]. They may investigate leads from the main adventure, or, essentially anything the Player can imagine.
 

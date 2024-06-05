@@ -75,4 +75,4 @@ Finally, this Wiki uses artwork from various places on the internet, often by ex
 
 
 
-I’d also like to thank, of course, [[RPGSessions]]—if I haven’t mentioned them enough already! Their website is extremely useful, and probably the best online resource for Genesys.
+I’d also like to thank, of course, [[RPGSessions]]—if I haven’t mentioned them enough already! Their website is extremely useful, and probably the best online resource for Genesys. Particularly, the people of the RPGSessions Discord Server, who were very helpful in talking with me about ideas or mechanical concepts. A few of the Talents in Echoes of the Departed are directly inspired by conversations I had with them, particularly Dallas, who is a developer for RPGSessions. They’re great people!

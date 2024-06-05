@@ -8,4 +8,4 @@ Special - Resist Shock is a [[Modifiers|Modifier]] used in [[Item Creation#Creat
 Active: No
 Stacks: Yes
 Limit: None
-This [[Modifier|Modifier]] requires a new discovery called rubber, allowing the [[Armor|Armor]] to dissipate [[Shock (Modifier)|electricity]] that made contact with it harmlessly.
+This [[Modifiers|Modifier]] requires a new discovery called rubber, allowing the [[Armor|Armor]] to dissipate [[Shock (Modifier)|electricity]] that made contact with it harmlessly.

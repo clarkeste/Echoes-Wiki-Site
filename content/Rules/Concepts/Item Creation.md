@@ -10,7 +10,7 @@ tags:
 ---
 To see a simpler version of Item Creation that is used when constructing Items such as simple equipment or artwork, see [[Simple Item Creation]].
 
-Craftsman and Blacksmith make various different things, specializing in different fields; toys, horseshoes, arrow-heads, replaceable parts–the options are endless, and can all be an excellent source of [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/Rupees/Rupees|income]]. However, one process is particularly complex, and sought-after in these times of Civil War: designing and forging [[Weapons]] and [[Armor]].
+Craftsman and Blacksmith make various different things, specializing in different fields; toys, horseshoes, arrow-heads, replaceable parts–the options are endless, and can all be an excellent source of [[Rupees|income]]. However, one process is particularly complex, and sought-after in these times of Civil War: designing and forging [[Weapons]] and [[Armor]].
 
 Because of that, many individuals make their living selling weapons, construct them for personal use, or design entirely new ones–either for their designs to be sold to the Guilds, or simply to make a one-of-a-kind sword. Making any of these more complex Items is similar in process to the Point-Buy System used in other [[Point-Buy Systems|Creation mechanics]], allowing you to flex your creative muscles.
 

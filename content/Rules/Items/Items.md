@@ -35,7 +35,7 @@ In order of left-to-right and top-to-bottom:
 - [[Damage|Damage]]: This refers to how much Damage the weapon does. Copy this value from wherever you purchased the weapon.
 - Adds [[Brawn|Brawn]]: Only tick this box if the weapon you are purchasing has a + next to its Damage value, such as “+3”. It adds Brawn to the Damage listed.
 - Other Details: Any details you would like to insert.
-- Cost: The price of the weapon, in [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/Rupees/Rupees|Rupees]]. This can be left blank.
+- Cost: The price of the weapon, in [[Rupees|Rupees]]. This can be left blank.
 - [[Encumbrance|Encumbrance]]: The Encumbrance value of your weapon. Copy this value from wherever you purchased the weapon.
 - Crit: The [[Critical Rating|Critical Rating]] of the weapon. Copy this value from wherever you purchased the weapon.
 - Range: The maximum [[Range Bands|Range]] of the Weapon. Select the Range Band listed for the weapon from wherever you purchased it.

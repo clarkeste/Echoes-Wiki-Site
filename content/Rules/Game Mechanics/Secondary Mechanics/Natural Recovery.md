@@ -1,6 +1,7 @@
 ---
 aliases:
   - heal naturally
+  - heal
 ---
 [[Strain|Strain]], [[Wounds|Wounds]], and sometimes even [[Critical Injury|Critical Injuries]] heal naturally over time. While it can be slow and unideal, it is useful in that it is the only way to heal without a [[Medicine|Check]], or an [[Items|Item]], such as a Healing [[Potion Creation|Potion]].
 

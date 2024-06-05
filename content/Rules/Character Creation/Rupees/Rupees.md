@@ -3,6 +3,7 @@ aliases:
   - income
   - Rupees
   - money
+  - Rupee
 tags:
   - Characters
   - Rules

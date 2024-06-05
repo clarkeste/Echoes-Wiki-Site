@@ -20,7 +20,7 @@ In [[RPGSessions|RPGSessions]], to make a Critical Injury roll, navigate to the 
 
 ![](https://i.imgur.com/JV84g6X.png)
 
-After opening their sheet, scroll down until you see the “Critical Injury” section right after [[Encumbrance|Encumbrance]], [[Experience Points|XP]], and [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Character Creation/Rupees/Rupees|Money]].
+After opening their sheet, scroll down until you see the “Critical Injury” section right after [[Encumbrance|Encumbrance]], [[Experience Points|XP]], and [[Rupees|Rupee]].
 
 ![](https://i.imgur.com/3SmNmph.png)
 

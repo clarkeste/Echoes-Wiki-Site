@@ -3,6 +3,7 @@ aliases:
   - Attack checks
   - Combat Checks
   - Attack Check
+  - Combat Check
   - Attacking
   - attacked
   - attacks

@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Email: "mailto:Clarkesteban1@gmail.com",
       "Discord Community": "https://discord.gg/Hgf6b482RE",
+      'Credits & Thanks': "https://echoes-wiki-site.vercel.app/Genesys/Credits-and-Special-Thanks"
     },
   }),
 }
@@ -17,19 +18,19 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Breadcrumbs(),
+    Component.ContentMeta(),
+    Component.Darkmode(),
     Component.Backlinks(),
   ],
 }
@@ -41,8 +42,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [],
+  right: [
+    Component.Darkmode(),
+  ],
 }
