@@ -2,7 +2,6 @@
 tags:
   - -Talent-Active
   - -Talent-Knowledge-Oriented
-  - -Talent-Utility
   - _Tier-2
   - -Talent-Ranked
 ---

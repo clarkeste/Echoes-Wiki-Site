@@ -2,7 +2,7 @@
 tags:
   - _Tier-2
   - -Talent-Passive
-  - Talent-Strain-Recovering
+  - -Talent-Strain-Recovering
   - -Talent-Combat-Oriented
 ---
 **Tier:** 2

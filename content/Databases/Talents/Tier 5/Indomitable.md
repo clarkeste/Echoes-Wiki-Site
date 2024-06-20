@@ -2,7 +2,7 @@
 tags:
   - _Tier-5
   - -Talent-Active
-  - Talent-Strain-Recovering
+  - -Talent-Strain-Recovering
   - -Talent-Wounds
   - -Talent-Defense
 ---

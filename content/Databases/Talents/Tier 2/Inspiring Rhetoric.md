@@ -2,7 +2,7 @@
 tags:
   - _Tier-2
   - -Talent-Active
-  - Talent-Strain-Recovering
+  - -Talent-Strain-Recovering
   - -Talent-Social-Oriented
   - -Talent-Combat-Oriented
   - -Talent-Tactics-and-Leadership

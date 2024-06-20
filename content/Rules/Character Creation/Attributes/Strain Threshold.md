@@ -11,4 +11,4 @@ The [[Strain Threshold|Strain Threshold]] represents how much physical and menta
 
 ![](https://i.imgur.com/9bCQmcT.png)
 
-The Strain Threshold is determined by various things, such as [[Talents|Talents]] like [[Grit]], which [[Peoples|People]] a character is from, or their [[Willpower|Willpower]] rating.
+The Strain Threshold is determined by various things, such as [[Talents|Talents]] like [[Echoes of the Departed/Wiki Stuff/Game Wiki/Databases/Talents/Tier 1/Grit]], which [[Peoples|People]] a character is from, or their [[Willpower|Willpower]] rating.

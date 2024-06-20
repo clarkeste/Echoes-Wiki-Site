@@ -3,6 +3,7 @@ aliases:
   - person of medicine
   - Medicine Check
   - Medicine
+  - Medical
   - Check
 tags:
   - Rules

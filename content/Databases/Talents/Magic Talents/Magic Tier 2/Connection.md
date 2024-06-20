@@ -2,7 +2,6 @@
 tags:
   - -Talent-Spells
   - -Talent-Active
-  - -Talent-Utility
   - -Talent-Positioning
 ---
 **Tier:** 2

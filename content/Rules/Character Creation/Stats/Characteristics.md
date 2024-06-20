@@ -14,7 +14,7 @@ Upgrading a Characteristic costs x10 the number it is being upgraded to. Upgradi
 
 Characteristics are harder to upgrade after [[Character Creation Guide|Character Creation]], so it’s suggested that you spend as much of your starting Experience Point on them as possible. Look at what Skills you plan to use the most, and what Characteristics they’re tied to, so you can focus on the right Characteristics.
 
-Characteristics, after Character Creation, cannot be upgraded in the way above. Instead, it can only be upgraded when the [[Dedication]] Talent is purchased.
+Characteristics, after Character Creation, cannot be upgraded in the way above. Instead, it can only be upgraded when the [[Echoes of the Departed/Wiki Stuff/Game Wiki/Databases/Talents/Tier 5/Dedication]] Talent is purchased.
 
 The Characteristics are: 
 - [[Brawn|Brawn]] 

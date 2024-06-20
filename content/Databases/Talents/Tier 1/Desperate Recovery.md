@@ -2,7 +2,7 @@
 tags:
   - _Tier-1
   - -Talent-Passive
-  - Talent-Strain-Recovering
+  - -Talent-Strain-Recovering
   - -Talent-Utility
 ---
 **Tier:** 1

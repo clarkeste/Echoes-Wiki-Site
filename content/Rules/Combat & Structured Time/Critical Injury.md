@@ -13,7 +13,7 @@ tags:
 ---
 Critical Injuries are serious, lasting pains that your [[Character|Character]] suffers, often from [[Critical Hit|Critical Hits]]. They rarely [[Natural Recovery|heal naturally]], and can lead to persistent disabilities if not remedied.
 
-When a Critical Injury is inflicted, the character affected rolls a d100–a one-hundred sided die. The results are then modified by multitudes of +10 or -10 depending on various criteria. These include [[Talents|Talents]] like [[Killing You|Killing You]], [[Qualities|Qualities]] like [[Vicious (Passive) (Quality)|Vicious]], or previous Critical Injuries, each previous Injury adding +10.
+When a Critical Injury is inflicted, the character affected rolls a d100–a one-hundred sided die. The results are then modified by multitudes of +10 or -10 depending on various criteria. These include [[Talents|Talents]] like [[Echoes of the Departed/Wiki Stuff/Game Wiki/Databases/Talents/Tier 4/Killing You|Killing You]], [[Qualities|Qualities]] like [[Vicious (Passive) (Quality)|Vicious]], or previous Critical Injuries, each previous Injury adding +10.
 
 The final number determines what Critical Injury you received, according to the table of results. This can vary from a mild jolt, to a major injury, to death in extreme cases.
 

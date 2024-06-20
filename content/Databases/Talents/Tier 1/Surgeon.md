@@ -3,7 +3,7 @@ tags:
   - _Tier-1
   - -Talent-Passive
   - -Talent-Medical
-  - Talent-Strain-Recovering
+  - -Talent-Strain-Recovering
   - -Talent-Ranked
 ---
 **Tier:** 1 

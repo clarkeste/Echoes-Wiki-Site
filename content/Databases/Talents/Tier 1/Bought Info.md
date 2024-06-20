@@ -2,8 +2,6 @@
 tags:
   - _Tier-1
   - -Talent-Active
-  - -Talent-Utility
-  - -Talent-Shopping
   - -Talent-Passive
 ---
 **Tier:** 1

@@ -15,7 +15,7 @@ There will be some situations where a Character is present, but their Player is 
 
 While Echoes of the Departed takes various measures to try and make sure that one Player’s busyness doesn’t slow down other Players, a certain amount of it is unavoidable. Likewise, it is entirely unreasonable to expect for a Player to be online during all turns. 
 
-For example, if a Character has the [[Dodge|Dodge Talent]], they have an option when attacked on the turn of another Character. They can use the Talent to increase their chance of avoiding Damage. However, it is clearly not reasonable to expect a Player to be there during the turn of an [[Adversary]].
+For example, if a Character has the [[Echoes of the Departed/Wiki Stuff/Game Wiki/Databases/Talents/Tier 2/Dodge|Dodge Talent]], they have an option when attacked on the turn of another Character. They can use the Talent to increase their chance of avoiding Damage. However, it is clearly not reasonable to expect a Player to be there during the turn of an [[Adversary]].
 
 In cases like that, it’s encouraged for a Player to say whether they want to use these powers or not during their turn. For instance, a Player with Dodge could say: “Also, if anybody attacks me, I’d like to use all my ranks in Dodge. But only for the first two [[Attack Check|attacks]]. I don’t think I have enough [[Strain]] to do it more than twice”.
 

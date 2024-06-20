@@ -5,6 +5,11 @@ tags:
   - Characters
   - Guide
 ---
+Welcome to the Character Creation Guide. This will guide you through the process of making a new [[Characteristics|Characteristic]] in the [[Echoes of the Departed|Legend of Zelda: Echoes of the Departed]].
+## Where do I make my Character?
+[On this website!](https://www.rpgsessions.com/) It is convenient, pleasing to look at, and it automates a lot of the finer details. It’s called [[RPGSessions]]. To get started, pick a [[Peoples|People]] and go its template sheet and copy it. That’ll be your starting template.
+
+If you mean where to get a character image or appearance, essentially any source is fine, including simply googling images until you find one you like. However, it’s usually recommended to use an image that’s actually a piece of artwork as opposed to something like a game screenshot. You’re going to see your character icon a lot–it might as well look good.
 # Steps
 
 ## Step 1 - Select a People
@@ -38,8 +43,3 @@ Current +XP for New Characters: 0
 
 ## Step 8 - Send Character to the GM!
 Once your Character Sheet is complete and done–on [[RPGSessions]], preferably–then send it over to me! I’ll take a look at it, maybe ask a few questions about the story or where XP was spent, and then I’ll approve it! Then, you’re ready to play.
-
-## Where do I make my Character?
-[On this website!](https://www.rpgsessions.com/) It is convenient, pleasing to look at, and it automates a lot of the finer details. It’s called [[RPGSessions]]. To get started, pick a [[Peoples|People]] and go its template sheet and copy it. That’ll be your starting template.
-
-If you mean where to get a character image or appearance, essentially any source is fine, including simply googling images until you find one you like. However, it’s usually recommended to use an image that’s actually a piece of artwork as opposed to something like a game screenshot. You’re going to see your character icon a lot–it might as well look good.

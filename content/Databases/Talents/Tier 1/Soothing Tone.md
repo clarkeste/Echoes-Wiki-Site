@@ -3,7 +3,7 @@ tags:
   - _Tier-1
   - -Talent-Active
   - -Talent-Mounts
-  - Talent-Strain-Recovering
+  - -Talent-Strain-Recovering
 ---
 **Tier:** 1 
 **Activation:** Active (Action) 

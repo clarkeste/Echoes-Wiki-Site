@@ -3,7 +3,7 @@ tags:
   - -Talent-Spells
   - -Talent-Passive
   - -Talent-Downtime
-  - Talent-Strain-Recovering
+  - -Talent-Strain-Recovering
   - -Talent-Ranked
 ---
 **Tier:** 1
