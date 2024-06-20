@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Limited Ammo Quality
   - Limited Ammo
 tags:
   - Rules

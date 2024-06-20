@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Status Effect
   - effect
 tags:
   - Rules

@@ -11,7 +11,7 @@ Strain is the stamina system of [[Echoes of the Departed|Echoes of the Departed]
 
 ![](https://i.imgur.com/hHZ03Ux.png)
 
-Strain starts at zero. It has a [[Strain Threshold|Threshold]], which represents the amount of exertion one can take. If the current amount of Strain ever exceeds the Strain Threshold, the [[Character|Character]] will fall unconscious due to exhaustion, thereby being [[Incapacitated]]. The Strain Threshold is determined by various things, such as the [[Willpower|Willpower]] [[Characteristics|Characteristic]], the [[Peoples|People]] your character belongs to, and [[Talents|Talents]] such as [[Grit|Grit]].
+Strain starts at zero. It has a [[Strain Threshold|Threshold]], which represents the amount of exertion one can take. If the current amount of Strain ever exceeds the Strain Threshold, the [[Character|Character]] will fall unconscious due to exhaustion, thereby being [[Incapacitated]]. The Strain Threshold is determined by various things, such as the [[Willpower|Willpower]] [[Characteristics|Characteristic]], the [[Peoples|People]] your character belongs to, and [[Talents|Talents]] such as [[Grit]].
 
 To modify the amount of Strain you are suffering from, such as when you heal it or push yourself further, navigate to your [[Character Sheet|Character Sheet]].
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Malice (Modifier)
+  - Malice Modifier
   - Malice
 tags:
   - Rules

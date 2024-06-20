@@ -48,7 +48,7 @@ The month Pikorie is named after stories of a fantastical creature from many cen
 Remori is the tenth month, its name literally meaning ‘tenth jurisdiction’ in old Hyrulean.
 
 11 - Asinober
-Asinober, literally meaning ‘Cold 11th’, is a month notable due to it being the time of the Festival of the Flood.
+Asinober, literally meaning ‘Cold Month’, is a month notable due to it being the time of the Festival of the Flood.
 
 12 - Yila
 Yila, its name origins likely being some synonym of "colder" in ancient Hyrulean, is the final month of Autumn.

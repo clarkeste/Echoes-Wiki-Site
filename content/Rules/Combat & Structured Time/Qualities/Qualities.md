@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Item Quality
   - Qualities
   - Quality
 tags:

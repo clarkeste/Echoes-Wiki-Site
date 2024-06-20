@@ -2,6 +2,12 @@
 aliases:
   - Modifiers
   - Modifier
+tags:
+  - Rules
+  - Item-Creation
+  - Spell-Creation
+  - Potion-Creation
+  - New-Rules
 ---
 Refers to the game mechanic used in [[Items|Item]], [[Potion Creation|Potion]], and [[Spell Creation|Spell Creation]]. Not to be confused with the [[Modifiers (RPGSessions)|Modifiers system in RPGSessions]].
 

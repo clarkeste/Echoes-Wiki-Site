@@ -2,6 +2,8 @@
 tags:
   - Rules
   - Spell-Creation
+aliases:
+  - Dispelling
 ---
 To Dispel or remove a Spell effect cast by another [[Character]], may make an opposed check against the [[Force]] [[Dice Pool]] of the opposing Spellcaster. This can be used to stop someone’s [[Prophecy]]-fueled vision, cut off an attempt at [[Telepathy]], stop someone from keeping someone else in place with [[Manipulate]], removing an [[Endow|Endowment]], or many others. Its default [[Range Bands|Range]] is [[Short Range|Short]].
 

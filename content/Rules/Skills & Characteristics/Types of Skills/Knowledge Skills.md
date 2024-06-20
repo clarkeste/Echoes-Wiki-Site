@@ -2,6 +2,7 @@
 aliases:
   - Knowledge Skills
   - Knowledge Skill
+  - Knowledge
 tags:
   - Rules
   - Stats
@@ -11,8 +12,8 @@ Knowledge Skills are a specialized category of [[Skills|Skill]] that are used wh
 
 There are four Knowledge Skills, each encompassing a different category of information.
 
-- [[Knowledge Skills|Knowledge: Legends]] (Intellect)
+- [[Knowledge - Legends|Knowledge: Legends]] (Intellect)
 - [[Knowledge - Scholarship|Knowledge: Scholarship]] (Intellect)
-- [[Knowledge Skills|Knowledge: Warfare]] (Intellect)
-- [[Knowledge Skills|Knowledge: World]] (Intellect)
+- [[Knowledge - Warfare|Knowledge: Warfare]] (Intellect)
+- [[Knowledge - World|Knowledge: World]] (Intellect)
 

@@ -9,5 +9,5 @@ This is a [[Knowledge Skills|Knowledge Skill]] governing a character's knowledge
 
 It is used in rolls regarding:
 - Historical battles and their tactics
-- Determining the best tactics for mass combat
-- Predicting the next turn of an [[Adversary|enemy]].
+- Determining the best tactics for [[Mass Combat]]
+- Predicting the next turn of an [[Adversary|enemy]] during [[Combat]]

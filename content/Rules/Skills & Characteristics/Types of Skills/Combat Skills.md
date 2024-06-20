@@ -3,6 +3,7 @@ aliases:
   - Combat Skills
   - "Combat Skill "
   - Combat Skill
+  - Combat
 tags:
   - Rules
   - Stats

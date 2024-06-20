@@ -20,3 +20,8 @@ Such as peeking around a corner, grabbing onto an ally, or dropping a currently 
 [[Sacred Points|Sacred Points]] can be used to activate any [[Weapons|Weapon]] [[Qualities|Quality]] on a successful [[Attack Check|Check]]. Additionally, it can be used to add things to the environment if the GM agrees and it is logical. It can also be used to gain a hint, or to upgrade any check at all, including [[Attack Check|Attacks]].
 
 Additionally, if a Check generates no [[Success|Successes]] but has no secondary symbol, such as [[Threat|Threat]], [[Advantage|Advantage]], [[Triumph|Triumph]], or [[Despair|Despair]], a [[Player|Player]] may spend a Sacred Point to add a Triumph to the roll. The [[The GM|GM]] may also spend a point to add a Despair.
+
+### Facing
+On your turn, you may use an Incidental to establish which direction your [[Character]] is facing. This is often unnecessary, but can be useful when determining which directions your character can be [[Flanking|Flanked]] from.
+
+Keep in mind that the direction a Character is facing is not absolute. If they are [[Engaged Range|Engaged]] in battle with another Character and that Character moves, it can be assumed that their gaze follows the other combatant, for instance.

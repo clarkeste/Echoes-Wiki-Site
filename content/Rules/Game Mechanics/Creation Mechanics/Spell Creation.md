@@ -1,6 +1,7 @@
 ---
 aliases:
   - Spell Creation
+  - Base Power
   - Spell’s
   - Spells
   - Spell

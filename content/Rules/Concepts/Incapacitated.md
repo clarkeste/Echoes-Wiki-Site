@@ -1,6 +1,7 @@
 ---
 aliases:
   - incapacitated
+  - incapacitates
   - unconscious
 tags:
   - Rules

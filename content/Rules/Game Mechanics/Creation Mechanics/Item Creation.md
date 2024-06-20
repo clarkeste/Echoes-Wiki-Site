@@ -1,7 +1,9 @@
 ---
 aliases:
   - Item Creation
+  - construct
   - crafting
+  - Check
   - Item
 tags:
   - Rules

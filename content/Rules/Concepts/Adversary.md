@@ -4,6 +4,7 @@ aliases:
   - Adversaries
   - Bokoblins
   - adversary
+  - opponent
   - Nemesis
   - Enemies
   - target

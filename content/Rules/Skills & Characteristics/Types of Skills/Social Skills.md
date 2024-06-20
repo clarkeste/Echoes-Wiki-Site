@@ -3,6 +3,7 @@ aliases:
   - Social Skills
   - Social Skill
   - Social
+  - Check
 tags:
   - Rules
   - Stats

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Narrative Dice
+  - symbols
   - Dice
 tags:
   - Rules

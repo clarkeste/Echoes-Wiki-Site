@@ -1,5 +1,6 @@
 ---
 aliases:
+  - "Setback Dice "
   - Setback Dice
   - "Setback Die "
   - Setback die

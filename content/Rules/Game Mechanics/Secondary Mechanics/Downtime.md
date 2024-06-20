@@ -1,5 +1,6 @@
 ---
 aliases:
+  - half the time
   - Downtime
 tags:
   - Rules

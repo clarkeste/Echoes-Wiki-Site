@@ -6,7 +6,6 @@ tags:
   - Combat
   - Options
   - Qualities
-  - New-Rules
 ---
 Not to be confused with [[Ensnare (Modifier)|Ensnare (Modifier)]].
 

@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Points in Power
   - Enemies
   - Virtue
 tags:

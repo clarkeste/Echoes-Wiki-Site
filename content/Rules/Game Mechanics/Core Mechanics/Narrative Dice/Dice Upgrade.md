@@ -2,6 +2,8 @@
 aliases:
   - Upgrading
   - Upgrades
+  - upgraded
+  - upgrade
 tags:
   - Rules
   - Difficulty

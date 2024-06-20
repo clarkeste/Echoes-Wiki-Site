@@ -1,5 +1,6 @@
 ---
 aliases:
+  - " Long Range"
   - Long Range
   - Long
 tags:

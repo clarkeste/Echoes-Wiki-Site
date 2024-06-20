@@ -1,6 +1,8 @@
 ---
 aliases:
   - Social checks
+  - Social Check
+  - Social Chec
 tags:
   - Rules
   - Dice

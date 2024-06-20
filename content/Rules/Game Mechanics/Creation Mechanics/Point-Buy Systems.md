@@ -2,6 +2,7 @@
 aliases:
   - Creation mechanics
   - Point-Buy System
+  - Creation
 tags:
   - Rules
   - Spell-Creation

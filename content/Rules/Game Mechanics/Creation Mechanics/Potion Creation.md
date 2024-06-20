@@ -1,6 +1,7 @@
 ---
 aliases:
   - Potion Creation
+  - Dish or Potion
   - Potions
   - Potion
 tags:
