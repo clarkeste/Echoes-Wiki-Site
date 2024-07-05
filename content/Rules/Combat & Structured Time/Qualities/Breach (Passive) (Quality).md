@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Prepare
   - Breach
 tags:
   - Rules

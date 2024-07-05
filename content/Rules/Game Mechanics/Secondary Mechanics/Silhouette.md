@@ -23,7 +23,7 @@ A target’s Silhouette can impact the [[Attack Check]] [[Difficulty]]. When tar
 
 Likewise, when a [[Character]] is attacking a target that is 2 Silhouette Points *smaller* than them, the Difficulty is reduced by 1. The Difficulty decreases for each point beyond 2 that the Silhouette Point of the target is lower.
 
-Additionally, in [[Ship Combat|Ship Combat]], Silhouette is the main way of determining [[Difficulty]], as opposed to [[Range Bands|Range]].
+Additionally, in [[Ship Combat, and Vehicles|Ship Combat]], Silhouette is the main way of determining [[Difficulty]], as opposed to [[Range Bands|Range]].
 
 
 To learn more, see page 109 of the [[Genesys Core Rulebook|Genesys Core Rulebook.]]

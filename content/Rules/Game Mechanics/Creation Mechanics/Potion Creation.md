@@ -3,7 +3,9 @@ aliases:
   - Potion Creation
   - Dish or Potion
   - Potions
+  - alchemy
   - Potion
+  - cook
 tags:
   - Rules
   - Potion-Creation

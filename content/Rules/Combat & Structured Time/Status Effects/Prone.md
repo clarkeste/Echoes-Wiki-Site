@@ -1,6 +1,7 @@
 ---
 aliases:
   - knock a Character down
+  - knocking down
   - falls over
   - Prone
 tags:

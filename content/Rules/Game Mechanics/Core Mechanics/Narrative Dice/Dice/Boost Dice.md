@@ -1,5 +1,7 @@
 ---
 aliases:
+  - "Boost Dice "
+  - Boost Dice
   - Boost Die
   - Boosts
   - Boost

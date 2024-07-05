@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Melee (Light)
   - Melee-Light
   - Melee
 tags:

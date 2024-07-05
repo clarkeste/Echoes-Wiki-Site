@@ -2,6 +2,7 @@
 aliases:
   - Artillery Quality
   - Artillery
+  - Linked
 tags:
   - Rules
   - Combat

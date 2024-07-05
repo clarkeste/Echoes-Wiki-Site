@@ -115,16 +115,3 @@ Autumn is Pikorie to Yila, lasting four months. It is when things cool down, as 
 
 Winter
 Winter is Groosinober to Lenaya, lasting three months. In this season, the weather grows very cold in most parts of Hyrule and snow begins to fall. With traveling becoming harder at Winter, many huddle at home.
-
-
-
-
-
-
-
-
-
-
-
-
-This is a [[Hyrule Historia]] article.

@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Immobilizing
   - Immobilized
   - Immobilize
 tags:

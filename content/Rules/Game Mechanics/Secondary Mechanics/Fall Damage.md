@@ -1,6 +1,7 @@
 ---
 aliases:
   - damage from a fall
+  - falling
 tags:
   - Rules
 ---

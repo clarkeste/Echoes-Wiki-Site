@@ -1,6 +1,7 @@
 ---
 aliases:
   - Reinforced (Modifier)
+  - Reinforced
 ---
 Accurate is a [[Modifiers|Modifier]] used in [[Item Creation]]. It is based off the [[Reinforced (Passive) (Quality)|Reinforced Quality]].
 

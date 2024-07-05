@@ -38,7 +38,7 @@ If in [[Engaged Range|Engaged Range]] of a target, may take the Shove Maneuver. 
 May spend a Maneuver to take a Guarded Stance; all [[Attack Check|Attack Checks]] targeting the [[Character|Character]] using Guarded Stance add a [[Setback Dice|Setback]] until the beginning of the Character’s next turn.
 
 ### Assist
-A [[Character|Character]] may use a [[Maneuvers|Maneuver]] to help an ally; for example, by helping to steady their bow, or handing them the tools needed to repair a boat. Often adds a [[Boost Dice|Boost]] to the check, but may sometimes add more if the help is particularly skilled.
+A [[Character|Character]] may use a [[Maneuvers|Maneuver]] to [[Assistance|assist]] an ally; for example, by helping to steady their bow, or handing them the tools needed to repair a boat. Often adds a [[Boost Dice|Boost]] to the check, but may sometimes add more if the help is particularly skilled.
 
 ### Simple Interaction
 Interactions that are too minor to warrant an [[Actions|Action]], such as opening a door, or jumping over a gap. 

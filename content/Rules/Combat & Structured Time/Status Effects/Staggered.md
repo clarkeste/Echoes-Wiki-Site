@@ -1,5 +1,6 @@
 ---
 aliases:
+  - staggering
   - Staggered
 tags:
   - Rules

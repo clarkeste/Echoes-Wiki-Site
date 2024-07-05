@@ -85,7 +85,7 @@ These are Talents that are Ranked; ie, Talents that can be purchased multiple ti
 Talents that involve Setbacks or Boosts; usually these refer Setbacks, add Setbacks to enemies, or add Boosts in certain situations.
 
 #### #-Talent-Ship
-These are Talents that are directly related to the [[Ship Combat|Ship]] mechanics. They have significant overlap with the aforementioned Mount category.
+These are Talents that are directly related to the [[Ship Combat, and Vehicles|Ship]] mechanics. They have significant overlap with the aforementioned Mount category.
 
 #### #-Talent-Sneaky
 Talents that help when committing, well, sneaky activities. This can include stealing, staying out of sight, or most underhanded things in that vein.

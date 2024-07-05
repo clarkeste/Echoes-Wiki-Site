@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Desperate Strength (Modifier)
   - Desperate Strength
 tags:
   - Rules

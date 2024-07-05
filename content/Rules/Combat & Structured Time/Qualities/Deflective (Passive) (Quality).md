@@ -1,6 +1,9 @@
 ---
 aliases:
+  - " Deflection"
   - Deflective
+  - Deflection
+  - Deflect
 tags:
   - Rules
   - Combat

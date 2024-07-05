@@ -1,5 +1,6 @@
 ---
 aliases:
+  - disorienting
   - Disoriented
   - Disorient
 tags:

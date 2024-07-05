@@ -27,7 +27,7 @@ A difference between Item Creation and [[Spell Creation|Spell Creation]] are the
 Most Modifiers do not require any additional Parts; Accurate, for example, reflects on the finesse of the design and skill of the craftsman, whereas Concussive is more related to the purpose of the design and the blunt force it can exert. Neither would require additional materials. A Modifier like Burn, however, does require special Parts. For example, a Ruby or a suitable alternative would be needed to make a Firesword with Burn. Anything flies so long as you can logically explain or justify why the weapon has it and how it works, along with GM approval. 
 
 ### Workbench
-To actually Craft an item, you will need some Smithy’s Tools. A portable version can be bought, but this will often incur a decrease in Crafting Points while working at it. A full-sized bench, such as those found in Workshops or Blacksmith establishments, will incur no debuff. Additionally, higher-quality Workstations can increase the amount of Crafting Points available, but this is rare.
+To actually Craft an item, you will need a Workstation. A [[Smithy's Tools|portable version]] can be bought, but this will often incur a decrease in Crafting Points while working at it. A full-sized bench, such as those found in Workshops or Blacksmith establishments, will incur no debuff. Additionally, higher-quality Workstations can increase the amount of Crafting Points available, but this is rare.
 
 ### Making the Check
 It takes Days of [[Downtime|Downtime]] equal to the Crafting Points used, to complete the weapon. [[Advantage|Advantage]] or [[Threat|Threat]] may speed up or slow down the process respectively. Once that Downtime is up, it's time to make the [[Skill Checks|Check]].
@@ -67,7 +67,7 @@ Once an item is made, you may make a Template from it by making an [[Operating|O
 - [[Deflective (Modifier)|Deflective]] (3)
 - [[Desperate Strength (Modifier)|Desperate Strength]] (4)
 - [[Disorient (Modifier)|Disorient]] (1)
-- [[Empowered Flanking|Empowered Flanking]] (7)
+- [[Empowered Flanking (Modifier)|Empowered Flanking]] (7)
 - [[Ensnare (Active) (Quality)|Ensnare]] (2)
 - [[Guided (Modifier)|Guided]] (6)
 - [[Increase Damage (Modifier)|Increase Damage]] (3)

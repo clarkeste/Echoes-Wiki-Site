@@ -19,6 +19,6 @@ When 1 point over your Encumbrance Threshold, you no longer gain a free [[Maneuv
 
 When 4 points over your Encumbrance Threshold, every few minutes when in a stressing situation or every Round in [[Combat|Combat]], roll a d4. If the roll is a one, your Character [[Prone|falls over]] due to the weight.
 
-When 5 points over your Encumbrance Threshold, add a [[Despair|Despair]] to every [[Brawn|Brawn]] or [[Agility|Agility]] Vheck.
+When 5 points over your Encumbrance Threshold, add a [[Despair|Despair]] to every [[Brawn|Brawn]] or [[Agility|Agility]] [[Skill Checks|Check]].
 
 When 6 points over your Encumbrance Threshold, you may not take Move Maneuvers in combat.

@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Threats
   - Threat
   - that
 tags:

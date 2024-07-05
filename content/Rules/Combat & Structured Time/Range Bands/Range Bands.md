@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Quick Charge
   - Range Bands
   - Range Band
   - Range

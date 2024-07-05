@@ -1,6 +1,7 @@
 ---
 aliases:
   - Strategic Range
+  - Strategic
 tags:
   - Rules
   - Combat

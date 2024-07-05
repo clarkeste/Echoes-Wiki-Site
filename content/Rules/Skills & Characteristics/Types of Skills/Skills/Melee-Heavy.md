@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Melee (Heavy)
   - Melee-Heavy
 tags:
   - Rules

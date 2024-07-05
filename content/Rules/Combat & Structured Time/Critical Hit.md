@@ -2,6 +2,7 @@
 aliases:
   - Critical Hits
   - Critical Hit
+  - Crit
 tags:
   - Rules
   - Combat

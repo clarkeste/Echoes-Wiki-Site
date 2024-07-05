@@ -9,4 +9,4 @@ tags:
 **Activation:** Passive
 **Ranked:** No
 
-Count a [[Ship Combat|Ship]] this [[Character|Character]] is helming as having a [[Silhouette]] 1 lower when being [[Attack Check|Attacked]].
+Count a [[Ship Combat, and Vehicles|Ship]] this [[Character|Character]] is helming as having a [[Silhouette]] 1 lower when being [[Attack Check|Attacked]].

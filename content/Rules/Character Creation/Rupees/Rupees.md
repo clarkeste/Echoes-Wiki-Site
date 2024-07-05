@@ -40,6 +40,15 @@ It is suggested that at the bottom of the page, in the Notes section, you keep t
 
 Additionally, if you are paid or are carrying money that is not in Rupees, list the amount in the Notes section. When you attempt to spend it or convert it into Rupees, the GM will tell you the exact current conversion rate between the two currencies.
 
+#### Rupees and Rupoors
+Rupees are common gemstones that are said to have some magical power, which was the original reason for their use as currency in eras past. 
+
+It seems there is truth to this, as some items--such as the [[Magic Armor]] crafted by certain artisans--drain Rupees, turning them 'dun'. A dun Rupee is a blank Rupee that has no color. Dun Rupees are worthless, and not accepted as currency, since they can be easily forged and be illegitimate. Additionally, due to their lack of color, their value cannot be determined.
+
+Some Rupees may be so devoid of color that they actively drain the Rupees around them of their own color, turning them dun. These Rupees are, fittingly, called Rupoors. 
+
+Rupees can also be shaken to determine if they are not officially issued by the government, as mining and collecting the gemstones that make up a Rupee, and then attempting to pass it off as legally issued currency is a crime and considered forgery.
+
 #### Adding Currency on Discord
 Use the “.c m +{amount}” command to add or remove money using the [[RPGSessions Bot|RPGSessions Discord bot]]. Simply change the {amount} field to be whichever number you are adding or subtracting. If you wish to subtract, change the + sign to a - sign. Make sure to remove the {brackets} when adding a number value.
 

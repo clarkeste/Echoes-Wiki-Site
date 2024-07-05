@@ -9,3 +9,5 @@ tags:
   - Combat-Modifiers
 ---
 [[Weapons|Weapons]] that have the Clumsy [[Qualities|Quality]] are incapable of targeting [[Adversary|enemies]] behind [[Cover|Cover]] directly; they will have to break the Cover first, or target the ground next to the target and use [[Blast (Active) (Quality)|Blast]] to deal damage.
+
+Alternatively, when using a Weapon with the Clumsy Quality, may instead do a regular [[Attack Check|Attack Check]]. If successful, the target suffers from suppressing fire, and their next [[Skill Checks|Check]] suffers three [[Setback Dice]].

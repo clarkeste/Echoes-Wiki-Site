@@ -3,6 +3,8 @@ tags:
   - Rules
   - Characters
   - New-Rules
+aliases:
+  - Affiliation
 ---
 Different [[Weapons|Weapons]] have different Affiliations. Weapons with a certain Affiliation can only be purchased at [[Character Creation Guide|Character Creation]] if the [[Character|Character]] doing the purchasing is related to that Affiliation, as determined by the [[The GM|GM]]. 
 
