@@ -28,5 +28,3 @@ The game has a focus on providing interesting tactical situations in Combat, par
 To interact with the world, a [[Player]] needs a [[Character|Character]]. A Character is a vessel for the story that the Player interacts with and influences. Just like a character in a book or movie, should have depth, motivations, flaws and goals. A Character also has Skills and other stats that are used to interact with the world.
 
 [[Character Creation Guide|Read the Character Creation article here.]] Make sure to have fun, and feel free to consult with the bots in the Discord server, or the GM, to make a character you will enjoy playing.
-
-blargh
