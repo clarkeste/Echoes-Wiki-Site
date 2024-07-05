@@ -14,5 +14,5 @@ While many of the rules of Genesys have been modified, removed, or added, it is 
 
 To read more about Genesys, check out the description from its publisher, Fantasy Flight Games, [at this link here.](https://www.fantasyflightgames.com/en/products/genesys/) 
 
-Keep in mind the digital purchase link seems to be broken for some reason. Corporate incompetence, honestly; the game was sold to a new company called Edge Studio and now it’s under their name, and nobody bothered to update the link.
+It seems like the game was sold to a new company called Edge Studio and now it’s under their name, and nobody bothered to update the link.
 
