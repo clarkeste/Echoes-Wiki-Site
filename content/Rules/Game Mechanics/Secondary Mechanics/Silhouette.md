@@ -11,19 +11,19 @@ tags:
 What follows is a description of what each Silhouette rating represents:
 - Silhouette 0: Anything smaller than an adult [[Hylians|Hylian]]. Is used for children, or held [[Items|Items]], such as Swords or [[Shields|Shields]].
 - Silhouette 1: Something about the size of an adult Hylian, such as a donkey. Most [[Character|Characters]] will fit smoothly into this range. About two meters in any direction.
-- Silhouette 2: Larger beings, such as horses, Moblins, or [[Gorons]]]. About five meters in any direction.
+- Silhouette 2: Larger beings, such as horses, Moblins, or [[Gorons]]. About five meters in any direction.
 - Silhouette 3: Vehicles, small boats, objects, or frightening [[Adversary|Adversaries]] of a significant size; A Carriage, Sailboat, or Hinox. About ten meters in any direction.
 - Silhouette 4: A boat, or a particularly daunting animal like a Molduga. A Sloop, Schooner, or otherwise two-masted ship. About twenty meters in any direction.
 - Silhouette 5: A smaller fighting ship, like a Brigantine or light frigate, or a small fortress. About forty meters in any direction.
 - Silhouette 6: A Ship-of-the Line, large warships, Steam cruisers, or an absolutely titanic beast, about 80 meters in any given direction.
-- Silhouette 7: Only the largest battleships, like Steelclads over a hundred meters long—like those produced by Holodrum—fit this category.
+- Silhouette 7: Only the largest battleships, like Steelclads over a hundred meters long fit this category.
 - Silhouette 8: What could possibly be this size? Why, it would have to be several hundred meters across at least….
 
 A target’s Silhouette can impact the [[Attack Check]] [[Difficulty]]. When targeting a [[Character]] that is two Silhouette ratings higher than the active Character (ie, if a [[Hylians|Hylian]] is attacking a Hinox), the Difficulty is reduced by 1. For each Silhouette Point difference beyond 1, decrease the Difficulty 1, meaning that a [[Difficulty Dice|Difficulty Die]] is removed.
 
 Likewise, when a [[Character]] is attacking a target that is 2 Silhouette Points *smaller* than them, the Difficulty is reduced by 1. The Difficulty decreases for each point beyond 2 that the Silhouette Point of the target is lower.
 
-Additionally, in [[Ship Combat, and Vehicles|Ship Combat]], Silhouette is the main way of determining [[Difficulty]], as opposed to [[Range Bands|Range]].
+In [[Ship Combat, and Vehicles|Ship Combat]], Silhouettes play a much more significant role, as variance in the size of targets and Ships are much more significant than in most other types of [[Combat]].
 
 
 To learn more, see page 109 of the [[Genesys Core Rulebook|Genesys Core Rulebook.]]

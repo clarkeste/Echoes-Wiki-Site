@@ -20,10 +20,8 @@ But today, Hylians are as divided as their nation. Brother against brother, son 
 
 
 
-
-
 ### Playing a Hylian
 [Here is the template to make a Hylian Character!](https://app.rpgsessions.com/char/nds/6424f8f9a3cc88d04e2608aa) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit “clone” so you can start making your own [[Character]] using this template.
 
 #### Abilities
-**Flexible**: Add one [[Skills|Skill]] Rank in any two Non-[[Career Skills|Career Skills]].
+**Well-Rounded**: Add one [[Skills|Skill]] Rank in any two Non-[[Career Skills|Career Skills]].

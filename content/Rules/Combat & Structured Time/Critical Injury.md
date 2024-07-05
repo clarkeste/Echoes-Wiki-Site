@@ -31,5 +31,3 @@ Hit ‘Roll Crit’ to roll a Critical Injury for your Character. The +10 and -1
 
 Once the Critical Injury is rolled, it will appear on your [[Character Sheet|Character Sheet]]. Its Severity determines how difficult it is for a [[Medicine|person of medicine]] to heal, and the result section outlines the negative consequence of gaining this Critical Injury.
 
-
-

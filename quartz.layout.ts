@@ -8,7 +8,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Email: "mailto:Clarkesteban1@gmail.com",
-      "Discord Community": "https://discord.gg/Hgf6b482RE",
       'Credits & Thanks': "https://echoes-wiki-site.vercel.app/Genesys/Credits-and-Special-Thanks"
     },
   }),

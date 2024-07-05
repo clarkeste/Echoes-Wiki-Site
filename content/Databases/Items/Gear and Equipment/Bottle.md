@@ -11,3 +11,5 @@ Effect: Bottles can be used to store liquids or small critters safely, cleanly, 
 
 Price: 499 [[Rupees]]
 [[Affiliations|Affiliation]]: None
+
+[Setback Dice](https://echoes-wiki-site.vercel.app/Rules/Game-Mechanics/Core-Mechanics/Narrative-Dice/Dice/Setback-Dice)
