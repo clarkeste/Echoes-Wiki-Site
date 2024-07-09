@@ -7,9 +7,9 @@ A [[Gorons|Goron]]-made two-handed [[Weapons|Weapon]]. It's made from thick, har
 [[Critical Rating]]: 5
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
 
-[[Knockdown (Active) (Quality)|Knockdown]]
-[[Disorient (Active) (Quality)|Disorient]] 1
 [[Cumbersome (Passive) (Quality)|Cumbersome]] 4
+[[Disorient (Active) (Quality)|Disorient]] 2
+[[Knockdown (Active) (Quality)|Knockdown]]
 [[Stun (Active) (Quality)|Stun]] 2
 Special: If the [[Character]] using this [[Weapons|Weapon]] disarms another Character, the [[Items|Item]] that was disarmed flies to [[Short Range|Short Range]] as opposed to landing at [[Engaged Range|Engaged Range]] like usual.
 

@@ -1,5 +1,6 @@
 ---
 aliases:
+  - days, weeks, or even month
   - half the time
   - Downtime
 tags:

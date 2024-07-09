@@ -13,7 +13,3 @@ A very common sword often kept by travelers to fend off small beasts and thieves
 
 Price: 125 [[Rupees|Rupees]]
 [[Affiliations|Affiliation]]: None
-
-
-
-Elo: 37

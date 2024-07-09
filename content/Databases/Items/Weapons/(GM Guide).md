@@ -71,6 +71,14 @@ This is the stuff between the Traveler’s Line, and the Soldier’s Line. They�
 [[Dagger]] very situational weapon, good for hiding, good for swift strike, is best for critical injuries and not much else.
 [[Parrying Dagger|Parrying Dagger]] the Parrying Dagger is an alternative to most shields, which is less defensive, but has one swift strike and lets you be a little more offensive than most shields.
 
+#### Utility 2 Line
+[[Ball And Chain]] extremely hard to use, but very strong. It’s similar to the Goron Rock Ruiner, but it’s also good for crowd control and is a little harder to use.
+[[Boomerang]] is unique in that it’s very much both a Ranged and Melee weapon. It is mostly for harassing, with both Disorient and Concussive. It’s also for utility/puzzle solving, like in the games.
+[[Dull Rod]] honestly should be changed to ‘wooden rod’ and be in the gear section. It has no business being in the weapon category.
+[[Hammer]] is kind of a low-tier version of those very stun-heavy, bad crit weapons like the rock ruiner. it’s unique in that way.
+[[Massive Hammer]] is like a better version. But I will have to check how it compares to stone smasher and rock ruiner
+[[Whip]] is a whip, like Indiana Jones. You can lasso people up with it, but it also just works as a decent weapon, and tool for utility, like the boomerang. Best most effective way to get Ensnare without magic.
+
 
 # Bows
 [[Wooden Bow]] is a pretty bad bow, it exists pretty much purely for the utility of having one.

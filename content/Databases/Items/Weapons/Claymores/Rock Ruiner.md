@@ -8,12 +8,12 @@ The Rock Ruiner represents the pinnacle of [[Gorons|Goron]] craftsmanship, its s
 [[Encumbrance|Encumbrance]]: 6
 [[Range Bands|Range]]: [[Engaged Range|Engaged]] 
 
-[[Knockdown (Active) (Quality)|Knockdown]]
-[[Disorient (Active) (Quality)|Disorient]] 3
-[[Cumbersome (Passive) (Quality)|Cumbersome]] 6
 [[Concussive (Active) (Quality)|Concussive]] 1
-[[Stun (Active) (Quality)|Stun]] 4
+[[Cumbersome (Passive) (Quality)|Cumbersome]] 6
+[[Disorient (Active) (Quality)|Disorient]] 3
+[[Knockdown (Active) (Quality)|Knockdown]]
 [[Prepare (Passive) (Quality)|Prepare]] 2
+[[Stun (Active) (Quality)|Stun]] 4
 Special: If the [[Character]] using this [[Weapons|Weapon]] disarms another Character, the [[Items|Item]] that was disarmed flies to [[Short Range|Short Range]] as opposed to landing at [[Engaged Range|Engaged Range]] like usual.
 
 Price: 3000 [[Rupees]]

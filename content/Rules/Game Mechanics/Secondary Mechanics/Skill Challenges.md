@@ -7,7 +7,7 @@ tags:
   - Dice
   - Skills
 ---
-Skill Challenges are for more complex, longer, nail-biting problems. For example, climbing a mountainside a kilometer into the air while [[Adversary|Bokoblins]] pepper the stones around you with arrows, or attempting to salvage a sinking boat and stopping the pirates from boarding.
+Skill Challenges are for more complex, longer, nail-biting problems. For example, climbing a mountainside a kilometer into the air while [[Adversary|Bokoblins]] pepper the stones around you with arrows, or attempting to salvage a sinking boat and stopping the pirates from boarding. Skill Challenges are usually considered a type of Structured Time.
 
 During a Skill Challenge, the [[The GM|GM]] sets an amount of [[Success|Successes]] needed to win the [[Encounter|Encounter]]. This is usually between 15 and 30. The Players then make individual [[Attack Check|Checks]], with difficulty set by the [[The GM|GM]]. Any [[Skills|Skill]] can be used so long as the [[Player|Player]] can reasonably explain how their [[Character|Character]] uses the Skill in that situation to benefit their side. For example, in the climbing example, Skills such as [[Coordination|Coordination]] and [[Athletics|Athletics]] would be the obvious ones stated by the GM. However, a Player could easily make the argument that [[Ranged|Ranged]] would be applicable by narrating how their character picks loose rocks off the mountain-side, and throws them at the Bokoblins, or how [[Resilience|Resilience]] would be applicable by describing persevering despite their increasingly callused hands.
 
@@ -20,14 +20,16 @@ Other factors in a Skill Challenge can pose great threats. When climbing the roc
 The Players may lose a Skill Challenge under the following conditions:
 - Failing three [[Skill Checks|Skill Checks]]
 - All PCs becoming [[Incapacitated|Incapacitated]]
-- Being unable to reach certain conditions unique to the Skill Challenge, such as failing to reach and defuse a bomb in a certain number of Rounds.
+- Being unable to reach certain conditions unique to the Skill Challenge, such as failing to reach and defuse a bomb in a certain number of Rounds, or the enemy reaching a certain amount of Successes first.
 
 In some rare cases, PCs may be able to undertake an action to reduce the amount of Failed Rolls currently in a Skill Challenge.
 
 Skill Challenges can occur during [[Combat|Combat]]. For example, with the fixing a sinking ship while pirates board example–if the pirates already have their planks down and are boarding the ship with their swords drawn, a character may have to fight the Pirates while using some of their [[Actions|Actions]] to contribute to the Skill Challenge. And the Pirates might be able to lower the amount of Successes you have gained, if they aren’t interested in keeping your ship afloat…
 
+It should be noted that what is described previously is simply the foundation of a Skill Challenge. Any given Skill Challenge can have more things going on, and therefore more gameplay mechanics at play. For example, during a chase in the streets of a city, a Skill Challenge may become a tug-of-war between two sides, and a Character may be able to do additional actions, such as [[Coercion]] to disperse a crowd, to benefit them in later Skill Challenge rolls, or disadvantage their opponent.
+
 #### Who Goes When?
-Turns in Skill Challenges are played fairly loose. Essentially, anyone who wants to go–can. With a few exceptions. Nobody can go twice in a row, unless there are a low amount of PCs in the Skill Challenge. Additionally, any PC that has not gone in the last three turns benefits from two [[Boost Dice|Boosts]] on their next roll. This rule does not apply until the first two roles are finished. This is to encourage Players to participate in the Skill Challenge, as it benefits the whole group if they do.
+Turns in Skill Challenges are played fairly loose. Essentially, anyone who wants to go can. With a few exceptions. Nobody can go twice in a row, unless there are a low amount of PCs in the Skill Challenge. Additionally, any PC that has not gone in the last three turns benefits from two [[Boost Dice|Boost Dice]] on their next roll. This rule does not apply until the first two roles are finished. This is to encourage Players to participate in the Skill Challenge, as it benefits the whole group if they do.
 
 If you’re worried about partaking in the Skill Challenge–don’t be! Even if none of your Skills look immediately applicable, it’s very likely at least one of them is. Ask another Player or the bot if you can’t figure out which one might be viable.
 
