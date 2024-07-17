@@ -11,3 +11,5 @@ Cover in [[Echoes of the Departed|Echoes of the Departed]] is protection offered
 
 There are four levels of Cover: Minor, which grants one Setback; Medium, which grants two Setbacks; Large, which grants three Setbacks; and Complete, which means you cannot be targeted if the cover applies–essentially, blocking line of sight.
 
+If a [[Character]] behind Cover is attacked from within [[Engaged Range]], the Cover does not usually apply. It may if the Cover does not represent a literal blockage, but more of a defensive or advantageous position.
+

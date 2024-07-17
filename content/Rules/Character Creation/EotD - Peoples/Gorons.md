@@ -22,7 +22,6 @@ Regardless of Goron City’s position, many individuals who live there have pick
 
 
 
-
 ### Playing a Goron
 [Here is the template to make a Goron Character!](https://app.rpgsessions.com/char/nds/6424f822a3cc88d04e25ffc0) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit “clone” so you can start making your own [[Character]] using this template.
 

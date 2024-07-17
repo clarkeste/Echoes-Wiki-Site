@@ -1,5 +1,6 @@
 ---
 aliases:
+  - GM c
   - GM
 tags:
   - Rules

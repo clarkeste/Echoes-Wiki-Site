@@ -33,6 +33,15 @@ Turns in Skill Challenges are played fairly loose. Essentially, anyone who wants
 
 If you’re worried about partaking in the Skill Challenge–don’t be! Even if none of your Skills look immediately applicable, it’s very likely at least one of them is. Ask another Player or the bot if you can’t figure out which one might be viable.
 
+#### The Chase, and Competitive Skill Challenges
+Whether it be a Ship-of-the-line pursuing a fleeing outlaw, an investigator chasing down a suspected assassin across the rooftops of a bustling city, or a haunted soldier fleeing a Phantom wreathed in eternal night in the innards of the world, they all fall under the purview of ‘The Chase’.
+
+Chase scenes are usually built off of the [[Skill Challenges|Skill Challenge]] rules. While they’re not the only example of Competitive Skill Challenges, they are the most obvious. 
+
+Essentially, a Skill Challenge proceeds as normal. However, after [[PC|PCs]] have rolled, an equal amount of rival [[NPCs]] roll as well. If the goal is to arrive at a certain location first, [[The GM]] will likely choose to have there be a flat amount of [[Success|Successes]] required, and whoever reaches that number first is successful, with whoever started moving first being able to roll first. 
+
+Alternatively, if the goal of the Chase is to catch up to someone, or lose pursuers, the GM may instead choose to determine success differently. In this case, the GM will pick a number of Successes that one side needs to be apart from the other to win. For example, the pursuer needs 5 more Successes than their rival to catch up to them, and the [[Character]] fleeing needs the same amount to get away. In this cases, the Successes represent how close the Characters are to one another. In some cases, the GM may determine that a minimum amount of Successes is required before either side can ‘win’ a Skill Challenge like this.
+
 #### Narrative Dice in Skill Challenges
 Other Narrative Dice examples absolutely still apply in Skill Challenges. These are simply additional ideas, with some tailor-made for Skill Challenges.
 
