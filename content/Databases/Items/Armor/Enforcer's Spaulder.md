@@ -1,4 +1,4 @@
-Ramshackle but effective, this armor is the favorite of mercenaries, travelers who require heavier equipment, or thugs who wish to intimidate their victims.
+Ramshackle but effective, this armor is often made of leather but reinforced with steel in important locations, such as the shoulder. It is the favorite of mercenaries, travelers who require heavier but not limiting equipment, or thugs who wish to intimidate their victims.
 
 
 

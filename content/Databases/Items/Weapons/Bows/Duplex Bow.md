@@ -1,7 +1,6 @@
 A bow favored by assassins and those interested in its unique ability to shoot two arrows at once. However, due to a series of high-profile assassinations, the bow was made illegal during the King’s reign.
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfHWpvJRRLCH22G1M3YL5RCEZ93w_dqfCdsEX0-0ljCWg1RGvCddk-8faPbeU_dQZEbGteV8HabkuEwQLFJyI0BVJnxTTsvh6OKFeFvcRptOhClsHrI8n7fjwZ4hDdvyBojtU2XIF5_efJ1HuSIWNVKM_rV?key=3WrtrjXbNzWwwaZ1xaZ5eg)
-
+![[Weapon Bow Duplex.png]]
 [[Damage|Damage]]: 8
 [[Skills|Skill]]: [[Ranged|Ranged]]
 [[Critical Rating]]: 2

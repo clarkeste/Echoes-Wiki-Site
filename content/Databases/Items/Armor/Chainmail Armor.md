@@ -1,6 +1,6 @@
 Steel linked together to make a mesh-like armor, Chainmail Armor is highly effective in combat without sacrificing too much maneuverability.
 
-
+![](https://i.imgur.com/TAD6KXp.png)
 
 [[Soak|Soak]]: 2
 [[Defense|Defense]]: 0
