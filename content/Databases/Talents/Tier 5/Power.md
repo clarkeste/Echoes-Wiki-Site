@@ -1,6 +1,6 @@
 ---
 tags:
-  - _Tier-5
+  - Tier-5
 ---
 **Tier:** 5
 **Activation:** Active (Incidental)

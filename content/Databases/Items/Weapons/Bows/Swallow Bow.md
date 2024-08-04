@@ -5,12 +5,11 @@ This bow is a favorite among the Rito from northern Holodrum. The bowstring has 
 [[Damage|Damage]]: 7
 [[Skills|Skill]]: [[Ranged|Ranged]]
 [[Critical Rating]]: 3
-[[Range Bands|Range]]: [[Medium Range|Medium]]
+[[Range Bands|Range]]: [[Long Range|Long]]
 [[Encumbrance|Encumbrance]]: 1
 
 [[Accurate (Passive) (Quality)|Accurate]] 1
 [[Auto-Fire (Active) (Quality)|Auto-Fire]]
-[[Swift Strike (Passive) (Quality)|Swift Strike]] 2
 [[Flammable (Passive) (Quality)|Flammable]]
 
 Price: 700 [[Rupees]]

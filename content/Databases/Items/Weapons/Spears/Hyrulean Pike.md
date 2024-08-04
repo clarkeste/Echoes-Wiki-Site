@@ -5,8 +5,8 @@ The Hyrulean Pike became the standard long polearm of the Hyrulean Army a few ye
 [[Damage|Damage]]: +4
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 4
-[[Encumbrance|Encumbrance]]: 5
 [[Range Bands|Range]]: [[Short Range|Short]]
+[[Encumbrance|Encumbrance]]: 4
 
 [[Pierce (Passive) (Quality)|Pierce]] 5
 [[Prepare (Passive) (Quality)|Prepare]] 1

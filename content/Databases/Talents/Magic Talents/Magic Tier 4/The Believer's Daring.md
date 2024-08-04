@@ -1,10 +1,10 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Active
-  - -Talent-Positioning
-  - -Talent-Combat-Oriented
-  - -Talent-Turn-Economy
+  - Talent-Spells
+  - Talent-Active
+  - Talent-Positioning
+  - Talent-Combat-Oriented
+  - Talent-Turn-Economy
 ---
 **Tier:** 4
 **Activation:** Active (Incidental)

@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-3
-  - -Talent-Combat-Oriented
-  - -Talent-Turn-Economy
-  - -Talent-Active
-  - -Talent-Tactics-and-Leadership
+  - Tier-3
+  - Talent-Combat-Oriented
+  - Talent-Turn-Economy
+  - Talent-Active
+  - Talent-Tactics-and-Leadership
 ---
 **Tier:** 1
 **Activation:** Active (Maneuver)

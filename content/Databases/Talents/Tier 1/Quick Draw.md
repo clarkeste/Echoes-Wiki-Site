@@ -1,11 +1,11 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Combat-Oriented
-  - -Talent-Turn-Economy
-  - -Talent-Active
-  - -Talent-Duelist
-  - -Talent-Ranged
+  - Tier-1
+  - Talent-Combat-Oriented
+  - Talent-Turn-Economy
+  - Talent-Active
+  - Talent-Duelist
+  - Talent-Ranged
 ---
 **Tier:** 1
 **Activation:** Active (Incidental)

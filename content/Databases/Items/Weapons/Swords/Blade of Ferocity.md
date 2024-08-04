@@ -5,8 +5,8 @@ Exceptional swords that only the skilled can truly wield. At first glance, they 
 [[Damage|Damage]]: +7
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 2
-[[Encumbrance|Encumbrance]]: 3
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 2
 
 [[Vicious (Passive) (Quality)|Vicious]] 1
 [[Superior (Passive) (Quality)|Superior]]

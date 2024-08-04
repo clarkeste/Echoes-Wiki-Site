@@ -6,6 +6,7 @@ The most skilled [[Zora|Zora]] fighters wield this spear. Its beautiful fish-tai
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Short Range|Short]]
+[[Encumbrance|Encumbrance]]: 2
 
 [[Pierce (Passive) (Quality)|Pierce]] 5
 [[Disorient (Active) (Quality)|Disorient]] 2

@@ -4,7 +4,7 @@ A highly refined bow created by the Rito who inhabit northern Holodrum. Rito war
 
 [[Damage|Damage]]: 9
 [[Skills|Skill]]: [[Ranged|Ranged]]
-[[Critical Rating]]: 2
+[[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Long Range|Long]]
 [[Encumbrance]]: 1
 
@@ -12,7 +12,7 @@ A highly refined bow created by the Rito who inhabit northern Holodrum. Rito war
 [[Unwieldy (Passive) (Quality)|Unwieldy]] 3
 [[Superior (Passive) (Quality)|Superior]]
 [[Deflective (Passive) (Quality)|Deflective]] 1
-[[Swift Strike (Passive) (Quality)|Swift Strike]] 4
+[[Swift Strike (Passive) (Quality)|Swift Strike]] 3
 [[Flammable (Passive) (Quality)|Flammable]]
 
 Price: 7999 [[Rupees]]

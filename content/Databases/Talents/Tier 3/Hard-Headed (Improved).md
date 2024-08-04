@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-3
-  - -Talent-Active
-  - -Talent-Strain-Recovering
-  - -Talent-Combat-Oriented
-  - -Talent-Utility
+  - Tier-3
+  - Talent-Active
+  - Talent-Strain-Recovering
+  - Talent-Combat-Oriented
+  - Talent-Utility
 ---
 **Tier:** 3
 **Activation:** Active (Action)

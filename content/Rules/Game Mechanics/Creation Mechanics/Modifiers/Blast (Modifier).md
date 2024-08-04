@@ -16,7 +16,7 @@ Stacks: Yes
 Limit: 14
 Blast makes a Spell impact not just a target, but an entire area within [[Engaged Range]] of the original target. Whether or not it’s activated with [[Advantage|Advantages]] depends on the Spell itself.
 
-In [[Attack Spell|Attack Spells]], if a check is successful and Blast is activated with 2 Advantages, each character Engaged with the original target–even if they are an ally–suffers [[Damage]] equal to the weapon's Blast rating.
+In [[Attack|Attack Spells]], if a check is successful and Blast is activated with 2 Advantages, each character Engaged with the original target–even if they are an ally–suffers [[Damage]] equal to the weapon's Blast rating.
 
 May also trigger Blast if the attack misses by spending 3 Advantages. If this happens, the original target suffers Blast damage as well.
 

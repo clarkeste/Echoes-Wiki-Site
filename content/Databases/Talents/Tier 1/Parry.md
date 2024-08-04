@@ -1,11 +1,11 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Defense
-  - -Talent-Duelist
-  - -Talent-Ranked
+  - Tier-1
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Defense
+  - Talent-Duelist
+  - Talent-Ranked
 aliases:
   - Parry
 ---

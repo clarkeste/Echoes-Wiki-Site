@@ -6,6 +6,7 @@ A [[Weapons|weapon]] intended to assist in battles as a tool in the second hand,
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 5
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 0
 
 [[Defensive (Modifier)|Defensive]] 2
 [[Swift Strike (Modifier)|Swift Strike]] 1

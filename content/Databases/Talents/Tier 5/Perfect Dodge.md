@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-5
-  - -Talent-Active
-  - -Talent-Defense
-  - -Talent-Combat-Oriented
+  - Tier-5
+  - Talent-Active
+  - Talent-Defense
+  - Talent-Combat-Oriented
 ---
 **Tier:** 5 
 **Activation:** Active (Incidental) 

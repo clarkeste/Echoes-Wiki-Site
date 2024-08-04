@@ -9,5 +9,5 @@ If a [[Character]]’s current [[Encumbrance]] is higher than 12 the Paraglider 
 
 Other positive effects may occur as a part of the Rito Paraglider’s effects depending on the circumstances and creativity of the [[PC|PCs]], as with all [[Items]].
 
-Price: 2k [[Rupees]]
+Price: 2000 [[Rupees]]
 Affiliation: None, [[Echoes of the Departed/Hidden Peoples/Rito|Rito]]

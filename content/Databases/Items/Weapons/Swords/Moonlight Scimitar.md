@@ -6,6 +6,7 @@ Delicate Gerudo carvings decorate this rare and curved sword. The engraved blade
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 2
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 1
 
 [[Superior (Passive) (Quality)|Superior]]
 [[Pierce (Passive) (Quality)|Pierce]] 4

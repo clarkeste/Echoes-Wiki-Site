@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-3
-  - -Talent-Passive
-  - -Talent-Ship
-  - -Talent-Defense
+  - Tier-3
+  - Talent-Passive
+  - Talent-Ship
+  - Talent-Defense
 ---
 **Tier:** 3
 **Activation:** Passive

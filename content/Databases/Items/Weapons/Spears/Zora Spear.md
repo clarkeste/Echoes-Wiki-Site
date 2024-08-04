@@ -6,6 +6,7 @@ This spear is a [[Zora|Zora]]'s [[Weapons|Weapon]] of choice. It's lighter than 
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 2
 
 [[Stun (Active) (Quality)|Stun]] 2
 [[Water Warrior (Passive) (Quality)|Water Warrior]]

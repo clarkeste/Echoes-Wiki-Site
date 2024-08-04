@@ -1,10 +1,10 @@
 ---
 tags:
-  - -Talent-Knowledge-Oriented
-  - -Talent-Setbacks-and-Boosts
-  - -Talent-Tactics-and-Leadership
-  - _Tier-1
-  - -Talent-Ranked
+  - Talent-Knowledge-Oriented
+  - Talent-Setbacks-and-Boosts
+  - Talent-Tactics-and-Leadership
+  - Tier-1
+  - Talent-Ranked
 ---
 **Tier:** 1
 **Activation:** Passive

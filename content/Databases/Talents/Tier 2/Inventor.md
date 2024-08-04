@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Ranked
-  - -Talent-Setbacks-and-Boosts
-  - -Talent-Active
-  - -Talent-Crafting-Oriented
+  - Tier-2
+  - Talent-Ranked
+  - Talent-Setbacks-and-Boosts
+  - Talent-Active
+  - Talent-Crafting-Oriented
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

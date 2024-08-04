@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Passive
-  - -Talent-Combat-Oriented
-  - -Talent-Duelist
+  - Tier-4
+  - Talent-Passive
+  - Talent-Combat-Oriented
+  - Talent-Duelist
 ---
 **Tier:** 4
 **Activation:** Passive

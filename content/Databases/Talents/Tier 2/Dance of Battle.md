@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Active
-  - -Talent-Positioning
-  - -Talent-Setbacks-and-Boosts
-  - -Talent-Combat-Oriented
+  - Tier-2
+  - Talent-Active
+  - Talent-Positioning
+  - Talent-Setbacks-and-Boosts
+  - Talent-Combat-Oriented
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

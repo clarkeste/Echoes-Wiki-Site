@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Career-Skills
-  - -Talent-Passive
-  - -Talent-Ranked
+  - Tier-2
+  - Talent-Career-Skills
+  - Talent-Passive
+  - Talent-Ranked
 ---
 **Tier:** 2 
 **Activation:** Passive 

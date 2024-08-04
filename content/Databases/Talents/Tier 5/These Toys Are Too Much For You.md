@@ -1,7 +1,7 @@
 ---
 tags:
-  - _Tier-5
-  - -Talent-Active
+  - Tier-5
+  - Talent-Active
 ---
 **Tier:** 5 
 **Activation:** Active (Incidental) 

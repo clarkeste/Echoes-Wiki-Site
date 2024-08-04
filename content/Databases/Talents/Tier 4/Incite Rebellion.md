@@ -1,8 +1,8 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Active
-  - -Talent-Social-Oriented
+  - Tier-4
+  - Talent-Active
+  - Talent-Social-Oriented
 ---
 **Tier:** 4 
 **Activation:** Active (Action) 

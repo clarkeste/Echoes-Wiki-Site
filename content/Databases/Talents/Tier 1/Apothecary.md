@@ -2,17 +2,15 @@
 aliases:
   - Apothecary
 tags:
-  - -Talent-Passive
-  - _Tier-1
-  - -Talent-Ranked
-  - -Talent-Medical
-  - -Talent-Wounds
-  - -Talent-Utility
+  - Talent-Passive
+  - Tier-1
+  - Talent-Ranked
+  - Talent-Medical
+  - Talent-Wounds
+  - Talent-Utility
 ---
 **Tier:** 1
-
 **Activation:** Passive
-
 **Ranked:** Yes
 
 

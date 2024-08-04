@@ -10,7 +10,7 @@ Stacks: Yes
 Limit: 4
 Vicious represents the ability to interact with [[Critical Injury|Critical Injuries]]–whether that be to cause them, or heal them.
 
-When an [[Attack Spell|Attack Spell]] scores a Critical Injury, the [[Character|target]] adds ten times the Vicious rating to their Critical Injury roll. With Vicious 3, for example, the victim adds +30 to their [[Critical Hit|Critical Hit]] result.
+When an [[Attack|Attack Spell]] scores a Critical Injury, the [[Character|target]] adds ten times the Vicious rating to their Critical Injury roll. With Vicious 3, for example, the victim adds +30 to their [[Critical Hit|Critical Hit]] result.
 
 ### [[Potion Creation]]: Vicious (3)
 Rarity: Uncommon

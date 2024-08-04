@@ -1,7 +1,7 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Passive
+  - Talent-Spells
+  - Talent-Passive
 ---
 **Tier:** 3
 **Activation:** Passive

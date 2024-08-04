@@ -1,9 +1,9 @@
 ---
 tags:
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Tactics-and-Leadership
-  - _Tier-1
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Tactics-and-Leadership
+  - Tier-1
 ---
 **Tier:** 1
 **Activation:** Active (Action) 

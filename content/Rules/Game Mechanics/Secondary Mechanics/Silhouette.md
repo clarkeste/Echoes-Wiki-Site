@@ -9,7 +9,7 @@ tags:
 [[Silhouette]] is how the size of an object or [[Character]] is determined in [[Echoes of the Departed]]. As opposed to getting lost by using exact measurements, the issue of how big a particular object, vehicle, or Character is, is instead abstracted into their Silhouette rating. The Silhouette Rating can vary from anywhere from 0 to 8, although higher numbers are rarer.
 
 What follows is a description of what each Silhouette rating represents:
-- Silhouette 0: Anything smaller than an adult [[Hylians|Hylian]]. Is used for children, or held [[Items|Items]], such as Swords or [[Shields|Shields]].
+- Silhouette 0: Anything smaller than an adult [[Hylians|Hylian]]. Is used for children, or held [[Items|Items]], such as Swords or [[Weapons#Shields|Shields]].
 - Silhouette 1: Something about the size of an adult Hylian, such as a donkey. Most [[Character|Characters]] will fit smoothly into this range. About two meters in any direction.
 - Silhouette 2: Larger beings, such as horses, Moblins, or [[Gorons]]. About five meters in any direction.
 - Silhouette 3: Vehicles, small boats, objects, or frightening [[Adversary|Adversaries]] of a significant size; A Carriage, Sailboat, or Hinox. About ten meters in any direction.

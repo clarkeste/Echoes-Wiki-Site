@@ -6,6 +6,7 @@ A two-handed sword designed for [[Combat|combat]]. It's heavy and hard to use bu
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 2
 
 [[Knockdown (Active) (Quality)|Knockdown]]
 [[Quick Charge (Passive) (Quality)|Quick Charge]]

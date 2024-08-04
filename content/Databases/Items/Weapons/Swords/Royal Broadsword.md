@@ -6,6 +6,7 @@ The Hyrulean Royal Family, previous to its downfall, would award this sword to k
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 2
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 1
 
 [[Accurate (Passive) (Quality)|Accurate]] 2
 [[Vicious (Passive) (Quality)|Vicious]] 2

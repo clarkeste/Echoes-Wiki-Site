@@ -12,6 +12,6 @@ Unless otherwise stated, only one suit of Armor can be worn at any given time. A
 
 When worn, the [[Encumbrance|Encumbrance]] of Armor is reduced by 3. Armor may have other benefits listed as [[Qualities|Qualities]] on their stat-blocks, making each option unique.
 
-To see all the available options, please head to the document named Echoes of the Departed - Full Store.
+To see all the available options, please check out the [[armor/]] folder, or the [[Item Database Guide]] to learn more.
 
 Check the [[Items|Items]] document to see how to add Armor to a [[Character Sheet|Character Sheet]].

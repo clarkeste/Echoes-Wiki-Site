@@ -1,7 +1,7 @@
 ---
 tags:
-  - _Tier-5
-  - -Talent-Passive
+  - Tier-5
+  - Talent-Passive
 ---
 **Tier:** 5
 **Activation:** Passive

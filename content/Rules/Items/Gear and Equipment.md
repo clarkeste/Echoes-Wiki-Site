@@ -11,4 +11,4 @@ Gear and Equipment is a category of [[Items|Item]] that encompasses everything t
 
 The effects of a piece of Equipment is usually listed in their stat-block in plain text, and varies wildly, as the use cases for different pieces of Equipment are massive. The most consistent states are Price and [[Encumbrance|Encumbrance]].
 
-To see all Gear and Equipment, scroll to the corresponding section in the EotD - Store Full document.
+To see all Gear and Equipment, please see the [[Gear and Equipment/]] folder, or check the [[Item Database Guide]] for more information.

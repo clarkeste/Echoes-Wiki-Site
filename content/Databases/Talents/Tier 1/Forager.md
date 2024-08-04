@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Passive
-  - -Talent-Setbacks-and-Boosts
-  - -Talent-Utility
-  - -Talent-Downtime
+  - Tier-1
+  - Talent-Passive
+  - Talent-Setbacks-and-Boosts
+  - Talent-Utility
+  - Talent-Downtime
 ---
 **Tier:** 1 
 **Activation:** Passive 

@@ -3,8 +3,8 @@ The Rock Ruiner represents the pinnacle of [[Gorons|Goron]] craftsmanship, its s
 [[Damage|Damage]]: +9
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 4
-[[Encumbrance|Encumbrance]]: 6
 [[Range Bands|Range]]: [[Engaged Range|Engaged]] 
+[[Encumbrance|Encumbrance]]: 6
 
 [[Concussive (Active) (Quality)|Concussive]] 1
 [[Cumbersome (Passive) (Quality)|Cumbersome]] 6

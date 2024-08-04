@@ -1,9 +1,9 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Active
-  - -Talent-Positioning
-  - -Talent-Utility
+  - Talent-Spells
+  - Talent-Active
+  - Talent-Positioning
+  - Talent-Utility
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

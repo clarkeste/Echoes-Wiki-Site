@@ -15,7 +15,7 @@ Stacks: Yes
 Limit: None
 The Stun Quality interacts with [[Strain|Strain]]; its ability to deal or heal it, or prevent its loss.
 
-When the Stun quality is activated for two [[Advantage|Advantages]] on a successful [[Attack Spell|Attack Spell]], it inflicts Strain equal to the weapon's Stun rating that bypass [[Soak|Soak]].
+When the Stun quality is activated for two [[Advantage|Advantages]] on a successful [[Attack|Attack Spell]], it inflicts Strain equal to the weapon's Stun rating that bypass [[Soak|Soak]].
 
 ### [[Item Creation|Item Creation]]: Stun (3)
 Active: Yes

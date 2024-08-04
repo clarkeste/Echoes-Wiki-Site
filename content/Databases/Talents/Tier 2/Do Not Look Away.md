@@ -1,11 +1,11 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Combat-Oriented
-  - -Talent-Social-Oriented
-  - -Talent-Active
-  - -Talent-Strain-Spending
-  - -Talent-Ranked
+  - Tier-2
+  - Talent-Combat-Oriented
+  - Talent-Social-Oriented
+  - Talent-Active
+  - Talent-Strain-Spending
+  - Talent-Ranked
 ---
 **Tier:** 2 
 **Activation:** Active (Incidental, Out of Turn)

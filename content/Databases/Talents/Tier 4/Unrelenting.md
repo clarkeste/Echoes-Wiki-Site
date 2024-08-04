@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Turn-Economy
+  - Tier-4
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Turn-Economy
 ---
 **Tier:** 4
 **Activation:** Active (Incidental)

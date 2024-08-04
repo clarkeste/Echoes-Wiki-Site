@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Active
-  - -Talent-Strain-Recovering
-  - -Talent-Characteristics
+  - Tier-2
+  - Talent-Active
+  - Talent-Strain-Recovering
+  - Talent-Characteristics
 ---
 **Tier:** 2 
 **Activation:** Active (Incidental) 

@@ -16,7 +16,7 @@ Craftsman and Blacksmith make various different things, specializing in differen
 
 Because of that, many individuals make their living selling weapons, construct them for personal use, or design entirely new ones–either for their designs to be sold to the Guilds, or simply to make a one-of-a-kind sword. Making any of these more complex Items is similar in process to the Point-Buy System used in other [[Point-Buy Systems|Creation mechanics]], allowing you to flex your creative muscles.
 
-How this works is that there are 6 [[Item Creation#Base Options|Base Templates]], such as [[Weapon Template - One-Handed Weapon|One-Handed Weapons]], [[Weapon template - Ranged Weapon|Ranged Weapons]], and [[Weapon Template - Pole-arm Weapon|Pole-arms]]. But, these Base Templates are just simple blueprints; to get a finished product, you must change the Base Templates using [[Modifiers|Modifiers]].
+How this works is that there are 6 [[Item Creation#Base Options|Base Templates]], such as [[Weapon Template - One-Handed Weapon|One-Handed Weapons]], [[Weapon Template - Ranged Weapon|Ranged Weapons]], and [[Weapon Template - Pole-arm Weapon|Pole-arms]]. But, these Base Templates are just simple blueprints; to get a finished product, you must change the Base Templates using [[Modifiers|Modifiers]].
 
 All the Modifiers are in the [[Item Creation#Creating a Weapon|Creating a Weapon]] section below. They include things like [[Burn (Active) (Quality)|Burn]], [[Concussive (Active) (Quality)|Concussive]], [[Accurate (Passive) (Quality)|Accurate]], [[Linked (Active) (Quality)|Linked]], [[Disorient (Active) (Quality)|Disorient]], etc. The idea is to pick a Base Template, then pick a set of Modifiers, and finally head to the forge to shape your weapon. What Modifiers you choose will change final product you create. How exactly the weapon operates given its parameters, is determined by the [[Player|Player]]’s narration, so long as is it justified and logical, as agreed upon with the [[The GM|GM]].
 
@@ -50,7 +50,7 @@ Once an item is made, you may make a Template from it by making an [[Operating|O
 - [[Weapon Template - One-Handed Weapon|One-Handed Weapon]]
 - [[Weapon Template - Two-Handed Weapon|Two-Handed Weapon]]
 - [[Weapon Template - Pole-arm Weapon|Polearm Weapon]]
-- [[Weapon template - Ranged Weapon|Ranged Weapon]]
+- [[Weapon Template - Ranged Weapon|Ranged Weapon]]
 - [[Weapon Template - Brawl Weapon|Brawl Weapon]]
 - [[Weapon Template - Siege Weapon|Siege Weapon]]
 

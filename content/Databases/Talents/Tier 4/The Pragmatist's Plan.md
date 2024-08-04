@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Sneaky
-  - -Talent-Characteristics
-  - -Talent-Social-Oriented
-  - -Talent-Tactics-and-Leadership
+  - Tier-4
+  - Talent-Sneaky
+  - Talent-Characteristics
+  - Talent-Social-Oriented
+  - Talent-Tactics-and-Leadership
 ---
 **Tier:** 4
 **Activation:** Active (Incidental)

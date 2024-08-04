@@ -1,11 +1,11 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Derived-Attributes
-  - -Talent-Wounds
-  - -Talent-Strain-Recovering
+  - Talent-Spells
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Derived-Attributes
+  - Talent-Wounds
+  - Talent-Strain-Recovering
 ---
 **Tier:** 4 
 **Activation:** Active (Maneuver) 

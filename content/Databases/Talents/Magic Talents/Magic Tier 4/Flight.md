@@ -1,9 +1,9 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Passive
-  - -Talent-Positioning
-  - -Talent-Turn-Economy
+  - Talent-Spells
+  - Talent-Passive
+  - Talent-Positioning
+  - Talent-Turn-Economy
 ---
 **Tier:** 4
 **Activation:** Passive

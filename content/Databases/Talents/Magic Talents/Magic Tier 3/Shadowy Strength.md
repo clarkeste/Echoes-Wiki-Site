@@ -1,9 +1,9 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Passive
-  - -Talent-Sneaky
-  - -Talent-Setbacks-and-Boosts
+  - Talent-Spells
+  - Talent-Passive
+  - Talent-Sneaky
+  - Talent-Setbacks-and-Boosts
 ---
 **Tier:** 3
 **Activation:** Passive

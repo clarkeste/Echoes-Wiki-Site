@@ -10,6 +10,7 @@ A very common sword often kept by travelers to fend off small beasts and thieves
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 1
 
 Price: 125 [[Rupees|Rupees]]
 [[Affiliations|Affiliation]]: None

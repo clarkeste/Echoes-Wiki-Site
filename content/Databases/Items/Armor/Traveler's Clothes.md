@@ -2,7 +2,7 @@ A common garb popular in Hyrule and beyond, especially—as its name would imply
 
 [[Soak|Soak]]: 1
 [[Defense|Defense]]: 0
-[[Encumbrance|Encumbrance]]: 2
+[[Encumbrance|Encumbrance]]: 1
 
 Special: Add +2 to [[Encumbrance|Encumbrance]] Threshold due to spacious pockets.
 

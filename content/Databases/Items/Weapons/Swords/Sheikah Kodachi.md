@@ -6,6 +6,7 @@ A short sword favored by the Sheikah of Kakariko Village. It is believed in Shei
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 2
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 1
 
 [[Accurate (Passive) (Quality)|Accurate]] 1
 [[Empowered Flanking (Passive) (Quality)|Empowered Flanking]]

@@ -6,7 +6,7 @@ described in one word
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
-[[Encumbrance|Encumbrance]]: 1
+[[Encumbrance|Encumbrance]]: 0
 
 [[Concussive (Active) (Quality)|Concussive]] 1
 [[Disorient (Active) (Quality)|Disorient]] 2

@@ -1,11 +1,11 @@
 ---
 tags:
-  - _Tier-5
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Defense
-  - -Talent-Positioning
-  - -Talent-Turn-Economy
+  - Tier-5
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Defense
+  - Talent-Positioning
+  - Talent-Turn-Economy
 ---
 **Tier:** 5 
 **Activation:** Active (Incidental, Out of Turn) 

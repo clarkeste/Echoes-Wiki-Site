@@ -16,7 +16,7 @@ Stacks: Yes
 Limit: None
 The effects of Ensnare are often related to slowdowns, or attacks that lock a target in place for a time. When combined with [[Concussive (Modifier)|Concussive]] on a Spell, that Spell becomes icy.
 
-In successful [[Attack Spell|Attack Spells]], may spend 2 [[Advantage]] to [[Immobilized|Immobilize]] the target. An Immobilized target cannot perform any [[Maneuvers]]. An Ensnared target may attempt a [[Difficulty|Hard]] [[Athletics]] check as their action on their turn to break free from the effect.
+In successful [[Attack|Attack Spells]], may spend 2 [[Advantage]] to [[Immobilized|Immobilize]] the target. An Immobilized target cannot perform any [[Maneuvers]]. An Ensnared target may attempt a [[Difficulty|Hard]] [[Athletics]] check as their action on their turn to break free from the effect.
 
 ### [[Potion Creation]]: Ensnare (2)
 Rarity: Uncommon

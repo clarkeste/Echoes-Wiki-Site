@@ -1,8 +1,8 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Active
-  - -Talent-Medical
+  - Talent-Spells
+  - Talent-Active
+  - Talent-Medical
 ---
 **Tier:** 3
 **Activation:** Active (Incidental)

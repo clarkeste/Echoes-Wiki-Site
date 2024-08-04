@@ -1,7 +1,7 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Active
+  - Talent-Spells
+  - Talent-Active
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

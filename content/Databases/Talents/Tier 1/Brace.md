@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Setbacks-and-Boosts
+  - Tier-1
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Setbacks-and-Boosts
 ---
 **Tier:** 1
 **Activation:** Active (Maneuver)

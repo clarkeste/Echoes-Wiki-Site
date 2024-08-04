@@ -5,8 +5,8 @@ A sturdy shield loved by many adventurers. It is made of sturdy wood and reinfor
 [[Damage|Damage]]: +0
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 5
-[[Encumbrance|Encumbrance]]: 2
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 0
 
 [[Inaccurate (Passive) (Quality)|Inaccurate]] 1
 [[Knockdown (Active) (Quality)|Knockdown]]

@@ -1,11 +1,11 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Active
-  - -Talent-Strain-Spending
-  - -Talent-Utility
-  - -Talent-Turn-Economy
-  - -Talent-Mounts
+  - Tier-2
+  - Talent-Active
+  - Talent-Strain-Spending
+  - Talent-Utility
+  - Talent-Turn-Economy
+  - Talent-Mounts
 ---
 **Tier:** 2
 **Activation:** Active (Action)

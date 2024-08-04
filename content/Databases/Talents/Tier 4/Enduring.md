@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Passive
-  - -Talent-Derived-Attributes
-  - -Talent-Ranked
+  - Tier-4
+  - Talent-Passive
+  - Talent-Derived-Attributes
+  - Talent-Ranked
 ---
 **Tier:** 4 
 **Activation**: Passive 

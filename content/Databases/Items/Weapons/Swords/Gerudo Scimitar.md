@@ -6,6 +6,7 @@ This common sword is often carried by Gerudo women for self-defense and training
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 2
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 0
 
 [[Swift Strike (Passive) (Quality)|Swift Strike]] 1
 

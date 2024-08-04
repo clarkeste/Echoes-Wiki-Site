@@ -16,7 +16,7 @@ Stacks: No (Singular)
 Limit: 1
 Knockdown represents the ability to knock [[Adversary|others]] off their feet, cause them to lose their footing–or in preventive cases, remove their ability to stay stable and upright.
 
-In successful [[Attack Spell|Attack Spells]], when Knockdown triggers, the target is knocked [[Prone]]. Knockdown requires 2 [[Advantage|Advantages]] to trigger, plus one additional Advantage per [[Silhouette]] of the target beyond one.
+In successful [[Attack|Attack Spells]], when Knockdown triggers, the target is knocked [[Prone]]. Knockdown requires 2 [[Advantage|Advantages]] to trigger, plus one additional Advantage per [[Silhouette]] of the target beyond one.
 
 ### [[Potion Creation]]: Knockdown (1)
 Rarity: Common

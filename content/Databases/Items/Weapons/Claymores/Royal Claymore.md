@@ -6,6 +6,7 @@ A two-handed sword once issued to the Hyrulean royal family's incredibly skilled
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 4
 
 [[Knockdown (Active) (Quality)|Knockdown]]
 [[Pierce (Passive) (Quality)|Pierce]] 2

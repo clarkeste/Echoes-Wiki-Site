@@ -1,8 +1,8 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Social-Oriented
-  - -Talent-Active
+  - Talent-Spells
+  - Talent-Social-Oriented
+  - Talent-Active
 ---
 **Tier:** 1
 **Activation:** Active (Incidental)

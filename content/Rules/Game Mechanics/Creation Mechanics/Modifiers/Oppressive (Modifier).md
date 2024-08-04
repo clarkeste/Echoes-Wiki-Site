@@ -16,7 +16,7 @@ Stacks: No (Singular)
 Limit: 1
 Oppressive represents a [[Spell Creation|Spell]] that is more brutal or overwhelming to its target, or the condition it is meant to prevent or cure.
 
-When using this quality in an [[Attack Spell|Attack Spell]], add an extra [[Difficulty Dice|Difficulty Die]]. On a successful [[Attack Check|Check]], may spend 2 [[Advantage]] to reduce the [[Success|Successes]] the target will generate on Attack Checks turns equal to Oppressive rating by 1 for every 2 Advantage spent. Multiple uses of the [[Qualities]] stack.
+When using this quality in an [[Attack|Attack Spell]], add an extra [[Difficulty Dice|Difficulty Die]]. On a successful [[Attack Check|Check]], may spend 2 [[Advantage]] to reduce the [[Success|Successes]] the target will generate on Attack Checks turns equal to Oppressive rating by 1 for every 2 Advantage spent. Multiple uses of the [[Qualities]] stack.
 
 ### [[Potion Creation]]: Oppressive (6)
 Rarity: Obscure

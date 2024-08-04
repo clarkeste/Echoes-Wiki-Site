@@ -1,10 +1,10 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Passive
-  - -Talent-Downtime
-  - -Talent-Strain-Recovering
-  - -Talent-Ranked
+  - Talent-Spells
+  - Talent-Passive
+  - Talent-Downtime
+  - Talent-Strain-Recovering
+  - Talent-Ranked
 ---
 **Tier:** 1
 **Activation:** Passive

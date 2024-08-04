@@ -1,8 +1,8 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Active
-  - -Talent-Combat-Oriented
+  - Talent-Spells
+  - Talent-Active
+  - Talent-Combat-Oriented
 ---
 **Tier:** 4
 **Activation:** Active (Action)

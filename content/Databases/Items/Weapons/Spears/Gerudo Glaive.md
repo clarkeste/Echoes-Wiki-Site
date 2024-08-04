@@ -2,12 +2,11 @@ A glaive wielded by only the most skilled of the [[Gerudo]]. Its design prioriti
 
 
 
-
 [[Damage|Damage]]: +7
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 2
-[[Encumbrance]]: 5
 [[Range Bands|Range]]: [[Short Range|Short]]
+[[Encumbrance|Encumbrance]]: 4
 
 [[Cumbersome (Passive) (Quality)|Cumbersome]] 3
 [[Unwieldy (Passive) (Quality)|Unwieldy]] 4

@@ -1,8 +1,8 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Active
-  - -Talent-Positioning
+  - Talent-Spells
+  - Talent-Active
+  - Talent-Positioning
 ---
 **Tier:** 2
 **Activation:** Active (Action)

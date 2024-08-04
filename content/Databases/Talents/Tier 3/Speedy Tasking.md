@@ -1,8 +1,8 @@
 ---
 tags:
-  - _Tier-3
-  - -Talent-Active
-  - -Talent-Downtime
+  - Tier-3
+  - Talent-Active
+  - Talent-Downtime
 ---
 **Tier:** 3
 **Activation:** Active (Incidental)

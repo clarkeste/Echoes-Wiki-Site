@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Positioning
-  - -Talent-Duelist
+  - Tier-1
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Positioning
+  - Talent-Duelist
 ---
 **Tier:** 1
 **Activation:** Active (Action)

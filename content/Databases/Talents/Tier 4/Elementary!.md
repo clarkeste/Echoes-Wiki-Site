@@ -1,8 +1,8 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Active
-  - -Talent-Utility
+  - Tier-4
+  - Talent-Active
+  - Talent-Utility
 ---
 **Tier:** 4
 **Activation:** Active (Action)

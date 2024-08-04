@@ -1,11 +1,10 @@
 An old but elegant and curved [[Gorons|Goron]] design from the period of the Hero of Time, the Giant’s Blade–also known as the Giant’s Knife–has since received popularly among the [[Sheikah]] as a large but swift blade.
-
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfXy8tNy2ab0gd_KwwQXtX8NGsD7g7RBtPQydMZpHcxWgchnX1PdZ0qQ2-7-MjkJsbgdFlTE-mBIgwcvWZOYST8HWSfA-C7954N6Cv8imsRnUJgc8YjEp8RdRP34vGpeZPWaAdP7aHt_r6nhvazxwzWOdw?key=3WrtrjXbNzWwwaZ1xaZ5eg)
-
+![[Weapon Biggoron Sword 1.png]]
 [[Damage|Damage]]: +6
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance]]: 3
 
 [[Unwieldy (Passive) (Quality)|Unwieldy]] 4
 [[Defensive (Passive) (Quality)|Defensive]] 1

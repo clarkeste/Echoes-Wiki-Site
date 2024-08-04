@@ -1,8 +1,8 @@
 ---
 tags:
-  - _Tier-5
-  - -Talent-Social-Oriented
-  - -Talent-Combat-Oriented
+  - Tier-5
+  - Talent-Social-Oriented
+  - Talent-Combat-Oriented
 ---
 **Tier:** 5
 **Activation:** Active (Action)

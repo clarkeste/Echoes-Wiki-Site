@@ -6,6 +6,7 @@ A sword brandished by the soldiers who once fought for Hyrule Castle. It is dura
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 1
 
 [[Accurate (Passive) (Quality)|Accurate]] 1
 [[Quick Charge (Passive) (Quality)|Quick Charge]]

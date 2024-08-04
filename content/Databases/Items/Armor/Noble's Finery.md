@@ -12,5 +12,5 @@ Garb used by Noblemen and officials who can afford and seek out such clothing. I
 
 Special: Add a [[Boost Dice|Boost Die]] to all [[Social Checks|Social Checks]] when worn in the company of [[Character|Characters]] that would appreciate such things.
 
-Price: 650 [[Rupees]]
+Price: 2500 [[Rupees]]. Actual value is 600 and can be purchased at such at [[Character Creation Guide|Character Creation]].
 [[Affiliations|Affiliation]]: None

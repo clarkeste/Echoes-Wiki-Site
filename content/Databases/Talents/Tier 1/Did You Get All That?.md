@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Social-Oriented
-  - -Talent-Utility
-  - -Talent-Passive
+  - Tier-1
+  - Talent-Social-Oriented
+  - Talent-Utility
+  - Talent-Passive
 ---
 **Tier:** 1
 **Activation:** Passive

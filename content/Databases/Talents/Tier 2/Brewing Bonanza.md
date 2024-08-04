@@ -1,8 +1,8 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Active
-  - -Talent-Potion-Oriented
+  - Tier-2
+  - Talent-Active
+  - Talent-Potion-Oriented
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

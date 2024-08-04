@@ -1,10 +1,10 @@
 A short and thin wire, often from a piano, used for the nefarious art of assassination. It can be used to strangle an unsuspecting victim, and incapacitate or kill them.
-
-
+![](https://i.imgur.com/4vEf5G9.png)
 
 [[Damage|Damage]]: +0
 [[Critical Rating]]: 4
 [[Skills|Skill]]: [[Brawl|Brawl]]
+[[Encumbrance|Encumbrance]]: 1
 
 [[Ensnare (Active) (Quality)|Ensnare]] 1
 [[Stun (Active) (Quality)|Stun]] 4

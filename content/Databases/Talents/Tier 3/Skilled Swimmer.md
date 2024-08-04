@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-3
-  - -Talent-Passive
-  - -Talent-Combat-Oriented
-  - -Talent-Turn-Economy
-  - -Talent-Utility
+  - Tier-3
+  - Talent-Passive
+  - Talent-Combat-Oriented
+  - Talent-Turn-Economy
+  - Talent-Utility
 ---
 **Tier:** 3
 **Activation:** Passive

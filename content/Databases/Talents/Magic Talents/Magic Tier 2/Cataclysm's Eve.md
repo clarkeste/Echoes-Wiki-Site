@@ -1,9 +1,9 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Passive
-  - -Talent-Utility
-  - -Talent-Setbacks-and-Boosts
+  - Talent-Spells
+  - Talent-Passive
+  - Talent-Utility
+  - Talent-Setbacks-and-Boosts
 ---
 **Tier:** 2
 **Activation:** Passive

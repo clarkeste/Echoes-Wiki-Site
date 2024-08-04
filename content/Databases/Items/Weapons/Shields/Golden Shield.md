@@ -1,4 +1,4 @@
-A [[Shields|shield]] issued out to officers and captains among the [[Gerudo|Gerudo]] military. Gaining one requires explicit permission from the Gerudo Chief, and are gifted; but some are still sold illegally.
+A [[Weapons#Shields|Shield]] issued out to officers and captains among the [[Gerudo|Gerudo]] military. Gaining one requires explicit permission from the Gerudo Chief, and are gifted; but some are still sold illegally.
 
 
 CHANGE IMAGE TO RADIANT SHIELD
@@ -6,8 +6,8 @@ CHANGE IMAGE TO RADIANT SHIELD
 [[Damage|Damage]]: +3
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 3
-[[Encumbrance|Encumbrance]]: 2
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 1
 
 [[Disorient (Active) (Quality)|Disorient]] 1
 [[Concussive (Active) (Quality)|Concussive]] 1

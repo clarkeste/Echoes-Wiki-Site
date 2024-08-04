@@ -5,8 +5,8 @@ A shield stronger and heavier than its wooden counterparts. Its metal design pre
 [[Damage|Damage]]: +1
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 5
-[[Encumbrance|Encumbrance]]: 5
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 3
 
 [[Inaccurate (Passive) (Quality)|Inaccurate]] 1
 [[Disorient (Active) (Quality)|Disorient]] 2

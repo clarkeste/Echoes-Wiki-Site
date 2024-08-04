@@ -1,8 +1,8 @@
-R
+The largest type of [[Rupee Wallet]].
 
 
 
-[[Encumbrance|Encumbrance]]: 3
+[[Encumbrance|Encumbrance]]: 2
 Effect: May hold up to 4999 [[Rupees|Rupees]]. Each additional 50 Rupees after that point adds one [[Encumbrance|Encumbrance]] point.
 
 Price: 999 [[Rupees]]

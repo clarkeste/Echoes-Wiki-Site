@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Passive
-  - -Talent-Career-Skills
-  - -Talent-Utility
+  - Tier-4
+  - Talent-Passive
+  - Talent-Career-Skills
+  - Talent-Utility
 ---
 **Tier:** 4
 **Activation:** Passive

@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Active
-  - -Talent-Utility
-  - -Talent-Mounts
+  - Tier-2
+  - Talent-Active
+  - Talent-Utility
+  - Talent-Mounts
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

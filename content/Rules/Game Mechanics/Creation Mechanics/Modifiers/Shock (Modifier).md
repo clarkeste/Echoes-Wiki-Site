@@ -17,7 +17,7 @@ Stacks: No (Singular)
 Limit: 1
 Shock is often related to electricity, and the ability to cause a surprising jolt, or the ability for the [[Spell Creation|Spell]] to be conducted through metal and water. When used on a Spell, that Spell becomes electrical.
 
-On [[Attack Spell|Attack Spells]] that have the [[Shock (Active) (Quality)|Shock Quality]], the [[Character|user]] can spend three [[Advantage|Advantage]] to disarm an [[Adversary|enemy]] without sacrificing the [[Damage|Damage]] of the Attack, or needing a successful check. In addition, Shock will deal [[Damage#Base Damage|Base Damage]] to any other creature connected to the original target via anything made of metal, such as a floor, wall, chain, or any other object. Water will conduct Shock up to [[Short Range|Short Range]].
+On [[Attack|Attack Spells]] that have the [[Shock (Active) (Quality)|Shock Quality]], the [[Character|user]] can spend three [[Advantage|Advantage]] to disarm an [[Adversary|enemy]] without sacrificing the [[Damage|Damage]] of the Attack, or needing a successful check. In addition, Shock will deal [[Damage#Base Damage|Base Damage]] to any other creature connected to the original target via anything made of metal, such as a floor, wall, chain, or any other object. Water will conduct Shock up to [[Short Range|Short Range]].
 
 ### [[Potion Creation|Potion Creation]]: Shock (4)
 Rarity: Uncommon

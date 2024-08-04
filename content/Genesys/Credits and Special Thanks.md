@@ -27,6 +27,8 @@ Finally, this Wiki uses artwork from various places on the internet, often by ex
 
 [Cosmic-hollow](https://cosmic-hollow-blog.tumblr.com/) This is an artists who does some really cute and soulful, overall really good looking artwork.
 
+[Nika Zhdanok](https://www.artstation.com/nsnmw) is an awesome artist/3d modeler who makes really great and a large variety of models that can be purchased and used in animations or games. Take a look!
+
 [Alan Balleda](https://alballeda.artstation.com/projects/Jlo1Pd?album_id=239975) An artist who makes really professional character designs, and who made some excellent Zelda redesigns.
 
 [Lulles/Luisa](https://twitter.com/_lulles_/status/1030140411266957312) absolutely stunning artwork, and the style used in their Zelda pieces fit the world perfectly.

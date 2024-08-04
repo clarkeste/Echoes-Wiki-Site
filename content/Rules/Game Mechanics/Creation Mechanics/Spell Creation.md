@@ -15,7 +15,7 @@ Magic in [[Echoes of the Departed|Echoes of the Departed]] a is often very soft 
   
 To represent this Echoes of the Departed uses a system where you can make your very own Spells, allowing you to flex your creative muscles.
 
-How this works is that there are 10 [[Spell Creation#Base Powers|Base Powers]], such as [[Attack Spell|Attack]], [[Telepathy|Telepathy]], or [[Manipulate|Manipulate]]. So long as you have a single rank of [[Force|Force]], you may cast using any of these Base Powers. However, that is not all–you can modify these Base Powers using [[Modifiers|Modifiers]].
+How this works is that there are 10 [[Spell Creation#Base Powers|Base Powers]], such as [[Attack|Attack]], [[Telepathy|Telepathy]], or [[Manipulate|Manipulate]]. So long as you have a single rank of [[Force|Force]], you may cast using any of these Base Powers. However, that is not all–you can modify these Base Powers using [[Modifiers|Modifiers]].
 
 All the Modifiers are listed below. They include things like [[Burn (Modifier)|Burn]], [[Ensnare (Modifier)|Ensnare]], [[Accurate (Modifier)|Accurate]], [[Linked (Modifier)|Linked]], [[Malice (Modifier)|Malice]], etc. The idea is to pick a Base Power, and then pick a set of Modifiers–and test your Spell to discover its effects. While what various Modifiers do to Attack may be obvious, they may not be as obvious for a Base Power like [[Prophecy|Prophecy]].
 
@@ -29,7 +29,7 @@ Here are the Base Powers–they form the foundation of your Spells! First step i
 ### Creating a Spell
 
 #### Base Powers
-- [[Attack Spell|Attack]]
+- [[Attack|Attack]]
 - [[Manipulate]]
 - [[Endow]]
 - [[Life]]

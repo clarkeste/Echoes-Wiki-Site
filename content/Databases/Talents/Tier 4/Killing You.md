@@ -1,8 +1,8 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Active
-  - -Talent-Combat-Oriented
+  - Tier-4
+  - Talent-Active
+  - Talent-Combat-Oriented
 aliases:
   - Killing You
 ---

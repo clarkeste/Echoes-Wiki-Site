@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-3
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Characteristics
+  - Tier-3
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Characteristics
 ---
 **Tier:** 3
 **Activation:** Active (Incidental)

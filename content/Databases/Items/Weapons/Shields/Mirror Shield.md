@@ -5,8 +5,8 @@ The Mirror Shield is an item of myth; first known to have been wielded by the He
 [[Damage|Damage]]: +2
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4
-[[Encumbrance|Encumbrance]]: 3
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 2
 
 [[Disorient (Active) (Quality)|Disorient]] 2
 [[Defensive (Passive) (Quality)|Defensive]] 2, [[Deflective (Passive) (Quality)|Deflective]] 4

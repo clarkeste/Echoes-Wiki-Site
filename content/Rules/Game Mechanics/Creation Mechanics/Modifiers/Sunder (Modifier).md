@@ -14,9 +14,9 @@ Sunder is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creat
 Active: Yes
 Stacks: No (Singular)
 Limit: 1
-Sunder represents the ability to interact with the durability and well-being of [[Items|items]], including [[Weapons|weapons]] such as Swords and [[Shields|Shields]].
+Sunder represents the ability to interact with the durability and well-being of [[Items|items]], including [[Weapons|weapons]] such as Swords and [[Weapons#Shields|Shields]]
 
-An [[Attack Spell|Attack Spell]] with Sunder may damage [[Weapons|Weapons]], with some exceptions. Every 2 [[Advantage|Advantages]] spent will damage it one stage. It starts on Stage 0. Stage 1 through 4 damage the weapon, but it is still intact and can be repaired; Stage 5 completely destroys a Weapon. It is difficult to repair in this state and does not confer any benefits.
+An [[Attack|Attack Spell]] with Sunder may damage [[Weapons|Weapons]], with some exceptions. Every 2 [[Advantage|Advantages]] spent will damage it one stage. It starts on Stage 0. Stage 1 through 4 damage the weapon, but it is still intact and can be repaired; Stage 5 completely destroys a Weapon. It is difficult to repair in this state and does not confer any benefits.
 
 ### [[Potion Creation|Potion Creation]]: Sunder (3)
 Rarity: Common

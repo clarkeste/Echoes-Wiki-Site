@@ -1,8 +1,8 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Characteristics
-  - -Talent-Passive
+  - Talent-Spells
+  - Talent-Characteristics
+  - Talent-Passive
 ---
 **Tier:** 5
 **Activation:** Passive

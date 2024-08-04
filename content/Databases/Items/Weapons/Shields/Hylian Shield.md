@@ -1,12 +1,12 @@
-A type of shield passed down through the Hyrulean Royal Family, along with the legend of the hero who first wielded it. It was only given to the most skilled warriors in all of Hyrule. Its defensive capabilities and durability outshine all other [[Shields]].
+A type of shield passed down through the Hyrulean Royal Family, along with the legend of the hero who first wielded it. It was only given to the most skilled warriors in all of Hyrule. Its defensive capabilities and durability outshine all other [[Weapons#Shields|Shields]].
 
 
 
 [[Damage|Damage]]: +3
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4
-[[Encumbrance|Encumbrance]]: 2
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 5
 
 [[Accurate (Passive) (Quality)|Accurate]] 2
 [[Disorient (Active) (Quality)|Disorient]] 3

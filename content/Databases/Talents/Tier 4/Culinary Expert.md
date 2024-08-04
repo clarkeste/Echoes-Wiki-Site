@@ -1,8 +1,8 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Passive
-  - -Talent-Potion-Oriented
+  - Tier-4
+  - Talent-Passive
+  - Talent-Potion-Oriented
 ---
 **Tier:** 4
 **Activation:** Passive

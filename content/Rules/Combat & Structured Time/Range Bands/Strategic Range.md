@@ -8,7 +8,7 @@ tags:
   - Difficulty
   - New-Rules
 ---
-Strategic Range represents distances beyond[[Extreme Range| Extreme Range]]. At this range, people cannot see one another with the naked eye, or hear each other shout. Thus, it is rarely used. However, Strategic Range is still useful for certain [[Gunnery|Gunnery]] [[Weapons|Weapons]] with a long range, such as the [[Cannons|Cannons]] found on a ship. Often, Strategic Range Weapons do not have a direct line of sight.
+Strategic Range represents distances beyond[[Extreme Range| Extreme Range]]. At this range, people cannot see one another with the naked eye, or hear each other shout. Thus, it is rarely used. However, Strategic Range is still useful for certain [[Gunnery|Gunnery]] [[Weapons|Weapons]] with a long range, such as the [[Cannon|Cannons]] found on a ship. Often, Strategic Range Weapons do not have a direct line of sight.
 
 Indirect-fire weapons such as artillery often function at Strategic Range, as do self-guided weapons.
 

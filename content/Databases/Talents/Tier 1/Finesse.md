@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Characteristics
-  - -Talent-Combat-Oriented
-  - -Talent-Duelist
-  - -Talent-Passive
+  - Tier-1
+  - Talent-Characteristics
+  - Talent-Combat-Oriented
+  - Talent-Duelist
+  - Talent-Passive
 ---
 **Tier:** 1
 **Activation:** Passive

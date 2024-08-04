@@ -5,6 +5,7 @@ A sword often used by Noblemen for self-defense. Its high price-tag is in part t
 [[Damage|Damage]]: +3
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 3
+[[Encumbrance|Encumbrance]]: 2
 
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
 

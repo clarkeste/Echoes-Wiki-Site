@@ -5,8 +5,8 @@ A shield issued to the Hyrulean royal family's immediate guard detail. It boasts
 [[Damage|Damage]]: +2
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 5
-[[Encumbrance|Encumbrance]]: 4
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 2
 
 [[Disorient (Active) (Quality)|Disorient]] 1
 [[Concussive (Active) (Quality)|Concussive]] 1

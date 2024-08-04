@@ -4,7 +4,7 @@ Crude but effective Iron Armor; its high amounts of metal lend a great deal of d
 
 [[Soak|Soak]]: 4
 [[Defense|Defense]]: 1
-[[Encumbrance|Encumbrance]]: 11
+[[Encumbrance|Encumbrance]]: 10
 
 Price: 1200 [[Rupees]]
 [[Affiliations|Affiliation]]: None

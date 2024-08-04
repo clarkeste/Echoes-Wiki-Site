@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Positioning
+  - Tier-1
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Positioning
 ---
 **Tier:** 1
 **Activation:** Active (Incidental) 

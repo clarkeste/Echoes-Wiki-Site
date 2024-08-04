@@ -4,7 +4,7 @@ This attire was made by the Hylians who reside in the Gerudo Desert after its or
 
 [[Soak|Soak]]: 0
 [[Defense|Defense]]: 0
-[[Encumbrance|Encumbrance]]: 2
+[[Encumbrance|Encumbrance]]: 1
 
 Special: Protects against warm climates and reduces debuffs from being inside them.
 

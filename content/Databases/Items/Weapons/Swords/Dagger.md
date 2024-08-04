@@ -5,11 +5,11 @@ Daggers are small blades that can be much more easily hidden than other [[Weapon
 [[Damage|Damage]]: +1
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 2
-[[Encumbrance|Encumbrance]]: 1
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 0
 
 [[Swift Strike (Passive) (Quality)|Swift Strike]] 2
-Special: Whenever making a [[Skill Checks|Check]] to attempt to hide this [[Items|Item]], add two [[Boost Dice]]. Additionally, Daggers cannot benefit from the [[Parry]] [[Talents|Talent]].
+Special: Daggers cannot benefit from the [[Parry]] [[Talents|Talent]]. All [[Critical Injury|Critical Injuries]] inflicted with a Dagger have their Critical Injury roll reduced by -20.
 
-Price: 99 [[Rupees]]
+Price: 119 [[Rupees]]
 [[Affiliations|Affiliation]]: None

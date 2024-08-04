@@ -1,8 +1,8 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Active
-  - -Talent-Passive
+  - Tier-1
+  - Talent-Active
+  - Talent-Passive
 ---
 **Tier:** 1
 **Activation:** Active (Action)

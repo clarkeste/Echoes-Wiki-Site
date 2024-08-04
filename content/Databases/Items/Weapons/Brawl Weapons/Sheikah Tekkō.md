@@ -1,10 +1,9 @@
 The Tekkō is a Sheikah self-defense [[Weapons|weapon]]. It comes in pairs and resembles horseshoes connected together to create a weapon that can be used for cutting and defense.
 
-
-
 [[Damage|Damage]]: +1
 [[Critical Rating]]: 3
 [[Skills|Skill]]: [[Brawl|Brawl]]
+[[Encumbrance|Encumbrance]]: 0
 
 [[Defensive (Passive) (Quality)|Defensive]] 1
 [[Disorient (Active) (Quality)|Disorient]] 2

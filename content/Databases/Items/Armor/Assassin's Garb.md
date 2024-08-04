@@ -1,7 +1,5 @@
 Not used exclusively by assassins, but often associated with them. This armor forgoes defensive specifications to instead provide light fabrics that let the user dodge and weave out of the way of strikes.
-
-![](https://i.imgur.com/W7djEjl.png)
-
+![](https://i.imgur.com/ofkzLNQ.png)
 [[Soak|Soak]]: 0
 [[Defense|Defense]]: 2
 [[Encumbrance|Encumbrance]]: 2
@@ -10,6 +8,3 @@ Special: Add one [[Boost Dice|Boost Die]] to [[Stealth|Stealth]] [[Skill Checks|
 
 Price: 749 [[Rupees]]
 [[Affiliations|Affiliation]]: None, [[Should my character believe in the Royalists, or the Followers?|Followers]]
-
-
-![](https://i.imgur.com/ofkzLNQ.png)

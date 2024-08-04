@@ -6,6 +6,7 @@ A single-edged sword traditional to the [[Sheikah|Sheikah]] tribe. Forged using 
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 1
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 1
 
 [[Pierce (Passive) (Quality)|Pierce]] 1
 [[Empowered Flanking (Passive) (Quality)|Empowered Flanking]]

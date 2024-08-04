@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Duelist
-  - -Talent-Strain-Spending
+  - Tier-2
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Duelist
+  - Talent-Strain-Spending
 ---
 **Tier:** 2
 **Activation:** Active (Maneuver) 

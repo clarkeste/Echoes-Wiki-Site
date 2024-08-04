@@ -16,7 +16,7 @@ Stacks: Yes
 Limit: None
 Linked [[Spell Creation|Spells]] are powers that fire multiple projectiles, or that are designed to give to affect multiple people.
 
-Some Spells are capable of shooting multiple projectiles. With a successful [[Attack Spell|Attack Spell]], the wielder may spend 2 [[Advantage|Advantage]] to gain an additional hit, and may do so a number of times equal to the Spell's Linked rating. Additional hits deal the same amount as the first one.
+Some Spells are capable of shooting multiple projectiles. With a successful [[Attack|Attack Spell]], the wielder may spend 2 [[Advantage|Advantage]] to gain an additional hit, and may do so a number of times equal to the Spell's Linked rating. Additional hits deal the same amount as the first one.
 
 ### [[Potion Creation]]: Linked (2)
 Rarity: Uncommon

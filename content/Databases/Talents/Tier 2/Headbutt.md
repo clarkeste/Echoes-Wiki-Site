@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Wounds
-  - -Talent-Positioning
+  - Tier-2
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Wounds
+  - Talent-Positioning
 ---
 **Tier: 2**
 **Activation:** Active (Incidental)

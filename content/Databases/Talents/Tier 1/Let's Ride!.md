@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Active
-  - -Talent-Mounts
-  - -Talent-Ship
-  - -Talent-Turn-Economy
+  - Tier-1
+  - Talent-Active
+  - Talent-Mounts
+  - Talent-Ship
+  - Talent-Turn-Economy
 ---
 **Tier:** 1
 **Activation:** Active (Incidental)

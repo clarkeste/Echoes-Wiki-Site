@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-5
-  - -Talent-Active
-  - -Talent-Strain-Recovering
-  - -Talent-Wounds
-  - -Talent-Defense
+  - Tier-5
+  - Talent-Active
+  - Talent-Strain-Recovering
+  - Talent-Wounds
+  - Talent-Defense
 ---
 **Tier:** 5
 **Activation:** Active (Incidental, Out of Turn)

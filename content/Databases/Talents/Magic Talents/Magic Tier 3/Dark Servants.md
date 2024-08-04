@@ -1,9 +1,9 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Passive
-  - -Talent-Combat-Oriented
-  - -Talent-Utility
+  - Talent-Spells
+  - Talent-Passive
+  - Talent-Combat-Oriented
+  - Talent-Utility
 ---
 **Tier:** 3
 **Activation:** Passive

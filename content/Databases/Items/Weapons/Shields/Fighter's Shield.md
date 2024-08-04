@@ -5,8 +5,8 @@ The Fighter’s brand has long been known in Hyrule as a producer of quality per
 [[Damage|Damage]]: +1
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4  
-[[Encumbrance|Encumbrance]]: 2
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 1
 
 [[Accurate (Passive) (Quality)|Accurate]] 1
 [[Disorient (Active) (Quality)|Disorient]] 2

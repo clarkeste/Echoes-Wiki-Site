@@ -1,9 +1,9 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Social-Oriented
-  - -Talent-Active
-  - -Talent-Setbacks-and-Boosts
+  - Talent-Spells
+  - Talent-Social-Oriented
+  - Talent-Active
+  - Talent-Setbacks-and-Boosts
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

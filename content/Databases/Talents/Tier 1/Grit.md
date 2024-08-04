@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Passive
-  - -Talent-Strain-Recovering
-  - -Talent-Derived-Attributes
-  - -Talent-Ranked
+  - Tier-1
+  - Talent-Passive
+  - Talent-Strain-Recovering
+  - Talent-Derived-Attributes
+  - Talent-Ranked
 ---
 **Tier:** 1
 **Activation:** Passive

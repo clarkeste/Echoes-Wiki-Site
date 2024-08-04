@@ -6,7 +6,7 @@ While whips have usually been used in herding or controlling animals, some thiev
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4
 [[Range Bands|Range]]: [[Medium Range|Medium]]
-[[Encumbrance|Encumbrance]]: 2
+[[Encumbrance|Encumbrance]]: 1
 
 [[Ensnare (Active) (Quality)|Ensnare]] 3
 [[Knockdown (Active) (Quality)|Knockdown]]

@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Knowledge-Oriented
-  - -Talent-Setbacks-and-Boosts
+  - Tier-4
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Knowledge-Oriented
+  - Talent-Setbacks-and-Boosts
 ---
 **Tier:** 4
 **Activation:** Active (Action)

@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Active
-  - -Talent-Social-Oriented
-  - -Talent-Strain-Recovering
+  - Tier-1
+  - Talent-Active
+  - Talent-Social-Oriented
+  - Talent-Strain-Recovering
 ---
 **Tier:** 1 
 **Activation:** Active (Incidental) 

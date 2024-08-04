@@ -6,6 +6,7 @@ This spear's center of gravity is in its tip due to its several prongs, making i
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 2
 
 [[Unwieldy (Passive) (Quality)|Unwieldy]] 3
 [[Linked (Active) (Quality)|Linked]] 2

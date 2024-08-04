@@ -1,8 +1,8 @@
 ---
 tags:
-  - -Talent-Spells
-  - -Talent-Wounds
-  - -Talent-Active
+  - Talent-Spells
+  - Talent-Wounds
+  - Talent-Active
 ---
 **Tier:** 2 
 **Activation:** Active (Incidental) 

@@ -1,11 +1,11 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Defense
-  - -Talent-Ranked
-  - -Talent-Strain-Spending
+  - Tier-2
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Defense
+  - Talent-Ranked
+  - Talent-Strain-Spending
 aliases:
   - Dodge Talent
 ---

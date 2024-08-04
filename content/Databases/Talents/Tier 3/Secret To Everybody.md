@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-3
-  - -Talent-Active
-  - -Talent-Social-Oriented
-  - -Talent-Sneaky
+  - Tier-3
+  - Talent-Active
+  - Talent-Social-Oriented
+  - Talent-Sneaky
 ---
 **Tier:** 3
 **Activation:** Active (Incidental)

@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Passive
-  - -Talent-Setbacks-and-Boosts
-  - -Talent-Combat-Oriented
-  - -Talent-Duelist
+  - Tier-2
+  - Talent-Passive
+  - Talent-Setbacks-and-Boosts
+  - Talent-Combat-Oriented
+  - Talent-Duelist
 ---
 **Tier:** 2
 **Activation:** Passive

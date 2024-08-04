@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-4
-  - -Talent-Active
-  - -Talent-Tactics-and-Leadership
-  - -Talent-Defense
+  - Tier-4
+  - Talent-Active
+  - Talent-Tactics-and-Leadership
+  - Talent-Defense
 ---
 **Tier:** 4 
 **Activation:** Active (Action) 

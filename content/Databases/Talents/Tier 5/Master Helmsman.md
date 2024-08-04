@@ -1,11 +1,11 @@
 ---
 tags:
-  - _Tier-5
-  - -Talent-Strain-Spending
-  - -Talent-Ship
-  - -Talent-Mounts
-  - -Talent-Active
-  - -Talent-Turn-Economy
+  - Tier-5
+  - Talent-Strain-Spending
+  - Talent-Ship
+  - Talent-Mounts
+  - Talent-Active
+  - Talent-Turn-Economy
 ---
 **Tier:** 5 
 **Activation:** Active (Incidental) 

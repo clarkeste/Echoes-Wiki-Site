@@ -6,7 +6,7 @@ Large hammers are rare, but not unheard of; unlike Hylians and other species who
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 4
 [[Ranged|Ranged]]: [[Engaged Range|Engaged]]
-[[Encumbrance|Encumbrance]]: 4
+[[Encumbrance|Encumbrance]]: 3
 
 [[Concussive (Active) (Quality)|Concussive]] 1
 [[Cumbersome (Passive) (Quality)|Cumbersome]] 3

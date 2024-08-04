@@ -1,10 +1,10 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Active
-  - -Talent-Strain-Spending
-  - -Talent-Combat-Oriented
-  - -Talent-Positioning
+  - Tier-1
+  - Talent-Active
+  - Talent-Strain-Spending
+  - Talent-Combat-Oriented
+  - Talent-Positioning
 ---
 
 **Tier:** 1 

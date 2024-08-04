@@ -1,8 +1,8 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Active
-  - -Talent-Social-Oriented
+  - Tier-1
+  - Talent-Active
+  - Talent-Social-Oriented
 ---
 **Tier:** 1
 **Activation:** Active (Incidental)

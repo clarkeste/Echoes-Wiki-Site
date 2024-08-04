@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-1
-  - -Talent-Passive
-  - -Talent-Setbacks-and-Boosts
-  - -Talent-Combat-Oriented
+  - Tier-1
+  - Talent-Passive
+  - Talent-Setbacks-and-Boosts
+  - Talent-Combat-Oriented
 ---
 **Tier:** 1
 **Activation:** Passive

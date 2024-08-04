@@ -1,8 +1,8 @@
 ---
 tags:
-  - -Talent-Active
-  - -Talent-Ship
-  - _Tier-2
+  - Talent-Active
+  - Talent-Ship
+  - Tier-2
 ---
 **Tier:** 2
 **Activation:** Active (Maneuver)

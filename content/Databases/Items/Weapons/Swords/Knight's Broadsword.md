@@ -6,6 +6,7 @@ Knights of Hyrule who earned their position through skill once carried this eleg
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 2
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance|Encumbrance]]: 1
 
 [[Accurate (Passive) (Quality)|Accurate]] 1
 [[Defensive (Passive) (Quality)|Defensive]] 1

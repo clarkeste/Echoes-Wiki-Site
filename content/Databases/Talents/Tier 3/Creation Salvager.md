@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-3
-  - -Talent-Active
-  - -Talent-Potion-Oriented
-  - -Talent-Crafting-Oriented
+  - Tier-3
+  - Talent-Active
+  - Talent-Potion-Oriented
+  - Talent-Crafting-Oriented
 ---
 **Tier:** 3
 **Activation:** Active (Incidental)

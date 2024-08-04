@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-2
-  - -Talent-Active
-  - -Talent-Combat-Oriented
-  - -Talent-Social-Oriented
+  - Tier-2
+  - Talent-Active
+  - Talent-Combat-Oriented
+  - Talent-Social-Oriented
 aliases:
   - Scathing Tirade
 ---

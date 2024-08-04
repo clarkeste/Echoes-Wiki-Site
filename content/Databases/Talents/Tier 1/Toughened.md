@@ -2,11 +2,11 @@
 aliases:
   - Toughened
 tags:
-  - _Tier-1
-  - -Talent-Passive
-  - -Talent-Derived-Attributes
-  - -Talent-Wounds
-  - -Talent-Ranked
+  - Tier-1
+  - Talent-Passive
+  - Talent-Derived-Attributes
+  - Talent-Wounds
+  - Talent-Ranked
 ---
 **Tier:** 1 
 **Activation:** Passive 

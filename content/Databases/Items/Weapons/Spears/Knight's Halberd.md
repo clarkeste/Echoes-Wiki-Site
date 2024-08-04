@@ -6,6 +6,7 @@ A spear used by knights adept in mounted and long-ranged combat. The spearhead i
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Short Range|Short]]
+[[Encumbrance|Encumbrance]]: 3
 
 [[Defensive (Passive) (Quality)|Defensive]] 1
 [[Desperate Strength (Passive) (Quality)|Desperate Strength]]

@@ -1,9 +1,9 @@
 ---
 tags:
-  - _Tier-3
-  - -Talent-Active
-  - -Talent-Ship
-  - -Talent-Characteristics
+  - Tier-3
+  - Talent-Active
+  - Talent-Ship
+  - Talent-Characteristics
 ---
 **Tier:** 3
 **Activation:** Active (Action)
