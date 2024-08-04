@@ -1,5 +1,5 @@
 ---
-title: (Folder) Creation Mechanics
+title: Creation Mechanics
 ---
 This is the folder for Creation Mechanics. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

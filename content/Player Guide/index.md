@@ -1,5 +1,5 @@
 ---
-title: (Folder) Player Guide
+title: Player Guide
 ---
 This is the folder for Player Guides. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

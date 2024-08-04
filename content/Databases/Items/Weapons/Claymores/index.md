@@ -1,5 +1,5 @@
 ---
-title: (Folder) Claymores
+title: Claymores
 ---
 This is the folder for Claymore [[Weapons]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

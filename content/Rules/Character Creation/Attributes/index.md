@@ -1,5 +1,5 @@
 ---
-title: (Folder) Attributes
+title: Attributes
 ---
 This is the folder for [[Derived Attributes|Attributes]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

@@ -1,5 +1,5 @@
 ---
-title: (Folder) Tier 4
+title: Tier 4
 ---
 This is the folder for Tier 4 [[Talents]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

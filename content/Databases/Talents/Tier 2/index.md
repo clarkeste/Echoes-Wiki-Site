@@ -1,5 +1,5 @@
 ---
-title: (Folder) Tier 2
+title: Tier 2
 ---
 This is the folder for Tier 2 [[Talents]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

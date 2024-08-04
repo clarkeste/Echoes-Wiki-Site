@@ -1,5 +1,5 @@
 ---
-title: (Folder) Magic Tier 4
+title: Magic Tier 4
 ---
 This is the folder for [[Talents#Magic Talents|Magic Talents]] Tier 4. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

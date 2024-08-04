@@ -1,5 +1,5 @@
 ---
-title: (Folder) Base Powers
+title: Base Powers
 ---
 This is the folder for Base Powers related to [[Spell Creation]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

@@ -1,5 +1,5 @@
 ---
-title: (Folder) Armor
+title: Armor
 ---
 This is the folder for [[Armor]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

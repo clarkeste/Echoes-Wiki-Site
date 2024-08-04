@@ -1,5 +1,5 @@
 ---
-title: (Folder) Hazards
+title: Hazards
 ---
 This is the folder for Hazards. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

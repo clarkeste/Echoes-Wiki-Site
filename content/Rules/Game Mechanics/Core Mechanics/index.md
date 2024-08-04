@@ -1,5 +1,5 @@
 ---
-title: (Folder) Core Mechanics
+title: Core Mechanics
 ---
 This is the folder for Core Mechanics. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

@@ -1,5 +1,5 @@
 ---
-title: (Folder) Stats
+title: Stats
 ---
 This is the folder for Stats. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

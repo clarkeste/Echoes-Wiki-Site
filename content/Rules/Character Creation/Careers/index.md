@@ -1,5 +1,5 @@
 ---
-title: (Folder) Careers
+title: Careers
 ---
 This is the folder for [[Careers]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

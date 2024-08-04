@@ -1,5 +1,5 @@
 ---
-title: (Folder) Tier 5
+title: Tier 5
 ---
 This is the folder for Tier 5 [[Talents]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

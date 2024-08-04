@@ -1,5 +1,5 @@
 ---
-title: (Folder) Peoples
+title: Peoples
 ---
 This is the folder for [[Peoples]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

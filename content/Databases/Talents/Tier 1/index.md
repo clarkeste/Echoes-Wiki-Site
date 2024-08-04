@@ -1,5 +1,5 @@
 ---
-title: (Folder) Tier 1
+title: Tier 1
 ---
 This is the folder for Tier 1 [[Talents]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

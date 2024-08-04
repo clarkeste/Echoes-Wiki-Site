@@ -1,5 +1,5 @@
 ---
-title: (Folder) Spears
+title: Spears
 ---
 This is the folder for Pole-arm [[Weapons]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

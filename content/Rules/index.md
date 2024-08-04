@@ -1,5 +1,5 @@
 ---
-title: (Folder) Rules
+title: Rules
 ---
 This is the master folder for Rules in [[Echoes of the Departed]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

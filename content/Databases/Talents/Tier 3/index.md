@@ -1,5 +1,5 @@
 ---
-title: (Folder) Tier 3
+title: Tier 3
 ---
 This is the folder for Tier 3 [[Talents]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

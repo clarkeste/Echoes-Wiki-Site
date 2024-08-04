@@ -1,5 +1,5 @@
 ---
-title: (Folder) Secondary Mechanics
+title: Secondary Mechanics
 ---
 This is the folder for Secondary Mechanics. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

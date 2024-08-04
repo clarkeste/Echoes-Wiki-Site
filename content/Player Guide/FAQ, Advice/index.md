@@ -1,5 +1,5 @@
 ---
-title: (Folder) FAQ, Advice
+title: FAQ, Advice
 ---
 This is the folder for FAQ and advice. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

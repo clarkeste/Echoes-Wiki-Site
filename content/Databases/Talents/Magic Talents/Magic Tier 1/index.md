@@ -1,5 +1,5 @@
 ---
-title: (Folder) Magic Tier 1
+title: Magic Tier 1
 ---
 This is the folder for [[Talents#Magic Talents|Magic Talents]] Tier 1. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

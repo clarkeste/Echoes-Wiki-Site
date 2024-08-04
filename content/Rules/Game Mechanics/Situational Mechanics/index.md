@@ -1,5 +1,5 @@
 ---
-title: (Folder) Situational Mechanics
+title: Situational Mechanics
 ---
 This is the folder for Situational Mechanics. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

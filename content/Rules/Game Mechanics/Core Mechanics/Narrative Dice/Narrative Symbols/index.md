@@ -1,5 +1,5 @@
 ---
-title: (Folder) Narrative Symbols
+title: Narrative Symbols
 ---
 This is the folder for Narrative Symbols. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

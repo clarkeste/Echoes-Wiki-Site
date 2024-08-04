@@ -1,5 +1,5 @@
 ---
-title: (Folder) Magic Tier 2
+title: Magic Tier 2
 ---
 This is the folder for [[Talents#Magic Talents|Magic Talents]] Tier 2. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

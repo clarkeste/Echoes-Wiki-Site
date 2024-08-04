@@ -1,5 +1,5 @@
 ---
-title: (Folder) Game Mechanics
+title: Game Mechanics
 ---
 This is the folder for Game Mechanics. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

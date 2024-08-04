@@ -1,5 +1,5 @@
 ---
-title: (Folder) Base Templates
+title: Base Templates
 ---
 This is the folder for Base Templates related to [[Item Creation]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

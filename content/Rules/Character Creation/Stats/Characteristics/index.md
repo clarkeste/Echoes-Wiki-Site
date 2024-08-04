@@ -1,5 +1,5 @@
 ---
-title: (Folder) Characteristics
+title: Characteristics
 ---
 This is the folder for Characteristics. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

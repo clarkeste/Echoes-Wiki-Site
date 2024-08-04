@@ -1,5 +1,5 @@
 ---
-title: (Folder) Items
+title: Items
 ---
 This is the folder for [[Items]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

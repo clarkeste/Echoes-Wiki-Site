@@ -1,5 +1,5 @@
 ---
-title: (Folder) Gear and Equipment
+title: Gear and Equipment
 ---
 This is the folder for Gear and Equipment. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

@@ -1,5 +1,5 @@
 ---
-title: (Folder) Types of Skills
+title: Types of Skills
 ---
 This is the folder for different Types of [[Skills]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

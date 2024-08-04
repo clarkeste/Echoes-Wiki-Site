@@ -1,5 +1,5 @@
 ---
-title: (Folder) Magic Talents
+title: Magic Talents
 ---
 This is the folder for [[Talents#Magic Talents|Magic Talents]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

@@ -1,5 +1,5 @@
 ---
-title: (Folder) Concepts
+title: Concepts
 ---
 This is the folder for Concepts. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

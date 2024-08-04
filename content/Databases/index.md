@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Databases (Items and Talents)
 ---
 This is the folder for Databases. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

@@ -1,5 +1,5 @@
 ---
-title: (Folder) Shields
+title: Shields
 ---
 This is the folder for [[Weapons#Shields|Shields]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

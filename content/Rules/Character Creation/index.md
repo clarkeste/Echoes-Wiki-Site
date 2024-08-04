@@ -1,5 +1,5 @@
 ---
-title: (Folder) Character Creation
+title: Character Creation
 ---
 This is the folder for [[Character Creation Guide|Character Creation]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

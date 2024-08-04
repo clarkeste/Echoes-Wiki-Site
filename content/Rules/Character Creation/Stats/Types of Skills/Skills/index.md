@@ -1,5 +1,5 @@
 ---
-title: (Folder) Skills
+title: Skills
 ---
 This is the folder for [[Skills]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

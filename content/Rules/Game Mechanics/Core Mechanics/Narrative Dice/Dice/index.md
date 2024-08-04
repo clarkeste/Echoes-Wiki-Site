@@ -1,5 +1,5 @@
 ---
-title: (Folder) Dice
+title: Dice
 ---
 This is the folder for Dice. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

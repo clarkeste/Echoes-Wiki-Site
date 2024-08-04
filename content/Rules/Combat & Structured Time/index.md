@@ -1,5 +1,5 @@
 ---
-title: (Folder) Combat & Structured Time
+title: Combat & Structured Time
 ---
 This is the folder for Combat & Structured Time. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

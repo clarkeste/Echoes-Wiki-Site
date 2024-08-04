@@ -1,5 +1,5 @@
 ---
-title: (Folder) Genesys
+title: Genesys
 ---
 This is the folder for [[Genesys]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

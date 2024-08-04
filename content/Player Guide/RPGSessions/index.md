@@ -1,5 +1,5 @@
 ---
-title: (Folder) RPGSessions
+title: RPGSessions
 ---
 This is the folder for [[RPGSessions]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

@@ -1,5 +1,5 @@
 ---
-title: (Folder) Check Modifiers
+title: Check Modifiers
 ---
 This is the folder for Check Modifiers. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 
