@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 Large hammers are rare, but not unheard of; unlike Hylians and other species who often use hammers no bigger than their palm, Gorons have often produced these larger hammers to fit their frame.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdOG5TC6vLrRqjUPR8tZCldhTevp6AbGw8UUDAsgXb9Sw_to1-b-O1Xk3v4sdJl9Rq0JqKCPQKm5_c3w98IvtPhonsPnbpsnoVzlz7KKDjSOI5hzCwSWwaiaIPb0wK7OI5oSTyWXB_I_gRgVmqil_Q5dAhD?key=3WrtrjXbNzWwwaZ1xaZ5eg)

@@ -1,4 +1,9 @@
-The largest type of [[Rupee Wallet]].
+---
+tags:
+  - Items
+  - Items-Affordable
+---
+The largest type of [[Rupee Wallet]]. It’s specially designed to hold as many Rupees as possible, and can only fit in the biggest pockets when filled!
 
 
 

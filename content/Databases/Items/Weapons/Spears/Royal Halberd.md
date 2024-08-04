@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 This spear was issued to the knights who guarded Hyrule Castle's throne room. Its ornate design was applied by a craftsman in service to the royal family.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdYz8QmyvEdaajQgDnA57-rU1XJZmBQd-dZxjZ7KE0iIdbNBYHGEpdGa-GSAG2TGcAfMuWLT0YjxSCMjNvqfHtFvHywjb5Y40Ha4HJUEXxSPINaGjNy-XoeX7IsdfTOTvluVmp-dr8E4tR9WRsqjfawhZWe?key=3WrtrjXbNzWwwaZ1xaZ5eg)

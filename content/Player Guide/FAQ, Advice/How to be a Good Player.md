@@ -58,10 +58,24 @@ tags:
 
 Hey, it’s Clark again. Here are some other videos have good tips. Keep in mind, though, that they’re assuming an in-person game, so not all tips are applicable. I do not expect you to mail me a pencil.
 
+These are in order of what I think is the most useful!
+
+[What Makes a Good Player Character?](https://www.youtube.com/watch?v=Sd3stb5fz8I)
 
 [On Being a Good Player](https://www.youtube.com/watch?v=0MhjHHrfreo&pp=ygUUbWF0dCBjb2x2aWxsZSBwbGF5ZXI%3D)
 
 [Collaborating With The GM](https://www.youtube.com/watch?v=I-nfsi6B8d4&pp=ygUhbWF0dCBjb2x2aWxsZSBwbGF5ZXJzIGNvbGxhYnJvYXRl)
+
+On Playing an Evil Character
+
+[Roleplaying](https://www.youtube.com/watch?v=7YCVHnItKuY)
+I don’t agree with a lot about what is said about “one-dimensional characters”, or the examples used, but it is overall a good video. Nothing wrong with playing a 1D Character as he describes them, only that I don’t really feel like they count as 1D Characters. 
+
+A one-dimensional Character is a Character that is consistent no matter what. The examples he describes are Characters with one or two overwhelming personality traits that define them to make them memorable and interesting without having to put too much time into focusing on them. [A limp and an eyepatch, as author Brandon Sanderson describes it](https://kevinhabits.com/tag/brandon-sanderson). This doesn’t mean they don’t have a rich internal world, implied or not, it is just that we don’t see it, or it is relegated to just subtext.
+
+This is separate, in my opinion, from an *actual* one-dimensional Character. A true one-dimensional Character is a Character whose only defining trait is whether they like kiwis or not, or whether they are just “Good” or “Bad”. Even most side-characters should not be like this. For example, Captain Ozzel in Star Wars is not just a generic evil guy. He’s an arrogant evil guy who tries to shift responsibility. Likewise, neither is Captain Piett—instead, he is characterized, implicitly, by his fear, caution, and professionalism despite these things. 
+
+If we refer to these Characters as one-dimensional, I feel like we leave no room for describing true and boring one-dimensional Characters, of which I have seen many, both with inexperienced GMs and in books such as the Inheritance Cycle. 
 
 
 

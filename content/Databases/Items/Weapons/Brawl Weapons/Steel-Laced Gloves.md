@@ -1,6 +1,9 @@
 ---
 aliases:
   - gloves
+tags:
+  - Items
+  - Items-Affordable
 ---
 Steel-Laced Gloves (or ‘Iron Knuckles’) are hand-wear that, while otherwise looking normal, have been laced with steel. A punch from someone using these gloves will hurt significantly more than the average blow.
 

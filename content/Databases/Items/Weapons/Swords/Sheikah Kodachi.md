@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A short sword favored by the Sheikah of Kakariko Village. It is believed in Sheikah culture that simply gripping the hilt brings one to a state of spiritual unity, allowing the holder to sense anyone who feels enmity toward them.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfu1B7-qZ-r0QZ1mhFuWgvL6CmRTEC_2KTyDNjeUaz7RDEdlsIUYScNXoKgn46qTOaOuY5e83uvFBF9zHG4db5aSyknU2o4voBTYZ0p-vxfKrjnuOn6p7YvTNYtR9EEy_GLqA0e3WSZQbja1ArZrEJZO2s?key=3WrtrjXbNzWwwaZ1xaZ5eg)

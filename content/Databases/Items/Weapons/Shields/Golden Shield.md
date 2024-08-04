@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 A [[Weapons#Shields|Shield]] issued out to officers and captains among the [[Gerudo|Gerudo]] military. Gaining one requires explicit permission from the Gerudo Chief, and are gifted; but some are still sold illegally.
 
 

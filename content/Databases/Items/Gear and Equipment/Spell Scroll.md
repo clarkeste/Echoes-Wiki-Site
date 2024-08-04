@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 Large Guilds have cornered the market on knowledge of [[Spell Creation|Spells]]. A few of them sell scrolls designed by expert mages that each contain a Spell. To maximize their profits, Scrolls are not explicitly marked, and instead are meant to “surprise” their reader when it is first opened after purchasing.
 
 [[Encumbrance|Encumbrance]]: 0

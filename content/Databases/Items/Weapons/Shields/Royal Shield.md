@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 A shield issued to the Hyrulean royal family's immediate guard detail. It boasts an effective defense, but these days its appearance is rare.
 
 

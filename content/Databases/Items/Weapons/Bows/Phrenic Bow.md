@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 A bow passed down through the [[Sheikah|Sheikah]] tribe since time immemorial. Concentrating before drawing the string will allow its wielder to target distant enemies as easily as those nearby. Only a master can truly wield this bow.
 ![](https://i.imgur.com/GHLUbgT.png)
 [[Damage|Damage]]: 6
@@ -11,5 +16,5 @@ A bow passed down through the [[Sheikah|Sheikah]] tribe since time immemorial. C
 [[Flammable (Passive) (Quality)|Flammable]]
 Special: Lower [[Difficulty]] of hitting targets at [[Long Range|Long]] and [[Extreme Range]] by one.
 
-Price: 4000 [[Rupees]] [[Restricted|(R)]]
+Price: 5000 [[Rupees]] [[Restricted|(R)]]
 [[Affiliations|Affiliation]]: [[Sheikah]]

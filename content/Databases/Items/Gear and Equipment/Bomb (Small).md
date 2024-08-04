@@ -3,7 +3,7 @@ tags:
   - Items
   - Items-Affordable
 ---
-A small Bomb, usually used as a cheap source of explosive ammo for Cannons, for basic excavating… and as grenades. 
+A small Bomb, usually used as a cheap source of explosive ammo, for basic excavating… or as grenades. 
 
 [[Damage|Damage]]: 8
 [[Skills|Skill]]: [[Ranged|Ranged]]

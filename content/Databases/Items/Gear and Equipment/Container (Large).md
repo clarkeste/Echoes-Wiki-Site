@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A larger container, such as a crate or large backpack, that can carry many things inside of it.
 
 [[Encumbrance|Encumbrance]]: 6

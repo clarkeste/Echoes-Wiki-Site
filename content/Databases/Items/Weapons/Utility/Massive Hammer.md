@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 A very large hammer that can smash through even the strongest barrier, taking advantage of its user’s strength to bust down cracked walls.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcT2DbCNX4nD_8GuxEGwowyWdp2cyr9skokwmspc2Ynlif9VKBSV8_xU4tpSUybV_LYfpZ3fhEwa1nE7xaS9so2OYVP0nhSlsiB3SNfgjjiSlQUDPKU0OZxEHEBv2Qn7MUPQ5KBOuATyjI_iuNWN3SSYX-n?key=3WrtrjXbNzWwwaZ1xaZ5eg)
@@ -16,5 +21,5 @@ A very large hammer that can smash through even the strongest barrier, taking ad
 [[Stun (Active) (Quality)|Stun]] 5
 [[Vicious (Passive) (Quality)|Vicious]] 1
 
-Price: 4999 [[Rupees|Rupees]]
+Price: 4999 [[Rupees|Rupees]] [[Restricted|(R)]]
 [[Affiliations|Affiliation]]: None

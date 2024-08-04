@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 The Lantern is invaluable for any adventurer interested in exploring ruins, or the underground. Its heat and light, fueled by lantern oil, provide simple comforts.
 
 ![](https://i.imgur.com/b0PVNRw.png)

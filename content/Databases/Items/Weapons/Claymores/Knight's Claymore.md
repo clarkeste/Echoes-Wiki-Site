@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 Only the most confident of Hyrule Castle's knights carried this two-handed sword. Its cutting edge is finely honed.
 
 [[Damage|Damage]]: +5
@@ -12,5 +17,5 @@ Only the most confident of Hyrule Castle's knights carried this two-handed sword
 [[Unwieldy (Passive) (Quality)|Unwieldy]] 3 OR [[Cumbersome (Passive) (Quality)|Cumbersome]] 3
 Special: If the [[Character]] using this [[Weapons|Weapon]] disarms another Character, the [[Items|Item]] that was disarmed flies to [[Short Range|Short Range]] as opposed to landing at [[Engaged Range|Engaged Range]] like usual.
 
-Price: 1300 [[Rupees]]
+Price: 1300 [[Rupees]] [[Restricted|(R)]]
 [[Affiliations|Affiliation]]: Royalist

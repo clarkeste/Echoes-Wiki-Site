@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A small bow used by travelers for protection. It doesn't do a lot of damage, but it can be used to attack foes from a distance.
 ![](https://i.imgur.com/uGlLYGp.png)
 [[Damage|Damage]]: 6

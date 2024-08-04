@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 Storage for a sword, spear, bow, or [[Weapons#Shields|Shield]]. Sheaths and their equivalents often match with their swords to fit perfectly, often tied to the wielder’s back or their side.
 
 [[Encumbrance|Encumbrance]]: 0

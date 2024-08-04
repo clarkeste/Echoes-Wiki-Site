@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 The design of this metal shield has changed over time to match the sword-and-shield fighting style of some [[Gerudo|Gerudo]]. It's favored by soldiers and travelers alike, although few in Hyrule can gain one.
 
 

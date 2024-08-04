@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A sturdy shield loved by many adventurers. It is made of sturdy wood and reinforced with cheap steel; it is best suited to defending against weak monsters, animals, or self-defense.
 
 

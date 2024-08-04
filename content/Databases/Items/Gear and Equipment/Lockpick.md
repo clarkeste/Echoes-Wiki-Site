@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 With this tool, it becomes possible to attempt to pry open most modern locks, and many old ones as well. However, its restricted nature has made finding and purchasing them very expensive, unless one has the proper contacts.
 
 [[Encumbrance|Encumbrance]]: 0

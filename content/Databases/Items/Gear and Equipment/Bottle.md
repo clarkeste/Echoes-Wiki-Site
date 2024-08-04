@@ -1,6 +1,9 @@
 ---
 aliases:
   - Bottle
+tags:
+  - Items
+  - Items-Affordable
 ---
 Bottles are extremely important for any adventurer or traveler, and even most regular citizens have one or two in their homes or on their person. Bottles are durable and can store things such as [[Potions]] without diluting its effects. They are a valuable but largely uncommon commodity due to the difficulty of their production and low supply of adequate sand.
 

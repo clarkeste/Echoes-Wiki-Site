@@ -1,6 +1,9 @@
 ---
 aliases:
   - Traveler’s Claymore
+tags:
+  - Items
+  - Items-Affordable
 ---
 A basic two-handed sword often wielded by aspiring adventurers. Its weight can knock enemies' shields right out of their hands.
 

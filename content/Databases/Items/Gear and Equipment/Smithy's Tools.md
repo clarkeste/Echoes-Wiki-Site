@@ -1,6 +1,9 @@
 ---
 aliases:
   - portable version
+tags:
+  - Items
+  - Items-Affordable
 ---
 While not as useful as a stocked smithy station, having some tools can allow blacksmiths or other craftsmen to create or modify weapons on the go.
 

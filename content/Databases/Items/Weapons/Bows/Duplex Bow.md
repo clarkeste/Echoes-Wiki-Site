@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 A bow favored by assassins and those interested in its unique ability to shoot two arrows at once. However, due to a series of high-profile assassinations, the bow was made illegal during the King’s reign.
 
 ![](https://i.imgur.com/UHA8QUa.png)

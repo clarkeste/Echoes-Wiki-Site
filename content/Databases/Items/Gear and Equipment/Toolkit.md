@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A variety of equipment and gear used by those from all walks of life, like thieves, survivalists, or warriors.
 
 [[Encumbrance|Encumbrance]]: 1

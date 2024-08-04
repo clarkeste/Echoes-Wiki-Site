@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 Gliders of [[Echoes of the Departed/Hidden Peoples/Rito|Rito]] design have long been lauded as the highest quality; with their impressive ability to glide, the Rito Paraglider allows for individuals using them to travel up gusts of wind, glide between platforms, and break most falls with the proper technique. However, being too heavy means even the Paraglider might not be able to support your weight.
 
 [[Encumbrance]]: 2

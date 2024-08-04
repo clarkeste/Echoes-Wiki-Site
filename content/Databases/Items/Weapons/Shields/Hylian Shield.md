@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 A type of shield passed down through the Hyrulean Royal Family, along with the legend of the hero who first wielded it. It was only given to the most skilled warriors in all of Hyrule. Its defensive capabilities and durability outshine all other [[Weapons#Shields|Shields]].
 
 

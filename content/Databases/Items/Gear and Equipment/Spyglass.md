@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 Spyglasses are often used on naval ships, they have made their way to the various lands as well. They are extremely useful for attempting to see things at distances that would otherwise be impossible.
 
 [[Encumbrance|Encumbrance]]: 0

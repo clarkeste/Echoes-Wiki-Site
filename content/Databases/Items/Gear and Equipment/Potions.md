@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 Potions, created via [[Potion Creation|alchemy]], are among the most valuable [[Items]] in Hyrule. They can serve a wide variety of services to a wide variety of people, such as increasing one’s energy, increasing one’s hardiness, or even something as simple as being used by insomniacs for a peaceful night of rest.
 
 Any of the following types of Potions can be purchased, but must be stored in a [[Bottle]]. If they not stored in a glass Bottle their quality or their effects can be reduced by twice or more.

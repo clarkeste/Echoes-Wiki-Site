@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A full bottle of oil. Most commonly used to fuel Lanterns, but can also be thrown or used to cook.
 
 Encumbrance: None, stored in a [[Bottle]]

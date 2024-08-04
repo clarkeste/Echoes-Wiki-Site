@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 [[Gorons|Goron]] artisans used recycled metal to forge this [[Weapons|weapon]]. The tip is made from an old excavation bore, which affords it unmatched piercing capabilities.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdvCpXNTx0EfABUgPUwEqShANhucEo_yCDmHyEDq0Z25m3Bet1TD4pXQg8WCCrXMt5lXLlR9RWUIi7fM5qlWkQdHUkqNB3bEADm8U7Yeic7_E4MwJUSMjmzDR3nbtwU9LeJGnbEitTRXurBsRgjDCuvaUNJ?key=3WrtrjXbNzWwwaZ1xaZ5eg)

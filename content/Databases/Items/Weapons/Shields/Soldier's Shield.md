@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A [[Weapons#Shields|Shield]] used by the guards and soldiers of the Hyrulean Monarchy, and now by the [[Should my character believe in the Royalists, or the Followers?|Revolutionaries]] that replaced them. It's easy to handle and has a sturdy steel front, but its core is made of wood, so it can catch fire. Since the war has begun, it has become much more accessible and governments have stopped attempting to restrict its sale.
 
 

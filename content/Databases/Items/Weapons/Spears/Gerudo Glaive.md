@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 A glaive wielded by only the most skilled of the [[Gerudo]]. Its design prioritizes deadliness, reach and speed, but not accessibility.
 
 

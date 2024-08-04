@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 Torches are a larger and brighter version of the Lantern, much more versatile with its rod-like shape. It can also serve as a weapon in a pinch.
 
 [[Encumbrance]]: 1

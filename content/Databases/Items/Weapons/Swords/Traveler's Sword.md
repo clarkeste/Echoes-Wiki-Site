@@ -1,6 +1,9 @@
 ---
 aliases:
   - Traveler’s Sword
+tags:
+  - Items
+  - Items-Affordable
 ---
 A very common sword often kept by travelers to fend off small beasts and thieves. It's fairly durable, but a bit unreliable against actively aggressive opponents.
 

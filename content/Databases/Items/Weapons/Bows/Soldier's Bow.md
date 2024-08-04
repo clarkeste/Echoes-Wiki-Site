@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A bow designed for close-ranged armed conflict and warfare. Inflicts more damage than a civilian bow, but it will still burn if it touches fire.
 ![](https://i.imgur.com/wUKjEKq.png)
 [[Damage|Damage]]: 7

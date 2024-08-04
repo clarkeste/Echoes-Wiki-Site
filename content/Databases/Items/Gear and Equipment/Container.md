@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A small box, bag, or pouch, this bag is useful for storing items inside and making them more convenient to carry.
 
 [[Encumbrance|Encumbrance]]: 2

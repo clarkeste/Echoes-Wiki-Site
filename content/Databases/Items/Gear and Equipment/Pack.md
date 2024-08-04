@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 Any type of backpack, messenger bag, haversack or officer’s pouch. An extremely useful tool when required to carry a little more than you can handle.
 
 [[Encumbrance|Encumbrance]]: 0

@@ -1,4 +1,9 @@
-R
+---
+tags:
+  - Items
+  - Items-Affordable
+---
+A larger, more efficient [[Rupee Wallet]] that allows a person to carry even more [[Rupees]] without over-encumbering themselves.
 
 
 

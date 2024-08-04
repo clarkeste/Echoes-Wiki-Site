@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 Daggers are small blades that can be much more easily hidden than other [[Weapons]], and despite their shorter reach, can be just as deadly. They are made both for stabbing and for throwing.
 
 

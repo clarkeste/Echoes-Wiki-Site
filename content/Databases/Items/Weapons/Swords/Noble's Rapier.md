@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A sword often used by Noblemen for self-defense. Its high price-tag is in part thanks to the adornments that line the blade, and the status of carrying one.
 
 ![](https://i.imgur.com/X1nSj5X.png)

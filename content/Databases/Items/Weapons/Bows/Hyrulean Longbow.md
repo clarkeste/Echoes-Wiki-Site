@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 This Longbow is used by both sides in the Hyrulean Civil War to equip divisions of archers, allowing them to launch arrows into the air to attack hordes of targets hundreds of meters away.
 ![](https://i.imgur.com/zcdA00P.png)
 [[Damage|Damage]]: 9
@@ -10,5 +15,5 @@ This Longbow is used by both sides in the Hyrulean Civil War to equip divisions 
 [[Flammable (Passive) (Quality)|Flammable]]
 Special: If attacking a [[Adversary#Minions|Minion Group]] or a group of [[Adversary|Adversaries]], increase [[Range Bands|Range]] to [[Extreme Range]].
 
-Price: 699 [[Rupees]]
+Price: 649 [[Rupees]]
 [[Affiliations|Affiliation]]: None

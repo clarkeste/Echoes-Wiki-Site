@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A [[Gorons|Goron]]-made two-handed [[Weapons|Weapon]]. It's made from thick, hard metal and has no cutting edge, so it relies on its sheer weight to crush all opponents.
 ![[Weapon Cobble Crusher.png]]
 <!--⚠️Imgur upload failed, check dev console-->

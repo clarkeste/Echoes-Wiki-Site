@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 This publication is dedicated entirely to the lore, history, and theory behind the creation of Spells; while expensive, it is considered by sorcerers to be the definitive textbook for anyone attempting to control magic. It even includes a few basic Spells.
 
 [[Encumbrance|Encumbrance]]: 0

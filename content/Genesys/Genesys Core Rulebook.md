@@ -13,6 +13,4 @@ If you would like to buy your own copy (which is not necessary to play in the Ec
 
 [Take a look at the Core-Rulebook on DriveThruRPG!](https://www.drivethrurpg.com/en/product/228813/genesys-core-rulebook)
 
-
-
-I would link it on Amazon too, but literally the physical version of most of the important Genesys products are out of stock. No joke, the only listing for the Rulebook is 70 Dollars (borderline scalper price) and is called “Sunny Face, Happy Face” (???). Also the Dice are just completely unavailable. 
+I would link it on Amazon too, but the physical version of most of the important Genesys products are out of stock. No joke, the only listing for the Rulebook is 70 Dollars (borderline scalper price) and is called “Sunny Face, Happy Face” (???). Also the Dice are just completely unavailable. 
