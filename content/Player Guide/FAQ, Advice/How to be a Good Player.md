@@ -66,16 +66,19 @@ These are in order of what I think is the most useful!
 
 [Collaborating With The GM](https://www.youtube.com/watch?v=I-nfsi6B8d4&pp=ygUhbWF0dCBjb2x2aWxsZSBwbGF5ZXJzIGNvbGxhYnJvYXRl)
 
-On Playing an Evil Character
+[On Playing an Evil Character](https://www.youtube.com/watch?v=kVuF4fkRD2c)
+
 
 [Roleplaying](https://www.youtube.com/watch?v=7YCVHnItKuY)
 I don’t agree with a lot about what is said about “one-dimensional characters”, or the examples used, but it is overall a good video. Nothing wrong with playing a 1D Character as he describes them, only that I don’t really feel like they count as 1D Characters. 
 
 A one-dimensional Character is a Character that is consistent no matter what. The examples he describes are Characters with one or two overwhelming personality traits that define them to make them memorable and interesting without having to put too much time into focusing on them. [A limp and an eyepatch, as author Brandon Sanderson describes it](https://kevinhabits.com/tag/brandon-sanderson). This doesn’t mean they don’t have a rich internal world, implied or not, it is just that we don’t see it, or it is relegated to just subtext.
 
-This is separate, in my opinion, from an *actual* one-dimensional Character. A true one-dimensional Character is a Character whose only defining trait is whether they like kiwis or not, or whether they are just “Good” or “Bad”. Even most side-characters should not be like this. For example, Captain Ozzel in Star Wars is not just a generic evil guy. He’s an arrogant evil guy who tries to shift responsibility. Likewise, neither is Captain Piett—instead, he is characterized, implicitly, by his fear, caution, and professionalism despite these things. 
+This is separate, in my opinion, from an *actual* one-dimensional Character. A true one-dimensional Character is a Character whose only defining trait is whether they like kiwis or not, or whether they are just “Good” or “Bad”. Even most side-characters should not be like this. For example, Captain Ozzel in Star Wars is not just a generic evil guy. He’s an arrogant evil guy who tries to shift responsibility, and has the gall to do it onto literally anyone. Likewise, neither is Captain Piett—instead, he is characterized, implicitly, by his fear, caution, and professionalism despite these things. 
 
-If we refer to these Characters as one-dimensional, I feel like we leave no room for describing true and boring one-dimensional Characters, of which I have seen many, both with inexperienced GMs and in books such as the Inheritance Cycle. 
+In this way, *all* Characters should be seen as ‘three dimensional’, but have that dimensionality revealed in different amounts. We should be led to believe that, if the story focused more on the internal world of this Character, it would be as rich as any of the three Dimensional Characters. The internal world of a PC, therefore, can be focused on as much or as little as their [[Player]] wishes for it to be. And when I say ‘focus’, I do not mean that said entire internal world needs to be entirely thought out or completed. Instead, you should simply assume your Character does have one, even if you haven’t figured it all out, and even if you don’t really intend to.
+
+If we refer to these Characters as one-dimensional, I feel like we leave no room for describing true and boring one-dimensional Characters, of which I have seen many, both with inexperienced GMs and in books such as the Inheritance Cycle. I also don’t agree with what was said about improv at the end.
 
 
 

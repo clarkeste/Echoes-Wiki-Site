@@ -23,3 +23,7 @@ Then, your [[Character Sheet|Character Sheet]] will open at the Game Table. You 
 ![](https://i.imgur.com/JYiGVPU.png)
 
 Make sure to remember to reduce incoming Damage by Soak!
+
+
+
+To learn more about the rules these are based on, read page 105 of the [[Genesys Core Rulebook|Genesys Core Rulebook.]]

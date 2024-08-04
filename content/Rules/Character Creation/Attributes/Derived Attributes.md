@@ -18,3 +18,7 @@ Derived Attributes refers to stats, such as [[Wound Threshold|Wound Threshold]],
 [[Encumbrance|Encumbrance Threshold]]
 
 Additionally, [[Wounds]] and [[Strain]] are like the ‘health’ of a [[Character]] and change regularly. How much Wounds or Strain a Character can suffer before becoming [[Incapacitated]] is determined by Wound and Strain Threholds.
+
+
+
+To learn more, read page 31 of the [[Genesys Core Rulebook|Genesys Core Rulebook.]]

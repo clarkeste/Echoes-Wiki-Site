@@ -22,3 +22,6 @@ When 4 points over your Encumbrance Threshold, every few minutes when in a stres
 When 5 points over your Encumbrance Threshold, add a [[Despair|Despair]] to every [[Brawn|Brawn]] or [[Agility|Agility]] [[Skill Checks|Check]].
 
 When 6 points over your Encumbrance Threshold, you may not take Move Maneuvers in combat.
+
+
+To learn more about the rules these are based on, read pages 84-85 of the [[Genesys Core Rulebook|Genesys Core Rulebook.]]

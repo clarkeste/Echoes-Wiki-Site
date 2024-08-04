@@ -14,4 +14,8 @@ Ranged Defense will add Setbacks equal to Ranged Defense to all ranged Attacks; 
 
 Melee Defense will add Setbacks equal to Melee Defense rating to all melee Attacks; this means all attacks from a character within [[Engaged Range|Engaged Range]], unless the attack is using a Ranged Weapon.
 
-Defense is gained from various sources, such as [[Talents|Talents]], [[Armor|Armor]] with a Defense rating, or [[Weapons#Shields|Shields]] and Weapons with the [[Defensive (Modifier)|Defensive]] or [[Deflective (Modifier)|Deflective]] rating. It is an extremely useful statistic for avoiding Damage.
+Defense is gained from various sources, such as [[Talents|Talents]], [[Armor|Armor]] with a Defense rating, or [[Weapons#Shields|Shields]] and Weapons with the [[Defensive (Modifier)|Defensive]] or [[Deflective (Modifier)|Deflective]] rating. It is an extremely useful statistic for avoiding Damag
+
+
+
+To learn more, read pages 104-105 of the [[Genesys Core Rulebook|Genesys Core Rulebook.]]

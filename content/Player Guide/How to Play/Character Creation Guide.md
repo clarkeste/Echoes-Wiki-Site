@@ -43,3 +43,7 @@ Current +XP for New Characters: 0
 
 ## Step 8 - Send Character to the GM!
 Once your Character Sheet is complete and done–on [[RPGSessions]], preferably–then send it over to me! I’ll take a look at it, maybe ask a few questions about the story or where XP was spent, and then I’ll approve it! Then, you’re ready to play.
+
+
+
+To learn more, read pages 32-95 of the [[Genesys Core Rulebook|Genesys Core Rulebook.]]
