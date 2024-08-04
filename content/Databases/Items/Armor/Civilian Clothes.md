@@ -1,3 +1,7 @@
+---
+tags:
+  - Items
+---
 Simple clothes worn by civilians. Its design varies by culture.
 
 ![](https://i.imgur.com/dwGjvbL.png)

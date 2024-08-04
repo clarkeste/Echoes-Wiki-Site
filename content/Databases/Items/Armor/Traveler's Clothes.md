@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A common garb popular in Hyrule and beyond, especially—as its name would imply—among travelers. Its light-yet-sturdy fabric doesn't limit movement.
 
 [[Soak|Soak]]: 1

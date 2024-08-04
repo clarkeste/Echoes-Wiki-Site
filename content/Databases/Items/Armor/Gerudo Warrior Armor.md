@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 Armor traditionally worn by the [[Gerudo]]. It is commonly worn by the majority of Gerudo, particularly following their exile from Hyrle,
 
 

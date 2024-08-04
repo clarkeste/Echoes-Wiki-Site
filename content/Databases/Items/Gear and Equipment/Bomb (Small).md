@@ -1,6 +1,9 @@
-Small Bombs - immediate damage
-Medium Bombs - delayed damage, better blast range, destroy cover
-Large Bombs - immediate or delayed damage, better blast range, destroy cover
+---
+tags:
+  - Items
+  - Items-Affordable
+---
+A small Bomb, usually used as a cheap source of explosive ammo for Cannons, for basic excavating… and as grenades. 
 
 [[Damage|Damage]]: 8
 [[Skills|Skill]]: [[Ranged|Ranged]]

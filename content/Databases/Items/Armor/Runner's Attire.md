@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 Used by travelers, joggers, or speedy mailmen, this outfit’s sweat-absorbing and slick fabric is very useful in getting places fast.
 
 

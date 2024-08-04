@@ -206,3 +206,16 @@ While still serving a defensive purpose, this Shield is far more offensive in pu
 
 
 ### All Items
+
+
+### Tags
+There are a few Tags that can be used in sorting [[Items]].
+
+#Items 
+All Items have this tag.
+
+#Items-Premium 
+This refers to Items that are more expensive than the starting amount of [[Rupees]] a Character is afforded.
+
+#Items-Affordable 
+This refers to Items that are cheaper than the starting amount of Rupees a Character is afforded.

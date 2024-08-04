@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 Armor worn by the Knights and Soldiers who served the Royal Family of Hyrule; even still, its imposing metal and Hyrulean emblems symbolize the Kingdom.
 
 

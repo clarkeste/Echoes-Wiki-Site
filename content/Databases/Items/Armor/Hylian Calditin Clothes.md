@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 This attire was made by the Hylians who reside in the Gerudo Desert after its original inhabitants were pushed deep into the desert. It provides defenses against the oppressive heat.
 
 

@@ -1,4 +1,11 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 Made for a prince of the Royal Family, the Magic Armor drains Rupees to power and provide its extremely impressive defense.
+
+
 
 [[Soak|Soak]]: 20
 [[Defense|Defense]]: 2

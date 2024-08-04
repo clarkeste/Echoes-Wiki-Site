@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
 A simple, heavy coat distributed by the Guilds who operate in Hebra and the northern reaches of Tabantha. Its enveloping heat helps travelers and workers stay warm in the cold mountains.
 
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Items-Premium
+---
 Armor from the legendary Fighter’s series. Its immense quality and light form is the envy of almost anyone who seeks protective clothing.
 
 [[Soak|Soak]]: 2
