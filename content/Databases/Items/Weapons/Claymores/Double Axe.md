@@ -16,7 +16,3 @@ Special: Can be used to cut wooden things quicker than usual, including walls.
 
 Price: 300 [[Rupees]]
 [[Affiliations|Affiliation]]: None
-
-
-
-Elo: 175
