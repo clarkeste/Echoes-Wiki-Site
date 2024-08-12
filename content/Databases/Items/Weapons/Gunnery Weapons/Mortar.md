@@ -3,10 +3,8 @@ tags:
   - Items
   - Items-Premium
 ---
-A type of light-weight artillery that fire a projectile, often a [[Bomb (Large)|Bomb]] upwards. This bypasses any form of horizontal a cover a target may have and rains death and destruction from above.
-
-
-
+A type of light-weight artillery that fire a projectile, often a [[Bomb (Large)|Bomb]], upwards. This bypasses any form of horizontal a cover a target may have and rains death and destruction from above.
+![](https://i.imgur.com/PJtIOhC.png)
 [[Damage|Damage]]: 30
 [[Skills|Skill]]: [[Gunnery|Gunnery]]
 [[Critical Rating]]: 3

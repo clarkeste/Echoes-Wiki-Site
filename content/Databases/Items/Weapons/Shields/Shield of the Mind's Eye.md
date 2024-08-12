@@ -4,9 +4,7 @@ tags:
   - Items-Affordable
 ---
 A small [[Sheikah|Sheikah]]-made [[Weapons#Shields|Shield]]. Its design is intended to decrease blind spots without sacrificing too much defense.
-
-
-
+![](https://i.imgur.com/qpcnWps.png)
 [[Damage|Damage]]: +0
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4

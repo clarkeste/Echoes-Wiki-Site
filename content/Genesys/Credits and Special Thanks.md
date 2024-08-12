@@ -37,6 +37,10 @@ Finally, this Wiki uses artwork from various places on the internet, often by ex
 
 [Amayensis/Charlotte Tan-Rugh](https://amayensis.artstation.com/) An artists with lots of very nice fantasy character designs.
 
+[Mario Dominguez](https://www.artstation.com/mariodominguez) is a 3d artist and modeler who makes high-quality 3d models for sale. Check him out!
+
+[Daniele Monari](https://www.artstation.com/mon_art) A fellow who makes excellent 3d art!
+
 [Gerezon](https://www.deviantart.com/gerezon/art/Rock-Golem-286558038) An artists that works tons of different styles, with great looking images.
 
 [RainbowSarah](https://rainbowphilosopher.artstation.com/) Some of the most beautiful, painterly art I have seen. The colors are all so nice!

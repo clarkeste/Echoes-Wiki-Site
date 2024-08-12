@@ -4,9 +4,7 @@ tags:
   - Items-Affordable
 ---
 A heavier-duty Bomb, often used in mining and terrain-clearing. However, it can also be used in combat—but its fuse is often too long for it.
-
-
-
+![](https://i.imgur.com/kGaiAbi.png)
 [[Damage|Damage]]: 9
 [[Skills|Skill]]: [[Ranged|Ranged]]
 [[Critical Rating]]: 3

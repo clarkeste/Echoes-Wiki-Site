@@ -4,9 +4,7 @@ tags:
   - Items-Premium
 ---
 Trebuchets are an old, but reliable, sources of artillery. It is a type of catapult that uses a sling to launch a projectile at immense speeds far into the distance.
-
-
-
+![](https://i.imgur.com/KoloD6v.png)
 [[Damage|Damage]]: 20
 [[Skills|Skill]]: [[Gunnery|Gunnery]]
 [[Critical Rating]]: 4

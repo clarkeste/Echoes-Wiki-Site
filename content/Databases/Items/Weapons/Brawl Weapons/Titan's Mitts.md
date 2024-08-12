@@ -4,7 +4,7 @@ tags:
   - Items-Premium
 ---
 Titan’s Mitts are old, sought after gauntlets that were created using methods which cannot be replicated in the modern day. They imbue the hands they are worn on with significant strength.
-
+![](https://i.imgur.com/sYe3VDZ.png)
 [[Damage|Damage]]: +5
 [[Critical Rating]]: 4
 [[Skills|Skill]]: [[Brawl|Brawl]]

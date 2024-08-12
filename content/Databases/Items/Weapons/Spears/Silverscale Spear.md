@@ -4,9 +4,7 @@ tags:
   - Items-Premium
 ---
 The most skilled [[Zora|Zora]] fighters wield this spear. Its beautiful fish-tail design belies its impressive strength; the spearhead can pierce even the toughest scales.
-
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcqXhmqZ7jfFj16TQqZ-Mu5-bSwtlhCHWmuV-YiP93mtvsRB4xCeI4lY5GrFTOmxrZPJXi3uneNLm9PoNwzSL6QeCoyHT8ezAVcwY5H_DDBdfpBjgSIhu2EZR8TW4JmERSYfmpDXccl4aE39WGT5ackXu0?key=3WrtrjXbNzWwwaZ1xaZ5eg)
-
+![](https://i.imgur.com/Ijv0HPq.png)
 [[Damage|Damage]]: +4
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 3

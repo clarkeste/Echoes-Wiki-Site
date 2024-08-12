@@ -35,10 +35,10 @@ Courage has a maximum value of six Points.
 **Skill:** Gain a [[Boost Dice|Boost]] to all [[Charm]] [[Skill Checks|Checks]].
 **Ability:** Flip a [[Sacred Points|Sacred Point]] to heal 4 [[Strain]].
 **Ability:** Once per [[Encounter]], flip a [[Sacred Points|Sacred Point]] at the start of a [[Combat]]. Pick one [[Status Effects|condition]] ([[Disoriented]], [[Immobilized]], [[Staggered]], etc). For the rest of the Encounter, you cannot be affected by that [[Status Effects|condition]].
-**Ability:** Flip two [[Sacred Points]] during a [[Combat]] [[Encounter]], and suffer any amount of [[Strain]]. For the rest of the [[Combat]] [[Encounter]], your [[Character|Character]] has a ‘pool’ of [[Boost Dice|Boosts]] equal to the amount of [[Strain]] they suffered. They can used on any [[Skill Checks|Checks]]. that character makes during the Encounter, in any amount or order that the player wishes. At the end of the Combat Encounter, any unused Boosts are lost.
+**Ability:** Flip two [[Sacred Points]] during a [[Combat]] [[Encounter]], and suffer any amount of [[Strain]]. For the rest of the [[Combat]] [[Encounter]], your [[Character|Character]] has a ‘pool’ of [[Boost Dice|Boosts]] equal to the amount of [[Strain]] they suffered. They can used on any [[Skill Checks|Checks]] that character makes during the Encounter, in any amount or order that the player wishes. At the end of the Combat Encounter, any unused Boosts are lost.
 
 ### Power
-There is only one thing that is respected and feared universally, in every province of every nation. The influence of Power on society never varies; always, violence, threats of it, or authority over others has commanded the obedience of millions.
+There is only one thing that is respected and feared universally, in every province of every nation. The influence of Power on society never wavers or varies. Always, violence, threats of it, or authority over others has commanded the obedience of millions.
 
 Using the Virtue of Power to address a Burden often involves fighting back directly in combat as a first resort or option, or using threats to gain what one wants. Additionally, using one’s station in a hierarchy to order others to address the situation, if possible, often falls under Power. While Power has traditionally been considered a virtue, most scholars now agree that using it as a first resort–or abusing it–is wrong. But that has not stopped hundreds upon thousands that have used this to great effect.
 ##### Power Bonuses
@@ -49,7 +49,7 @@ Power has a maximum value of six Points.
 
 ###### 4 Points:
 **Alignment:** Gain a [[Boost Dice|Boost]] when the target of a [[Social Checks|Social Check]] is aligned with this Virtue.
-**Skill:** Gain a [[Boost Dice|Boost]] to all [[Resilience]] [[Skill Checks|Check]].
+**Skill:** Gain a [[Boost Dice|Boost]] to all [[Resilience]] [[Skill Checks|Checks]].
 **Ability:** Flip a [[Sacred Points|Sacred Point]]. For the rest of the [[Encounter]], future [[Sacred Points]] your character flips to [[Dice Upgrade|upgrade]] their [[Dice Pool]] or the [[Difficulty]] of an Enemy [[Skill Checks|Check]] upgrades the Dice Pool twice, instead of once.
 
 ###### 6 Points:

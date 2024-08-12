@@ -4,9 +4,7 @@ tags:
   - Items-Affordable
 ---
 A [[Weapons|weapon]] intended to assist in battles as a tool in the second hand, Parrying Daggers have cross-guards which can block even the mightiest sword.
-
-
-
+![](https://i.imgur.com/3QeGVvg.png)
 [[Damage]]: +3
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 5

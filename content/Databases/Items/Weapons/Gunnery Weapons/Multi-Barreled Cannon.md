@@ -3,10 +3,8 @@ tags:
   - Items
   - Items-Premium
 ---
-These [[Cannon|Cannons]] with seven different bores, all lit and fired separately. While it can be challenging to aim and control, the potential damage from even a single barrage is devestating.
-
-
-
+These [[Cannon|Cannons]] with seven different bores, all lit and fired separately. While it can be challenging to aim and control, the potential damage from even a single barrage is devastating.
+![](https://i.imgur.com/XittutU.png)
 [[Damage|Damage]]: 35
 [[Skills|Skill]]: [[Gunnery|Gunnery]]
 [[Critical Rating]]: 3

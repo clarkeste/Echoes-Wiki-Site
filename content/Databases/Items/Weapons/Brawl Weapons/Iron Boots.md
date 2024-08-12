@@ -4,7 +4,7 @@ tags:
   - Items-Premium
 ---
 Metal boots, usually made of iron, ground their wearer down and provide complete protection for a combatant’s feet. However, for lighter individuals, these boots can be a detriment to one’s mobility.
-
+![](https://i.imgur.com/yO39lWb.png)
 [[Damage|Damage]]: +3
 [[Critical Rating]]: 5
 [[Skills|Skill]]: [[Brawl|Brawl]]

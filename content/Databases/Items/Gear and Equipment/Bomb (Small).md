@@ -4,7 +4,7 @@ tags:
   - Items-Affordable
 ---
 A small Bomb, usually used as a cheap source of explosive ammo, for basic excavating… or as grenades. 
-
+![](https://i.imgur.com/kGaiAbi.png)
 [[Damage|Damage]]: 8
 [[Skills|Skill]]: [[Ranged|Ranged]]
 [[Critical Rating]]: 4

@@ -6,9 +6,7 @@ tags:
   - Items-Premium
 ---
 Cannons are a type of artillery that fire a projectile—often a steel ball or an explosive device, like a [[Bomb (Large)|Bomb]]—at a target, often from extremely long distances and awe-inspiring speeds.
-
-
-
+![](https://i.imgur.com/hJvixYU.png)
 [[Damage|Damage]]: 25
 [[Skills|Skill]]: [[Gunnery|Gunnery]]
 [[Critical Rating]]: 3

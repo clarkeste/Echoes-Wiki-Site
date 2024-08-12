@@ -4,7 +4,7 @@ tags:
   - Items-Premium
 ---
 Only the most confident of Hyrule Castle's knights carried this two-handed sword. Its cutting edge is finely honed.
-
+![](https://i.imgur.com/bH3gzuF.png)
 [[Damage|Damage]]: +5
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 2

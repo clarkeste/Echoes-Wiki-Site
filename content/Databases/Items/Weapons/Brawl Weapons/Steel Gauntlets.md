@@ -4,9 +4,7 @@ tags:
   - Items-Affordable
 ---
 These Steel Gauntlets go beyond the protective function of most gloves, and increase the pull and push power of its user. Its design provides for superior traction and grip, and its steel build allows it to pack a serious punch.
-![[Weapon Steel Gauntlets 1.png]]
-<!--⚠️Imgur upload failed, check dev console-->
-
+![](https://i.imgur.com/N8lj4iP.png)
 [[Damage|Damage]]: +3
 [[Critical Rating]]: 4
 [[Skills|Skill]]: [[Brawl|Brawl]]

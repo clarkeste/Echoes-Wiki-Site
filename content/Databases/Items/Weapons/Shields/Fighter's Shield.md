@@ -4,9 +4,7 @@ tags:
   - Items-Premium
 ---
 The Fighter’s brand has long been known in Hyrule as a producer of quality personal defensive and offensive items, and this shield is no exception; the best on the legal market in all of the country. It comes in red and blue varieties.
-
-
-
+![](https://i.imgur.com/mlKJWyG.png)
 [[Damage|Damage]]: +1
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4  
@@ -20,5 +18,5 @@ The Fighter’s brand has long been known in Hyrule as a producer of quality per
 [[Knockdown (Active) (Quality)|Knockdown]]
 [[Stun (Active) (Quality)|Stun]] 3
 
-Price: 2500 Rupees
-Affiliation: None
+Price: 2500 [[Rupees]]
+[[Affiliations|Affiliation]]: None

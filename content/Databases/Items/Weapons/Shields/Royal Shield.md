@@ -4,9 +4,7 @@ tags:
   - Items-Premium
 ---
 A shield issued to the Hyrulean royal family's immediate guard detail. It boasts an effective defense, but these days its appearance is rare.
-
-
-
+![](https://i.imgur.com/vW1YkQj.png)
 [[Damage|Damage]]: +2
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 5

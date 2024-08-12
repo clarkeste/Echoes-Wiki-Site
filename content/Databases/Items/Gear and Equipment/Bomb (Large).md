@@ -4,9 +4,7 @@ tags:
   - Items-Affordable
 ---
 These are some of the biggest bombs, not uncommonly used in [[Cannon|Cannons]]. Both for mining and for war, its fuse is customizable.
-
-
-
+![](https://i.imgur.com/kGaiAbi.png)
 [[Damage|Damage]]: 12
 [[Skills|Skill]]: [[Ranged|Ranged]]
 [[Critical Rating]]: 3

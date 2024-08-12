@@ -4,9 +4,7 @@ tags:
   - Items-Premium
 ---
 In the past, the King of Hyrule presented this bow to only the most talented archers in the land. Its combat capabilities are as impressive as its extravagant design.
-
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdfk-BUKyg-W01Ny3hTP2dk8TECgcbXGsoIqmeHTZ71FijESmW5kWOQYzp1AozdFCEOv_XRC7KGljc2393jWQVMdcN2QC5VZkt0rxv-ampcPqd4BL1YMpow_Kxwxe8rTQNwfC3B4U3ZLyy9DQ-1qeQP8tM?key=3WrtrjXbNzWwwaZ1xaZ5eg)
-
+![](https://i.imgur.com/JtlRRnF.png)
 [[Damage|Damage]]: 10
 [[Skills|Skill]]: [[Ranged|Ranged]]
 [[Critical Rating]]: 2

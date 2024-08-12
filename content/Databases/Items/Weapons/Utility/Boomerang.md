@@ -3,10 +3,8 @@ tags:
   - Items
   - Items-Affordable
 ---
-described in one word
-
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfuPF4lrY5tKGsOJQldmzBhzWRUmxGN-EZAL6sjpeIhMt_E7rirH6SDZM_94GLbq3JnIzppDCYJ5apB9Ef4RHu2j65oH9xfsV_BMRZajwq3K7oHHDF94GPR8h8xSxEbEqkDp6fcEFtlBJA62JioZl5bSLM?key=3WrtrjXbNzWwwaZ1xaZ5eg)
-
+Boomerangs, while often times just toys for children, can also be useful tools and can stun targets. They often return to their throwers.
+![](https://i.imgur.com/RgiKCFk.png)
 [[Damage|Damage]]: +0
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 5

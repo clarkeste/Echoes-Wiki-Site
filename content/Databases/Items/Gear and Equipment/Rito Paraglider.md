@@ -4,7 +4,7 @@ tags:
   - Items-Premium
 ---
 Gliders of [[Echoes of the Departed/Hidden Peoples/Rito|Rito]] design have long been lauded as the highest quality; with their impressive ability to glide, the Rito Paraglider allows for individuals using them to travel up gusts of wind, glide between platforms, and break most falls with the proper technique. However, being too heavy means even the Paraglider might not be able to support your weight.
-
+![](https://i.imgur.com/COYC8k2.png)
 [[Encumbrance]]: 2
 Effect: Whenever falling, may deploy the Rito Paraglider. This causes an [[Difficulty|Average]] (2p) [[Coordination]] [[Skill Checks|Check]] that can change in [[Difficulty]] depending on the circumstances. If successful, all negative effects of [[Fall Damage|falling]] are ignored. Additionally, when leaping off an edge or into a gust of wind, may use the Paraglider to glide across gaps or ride the wind. 
 

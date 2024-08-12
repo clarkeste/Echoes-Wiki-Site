@@ -148,7 +148,7 @@ An upgrade to the Cobble Crusher, this weapon deals immense amounts of damage, b
 [[Traveler's Spear]]
 A very cheap Spear, usually used in self-defense or as a thrown weapon to attack foes from a distance due to its low price.
 
-[[Heavy Lancet]]
+[[Heavy Lance]]
 An old weapon that once saw use in war. Nowadays, those who prefer a longer range pole-arm at a modest price use it.
 Should be lower-priced, compare to soldier spear
 

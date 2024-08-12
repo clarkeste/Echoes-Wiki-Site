@@ -4,9 +4,7 @@ tags:
   - Items-Affordable
 ---
 The Hyrulean Pike became the standard long polearm of the Hyrulean Army a few years prior to the Revolution. It serves its role admirable, fulfilling a specific role in [[Combat|combat]].
-
-![](https://i.imgur.com/ghqWr6Q.png)
-
+![](https://i.imgur.com/kQ2pMKq.png)
 [[Damage|Damage]]: +4
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 4

@@ -5,8 +5,6 @@ tags:
 ---
 A type of [[Hyrulean Crossbow|Crossbow]] that is the size of an adult [[Hylians|Hylian]], and is treated as a stationary Weapon emplacement. It can rapidly fire Crossbow bolts, with even more force than a hand-held Crossbow.
 
-
-
 [[Damage|Damage]]: 11
 [[Skills|Skill]]: [[Gunnery|Gunnery]]
 [[Critical Rating]]: 3

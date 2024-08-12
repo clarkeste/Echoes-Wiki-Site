@@ -4,9 +4,7 @@ tags:
   - Items-Premium
 ---
 A very large hammer that can smash through even the strongest barrier, taking advantage of its user’s strength to bust down cracked walls.
-
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcT2DbCNX4nD_8GuxEGwowyWdp2cyr9skokwmspc2Ynlif9VKBSV8_xU4tpSUybV_LYfpZ3fhEwa1nE7xaS9so2OYVP0nhSlsiB3SNfgjjiSlQUDPKU0OZxEHEBv2Qn7MUPQ5KBOuATyjI_iuNWN3SSYX-n?key=3WrtrjXbNzWwwaZ1xaZ5eg)
-
+![](https://i.imgur.com/mTAXpaI.png)
 [[Damage|Damage]]: +4
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 4

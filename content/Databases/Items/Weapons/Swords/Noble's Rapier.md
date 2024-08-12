@@ -4,9 +4,7 @@ tags:
   - Items-Affordable
 ---
 A sword often used by Noblemen for self-defense. Its high price-tag is in part thanks to the adornments that line the blade, and the status of carrying one.
-
-![](https://i.imgur.com/X1nSj5X.png)
-
+![](https://i.imgur.com/yHoiClJ.png)
 [[Damage|Damage]]: +3
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 3

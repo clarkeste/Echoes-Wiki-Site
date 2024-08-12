@@ -16,7 +16,7 @@ The following are the articles in this folder:
 [[Fighter's Halberd]]
 [[Gerudo Glaive]]
 [[Gerudo Spear]]
-[[Heavy Lancet]]
+[[Heavy Lance]]
 [[Hyrulean Pike]]
 [[Knight's Halberd]]
 [[Royal Halberd]]
