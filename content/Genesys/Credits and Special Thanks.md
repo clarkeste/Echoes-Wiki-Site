@@ -33,6 +33,10 @@ Finally, this Wiki uses artwork from various places on the internet, often by ex
 
 [Lulles/Luisa](https://twitter.com/_lulles_/status/1030140411266957312) absolutely stunning artwork, and the style used in their Zelda pieces fit the world perfectly.
 
+[3D Lab Lapse](https://www.artstation.com/lab_lapse_3d) A 3d artist who makes great models, mostly Souls-like weapons.
+
+[Christian Hamm](https://www.artstation.com/christianhamm) Concept art and other great, stylized stuff.
+
 [Leo Chere](https://x.com/cherelleo_art) This is an illustrator who makes some really evocative artwork, with great environments. In particular, his Zelda pieces truly feel alive.
 
 [Amayensis/Charlotte Tan-Rugh](https://amayensis.artstation.com/) An artists with lots of very nice fantasy character designs.
@@ -52,6 +56,12 @@ Finally, this Wiki uses artwork from various places on the internet, often by ex
 [Inka Schulz](https://inkasprout.artstation.com/) Some really evocative character designs here!
 
 [Smackfoo](https://www.deviantart.com/smackfoo/art/Awaken-334266834) Abstract art, painterly style, creepy character. designs—they’ve got it all if you’ve got the Rupees!
+
+[Lazaros Kotsios](https://sketchfab.com/lazaroskotsios) Great 3d models for different, evocative weapon designs.
+
+[Mammadovs studio](https://www.turbosquid.com/Search/Artists/Mammadovs-studio) A variety of very nice 3d models, that look great.
+
+[BLUEamnesiac](https://www.deviantart.com/blueamnesiac) This person used to do great images of various old Zelda Items, such as the Fighter’s Shield. Nowadays, they do interesting photography.
 
 [FrasseSwe](https://www.reddit.com/r/zelda/comments/iycnsa/botw_made_a_malice_inspired_monster_from_a/) This is a really great reddit post.
 
@@ -81,4 +91,4 @@ Finally, this Wiki uses artwork from various places on the internet, often by ex
 
 
 
-I’d also like to thank, of course, [[RPGSessions]]—if I haven’t mentioned them enough already! Their website is extremely useful, and probably the best online resource for Genesys. Particularly, the people of the RPGSessions Discord Server, who were very helpful in talking with me about ideas or mechanical concepts. A few of the Talents in Echoes of the Departed are directly inspired by conversations I had with them, particularly Dallas, who is a developer for RPGSessions. They’re great people!
+I’d also like to thank, of course, [[RPGSessions]]—if I haven’t mentioned them enough already on this Wiki! Their website is extremely useful, and probably the best online resource for Genesys. Particularly, the people of the RPGSessions Discord Server, who were very helpful in talking with me about ideas or mechanical concepts. A few of the Talents in Echoes of the Departed are directly inspired by conversations I had with them, particularly Dallas, who is a developer for RPGSessions. They’re great people!
