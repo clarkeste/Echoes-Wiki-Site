@@ -4,9 +4,7 @@ tags:
   - Items-Affordable
 ---
 Armor traditionally worn by the [[Gerudo]]. It is commonly worn by the majority of Gerudo, particularly following their exile from Hyrle,
-
-
-
+![]()
 [[Soak|Soak]]: 1
 [[Defense|Defense]]: 1
 [[Encumbrance|Encumbrance]]: 2
