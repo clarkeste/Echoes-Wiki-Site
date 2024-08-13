@@ -13,7 +13,7 @@ The Tekkō is a Sheikah self-defense [[Weapons|weapon]]. It comes in pairs and r
 [[Defensive (Passive) (Quality)|Defensive]] 1
 [[Disorient (Active) (Quality)|Disorient]] 2
 [[Knockdown (Active) (Quality)|Knockdown]]
-Special: May disarm the target on a successful [[Attack Check]] using three [[Advantage]] or a [[Triumph]] without sacrificing the [[Damage]] of the Attack.
+Special: May disarm the target on a successful [[Attack Check]] using three [[Advantage]] or a [[Triumph]] without sacrificing the [[Damage]] of the Attack. Unlike other [[Brawl]] [[Weapons]], the Tekkō must be equipped and unequipped to be used, and takes hand space, as usual.
 
 Price: 450 [[Rupees|Rupees]]
 [[Affiliations|Affiliation]]: None
