@@ -5,7 +5,7 @@ tags:
   - Characters
   - Guide
 ---
-Welcome to the Character Creation Guide. This will guide you through the process of making a new [[Characteristics|Characteristic]] in the [[Echoes of the Departed|Legend of Zelda: Echoes of the Departed]].
+Welcome to the Character Creation Guide. This will guide you through the process of making a new [[Character]] in [[Echoes of the Departed|the Legend of Zelda: Echoes of the Departed]].
 ## Where do I make my Character?
 [On this website!](https://www.rpgsessions.com/) It is convenient, pleasing to look at, and it automates a lot of the finer details. It’s called [[RPGSessions]]. To get started, pick a [[Peoples|People]] and go its template sheet and copy it. That’ll be your starting template.
 
