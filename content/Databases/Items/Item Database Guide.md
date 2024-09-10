@@ -28,7 +28,7 @@ The only way to store various important drinks or liquids, such as potions.
 [[Container]]
 Allows you to combine similar [[Items]] into a container to lessen the cost on [[Encumbrance]].
 
-[[Hood, Stage Mask, Face Cover]]
+[[Hood, Stage Mask, Face Cover, Disguise]]
 Cheap and useful for hiding your identity, or seeming mysterious.
 
 [[Hylian Glider]]

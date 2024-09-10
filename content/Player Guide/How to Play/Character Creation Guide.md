@@ -37,9 +37,9 @@ It should be noted that it is generally suggested to spend as much of your start
 ## Step 7 - Use Additional Experience
 If you are reading this after the game has already been running for some time, it is possible that some XP has already been awarded to Players for their Adventures. So that new characters are not left behind, there is a baseline of additional Experience that is updated as the game progresses. This XP counts as if your character gained it after Character Creation, meaning it cannot be spent on Characteristics.
 
-Current Highest XP Awarded: 0
+Current Highest XP Awarded: 30
 
-Current +XP for New Characters: 0
+Current +XP for New Characters: 30
 
 ## Step 8 - Send Character to the GM!
 Once your Character Sheet is complete and done–on [[RPGSessions]], preferably–then send it over to me! I’ll take a look at it, maybe ask a few questions about the story or where XP was spent, and then I’ll approve it! Then, you’re ready to play.
