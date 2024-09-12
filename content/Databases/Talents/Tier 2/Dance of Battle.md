@@ -10,4 +10,4 @@ tags:
 **Activation:** Active (Incidental)
 **Ranked:** Yes
 
-If a [[Character]] moves at least one [[Range Bands|Range Band]] during their turn, they gain a [[Boost Dice|Boost Die]] to their next [[Attack Check]] made during that same turn. This effect can stack if the Character moves multiple turns consecutively, with a max of 3 Boost Dice.
+If a [[Character]] moves at least one [[Range Bands|Range Band]] during their turn, they gain a [[Boost Dice|Boost Die]] to their next [[Attack Check]] made during that same turn. This effect stacks if the Character moves multiple turns consecutively, with a max of 3 Boost Dice. For example, if they move two turns in a row and then Attack, they gain two Boost Dice on that Attack.
