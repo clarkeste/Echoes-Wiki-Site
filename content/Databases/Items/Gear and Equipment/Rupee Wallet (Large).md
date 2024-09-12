@@ -1,0 +1,12 @@
+---
+tags:
+  - Items
+  - Items-Affordable
+---
+The largest type of [[Rupee Wallet]]. It’s specially designed to hold as many Rupees as possible, and can only fit in the biggest pockets when filled!
+![](https://i.imgur.com/KNHGJ5F.png)
+[[Encumbrance|Encumbrance]]: 2
+Effect: May hold up to 4999 [[Rupees|Rupees]]. Each additional 50 Rupees after that point adds one [[Encumbrance|Encumbrance]] point.
+
+Price: 999 [[Rupees]]
+[[Affiliations|Affiliation]]: None
