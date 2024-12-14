@@ -1,0 +1,21 @@
+---
+tags:
+  - Historia
+---
+Ganondorf Dragmire--the man who lived many centuries ago--was a cruel and powerful man hailing from the Gerudo Desert, usually referred to in historical documents as simply Ganon. Using the political capital he secured by assisting Hyrule in ending their Civil War, Ganon took advantage of their trust and killed the King of Hyrule and plunged Hyrule into a dictatorship of his own making for seven long years. Despite doing this for his people, the Gerudo, Ganon never deemed Hyrule yet safe enough for his people to enter it for the entirety of his reign. Instead, he spent his time consolidating power, and bringing groups such as the Gorons, Zora, and Hylian refugees in Kakariko Village into line, until the Princess of Hyrule and the Hero of Time defeated him with the assistance of seven wise Sages. In a climatic battle at the occupied Hyrule Castle, Ganon was sealed for one hundred years.
+
+One hundred-years later, the seal was broken--and Ganon returned from imprisonment. Without the Sages to stop him, he gathered the Gerudo who still supported him from the Gerudo Desert and conquered the region, moving onto Hyrule. He captured the King of the time, Daphnes Nohansen, and his daughter, Princess Zelda, intending to take the Triforce of Wisdom from her. As he sought to do so, a torrential downpour came down upon the land.
+
+However, another boy, bearing the same green tunic, legendary sword, and appearance of the Hero of Time appeared: The Hero of the Flood, a friend of Zelda's. But he arrived too late; true to her word, Zelda had died under interrogation before giving up the Triforce of Wisdom to Ganon. According to the words of the Hero of the Flood, the Dark Lord Ganon allowed himself to be killed in that moment, believing only his death could cease the rain. Soon after he died and his legacy ended, the storm clouds dispersed, and Hyrule was saved--if shaken by the death of King Daphnes and Zelda.
+
+This Demon King, as vile as he is, should not to be confused with the modern Ganondorf who is a completely different person. The modern Ganondorf, also a Gerudo, bore the same name, but sought to protect Hyrule and its government.
+
+
+
+
+
+
+
+
+
+This is a [[Hyrule Historia]] article.

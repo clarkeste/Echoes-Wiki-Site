@@ -1,0 +1,29 @@
+---
+tags:
+  - Historia
+---
+The Zora are an aquatic species that live in Hyrule alongside the Hylians and Gorons, living primarily in Zora's Domain, but also in many other cities and villages across Hyrule. They have historically been allies of the Hylians, and of the Royal Family. However, that changed when they supported the Followers during the Revolution, and are now a part of their new government.
+
+The Zora, being the most long-lived species in Hyrule, have a rich, storied, and well-documented history. Indeed, most sources of Hyrulean history further than five hundred years in the past are told by their scholars. By the time of the Hyrulean Civil War, the Zora became a part of Hyrule, their Domain becoming an autonomous zone that retained its own system of government. Even prior to being integrated, the Zora and the Hyrulean Royal Family had extremely strong relations, and the two peoples were best of allies.
+
+The Zora are an aquatic folk who possess fish and amphibian like traits, including fins, webbed feet and gills, which allow them to swim and thrive underwater. Zora can come in many shapes and sizes, with long tail fins on their heads and finned appendages on their arms and legs. They are protectors of water, and have long life-spans; often about 400 years. There are some elderly Zora still alive who remember the first Hyrulean Civil War, or the Hero of the Flood. The age of maturity for Zora is approximately 52 years old, and adolescence begins at around 35. Zora are considered to be growing old following 300 years of age, roughly similar to 70 years in Hylian lifespans. However, while before maturity they tend to age 3 times slower than Hylians, after maturity, they tend to age about 5 times slower. The median Zora lifespan is 397 years, but the oldest recorded Zora died two decades ago and was 597 years old.
+
+Early depictions of the Zora people from before the founding of Hyrule, are distinct from the modern appearance, leading most ancient scholars to conclude that the Zora Tribe underwent evolution while maintaining a consistent civilization—a remarkable feat. Despite this, it is agreed that by the time that Hylians began coalescing into the Kingdom of Hyrule—described by ancient Zora texts as having descended from the skies generations earlier—the Zora had reached a stage almost identical to the one they currently hold.
+
+Zora’s Domain is currently an autonomous region, meaning its government was granted more autonomy from the King and central government than other areas of the Kingdom. It had its own monarch; however, like Kakariko City, it instituted its own system of elections that allowed the people of Zora's Domain to elect various individuals to offices of government, with the King of the Zora's blessing. The Zora Monarchy is not inherently hereditary, and can be changed; however, there has been no push to change the Zora royal family for many centuries. Despite this, Zora opinion of the Royal Family has become increasingly mixed in the recent century. The Zora were among the first to voice objections, albeit quiet ones, to the banishment of the Gerudo following the Flood—but such concerns were largely dismissed as selfish by the revenge-seeking Hylians of the time, due to the decreased threat the Zora would face from a flooded nation.
+
+There were few Zora formally in the ranks of the Followers of Dragmire. Due to the cruelty of Dragmire's actions still being within living memory, sources point towards the Zora and their government being very hesitant to ally themselves with the Followers; only doing so after repeated autonomy violations and a lack of viable alternatives left them no choice. It is also thought that the moderating presence of the Confessor and Link Steadfast--the Zora government may have known that he wielded the Master Sword before the rest of the world--greatly aided in getting the Zora on their side. During the Revolution in Kakariko City, the Zora's Domain government proclaimed that they would be on the side of the rebels, and assisted the Followers during the Revolution.
+
+
+Now, Zora's Domain is one of the most ideologically anti-Royalist cities in the country. Its autonomous privileges have been renewed by the Followers, and it fights on their side against the Royalists--more as partners than as vassals, which their arrangement under the King increasingly became, in their opinion. Of course, despite this being the most common opinion, there are many among the Zora who disagree, believing in the storied friendship between the Royal Family and the Zora.
+
+Additionally, there is another group of Zora that live outside Hyrule, in their own Domain off the coast of Labrynna; they are usually considered a part of Labrynna, but have recently declared independence following the Labrynnan Civil War.
+
+
+
+
+
+
+
+
+This is a [[Hyrule Historia]] article.

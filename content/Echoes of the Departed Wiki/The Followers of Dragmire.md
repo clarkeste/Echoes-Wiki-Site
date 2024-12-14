@@ -1,0 +1,40 @@
+---
+tags:
+  - Historia
+---
+The Followers of Dragmire, now officially called the "New Hyruleans", and colloquially known as "the Revolutionaries".
+
+The first mentions and appearances of the Followers can be traced to approximately three hundred years ago, during the Hylian-Gerudo War. Their very beginnings were as a group advocating for peace between the Gerudo and the Hylians, but after less than a year operation, they transformed into a cultist group that saw Ganondorf Dragmire as a metaphor for resistance against the Hyrulean Royal Family, and rejected the widely-accepted truth that Dragmire was behind the attempt to flood Hyrule. Dragmire's legacy was seen as the best hope for undoing the effects of the Royal Family, who most historians agree began to become more strict and focused on order during the Hylian-Gerudo War, continuing into the modern day.
+
+Despite this, the Followers were still a small group, compromised of perhaps a hundred members. This is the way it would continue for several hundred years, until about fifty years from the modern day. With more and more abuses, perceived or otherwise, from the Royal Family, and the distance of timing obfuscating Dragmire's crimes, the stage was ripe for the growth of the Followers.
+
+Later on, approximately thirty years ago, the Followers were aimless in many ways. There began squabbles between those who had joined the group due to their hatred of the Royal Family and saw Dragmire as simply an overstrung and mostly symbol metaphor, and those who genuinely revered the Demon King of old. While these squabbles threatened to part the Followers once more, a new figure emerged: The Pragmatist. The Pragmatist united the Followers behind their goal of overthrowing the government by various means, including appointing various leaders--"Chosen"--to lead their own groups of the Followers of Dragmire, who would cooperate primarily in operations organized by the Pragmatist. This meant that those of varying ideologies would not be made uncomfortable by those less or more devoted to them, but the group would continue to operate as one. Additionally, the Pragmatist chose to focus not on what the new world under their control would look like, but instead focused on unifying forces, such as hatred for the Royal Family. Testimony from former members of the Cult confirm that the Pragmatist tailored his words to his audience very carefully, and always sought new recruits. He did this by absorbing other resistance groups into the fold--however, many refused to work with them. This was always due to either the use of Dragmire in their name and history, or due to their willingness to use violence.
+
+The last Chosen to join their ranks was six years ago, when a woman who identified herself as the Confessor attacked Kakariko City with impressive power. By this time, the two other Chosen below the Pragmatist had also been picked: The Believer, otherwise known as Kohga, and the Sorcerer, otherwise known as Agnin Carolin. While Kohga's branch was more neutral in its relationship with Dragmire, and the Sorcerers' worshipped him, the Confessor's was reportedly the only branch where mentions of the Demon King of old were sparse. Over time, the membership of all three branches were bolstered and increased when the Royal Family outlawed and persecuted more and more peaceful dissidents, crushing organizations and burning down their buildings and posters. An example of this was the Castle Town Parliamentarians, a peaceful group that was hit with the full force of the law shortly before the Confessor appeared. With no legal and non-violent resistance organizations left, and often being wanted for their crimes, many of these activists and sympathizers chose to align with an illegal, revolutionary organization. The only one among those groups that acted in all of Hyrule were the Followers of Dragmire--and so, the only reasonable choice. Many of these individuals joined the Confessor's branch, and some the Believer's branch; not an insignificant amount, however, were radicalized by their experiences and later joined the Sorcerer's branch of the Followers.
+
+An example of this is the now famous--or, infamous--Link Steadfast, who was a member of the Castle Town Parliamentarians before joining the Confessor's branch and remaining there.
+
+Their growth and increased presence in mainstream political conversation--as well as fear of them among the nobility, guilds, and government--increased over the six years between the Confessor's appearance and the Revolution. On the orders of the Pragmatist, all operations that could hurt the citizenry were paused, as to not alienate the population. Despite this, most in Hyrule still saw the Followers as a frightening organization, especially after the Sorcerer and the Believer chose to strike at Hyrule Castle when the new Ganondorf arrived in Hyrule, an uncomfortable result of their tendency to worship Dragmire, who beared the same first name as Ganondorf. During the raid, Ganondorf proved his loyalty to the King by killing the Sorcerer, although she later appears to have cheated or faked her death.
+
+
+In the following week, the Followers prepared and moved their resources to enact the Revolution. Their final move, however, was one that nobody--even almost every member of the Followers of Dragmire--saw coming. The Confessor issued a 'broadcast' by using magic to show moving images in every torch and watery reflection in every major city in Hyrule. This broadcast showed one of the members of the Followers, Link Steadfast, wielding the Master Sword; this was intended to reduce the divine legitimacy of the Royal Family, and it succeeded. Steadfast urged the people of Hyrule to rise up against the King of Hyrule.
+
+The leaders of the Followers, largely the Believer and the Confessor but likely also the Pragmatist, used their resources and contacts to stage a revolution in Kakariko City that forced the governor to flee. The city was captured by Revolutionary militants. Using the city as a base, the Followers--all branches now united, although the Sorcerer was still missing at this time--marched on Hyrule Castle Town. There, they sieged the city and, using spies inside Hyrule Castle, killed the King and Princess Zelda. It is believed that the Confessor and Steadfast were among those inside the Castle, and that the two of them dealt the final blow to Ganondorf Dragmire, who died attempting to protect the King.
+
+
+In the weeks following, the Followers secured the east of the country and pushed the Royalists to the west. They began to transition to become a provisional government, with the stated intention of hosting democratic elections. The Confessor has become the acting Head of State, tasked with stabilizing and creating a new government. Afterwards, she appointed the defector, Lakoh, and--after political pressure--the Sorcerer, among others, to high-ranking political positions in the new government.  The Confessor still acts as a leader for the New Hyrulean government, but her role is becoming less and less important as she seeks to soon host democratic elections, without herself in the running.
+
+The Confessor is still the ultimate authority in the Revolutionary government, however. She knows the secrets of the Royal Family and is a powerful, well-loved member. She is considered the Follower leader who has most pushed for democracy and freedom; with Lakoh being too unwilling to make large changes, and Sorcerer too radical and fervent to burn everything of the old government down, regardless of who suffers.
+
+The Revolution was an event that happened one year ago. It started the Second Hyrulean Civil War, enacted by the Followers of Dragmire. Some blame the Royal Family for its passive--and increasingly active, in their point of view--cruelty, while others square the blame entirely on the Followers.
+
+
+
+
+
+
+
+
+
+
+This is a [[Hyrule Historia]] article.

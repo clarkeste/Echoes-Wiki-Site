@@ -1,0 +1,31 @@
+---
+tags:
+  - Historia
+---
+The Sheikah are an enigmatic group who have lived on Hyrule’s surface for millenia; perhaps even longer than the Gorons or Zora. Evidence suggests that even in prehistoric times, they often wandered from place to place. Hyrule, at the time, was a dangerous place, splitting the Sheikah and culling their numbers. Legend speaks of them being servants of the Goddess Hylia before this ancient era, but no such sources remain.
+
+The Sheikah tribe has, as far back as the historical record goes, always been allies of the Royal Family. As a smaller group that fended for themselves during dangerous times and were a spiritual people who kept better records than any other group in Hyrule, their relationship with the Royal Family was mutually beneficial. 
+
+During the Hyrulean Civil War, most warrior Sheikah joined the Kingdom of Hyrule—seeing the Royal Family as the legitimate successors to Hylia. Others, however, joined the rebellious faction. The vast majority attempted to live their lives; however, with suspicions high of the Sheikah on both sides, and many believing the Sheikah to be traitors and spies, both factions were more than willing to harm them without restraint. Sheikah in service to both sides were sent on suicide missions, and Sheikah civilian casualties were brushed aside.
+
+Fortunately, or unfortunately depending on one's prospective, the Royal Family often recruited for elite, covert agents among the Sheikah. During the Hyrulean Civil War, this practice only became more common. The Sheikah pushed themselves more and more into this role, as the rest of Hyrule became more intimidated by the Sheikah, making a civilian life more difficult.
+
+Following the end of the Hyrulean Civil War, this practice thankfully stopped. The Sheikah attempted to return to a more pastoral, spiritual way of life that had characterized them in the past, many guilty over what they had done. However the damage had already been done. Dark stereotypes of the Sheikah as secretive agents that would kill and make the world forget about anybody they disliked were rampant, as well as conspiracies that claimed that they ran the government and all major guilds, in the shadows.
+
+Six years ago, in response to growing bigotry and hatred of the Sheikah, the King issued a decreed that removed almost all the Sheikah from government, with only a few exceptions. This was meant to firmly gain the trust of the Hylian people, and assure them that the King was not under any Sheikah influence.
+
+Over time--especially after the King's decree--more and more Sheikah grew weary of the Royal Family, despite their history of loyalty to the monarchy. This lead to what is often called the Yiga movement--Sheikah joining dissident groups, considering themselves under attack by sections of society supported or ignored by the King. Sheikah, in recent decades, often feel most safe in Kakariko City--a large melting pot with a large Sheikah minority--and small towns, such as Kakariko Village, that are majority Sheikah.
+
+One thing remains consistent since the first Civil War when the Sheikah were divided. The Sheikah are treated with distrust and disdain by the people of Hyrule. They are seen as--paradoxically--either as unloyal to the Kingdom, or the shadowy eyes of the monarchy.
+
+
+Physiologically, the Sheikah are an ethnicity of human, bearing great resemblance to Hylians in appearance. The Sheikah are known for their pointed ears, which they share with the Hylians. Almost all Sheikah are born with white hair, but many choose to dye it to be more distinctive and blend in with the Hylian population. Sheikah are the only human ethnicity that can have naturally occurring red eyes without it being the symptom of an illness. It is debated if the Sheikah share enough traits with the Hylians to be considered a sub-ethnicity of Hylians.
+
+
+
+
+
+
+
+
+This is a [[Hyrule Historia]] article.

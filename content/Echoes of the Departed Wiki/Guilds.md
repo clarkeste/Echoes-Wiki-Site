@@ -1,0 +1,33 @@
+---
+tags:
+  - Historia
+---
+The Guilds refers to the largest businesses in Hyrule, often those that operate across the whole country and control various smaller enterprises, allowing them to impact many different industries all at once. Those in charge of these Guilds often are extremely wealthy, noble, and as part of their job, have communication with the Royalists, the Revolutionaries, and the Royal Family before them.
+
+The beginnings of what would become known as a Guild began to appear approximately two hundred years ago, when enterprises--which were once almost entirely local affairs--began to expand across the entire country. With new advances in various fields such as communication and transport, this became much more feasible. The early businesses that became involved in this had their profits increase immensely, their owners hiring more and more employees to delineate tasks to, further inflating the cost of running the companies. Eventually, these Guilds grew to such a point that many were competing in various industries at once, with far more money and resources than their competitors--but not always better quality products. Seeking a cheaper way to beat the competition, the Guilds petitioned local governments--and eventually, groups like the team of the Lord Chancellor of Economics or the Royal Family. Over time, this practice became more and more accepted, as the continued prosperity of the Guilds became more and more intertwined with the prosperity of the larger economy. What was good for the Guilds was good for not just wages, but the taxes the government could collect. Even if many deals with the Guilds led to the Royal Family willingly lowering taxes on them in particular, and providing subsidies, such arrangements usually benefitted both sides equally, with the Guilds providing services that smaller businesses would never be able to give--or that would be more costly, and under far less supervision.
+
+The critics of this system have called it 'Corporatism', and accused it of essentially being a form of cronyism in which the wealthiest individuals and the government enriched each other, often at the expense of the lower-classes. They say that such economic growth could be achieved in other ways, and that intertwining Guilds with the economy is a recipe for disaster. They also claim that the lack of competition in certain areas and markets fostered by the existence of such Guilds lowers the rights of laborers, and the quality of products received by buyers, while increasing the price to levels that are borderline unaffordable to the middle, lower, and working class. 
+
+However, despite these claims, there is little statistical evidence of this, or studies preformed that show such an effect. The supporters of this system point to the provable economic growth, increased numbers of jobs and productivity, as well as other positive growth. 
+
+Critics of the system have attempted various times to form 'Labor Unions'; a syndicate of workers designed to negotiate with a Guild, regardless of what was already agreed to in the contract. However, this has often been struck down as illegal by the government or the Guilds. Now, as a compromise, the Guilds are required by law to have their own form of a union, named the Worker's Resources Department. However, ever-unsatisfied, critics of this system say that a Worker's Resource Department is just another form of control and monitoring, and without independence from the Guild, is useless.
+
+The first reforms to this system in nearly sixty years came during the tenure of Collin Phurn in government, twenty years ago. After a long stint in the Guilds and various other organizations, Phurn came to work in the Hyrulean Government. One of his longest positions was in Labor-dispute resolution. Going against the precedent set by many in his department, Phurn handled matters delicately, and often encouraged the Guilds to compromise with their irritable workers. Instead of spending money on troops or union-busters, he would instead give them to the Guilds to cover the cost of his suggestions.
+
+While many in government were skeptical of Phurn's methods of kowtowing and placating the workers, the results spoke for themselves. Soon, Phurn was promoted to Royal Administrator, and later, Lord Chancellor of Economics, where he not only continued to deal with Guilds, but drafted and designed economic policy. During his Chancellorship, many reforms were passed--some without the blessings of the Guilds--that promoted competition, and increased the rights of workers--even the ability for laborers to create independent unions, although this privilege was greatly regulated and limited.
+
+Discontent over the Guilds and how the Royal Family supported them, as well as the poor-in-comparison living conditions of many Hylians, led to increased recruitment to the Followers of Dragmire, who sought to add the envious to their ranks. Most Followers and revolutionaries consider the Guilds to be a part of the establishment that they wish to take down.
+
+
+And taken it down they did. One year ago, the Revolution killed the King and his daughter, and captured Hyrule Castle. However, their hostility to the Guilds has been left less clear. Many Guilds, possibly with follower sympathizers among them, continue to do business in both Royalist and Revolutionary-controlled areas. While parts of the Follower government seeks to pass heavy regulations on to the Guilds to decrease their size and allow for greater labor rights, others--such as Lakoh--believe that such drastic and hostile action would lead the Guilds to abandon them and fully support their old friends in the Royalists. Currently, the economy of the Revolutionary parts is already struggling heavily to the war, with the Royalists fairing much better due to the economic aid received from Holodrum and Calatia. Therefore, the Revolutionary government has been in deadlock, and some are even suggesting of re-affirming the 'Corporatism' they so proudly denounced before, to help them win the war.
+
+
+
+
+
+
+
+
+
+
+This is a [[Hyrule Historia]] article.
