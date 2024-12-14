@@ -10,7 +10,7 @@ tags:
 ---
 The effects of Malice are… unpredictable. It is a [[Modifiers|Modifier]] used in [[Spell Creation|Spell]] and [[Potion Creation]]. Great caution is advised. It is based on the [[Malice (Active) (Quality)|Malice Quality]].
 
-### [[Spell Creation]]: Malice (6)
+### [[Spell Creation]]: Malice (4)
 Active: ???
 Stacks: No (Singular)
 Limit: ???
