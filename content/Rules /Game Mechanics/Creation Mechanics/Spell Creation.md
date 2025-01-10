@@ -78,7 +78,7 @@ You may take the following Drawbacks to reduce the cost of your spell. If your s
 - [[Decrease Range (Modifier)|Decrease Range]] (-4)
 - [[Inaccurate (Modifier)|Inaccurate]] (-2)
 - [[Inferior (Modifier)|Inferior]] (-3)
-- [[Limited Ammo (Modifier)|Limited Ammo]] (-4)
+- [[Limited Ammo (Modifier)|Limited Ammo]] (-3)
 - [[Prepare (Modifier)|Prepare]] (-3)
 - [[Slow-Firing (Modifier)|Slow-Firing]] (-2)
 

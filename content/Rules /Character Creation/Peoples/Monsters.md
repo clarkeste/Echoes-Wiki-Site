@@ -25,7 +25,10 @@ In the last 300 years, their number has dwindled alongside the death of their ma
 
 
 ### Playing a Monster
-[Here is the template to make a Monster Character!](https://app.rpgsessions.com/char/nds/64dfcd7516d49b9cf85083df) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit “clone” so you can start making your own [[Character]] using this template.
+[Here is the template to make a Monster Character!](https://app.rpgsessions.com/char/nds/64dfcd7516d49b9cf85083df) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit the green button next to their name so you can start making your own [[Character]] using this template.
+
+It is very important: Do not copy the information over manually, as that will just exhaust you. It is better to hit the green button next to their name, which will allow you to copy the template.
+
 
 #### Abilities
-**MONSTER ABILITIES**: Monsters may spend [[Experience Points|XP]] on various different Abilities. They cannot be purchased after [[Character Creation Guide|Character Creation]]. Check the [[RPGSessions|RPGSessions]] sheet to see what the options are.
+**Varied**: Monsters may spend [[Experience Points|XP]] on various different Abilities. They cannot be purchased after [[Character Creation Guide|Character Creation]]. Check the [[RPGSessions|RPGSessions]] sheet to see what the options are.

@@ -28,7 +28,10 @@ Yet, just as there are these Zora, there are others who see it as shameful that 
 
 
 ### Playing a Zora
-[Here is the template to make a Zora Character!](https://app.rpgsessions.com/char/nds/6424fa2dc1a8f5a7fd1a5e78) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit “clone” so you can start making your own [[Character]] using this template.
+[Here is the template to make a Zora Character!](https://app.rpgsessions.com/char/nds/6424fa2dc1a8f5a7fd1a5e78) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit the green button next to their name so you can start making your own [[Character]] using this template.
+
+It is very important: Do not copy the information over manually, as that will just exhaust you. It is better to hit the green button next to their name, which will allow you to copy the template.
+
 
 #### Abilities
 **People of the Sea**: Zora can breath underwater without any additional help or items. Any [[Setback Dice|Setbacks]] usually added due to underwater disadvantages are removed, and they gain one rank by default in [[Swim|Swim]] (already added). They can take a second [[Maneuvers|Maneuver]] without suffering [[Strain|Strain]] in the water. May use [[Agility|Agility]] for [[Athletics|Athletics]] instead of [[Brawn|Brawn]].

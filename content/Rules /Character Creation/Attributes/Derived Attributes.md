@@ -14,10 +14,10 @@ Derived Attributes refers to stats, such as [[Wound Threshold|Wound Threshold]],
 [[Wound Threshold]]
 [[Strain Threshold]]
 [[Soak]]
-[[Defensive Step]]
+[[Defense]]
 [[Encumbrance|Encumbrance Threshold]]
 
-Additionally, [[Wounds]] and [[Strain]] are like the ‘health’ of a [[Character]] and change regularly. How much Wounds or Strain a Character can suffer before becoming [[Incapacitated]] is determined by Wound and Strain Threholds.
+Additionally, [[Wounds]] and [[Strain]] are like the ‘health’ of a [[Character]] and change regularly. How much Wounds or Strain a Character can suffer before becoming [[Incapacitated]] is determined by Wound and Strain Thresholds.
 
 
 

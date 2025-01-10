@@ -7,6 +7,8 @@ Allows the player to teleport. At its base value, it is similar to teleportation
 
 Its default [[Range Bands|Range]] is [[Short Range|Short]]. 
 
+The location that the target is teleported to can be anywhere within the Range of the Spell from the Spellcaster. For example, if the Spell has a Range of [[Long Range|Long]], the target can only be teleported to some place within Long Range of the original Spellcas
+
 Unless the target is an unwilling [[Character|Character]], the [[Difficulty]] of a Relocate Spell is dependent on the [[Silhouette]] (size) of the object or person that the Spellcaster is trying to move.
 
 - Silhouette 0: [[Difficulty|1p]]

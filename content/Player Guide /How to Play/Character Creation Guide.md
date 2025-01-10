@@ -29,7 +29,9 @@ All the Peoples you can play as start with a different amount of [[Experience Po
 It should be noted that it is generally suggested to spend as much of your starting XP as possible on Characteristics, as they become much harder to upgrade later on.
 
 ## Step 5 - Determine Derived Attributes
-[[Derived Attributes]] refer to things such as [[Wound Threshold]], [[Strain Threshold]], or [[Soak]]. These are based on the Characteristics and Talents you have, and it is important to determine them.
+[[Derived Attributes]] refer to things such as [[Wound Threshold]], [[Strain Threshold]], or [[Soak]]. These are based on the Characteristics and Talents you have, and it is important to determine them. 
+
+The full list of Derived Attributes can be found on its page.
 
 ## Step 6 - Purchase with Rupees
 [[Rupees|Rupee]] are the primary currency, not just in Hyrule, but much of the world. While that may change soon seeing as the Civil War has destabilized Hyrule’s currency, it is still the money with which almost everything is bought; if it be [[Armor]], [[Weapons]], tools, or [[Weapons#Shields|Shields]]. Every character starts with 1200 Rupees. This can be spent in the stores. Check out the [[Item Database Guide]]. Anything from there and the folder it belongs to can be purchased, so long as your character is not incompatible with a weapon’s or Item’s [[Affiliations]] (determined by the [[The GM|GM]] and [[Player]] based on the backstory). What would your character use, or own? If they have a weapon, this is the time to buy one.

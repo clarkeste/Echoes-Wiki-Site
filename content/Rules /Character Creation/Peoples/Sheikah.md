@@ -28,7 +28,10 @@ Ever since then, Sheikah have been treated with disdain and outright hatred by m
 
 
 ### Playing a Sheikah
-[Here is the template to make a Sheikah Character!](https://app.rpgsessions.com/char/nds/6424fb8dc1a8f5a7fd1a6797) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit “clone” so you can start making your own [[Character]] using this template.
+[Here is the template to make a Sheikah Character!](https://app.rpgsessions.com/char/nds/6424fb8dc1a8f5a7fd1a6797) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit the green button next to their name so you can start making your own [[Character]] using this template.
+
+It is very important: Do not copy the information over manually, as that will just exhaust you. It is better to hit the green button next to their name, which will allow you to copy the template.
+
 
 #### Abilities
 **Sheikah Tribe**: At [[Character Creation Guide|Character Creation]] you have three options: pick one [[Combat Skills|Combat Skill ]]to make a [[Career Skills|Career Skill]], pick two [[Knowledge Skills|Knowledge Skills]] to make Career Skills, or pick one [[General Skills|General Skills]] to make a Career Skill.

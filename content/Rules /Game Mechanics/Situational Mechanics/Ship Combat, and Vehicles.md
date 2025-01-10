@@ -9,9 +9,9 @@ aliases:
   - steed
   - Ship
 ---
-Different rules handle water-faring Ships and larger vehicles such as Carriages, chariots, or other similar contraptions.
+There are different rules for handling water-faring Ships and larger vehicles such as Carriages, chariots, or other similar contraptions.
 
-At the core of these rules, are the Ship/vehicle sheets, which are like [[Character Sheet|Character Sheets]] but instead of describing the abilities of a [[Character]], it describes the properties and abilities of a Ship or vehicle. While some of these are identical to those found in Character Sheets, such as [[Soak]], others are a little different.
+At the core of these rules, are the Ship/vehicle sheets, which are like [[Character Sheet|Character Sheets]] but instead of describing the abilities of a [[Character]], it describes the properties and abilities of a Ship or vehicle. While some of these properties are identical to those found in Character Sheets, such as [[Soak]], others are a little different.
 
 ### Ship and vehicle Sheets
 #### Integrity Threshold 
@@ -73,7 +73,7 @@ Out-of-combat, changing Speed is fairly easy and painless, and can simply be dec
 Each Round, on the turn of the Captain, Pilot, Operator, or the person otherwise managing the vessel, the aforementioned person can change the Speed of the vessel, as an [[Incidentals|Incidental]]. They can increase or decrease the Speed by 1. Each additional increase or decrease of Speed takes [[Ship Combat, and Vehicles#Strain Threshold|Ship Strain]]. For instance, increasing or decreasing Speed by 3 causes the Ship to suffer 2 Strain.
 
 #### Ship Maneuvers
-During [[Combat]], the Operator, Captain, or whoever is driving or managing a Ship or Vehicle, is the [[Character]] who decides how **Ship Maneuvers** are spent. A Ship gains Maneuvers equal to the current Speed of the Ship or Vehicle. They **must** spend all Ship Maneuvers on their turn. Ship Maneuvers are simply to the [[Maneuvers]] used by regular Characters.
+During [[Combat]], the Operator, Captain, or whoever is driving or managing a Ship or Vehicle, is the [[Character]] who decides how **Ship Maneuvers** are spent. A Ship gains Maneuvers equal to the current Speed of the Ship or Vehicle. They **must** spend all Ship Maneuvers on their turn. Ship Maneuvers are unrelated to the [[Maneuvers]] used by regular Characters.
 
 Ship Maneuvers can be spent on the following things:
 
@@ -109,7 +109,7 @@ As a [[Ship Combat, and Vehicles#Ship Maneuvers|Ship Maneuver]], when within [[E
 #### Ship Actions
 Just like in ground-scale [[Combat]] there are [[Actions]], so are there Actions that can impact an entire Ship or vehicle. These are called Ship Actions, similar to [[Ship Combat, and Vehicles#Ship Maneuvers|Ship Maneuvers]].
 
-However, whereas Ship Maneuvers were independent from regular [[Maneuvers]] and instead based on Speed, Ship Actions are not. The [[Character]] in charge—the helmsman, operator, captain, or otherwise manager of the vessel—must use their regular [[Actions|Action]] to make a Ship Action when controlling the vessel.
+However, whereas Ship Maneuvers were independent from regular [[Maneuvers]] and instead based on Speed, Ship Actions are not. The [[Character]] in charge—the helmsman, operator, captain, or otherwise manager of the vessel—must use their regular [[Actions|Action]] to take a Ship Action when controlling the vessel.
 
 Therefore, Characters can usually only take one Ship Action per turn. However, their impacts are usually more significant than that of Ship Maneuvers. The following below are examples of what Ship Actions can taken.
 

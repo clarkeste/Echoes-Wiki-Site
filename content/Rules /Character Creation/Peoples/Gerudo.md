@@ -28,7 +28,10 @@ In pursuit of resolution, revenge—and, perhaps, spiritual peace—Ganondorf le
 
 
 ### Playing a Gerudo
-[Here is the template to make a Gerudo Character!](https://app.rpgsessions.com/char/nds/6424f5f5c1a8f5a7fd1a3808) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit “clone” so you can start making your own [[Character]] using this template.
+[Here is the template to make a Gerudo Character!](https://app.rpgsessions.com/char/nds/6424f5f5c1a8f5a7fd1a3808) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit the green button next to their name so you can start making your own [[Character]] using this template.
+
+It is very important: Do not copy the information over manually, as that will just exhaust you. It is better to hit the green button next to their name, which will allow you to copy the template.
+
 
 #### Abilities
 **Fight to Survive:*** The Gerudo people have been hunted and persecuted by centuries; if not by [[Hylians|Hylians]], then by the cruel twists of fate given to them by the Desert and its creatures. Gerudo gain an extra 1+ [[Skills|Skill]] Rank in any [[Combat Skills|Combat Skill]] of their choice, and +1 in [[Survival|Survival]] (already added to this sheet). In addition, they remove up to two [[Setback Dice|Setback Dice]] from excessive heat; volcanos and lava are excluded.

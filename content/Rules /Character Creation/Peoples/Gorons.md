@@ -21,9 +21,11 @@ When the Revolution broke out, the Goron Administration chose to break off from 
 Regardless of Goron City’s position, many individuals who live there have picked sides. Whether they be Gorons or migrants, they choose between Royalists and Followers. They follow, first and foremost, their own morality.
 
 
-
 ### Playing a Goron
-[Here is the template to make a Goron Character!](https://app.rpgsessions.com/char/nds/6424f822a3cc88d04e25ffc0) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit “clone” so you can start making your own [[Character]] using this template.
+[Here is the template to make a Goron Character!](https://app.rpgsessions.com/char/nds/6424f822a3cc88d04e25ffc0) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit the green button next to their name so you can start making your own [[Character]] using this template.
+
+It is very important: Do not copy the information over manually, as that will just exhaust you. It is better to hit the green button next to their name, which will allow you to copy the template.
+
 
 #### Abilities
 **Goron Mettle:** Gorons can survive in incredible heat without penalty, and have strength beyond compare. They gain +3 to their default [[Encumbrance|Encumbrance Threshold]] (making it 8 as opposed to 5) and the [[Cumbersome (Passive) (Quality)|Cumbersome]] rating of all [[Weapons|Weapons]] is treated as one lower. However, they also weigh much more by default and will have difficulty swimming or staying at the top of bodies of water. To counteract this, they seem to be able to hold their breath four or five times longer than a [[Hylians|Hylian]].
