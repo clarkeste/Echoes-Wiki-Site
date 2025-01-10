@@ -21,7 +21,7 @@ But today, Hylians are as divided as their nation. Brother against brother, son 
 
 
 ### Playing a Hylian
-[Here is the template to make a Hylian Character!](https://app.rpgsessions.com/char/nds/6424f8f9a3cc88d04e2608aa) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit the green button next to their name so you can start making your own [[Character]] using this template.
+[Here is the template to make a Hylian Character!](https://app.rpgsessions.com/char/5127260a-d7a9-451c-b611-549c4dd3cf67) Once you have an [[RPGSessions|RPGSessions]] account, make sure to hit the green button next to their name so you can start making your own [[Character]] using this template.
 
 It is very important: Do not copy the information over manually, as that will just exhaust you. It is better to hit the green button next to their name, which will allow you to copy the template.
 
