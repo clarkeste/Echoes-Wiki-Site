@@ -21,6 +21,8 @@ All the Modifiers are listed below. They include things like [[Burn (Modifier)|B
 
 Each Modifier has a **Magic Point** cost associated with it. Every character, by default, has 4 Magic Points; each rank of [[Force|Force]], [[Knowledge - Legends|Knowledge: Legends]], or [[Discipline|Discipline]] adds an additional Magic Point. These Magic Points serve as the limit of how many Modifiers you can choose on any given Spell, as each Modifier has a Magic Point cost associated with it. Whenever purchasing an additional rank of a Modifier, charge the cost again. For example, purchasing Burn 2 will cost you 6 Magic Points, and Burn 3 will cost you 9.
 
+When casting a Spell, must suffer 2 [[Strain]].
+
 You can only cast a Spell if it is on your [[Character Sheet]]. There are limits to how many Spells can be on your Character Sheet at once, meaning that there is a limited amount of Spells that can be ‘active’ at any given time.
 
 You can have Spells equal to your [[Willpower|Willpower]] + 5 on your sheet at any given time. This means a sorcerer with Willpower 2 would be able to have 7 Spells on their [[Character Sheet|sheet]]. To change the Spells on your sheet, or add another Spell to it, you need one hour of [[Downtime|Downtime]]. If you’re in a pinch and want to use a Spell that’s not on your sheet, you can do so, but must spend a [[Sacred Points|Sacred Point]] first. 
