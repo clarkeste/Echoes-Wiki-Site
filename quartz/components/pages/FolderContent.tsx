@@ -32,7 +32,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const folderParts = folderSlug.split(path.posix.sep)
 
     // Add exclusion filter here ▼
-    const excludedFolder = "The Hyrule Historia"
+    const excludedFolder = "The-Hyrule-Historia"
 
     const allPagesInFolder: QuartzPluginData[] = []
     const allPagesInSubfolders: Map<FullSlug, QuartzPluginData[]> = new Map()
