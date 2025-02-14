@@ -24,7 +24,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(({
+  filterFn: (node) => {
+    // exclude files with the tag "hidden"
+    return node.file?.frontmatter?.tags?.includes("hidden") !== true
+  },
+}))),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -42,16 +47,14 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(({
+      filterFn: (node) => {
+        // exclude files with the tag "hidden"
+        return node.file?.frontmatter?.tags?.includes("hidden") !== true
+      },
+    }))),
   ],
   right: [
     Component.Darkmode(),
   ],
 }
-
-Component.Explorer({
-  filterFn: (node) => {
-    // exclude files with the tag "hidden"
-    return node.file?.frontmatter?.tags?.includes("hidden") !== true
-  },
-})
