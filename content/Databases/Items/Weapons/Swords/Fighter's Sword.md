@@ -18,6 +18,3 @@ The Fighter’s brand has long been known in Hyrule as a producer of quality per
 
 Price: 4000 [[Rupees|Rupees]]
 [[Affiliations|Affiliation]]: None
-
-
-genesysrpg elo: 800

@@ -6,19 +6,19 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-  Component.Comments({
-    provider: 'giscus',
-    options: {
+  // Component.Comments({
+    // provider: 'giscus',
+    // options: {
       // from data-repo
-      repo: 'clarkeste/echoes-wiki-site',
+      // repo: 'clarkeste/echoes-wiki-site',
       // from data-repo-id
-      repoId: 'R_kgDOMEVSEA',
+      // repoId: 'R_kgDOMEVSEA',
       // from data-category
-      category: 'Announcements',
+      // category: 'Announcements',
       // from data-category-id
-      categoryId: 'DIC_kwDOMEVSEM4Cm-bU',
-    }
-  }),
+      // categoryId: 'DIC_kwDOMEVSEM4Cm-bU',
+   //  }
+  // }),
 ],
   footer: Component.Footer({
     links: {
