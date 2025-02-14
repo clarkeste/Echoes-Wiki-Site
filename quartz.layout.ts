@@ -5,7 +5,21 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'clarkeste/echoes-wiki-site',
+      // from data-repo-id
+      repoId: 'R_kgDOMEVSEA',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOMEVSEM4Cm-bU',
+    }
+  }),
+],
   footer: Component.Footer({
     links: {
       "Email": "mailto:Clarkesteban1@gmail.com",
