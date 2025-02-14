@@ -48,3 +48,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
   ],
 }
+
+Component.Explorer({
+  filterFn: (node) => {
+    // exclude files with the tag "hidden"
+    return node.file?.frontmatter?.tags?.includes("hidden") !== true
+  },
+})
