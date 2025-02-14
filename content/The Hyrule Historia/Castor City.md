@@ -2,8 +2,8 @@
 aliases:
   - Castor City
   - Castor
-tags:
   - hidden
+tags: []
 ---
 **Castor City** is a city in the west of [[Hyrule|Hyrule]], close to the Tabantha Frontier Bridge. It is the westernmost large city in Hyrule, established centuries ago as an effort to increase development in the lands to the west. It was conquered by the [[The Followers of Dragmire, Revolutionaries|Revolutionaries]] after the Royal forces guarding it fled further west, into [[Hyrulean Geography|Tabantha]] and [[Hyrulean Geography|Hebra]]. 
 

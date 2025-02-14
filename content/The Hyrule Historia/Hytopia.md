@@ -2,8 +2,8 @@
 aliases:
   - Hytopian
   - Hytopia
-tags:
   - hidden
+tags: []
 ---
 **Hytopia** is a nation to the north of [[Hyrule|Hyrule]], separated by the [[Hyrulean Geography|Great Hyrulean Mountains]]. It was, for many years, a country that had strong trade ties with Hyrule but maintained its independence due to its natural defenses. Hytopia was always a minor power, but its culture—particularly, its architecture and sense of fashion—influenced many other nations in the world.
 

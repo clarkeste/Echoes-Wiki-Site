@@ -1,5 +1,6 @@
 ---
-tags:
+tags: []
+aliases:
   - hidden
 ---
 Farming is an extremely vital part of any civilization, as it produces a steady supply of food that allows beings to take up residence and build homes in a particular area, without being forced to move due to the requirements of food.

@@ -1,5 +1,6 @@
 ---
-tags:
+tags: []
+aliases:
   - hidden
 ---
 The name ‘**Forgotten Temple**’ refers to the decaying structure located at the north end of the [[Hyrulean Geography|Tabantha Canyon]]. While its origins are unknown and exploring it is discouraged due to its derelict nature, scholarly pursuits have entered it and confirmed that it contains the oldest and largest statue of the [[Goddesses and the Gods|Goddess Hylia]]. Other ancient symbols and murals line the walls; however, their meaning is unknown.

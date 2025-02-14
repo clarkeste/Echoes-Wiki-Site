@@ -2,8 +2,8 @@
 aliases:
   - Ealden Frendell
   - Frendell
-tags:
   - hidden
+tags: []
 ---
 **Ealden Frendell** was the Minister of Justice before [[Inl Astor|Inl Astor]]. Frendell died under mysterious circumstances. He served as the Minister of Justice for many years, was responsible for criminal justice and collaborated with his compatriot on [[The Council|the Council]], [[Nophandus|Nophandus]]. As a Minister, Frendell was a member of the Council and one of the highest-ranking individuals in the government. Astor was his protégé, and took over after Frendell's death.
 

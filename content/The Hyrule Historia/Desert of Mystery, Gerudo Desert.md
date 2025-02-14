@@ -2,8 +2,8 @@
 aliases:
   - Gerudo Desert
   - Gerudo Town
-tags:
   - hidden
+tags: []
 ---
 **The Gerudo Desert**, officially known as the **Desert of Mystery** following the [[Hylian-Gerudo War]], is a region in the southwest of [[Hyrule]]. It, as the name implies, is a largely barren desert, although it has been colonized by [[The Hylians|Hylians]] who founded the now-thriving [[Calditin City]].
 

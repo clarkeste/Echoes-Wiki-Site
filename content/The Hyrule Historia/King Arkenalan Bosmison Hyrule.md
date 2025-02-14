@@ -3,8 +3,8 @@ aliases:
   - King of Hyrule
   - father
   - King
-tags:
   - hidden
+tags:
 ---
 **King Arkenalan Bosmison Hyrule** was a [[Former Hyrulean Government and Royal Family|King]] that reigned during the latter half of the [[First Hyrulean Civil War|first Hyrulean Civil War]]. Under his reign, the Civil War ended with a Hyrulean victory. Unfortunately, he was betrayed and murdered during [[Ganondorf Dragmire|Dragmire]]’s coup. His [[Princess Zelda|daughter]] was forced into hiding as a result. 
 

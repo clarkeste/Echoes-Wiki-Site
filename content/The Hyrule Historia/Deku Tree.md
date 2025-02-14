@@ -1,8 +1,8 @@
 ---
 aliases:
   - Great Deku Tree
-tags:
   - hidden
+tags: []
 ---
 **The Great Deku Tree** is, according to legend, the guardian of the [[Lost Woods|Lost Woods]]. He is a large tree that can speak and watches over the forest, protecting the [[The Kokiri|The Kokiri]] who live inside the forest. It is said that he guided the [[Hero of Time|Hero of Time]] during the young Hero’s childhood and adolescence, and that the Deku Tree was incredibly wise.
 

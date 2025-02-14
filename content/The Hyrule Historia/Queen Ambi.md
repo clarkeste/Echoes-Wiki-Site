@@ -2,8 +2,8 @@
 aliases:
   - Queen Ambi
   - monarchs
-tags:
   - hidden
+tags: []
 ---
 **Queen Ambi** was the previous monarch of [[Labrynna]], before the current [[Queen Lakra|Queen Lakra]], who was Ambi’s daughter.
 

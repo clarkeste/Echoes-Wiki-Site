@@ -1,8 +1,8 @@
 ---
 aliases:
   - author
-tags:
   - hidden
+tags:
 ---
 ### Duffan Toncele
 A wise author who lived during the era of [[First Hyrulean Civil War|Hyrule's first Civil War]], Toncele was the one to write an edition of the Hyrule Historia. He, as all contributors, are credited with every new edition of the book.

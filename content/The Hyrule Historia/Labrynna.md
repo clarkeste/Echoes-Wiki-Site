@@ -1,8 +1,8 @@
 ---
 aliases:
   - Labrynna
-tags:
   - hidden
+tags: []
 ---
 Labrynna is a nation to the east of both [[Hyrule|Hyrule]] and [[Holodrum|Holodrum]], separated by the latter country by a strait. Despite being a similar size to the two aforementioned countries, it has often lagged behind Hyrule and Holodrum in prosperity, influence, and domestic development.
 

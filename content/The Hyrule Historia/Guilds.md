@@ -4,8 +4,8 @@ aliases:
   - companies
   - Guilds
   - Guild
-tags:
   - hidden
+tags:
 ---
 The **Guilds** refers to the largest businesses in [[Hyrule|Hyrule]], often those that operate across the whole country and control various smaller enterprises, allowing them to impact many different industries all at once or enforce a near-monopoly on a single industry. Those in charge of these Guilds often are [[Capitalist and Nobleman Class|extremely wealthy, noble]], and as part of their job, have communication with the [[The Royalists|Royalists]], the [[The Followers of Dragmire, Revolutionaries|Revolutionaries]], and the [[Former Hyrulean Government and Royal Family|Royal Family]] before them.
 

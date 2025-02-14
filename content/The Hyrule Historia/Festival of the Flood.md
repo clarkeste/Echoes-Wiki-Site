@@ -1,8 +1,8 @@
 ---
 aliases:
   - Festival of the Flood
-tags:
   - hidden
+tags: []
 ---
 The **Festival of the Flood** is an annual holiday celebrated on the fourth of [[Hylian Calendar|Asinober]] every year. It celebrates when the [[Hero of the Flood|Hero of the Flood]] defeated the [[Ganondorf Dragmire|Demon King]] and ended the [[The Flood|torrential downpour that threatened to wash Hyrule under the waves]], forever. It is often celebrated in [[Castle Town|Castle Town]], and features a speech from the current head of the [[Former Hyrulean Government and Royal Family|Royal Family]].
 

@@ -1,8 +1,8 @@
 ---
 aliases:
   - Sheikah
-tags:
   - hidden
+tags: []
 ---
 **The Sheikah** are an enigmatic group who have lived on Hyrule’s surface for millennia; perhaps even longer than the [[The Gorons|Gorons]] or [[The Zora|Zora]]. Evidence suggests that even in prehistoric times, they often wandered from place to place. [[Hyrule|Hyrule]], at the time, was a dangerous place, splitting the Sheikah and culling their numbers. Legend speaks of them being servants of the [[Goddesses and the Gods|Goddess Hylia]] before this ancient era, but no such sources remain.
 

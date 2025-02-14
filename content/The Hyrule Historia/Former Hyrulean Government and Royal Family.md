@@ -11,8 +11,8 @@ aliases:
   - monarchs
   - monarchy
   - King
-tags:
   - hidden
+tags: []
 ---
 How long the **Royal Family** and previously sole **Hyrulean government** reigned is unknown; however, most historians agree that it began long before the first [[First Hyrulean Civil War|Hyrulean Civil War]], putting it at hundreds of years. Despite its ideals being succeeded by the [[The Royalists|Royalist faction]], the **Royal Family**, its [[The Council|council]], and other institutions prior to the [[Revolution and Second Civil War|Revolution]] are no longer surviving or in power. The sole, most legitimate survivor is [[Prince Lusand]].
 

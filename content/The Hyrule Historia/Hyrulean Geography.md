@@ -12,8 +12,8 @@ aliases:
   - Hebra
   - Eldin
   - Faron
-tags:
   - hidden
+tags:
 ---
 While the [[(Foreword and Contents)|Hyrule Historia]] is primarily focused on the history of Hyrule, we understand the importance of including basic geographical information about the country.
 

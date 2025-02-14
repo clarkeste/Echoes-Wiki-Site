@@ -8,8 +8,8 @@ aliases:
   - Revolutionary
   - Followers
   - Follower
-tags:
   - hidden
+tags: []
 ---
 **The Followers of Dragmire**, now officially called the "**New Hyruleans**", and colloquially known as "**the Revolutionaries**", were a rebellious organization in [[Hyrule]]. Their leaders, most notably [[The Pragmatist|the Pragmatist]], staged the [[Revolution and Second Civil War|Revolution]] in which they overthrew the [[Last King of Hyrule|King of Hyrule]] and his [[Former Hyrulean Government and Royal Family|Royal government]]. They are named after [[Ganondorf Dragmire]]. In the current day, they are one of the factions in the Civil War, led by [[The Confessor|the Confessor]].
 

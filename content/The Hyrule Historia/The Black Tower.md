@@ -1,8 +1,8 @@
 ---
 aliases:
   - Black Tower
-tags:
   - hidden
+tags: []
 ---
 **The Black Tower** is a structure in [[Labrynna|Labrynna]] that was created by the country’s previous monarch, [[Queen Ambi|Queen Ambi]]. While it was initially referred to only as Ambi’s Tower, it recieved a new name by the workers who spent long, painful  hours on the project: The Black Tower.
 

@@ -2,8 +2,8 @@
 aliases:
   - Holodrumian Imperial Family
   - Emperor
-tags:
   - hidden
+tags: []
 ---
 **Kanadei Holodramn** is the current Emperor of the [[Holodrum|Empire of Holodrum]]. He is young, in his mid-twenties, but is considered to be one of the most competent and cunning monarchs in Holodrum’s history by those who know him. Despite his young age, he has been Emperor for over half a decade and has a wife along with an infant child.
 

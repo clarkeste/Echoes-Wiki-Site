@@ -3,8 +3,8 @@ aliases:
   - Zora's Domain
   - Zora’s Domain
   - Zora
-tags:
   - hidden
+tags: []
 ---
 **The Zora** are an aquatic species that live in Hyrule alongside the [[The Hylians|Hylians]] and [[The Gorons|Gorons]], living primarily in **Zora's Domain**, but also in many other cities and villages across [[Hyrule|Hyrule]]. They have historically been allies of the Hylians, and of the [[Former Hyrulean Government and Royal Family|Royal Family]]. However, that changed when they supported the [[The Followers of Dragmire, Revolutionaries|Followers]] during the [[Revolution and Second Civil War|Revolution]], and are now a part of their new government.
 

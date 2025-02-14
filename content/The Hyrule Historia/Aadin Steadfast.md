@@ -3,7 +3,6 @@ aliases:
   - father, a blacksmith
   - Aadin Steadfast
   - blacksmith
-tags:
   - hidden
 ---
 **Aadin Steadfast** was a [[The Hylians|Hylian]] blacksmith who lived in [[Castle Town]], and the father of [[Link Steadfast]]. His wife died in complications during the childbirth of their son and daughter, Link and [[Aryll Steadfast]], leading Aadin to raise their children alone. Those who knew Aadin say he was a soft-spoken and kind man, one who deeply believed in certain principles. If those principles were the ones that led his son to join the [[Castle Town Parliamentarians]], we cannot say.

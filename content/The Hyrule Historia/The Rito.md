@@ -1,5 +1,6 @@
 ---
-tags:
+tags: []
+aliases:
   - hidden
 ---
 **The Rito** are a sapient, avian species that live in the cold eastern reaches of northern [[Holodrum|Holodrum]]. They are masters of the sky, and often use bows. Using their wings—which have finger-like appendages on them that allow them to manipulate objects just as well as a [[The Humans|Human]] or [[The Zora|Zora]]—they can fly in the air, gliding on currents and weaving in and out of obstacles with precision. 

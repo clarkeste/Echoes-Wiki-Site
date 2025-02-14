@@ -5,8 +5,8 @@ aliases:
   - the Gerudo Desert
   - Hylian-Gerudo war
   - invaded
-tags:
   - hidden
+tags:
 ---
 **The Hylian-Gerudo War** was an event shortly after the Era of [[The Flood|the Flood]], when the then monarch of [[Hyrule|Hyrule]]—the Prince ascendant, after his [[King Daphnes Nohansen|father]] and [[Princess Zelda|sister]] were killed by [[Ganondorf Dragmire]]—ordered an invasion of the [[Gerudo|Gerudo]] in retaliation for the actions of their former leader. While the majority of then-living Gerudo did not support Dragmire, the Royal Army rolled into the desert all the same.
 

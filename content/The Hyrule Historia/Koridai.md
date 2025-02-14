@@ -1,8 +1,8 @@
 ---
 aliases:
   - Koridai
-tags:
   - hidden
+tags: []
 ---
 **Koridai** is an island-nation in the [[The Great Sea|Great Sea]], between [[Hyrule|Hyrule]] and [[Holodrum|Holodrum]]. Due to its strategic position, almost all intercontinental [[Economy|trade]] passes through Koridai—making it the most wealthy country in the world, and extremely important for its small size. It has often been courted by competing powers, primarily Holodrum and Hyrule, who seek to have the most influence over the vital island. Koridai itself is very mountainous in terrain, with various ports and harbors on its coasts. It is ruled by a monarchy, but the most powerful people on the island are the merchant companies. Almost all groups appreciate the attention received from Hyrule and Holodrum, allowing the country to grow even richer.
 

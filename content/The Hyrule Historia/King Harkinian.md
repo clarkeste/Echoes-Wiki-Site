@@ -1,8 +1,8 @@
 ---
 aliases:
   - King in Hyrulean History
-tags:
   - hidden
+tags:
 ---
 King Harkinian was one of the many [[Former Hyrulean Government and Royal Family|monarchs]] [[Hyrule|Hyrule]] had after the [[The Flood|Flood]]. He is most known for being the first King to seriously recognize the importance of relations with [[Koridai|Koridai]], and a soft-power foreign policy, using influence instead of weapons. This is despite his past in the military as a warrior and General before his older brother died and he became the heir to the throne.
 

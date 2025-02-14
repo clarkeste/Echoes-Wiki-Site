@@ -3,8 +3,8 @@ aliases:
   - Zunari Island
   - Zuna Republic
   - Zunari
-tags:
   - hidden
+tags: []
 ---
 **The Zuna Republic** is a small island-nation in the southern [[The Great Sea|Great Sea]], near the [[Desert of Doubt|Desert of Doubt]]. It is minor and mostly isolated from the rest of the world culturally, but still engages in trade by selling items—particular those found in the tropical Zunari Island, or from the Desert of Doubt—that are rare almost everywhere else in the world. The Zuna Republic is a democracy, and one of the couple of island-nations that have a functioning democracy on a small scale.
 

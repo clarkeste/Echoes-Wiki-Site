@@ -1,5 +1,5 @@
 ---
-tags:
+aliases:
   - hidden
 ---
 **The Arbiter’s Grounds** was a prison used by the [[Former Hyrulean Government and Royal Family|Royal Family]] during and after the [[First Hyrulean Civil War|firstHyrulean Civil War]], until it was abandoned during [[Ganondorf Dragmire|Dragmire]]’s return 300 years ago. The Arbiter’s Grounds was located in the [[Desert of Mystery, Gerudo Desert|Gerudo Desert]], and built off ancient ruins made by the [[The Gerudo|Gerudo Tribe]].

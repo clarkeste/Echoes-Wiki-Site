@@ -31,11 +31,20 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const folderSlug = stripSlashes(simplifySlug(fileData.slug!))
     const folderParts = folderSlug.split(path.posix.sep)
 
+    // Add exclusion filter here ▼
+    const excludedFolder = "The Hyrule Historia"
+
     const allPagesInFolder: QuartzPluginData[] = []
     const allPagesInSubfolders: Map<FullSlug, QuartzPluginData[]> = new Map()
 
     allFiles.forEach((file) => {
       const fileSlug = stripSlashes(simplifySlug(file.slug!))
+      
+      // Skip files in the excluded folder
+      if (fileSlug.startsWith(excludedFolder + path.posix.sep) || fileSlug === excludedFolder) {
+        return
+      }
+
       const prefixed = fileSlug.startsWith(folderSlug) && fileSlug !== folderSlug
       const fileParts = fileSlug.split(path.posix.sep)
       const isDirectChild = fileParts.length === folderParts.length + 1

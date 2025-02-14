@@ -3,8 +3,8 @@ aliases:
   - Governor, Kakan Rarurn
   - Governor
   - Arandin
-tags:
   - hidden
+tags: []
 ---
 Arandin is a veteran politician and an elder statesman. An activist when he was young, he was elected to be Governor of [[Kakariko City]] fifteen years ago, becoming one of the most well-known and famous governors in all of [[Hyrule]]. He achieved an extremely high approval from his citizenry, who had always been more progressive than other places in Hyrule. They saw Arandin as representing a hope for a better future. As a result, he was consistently re-elected. He even spoke in support of the [[Castle Town Parliamentarians|Parliamentarians in Castle Town]], and often defied the [[Last King of Hyrule|King]]’s orders.
 

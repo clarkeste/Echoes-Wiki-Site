@@ -1,5 +1,6 @@
 ---
-tags:
+tags: []
+aliases:
   - hidden
 ---
 In the years since the flood, the amount of [[Rupees, Currencies|Rupees]] the average consumer is willing to spend is lowering. While most economists of repute attribute this to the growing [[Capitalist and Nobleman Class|middle-class]] in [[Hyrule|Hyrule]] since the [[The Flood|Flood]], it is also undeniable that distributors lowering their prices and standards to appeal to these new demographics, thereby reducing what is seen as a reasonable price, has also played a part.

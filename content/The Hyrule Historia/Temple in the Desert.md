@@ -1,8 +1,8 @@
 ---
 aliases:
   - Temple
-tags:
   - hidden
+tags: []
 ---
 According to Royal documents that were declassified following the [[Revolution and Second Civil War|Revolution]], [[Ganondorf|Ganondorf]] spoke of a **Temple deep in the desert**. He believed it to hold a [[The Triforce|Triforce]] Shard, but was unable to enter without a [[Sage Medallions|Sage Medallion]].
 

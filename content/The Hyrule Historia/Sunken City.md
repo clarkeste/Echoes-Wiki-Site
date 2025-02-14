@@ -1,5 +1,6 @@
 ---
-tags:
+tags: []
+aliases:
   - hidden
 ---
 **The ‘Sunken City’** is not an uncommonly mentioned part of [[Hyrule|Hyrulean]] history. While most myths about it that aren’t accurate, it does truly exist.

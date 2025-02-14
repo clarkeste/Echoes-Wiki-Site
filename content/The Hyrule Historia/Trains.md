@@ -1,5 +1,6 @@
 ---
-tags:
+tags: []
+aliases:
   - hidden
 ---
 **Trains** are a new mode of transportation devised by engineers in [[Hyrule|Hyrule]] and [[Holodrum|Holodrum]]. They go on rails and can travel at fast speeds.

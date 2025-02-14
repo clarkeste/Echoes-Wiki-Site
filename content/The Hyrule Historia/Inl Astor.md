@@ -4,8 +4,8 @@ aliases:
   - Inl Astor.
   - Inl Astor
   - Astor
-tags:
   - hidden
+tags: []
 ---
 **Inl Astor** was the Minister of Justice following the death under strange circumstances of the previous minister, [[Ealden Frendell|Ealden Frendell]]. He took over when dissidence against the [[Former Hyrulean Government and Royal Family|Royal Family]] was at an all-time high, approximately six years ago. Collaborating with his colleague, [[Nophandus|Nophandus]], Astor did much to prevent the spread of such groups. One of the groups that always eluded the [[Former Hyrulean Government and Royal Family|Royal government]] was the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]], which eventually started absorbing members from other groups that were easier to quash. Astor believed for a long time that a member of the [[The Council|Council]] was secretly the leader of the Followers of Dragmire, an individual who they only knew as “[[The Pragmatist|The Pragmatist]]]”, and whose existence they knew only from intercepted letters. Eventually, Astor grew to suspect Nophandus. Astor himself was well-liked by the [[Last King of Hyrule|King]], with some going so far as to say that the King treated him more like a son than he treated [[Princess Zelda|Zelda]] like a daughter.
 

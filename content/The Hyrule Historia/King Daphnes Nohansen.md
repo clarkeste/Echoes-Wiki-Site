@@ -4,8 +4,8 @@ aliases:
   - King Daphnes
   - father
   - King
-tags:
   - hidden
+tags:
 ---
 **Daphnes Nohansen Hyrule** was a [[Former Hyrulean Government and Royal Family|King]] of [[Hyrule|Hyrule]], and the reigning monarch when [[Ganondorf Dragmire|Ganon]], the Demon King, returned after 100 years of being sealed. He was a measured King, and despite his strict tone with many subordinates, his actions dpokr louder than words—the King was such a compassionate man that, in the eyes of many historians, it was what killed him.
 

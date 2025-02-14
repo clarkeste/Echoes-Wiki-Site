@@ -1,8 +1,8 @@
 ---
 aliases:
   - Impa
-tags:
   - hidden
+tags: []
 ---
 Impa is [[Sheikah|Sheikah]] who was once the lead bodyguard for [[Princess Zelda|Princess Zelda]]. Her role in history would be minor, as she was later replaced by [[Link Sahon|Link Sahon]], if not for her returning to royal employ shortly before the [[Revolution and Second Civil War|Revolution]]. She was a part of the [[Commission for the Reclamation of the Golden Power|Commission for the Recovery of the Golden Power]], likely recruited back to service for her great prowess and cunning, despite the stigma against the Sheikah regarding loyalty.
 

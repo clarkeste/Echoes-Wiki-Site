@@ -1,8 +1,8 @@
 ---
 aliases:
   - Warden
-tags:
   - hidden
+tags: []
 ---
 **The Warden** of [[Lanayru Citadel|Lanayru Citadel]], is a member of the [[The Royalists|Royalist]] government who was formerly in command of the fortress before it was reappropriated as a base for the Royalist movement. Now, the Warden acts as its head of security.
 

@@ -4,8 +4,8 @@ aliases:
   - group that Steadfast belonged
   - Castle Town Parliamentarians
   - Parliamentarians
-tags:
   - hidden
+tags: []
 ---
 The **Castle Town Parliamentarians** were a group who sought to carry out peaceful change in [[Hyrule|Hyrule]]’s [[Former Hyrulean Government and Royal Family|government]], by transitioning the government to a constitutional monarchy in the same style as [[The Zora|Zora’s Domain]]. However, a Royally-commissioned investigation found that they were engaging in a treasonous conspiracy. They were outlawed, their meeting place set aflame, and leaders imprisoned. Many accuse them of advocating for thinly-veiled authoritarian rule by the unenlightened masses.
 

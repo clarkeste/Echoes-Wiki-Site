@@ -1,5 +1,6 @@
 ---
-tags:
+tags: []
+aliases:
   - hidden
 ---
 **The Sage Temple** is a building in [[Hyrulean Geography|Central Hyrule]], built alongside Hylia river with its foundations constructed upon a shallow pond. It was erected during the reconstruction of [[Hyrule|Hyrule]] four hundred years ago, in honor of the [[Sages|Sages]] of old and the Sages that helped defeat the [[Ganondorf Dragmire|Demon King]]. Its most famous monument is a large room with statues for both groups of six Sages, with Rauru—supposedly the member of the ancient Sages who survived Dragmire’s murder of them—in the center, between the more modern and ancient. This is meant to represent how he led both groups of Sages.

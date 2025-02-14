@@ -8,8 +8,8 @@ aliases:
   - Kingdom
   - country
   - Hyrule
-tags:
   - hidden
+tags:
 ---
 While it would be shocking that anyone would read the [[(Foreword and Contents)|Hyrule Historia]] without knowing of the titular country, it bears repeating for the sake of completeness: Hyrule is a country on the western continent, bordering [[Calatia]] to the west, [[Hytopia]] to the north, the sea to the east, and the Desert of Mystery—or more commonly known, the Gerudo Desert—to the south.
 

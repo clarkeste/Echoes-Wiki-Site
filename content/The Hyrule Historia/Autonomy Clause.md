@@ -4,8 +4,8 @@ aliases:
   - autonomous zones
   - autonomous zone
   - autonomy
-tags:
   - hidden
+tags: []
 ---
 **Autonomous Zones** are areas in [[Hyrule]] that have been given more independence by the [[Former Hyrulean Government and Royal Family|central government]]. This can be due to various reasons, but was often a concession in exchange for the area joining Hyrule, or was done to give minority groups more independence.
 

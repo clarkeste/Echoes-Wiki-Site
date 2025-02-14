@@ -3,8 +3,8 @@ aliases:
   - Royalist Citadel
   - Lanayru Citadel
   - Lanayru Citade
-tags:
   - hidden
+tags: []
 ---
 **Lanayru Citadel** is the current headquarters of the [[The Royalists|Royalist]] faction. It exists atop one of the largest mountains in [[Hyrule|Hyrule]], the snowy eastern peak of Mount Lanayru. Its height and impressive construction makes it an almost impenetrable fort. It previously acted as a prison for the most dangerous criminals, but was repurposed shortly after the [[Revolution and Second Civil War|Revolution]].
 

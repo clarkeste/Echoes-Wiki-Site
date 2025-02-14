@@ -11,8 +11,8 @@ aliases:
   - daughter
   - sister
   - Zelda
-tags:
   - hidden
+tags: []
 ---
 **Princess Zelda** is a very common name for the women of the [[Hyrule|Hyrulean]] [[Former Hyrulean Government and Royal Family|Royal Family]]. The most notable Zeldas include the woman who, in legend, is said to have founded Hyrule and been a descendent or incarnation of the [[Goddesses and the Gods|Goddess Hylia]], the Princess during the era of the [[Hero of Time|Hero of Time]], the Princess during the era of the [[Hero of the Flood|Hero of the Flood]], or the last Princess of Hyrule, who died in the [[Revolution and Second Civil War|Revolution]].
 

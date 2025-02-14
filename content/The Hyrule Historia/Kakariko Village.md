@@ -1,8 +1,8 @@
 ---
 aliases:
   - Kakariko Village
-tags:
   - hidden
+tags:
 ---
 **Kakariko Village** is an old [[Sheikah|Sheikah]] settlement that was reached its peak by the time of [[Ganondorf Dragmire|Ganon]]’s [[Seven Year Reign|seven year reign]], and accepted many [[The Hylians|Hylian]] refugees. It is located in the north of the country, at the base of [[Death Mountain|Death Mountain]].
 

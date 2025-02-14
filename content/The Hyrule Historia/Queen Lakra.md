@@ -1,8 +1,8 @@
 ---
 aliases:
   - Queen Lakra
-tags:
   - hidden
+tags: []
 ---
 Queen Lakra is the current monarch of [[Labrynna]]. She is the successor to [[Queen Ambi]] who ruled before her. Lakra inherited an extremely challenging situation and and unstable, rebellious country. She was largely unprepared to deal with this, and so relied on the advice of her advisors and the Prime Minister.
 

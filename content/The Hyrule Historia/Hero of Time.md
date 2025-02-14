@@ -2,8 +2,8 @@
 aliases:
   - Hero of Time
   - Hero
-tags:
   - hidden
+tags:
 ---
 **The Hero of Time** was a figure born over four hundred years ago, during the end of the first [[First Hyrulean Civil War|Hyrulean Civil War]]. While little of his childhood is known, it is known that he was orphaned only months after birth by the Civil War and grew up somewhere inside the [[Lost Woods|Lost Woods]]. When he was 9 years old, only weeks before [[Ganondorf Dragmire|Ganondorf Dragmire]] killed the [[King Arkenalan Bosmison Hyrule|King of Hyrule]], he had a brief encounter with the [[Princess Zelda|Princess Zelda]] of that era. However, the two would not meet again until [[Seven Year Reign|seven long years]] later, when the Hero of Time returned, wielding the [[Master Sword|Sword that Seals the Darkness]].
 

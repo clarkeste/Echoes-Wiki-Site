@@ -1,5 +1,6 @@
 ---
-tags:
+tags: []
+aliases:
   - hidden
 ---
 **The Kokiri**, also known as the **Kokiri Tribe**, the **Children of the Forest**, or **Fairy Folk**, are, according to myth, small child-like beings that inhabit the [[Lost Woods|Lost Woods]]—or ‘Korkiri Woods' as some call them when referring to the Kokiri. There, legends state, they live in treehouses within the woods' acres and clearings.

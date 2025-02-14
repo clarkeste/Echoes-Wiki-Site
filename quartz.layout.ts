@@ -27,7 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer(({
   filterFn: (node) => {
     // exclude files with the tag "hidden"
-    return node.file?.frontmatter?.tags?.includes("hidden") !== true
+    return node.file?.frontmatter?.aliases?.includes("hidden") !== true
   },
 }))),
   ],

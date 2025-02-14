@@ -3,8 +3,8 @@ aliases:
   - The Commission for the Reclamation of the Golden Power
   - Commission for the Reclamation of the Golden Power
   - Commission for the Recovery of the Golden Power
-tags:
   - hidden
+tags: []
 ---
 The **Commission for the Reclamation of the Golden Power**, sometimes called the **Commission for the Recovery of the Golden Power**, and abbreviated as the **CRGP**, was a team created by the [[Former Hyrulean Government and Royal Family|Royal Family]] to recover the [[The Triforce|Triforce]] in the last days of the monarchy.
 

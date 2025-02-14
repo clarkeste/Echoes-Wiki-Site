@@ -1,8 +1,8 @@
 ---
 aliases:
   - Timekeeper
-tags:
   - hidden
+tags: []
 ---
 **The** "**Timekeeper**" was a mysterious device used by the [[Ganondorf|Ganondorf]] of the modern day, of which little is known. It is believed that Ganondorf found the Timekeeper in an ancient structure in the desert, and that it allowed him to see the past and various possible futures. It is thought that Ganondorf used this to live and watch through the lives of great warriors—perhaps his [[Reincarnation|past lives]]—thereby learning their skills.
 

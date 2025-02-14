@@ -2,8 +2,8 @@
 aliases:
   - magical
   - Spells
-tags:
   - hidden
+tags: []
 ---
 **Magic** refers to the **Spells** used by sorcerers and other spell-users. It is a practice with many sources, and many different applications. Its origins are unclear, but it is believed it is a manifestation of an individual's thoughts into action in the real world. While anybody can use a magical item, only some people born with the proper recessive gene are able to wield magic directly.
 

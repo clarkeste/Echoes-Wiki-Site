@@ -3,8 +3,8 @@ aliases:
   - the Confessor
   - rebel attack
   - Confessor
-tags:
   - hidden
+tags: []
 ---
 **The Confessor** is the leader of the [[The Followers of Dragmire, Revolutionaries|Revolutionary government and Followers of Dragmire]]. She is an individual with seemingly no name or history. She first appeared six years ago when she intervened during the Royal Army's attempt to quell a protest in [[Kakariko City|Kakariko City]]. She engaged the Royalist Forces and destroyed much of their equipment, foiling their attempt. Bearing the same symbols and appearance as members of the Followers of Dragmire, she was identified as another [[The Chosen|Chosen]].
 

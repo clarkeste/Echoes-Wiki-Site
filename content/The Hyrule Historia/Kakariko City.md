@@ -2,8 +2,8 @@
 aliases:
   - Kakariko City’s
   - Kakariko City
-tags:
   - hidden
+tags: []
 ---
 **Kakariko City** is the biggest, most diverse city in [[Hyrule|Hyrule]], judged by land that is considered a part of the city zone. It is a close second in terms of population, with [[Castle Town|Castle Town]] barely beating it out by most estimates.
 

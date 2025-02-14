@@ -1,5 +1,6 @@
 ---
-tags:
+tags: []
+aliases:
   - hidden
 ---
 **Prince Lusand** is the crown prince of [[Hyrule|Hyrule]], and brother to [[Princess Zelda|Princess Zelda]]. He is a young man, nineteen years of age, and with the death of his sister and [[Last King of Hyrule|father]], the next in line to the throne.

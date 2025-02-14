@@ -1,8 +1,8 @@
 ---
 aliases:
   - Messenger
-tags:
   - hidden
+tags: []
 ---
 [[The Followers of Dragmire, Revolutionaries|The Followers of Dragmire]] for most of its history, had a restrictive hierarchical rank system. While it loosened in the decade leading up to the [[Revolution and Second Civil War|Revolution]], echoes of it still exist in the Revolutionary military today, and the organization referred to as the Followers.
 

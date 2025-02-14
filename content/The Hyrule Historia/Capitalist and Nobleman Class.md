@@ -6,8 +6,8 @@ aliases:
   - middle-class
   - nobility
   - noblemen
-tags:
   - hidden
+tags: []
 ---
 [[Hyrule|Hyrule]], along with other advancing countries such as [[Holodrum|Holodrum]], have a **burgeoning peasant merchant class**. These peasants are not officially recognized by the [[Last King of Hyrule|King]] in the same way the **Noblemen** are, nor do they have hereditary land that is bound to their family line.
 

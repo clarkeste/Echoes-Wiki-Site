@@ -1,8 +1,8 @@
 ---
 aliases:
   - Sacred Realm
-tags:
   - hidden
+tags: []
 ---
 **The Sacred Realm** is the original location of the [[The Triforce|Triforce]], and the [[Sages]]. The exact nature of the Sacred Realm is unknown, but most theorize it exists in another plane of existence or planet, but can be travelled through via various ways from our world. Most famously, the [[Hero of Time]] traveled to the Sacred Realm using the [[Temple of Time]]. Most infamously, [[Ganondorf Dragmire]] did the same in an attempt to seize the Triforce.
 

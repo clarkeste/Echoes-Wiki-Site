@@ -2,8 +2,8 @@
 aliases:
   - monstrous beings
   - monsters
-tags:
   - hidden
+tags: []
 ---
 While the purpose of the [[(Foreword and Contents)|Hyrule Historia]] is to provide an accounting of historical events in [[Hyrule|Hyrule]] and not as a biology textbook, the authors of this book understand the utility in detailing basic facts about some of the most commons monsters in Hyrule. 
 

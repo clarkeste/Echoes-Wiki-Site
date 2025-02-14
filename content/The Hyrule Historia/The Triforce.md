@@ -5,8 +5,8 @@ aliases:
   - Triforce of Power
   - Golden Power
   - Triforce
-tags:
   - hidden
+tags: []
 ---
 **The Triforce** is a mythical and legendary item, a refuse of the [[Goddesses and the Gods|Gods]]' creation of the world, that has been proven to exist due to its role in history. A third of it is passed down the [[Former Hyrulean Government and Royal Family|Royal Family]]'s lineage.
 

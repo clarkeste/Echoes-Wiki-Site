@@ -2,8 +2,8 @@
 aliases:
   - profits
   - Rupees
-tags:
   - hidden
+tags: []
 ---
 **Rupees** are the main currency of [[Hyrule|Hyrule]], and are often used world-wide due to Hyrule's large influence on the world. It is the main currency used in [[Koridai|Koridai]]—although the locals spell and pronounce it as 'Rubies—and slightly edges out the [[Holodrum|Holodrumian]] currency as the most used currency internationally. 
 

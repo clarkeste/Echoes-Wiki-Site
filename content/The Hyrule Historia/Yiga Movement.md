@@ -1,8 +1,8 @@
 ---
 aliases:
   - Yiga movement
-tags:
   - hidden
+tags: []
 ---
 **The Yiga Movement** refers to [[Sheikah|Sheikah]] who grew disillusioned with the [[Former Hyrulean Government and Royal Family|Royal Family]] and society in [[Hyrule|Hyrule]] due to increases in bigotry among other citizens of the country. They often blame the Royal Family for this, seeing them as partly responsible, or condemn them for doing essentially nothing to help a group of people who has historically been extremely loyal to the monarchy, but has seen little of that loyalty rewarded. The [[Master Kohga|Believer]] is a member of this movement. 
 

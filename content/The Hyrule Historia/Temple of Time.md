@@ -1,8 +1,8 @@
 ---
 aliases:
   - Temple of Time
-tags:
   - hidden
+tags: []
 ---
 **The Temple of Time** is an ancient sacred site, and the resting place of the [[Master Sword|Master Sword]] in legend. It is a cathedral-like structure, with a main room leading into the chamber of the Master Sword. History and legend both suggest that only certain virtuous individuals can pull the Master Sword from its pedestal. It is said that it was once the gateway between the world, and the [[Sacred Realm|Sacred Realm]]. It is said that the [[Hero of Time|Hero of Time]] used this gateway to recruit the [[Sages|Sages]]. The Hero of Time's title is derived from this Temple.
 

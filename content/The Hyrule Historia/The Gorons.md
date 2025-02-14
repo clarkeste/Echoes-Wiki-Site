@@ -4,8 +4,8 @@ aliases:
   - Goron City
   - Gorons
   - Goron
-tags:
   - hidden
+tags: []
 ---
 **The Gorons** are a large, mountain-dwelling people, who in [[Hyrule|Hyrule]] live primarily on and around [[Death Mountain|Death Mountain]]. They are largely considered a humble and relaxed people, gentle despite their size. While they are slow, they can roll into a ball to move faster. Their hard skin and rocky back lets them roll even on rough terrain without being bruised or cut.
 

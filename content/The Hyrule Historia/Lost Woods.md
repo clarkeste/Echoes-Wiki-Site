@@ -3,8 +3,8 @@ aliases:
   - The Lost Woods
   - Lost Woods
   - Lost Wood
-tags:
   - hidden
+tags: []
 ---
 **The Lost Woods**, or the **Great Hyrule Forest** are a mysterious woods in the central east of [[Hyrule|Hyrule]], oft the focus of many folk stories. It is the largest forest in Hyrule, and its shroud is largely impenetrable. Its inside is dark due to its heavy canopy and covered in a blueish fog. Tourists have reported that it is very easy to get lost, and it is suggested to enter with a guide. However, even the guides cannot often pierce far into the forest. While people sometimes find landmarks, such as the [[Temple of Time|Temple of Time]] or other ruins, very few people can successfully recreate their journeys and discoveries of certain locations. It is said that the [[Hero of Time|Hero of Time]] lived near, or inside, the Lost Woods for much of his early life. Legends from this time speak of a protector of the forest, named the [[Deku Tree|Great Deku Tree]], and [[The Kokiri|fairy children]] that inhabited the forest. These urban legends continue to propagate to the modern day, although there is some evidence in reliable historical documents that some sort of Deku Tree did indeed exist, or perhaps still does.
 

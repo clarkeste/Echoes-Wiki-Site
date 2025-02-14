@@ -1,8 +1,8 @@
 ---
 aliases:
   - Calditin City
-tags:
   - hidden
+tags: []
 ---
 **Calditin City** is a city in the [[Desert of Mystery, Gerudo Desert|Gerudo Desert]], currently controlled by the [[The Followers of Dragmire, Revolutionaries|Followers]] despite their population overall supporting the [[The Royalists|Royalists]].
 

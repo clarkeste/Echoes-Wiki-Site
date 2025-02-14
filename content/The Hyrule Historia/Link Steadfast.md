@@ -1,8 +1,8 @@
 ---
 aliases:
   - Link Steadfast
-tags:
   - hidden
+tags: []
 ---
 **Link Steadfast** is an influential [[The Followers of Dragmire, Revolutionaries|Revolutionary]] that sought the destruction of the old [[Former Hyrulean Government and Royal Family|monarchy]], and served as the right-hand man of [[The Confessor|Confessor]]. He is alleged to be wielding the [[Master Sword]].
 

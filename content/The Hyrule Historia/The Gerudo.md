@@ -2,8 +2,8 @@
 aliases:
   - Gerudo Tribe
   - Gerudo
-tags:
   - hidden
+tags: []
 ---
 **The Gerudo** are a desert-dwelling people, who have historically been seen as thieves and outlaws. They were the people of [[Ganondorf Dragmire|Ganondorf Dragmire]], although very few Gerudo were directly involved in Dragmire's [[Seven Year Reign|seven year reign]]. After [[The Flood|the Flood]], [[The Hylians|the Hylians]] sought revenge and [[Hylian-Gerudo War|invaded]] the [[Desert of Mystery, Gerudo Desert|Gerudo Desert]].
 

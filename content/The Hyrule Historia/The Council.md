@@ -3,8 +3,8 @@ aliases:
   - councilman
   - counncil
   - Council
-tags:
   - hidden
+tags: []
 ---
 **The Council** was a group of the [[Former Hyrulean Government and Royal Family|King]]'s highest-ranking subordinates that existed during the reign of the monarchy in Hyrule. It consisted of the King and his most loyal servants—heads of departments, usually. The exact make-up often changed depending on the political landscapes and leanings of the King.
 

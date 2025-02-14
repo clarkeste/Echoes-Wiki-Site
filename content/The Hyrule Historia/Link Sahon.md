@@ -1,8 +1,8 @@
 ---
 aliases:
   - Link Sahon
-tags:
   - hidden
+tags: []
 ---
 Link Sahon was a bodyguard who served under Lady [[Impa|Impa]] as a member of [[Princess Zelda|Zelda]]'s royal guard. He was promoted to being the leader of her bodyguard unit, after large amounts of [[Sheikah|Sheikah]] were removed from [[Former Hyrulean Government and Royal Family|government]], including Impa. He was close to the [[Last King of Hyrule|King]] and a loyal member of the Royal government. In the last days of the [[Hyrule|Hyrulean Kingdom]], Sahon was announced by the Royal government to be the most likely candidate for the reincarnation of the [[Hero of Time|Hero of Time]] and [[Hero of the Flood|Flood]]. However, such a reality seems unlikely now, as he died before pulling the [[Master Sword|Master Sword]], was not involved in the defeat of [[Ganondorf|Ganondorf]], and was not able to save the Kingdom from the [[The Followers of Dragmire, Revolutionaries|Revolutionaries]].
 

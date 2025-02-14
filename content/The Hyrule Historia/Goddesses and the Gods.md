@@ -4,8 +4,8 @@ aliases:
   - Goddess Hylia
   - religious
   - Gods
-tags:
   - hidden
+tags: []
 ---
 The [[The Hylians|Hylian]] people, even those of a single faith, tend to be believe in various separate—but connected—gods and goddesses. While the existence of some of the minor ones have evidence for their existence—although it is usually agreed by secular scholars that 'god' is an incorrect term for them—others are more a matter of faith. The most popular deities in [[Hyrule|Hyrulean]] culture are the following:
 

@@ -2,8 +2,8 @@
 aliases:
   - Minister of the Interior
   - Lakoh
-tags:
   - hidden
+tags: []
 ---
 **Lakoh**, also known as the traitor of [[The Council|Council]], served as Minister of the Interior for over half a decade prior to the Revolution. His duties included managing operations and programs inside the [[Hyrule|Kingdom]] that did not involve law enforcement, the military, or economic policy—essentially, the day-to-day workings of the Kingdom. He was described as a mild-mannered, unassuming man, in stark contrast to most of his colleagues, who were either openly boastful, or quietly so, such as [[Chancellor Collin Phurn|Chancellor Phurn]]. While he occasionally butted heads with the [[Nophandus|Nophandus]] or [[Inl Astor]] on policy, he almost always acquiesced to the votes of the rest of the Council.
 

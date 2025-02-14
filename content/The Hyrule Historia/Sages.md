@@ -7,8 +7,8 @@ aliases:
   - Nabooru
   - Sages
   - Sage
-tags:
   - hidden
+tags: []
 ---
 In [[Hyrule|Hyrulean]] history, there were two groups of **Sages**. First, the Ancient Sages, who are said to have watched over Hyrule since before the reign of [[Former Hyrulean Government and Royal Family|the Royal Family]], and the modern Sages, who were recruited by the [[Hero of Time]].
 
