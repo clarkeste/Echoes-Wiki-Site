@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "https://echoes-of-the-departed.vercel.app/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
