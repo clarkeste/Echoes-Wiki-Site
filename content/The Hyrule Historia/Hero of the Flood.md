@@ -5,7 +5,6 @@ aliases:
   - Hero of the Flood,
   - Hero of the Flood
   - Flood
-  - hidden
 tags:
 ---
 The **Hero of the Flood** is an individual who lived approximately three hundred years ago, and who saved [[Hyrule|Hyrule]] from the [[Ganondorf Dragmire|Demon King, Ganondorf]], and a [[The Flood|torrential downpour]] that could've eliminated the entire Kingdom. He was a tradesmen from Lurelin Village who, on his first visit to [[Hyrule Castle]], successfully dueled and bested a drunk guard who attempted to harass him. During his visit, he was noticed by [[Princess Zelda|Princess Zelda]], whose bodyguards had hired the guard the soon-to-be Hero bested. They grew close, and most historians agree that there may have been a blooming romantic love between them, particularly when the Hero's tradesmen family chose to stay in [[Castle Town|Castle Town]] for business reasons. At some point during this, the Hero recovered the [[Master Sword|Master Sword]], but it was kept a secret from the public and everybody except Princess Zelda.

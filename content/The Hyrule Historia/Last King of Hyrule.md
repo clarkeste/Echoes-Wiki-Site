@@ -4,8 +4,7 @@ aliases:
   - King's
   - father
   - King
-  - hidden
-tags: []
+tags:
 ---
 **The King of Hyrule** was a controversial, but oft admired to man, whose life met a sudden end less than one year ago when he was killed during the [[Revolution and Second Civil War|Revolution]]. He was and is usually referred to only as 'the King' or 'King Hyrule', although his name was Aldriech Calodmir Hyrule. He is only monarch much of [[Hyrule|Hyrule]] remembers.
 

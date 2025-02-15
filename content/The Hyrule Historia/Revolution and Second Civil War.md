@@ -10,10 +10,9 @@ aliases:
   - Civil War
   - Hyrule’s
   - war
-  - hidden
-tags: []
+tags:
 ---
-**The Revolution** was an event in [[Hyrule]] that happened one year ago, as of the publication of [[(Foreword and Contents)]]. It started the **Second Hyrulean Civil War**, and was enacted by the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]] for the purpose of overthrowing the [[Former Hyrulean Government and Royal Family|Royal government]]. Some blame the Royal Family for its passive—and increasingly active, in their point of view—cruelty, while others square the blame entirely on the Followers.
+**The Revolution** was an event in [[Hyrule]] that happened one year ago, as of the publication of [[(Foreword and Contents]]. It started the **Second Hyrulean Civil War**, and was enacted by the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]] for the purpose of overthrowing the [[Former Hyrulean Government and Royal Family|Royal government]]. Some blame the Royal Family for its passive—and increasingly active, in their point of view—cruelty, while others square the blame entirely on the Followers.
 
 The exact architect of the Revolution is unknown. However, it seems most likely that the shadowy figure of [[The Pragmatist|the Pragmatist]] used [[The Confessor|the Confessor]] and the rest of his [[The Chosen|Chosen]] minions to complete the task, before fading into obscurity.
 
