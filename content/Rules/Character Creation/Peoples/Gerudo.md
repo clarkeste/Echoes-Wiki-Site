@@ -37,8 +37,8 @@ It is very important: Do not copy the information over manually, as that will ju
 **Fight to Survive:*** The Gerudo people have been hunted and persecuted by centuries; if not by [[Hylians|Hylians]], then by the cruel twists of fate given to them by the Desert and its creatures. Gerudo gain an extra 1+ [[Skills|Skill]] Rank in any [[Combat Skills|Combat Skill]] of their choice, and +1 in [[Survival|Survival]] (already added to this sheet). In addition, they remove up to two [[Setback Dice|Setback Dice]] from excessive heat; volcanos and lava are excluded.
 
 **Exiled:** By virtue of being shunned in Hyrule, their original homeland, the majority of nations and peoples will treat the Gerudo less seriously and with a higher level of distrust than other peoples.
-  
-  
- 
- 
+‎
+‎
+‎‎‎‎‎‎
+‎‎‎‎‎ ‎‎‎
 *Are you looking for the Hyrule Historia entry about the Gerudo? Check [[The Gerudo]].*
