@@ -17,7 +17,7 @@ aliases:
   - Faron
 tags: 
 ---
-While the [[Beginning - There is more to this Folder than meets the eye|Hyrule Historia]] is primarily focused on the history of Hyrule, we understand the importance of including basic geographical information about the country.
+While the [[Beginning of the Historia|Hyrule Historia]] is primarily focused on the history of Hyrule, we understand the importance of including basic geographical information about the country.
 
 ### Central Hyrule
 As the name implies, this is the center of [[Hyrule|Hyrule]]. It primarily consists of Hyrule Field, a large plain, and some of Hyrule’s most iconic landmarks. This includes [[Hyrule Castle|Hyrule Castle]] and [[Castle Town|Castle Town]]. This region is almost entirely under the control of the [[The Followers of Dragmire, Revolutionaries|Followers]].
