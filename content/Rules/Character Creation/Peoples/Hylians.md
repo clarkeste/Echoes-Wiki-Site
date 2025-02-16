@@ -27,3 +27,6 @@ It is very important: Do not copy the information over manually, as that will ju
 
 #### Abilities
 **Well-Rounded**: Add one [[Skills|Skill]] Rank in any two Non-[[Career Skills|Career Skills]]. This should be prior to spending XP and right after selecting a Career.
+‎
+‎
+*Are you looking for the Hyrule Historia entry about the Hylians? Check [[The Hylians]].*

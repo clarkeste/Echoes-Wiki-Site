@@ -33,3 +33,6 @@ It is very important: Do not copy the information over manually, as that will ju
 
 #### Abilities
 **Varied**: Monsters may spend [[Experience Points|XP]] on various different Abilities. They cannot be purchased after [[Character Creation Guide|Character Creation]]. Check the [[RPGSessions|RPGSessions]] sheet to see what the options are.
+‎
+‎
+*Are you looking for the Hyrule Historia entry about monsters? Check [[The Monsters]].*

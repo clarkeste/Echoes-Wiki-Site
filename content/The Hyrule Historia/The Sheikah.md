@@ -4,6 +4,8 @@ aliases:
   - hidden
 tags: []
 ---
+*Are you looking for the article about the playable People of the same name? Check out [[Sheikah]].*
+
 **The Sheikah** are an enigmatic group who have lived on Hyrule’s surface for millennia; perhaps even longer than the [[The Gorons|Gorons]] or [[The Zora|Zora]]. Evidence suggests that even in prehistoric times, they often wandered from place to place. [[Hyrule|Hyrule]], at the time, was a dangerous place, splitting the Sheikah and culling their numbers. Legend speaks of them being servants of the [[Goddesses and the Gods|Goddess Hylia]] before this ancient era, but no such sources remain.
 
 The Sheikah tribe has, as far back as the historical record goes, always been allies of the [[Former Hyrulean Government and Royal Family|Royal Family]]. As a smaller group that fended for themselves during dangerous times and one that kept better records than any other group in Hyrule, their relationship with the Royal Family was mutually beneficial. 

@@ -7,6 +7,8 @@ aliases:
   - hidden
 tags: []
 ---
+*Are you looking for the article about the playable People of the same name? Check out [[Gorons]].*
+
 **The Gorons** are a large, mountain-dwelling people, who in [[Hyrule|Hyrule]] live primarily on and around [[Death Mountain|Death Mountain]]. They are largely considered a humble and relaxed people, gentle despite their size. While they are slow, they can roll into a ball to move faster. Their hard skin and rocky back lets them roll even on rough terrain without being bruised or cut.
 
 Following the beginning of the [[Revolution and Second Civil War|Revolution]], and as [[The Followers of Dragmire, Revolutionaries|Follower]] armies closed in on [[Castle Town]], the Gorons chose to announce their neutrality in the [[Revolution and Second Civil War|current Civil War]]. Death Mountain and various nearby areas, such as [[Kakariko Village]], are included in a neutral zone.

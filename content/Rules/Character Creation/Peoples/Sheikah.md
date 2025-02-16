@@ -36,5 +36,7 @@ It is very important: Do not copy the information over manually, as that will ju
 #### Abilities
 **Sheikah Tribe**: At [[Character Creation Guide|Character Creation]] you have three options: pick one [[Combat Skills|Combat Skill ]]to make a [[Career Skills|Career Skill]], pick two [[Knowledge Skills|Knowledge Skills]] to make Career Skills, or pick one [[General Skills|General Skills]] to make a Career Skill.
 
-**Outsiders**: Due to a controversy regarding their loyalty during the late King's reign, Sheikah are held with extreme suspicion by the other peoples of Hyrule. With those with close-minded sensibilities, they may be suspicious of anyone they know is Sheikah--usually only differentiated from Hylians by their white hair and red eyes.
-
+**Outsiders**: Due to a controversy regarding their loyalty during the late King's reign, Sheikah are held with extreme suspicion by the other peoples of Hyrule. With those with close-minded sensibilities, they may be suspicious of anyone they know is Sheikah—usually only differentiated from Hylians by their white hair and red eyes.
+‎
+‎
+*Are you looking for the Hyrule Historia entry about the Sheikah? Check [[The Sheikah]].*

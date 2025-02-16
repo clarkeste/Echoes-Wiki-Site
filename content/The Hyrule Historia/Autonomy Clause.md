@@ -9,7 +9,7 @@ tags: []
 ---
 **Autonomous Zones** are areas in [[Hyrule]] that have been given more independence by the [[Former Hyrulean Government and Royal Family|central government]]. This can be due to various reasons, but was often a concession in exchange for the area joining Hyrule, or was done to give minority groups more independence.
 
-There are three autonomous zones in Hyrule: [[Kakariko City|Kakariko City]], [[Zora|Zora’s Domain]], and [[Gorons|Goron City]].
+There are three autonomous zones in Hyrule: [[Kakariko City|Kakariko City]], [[Zora|Zora’s Domain]], and [[the Gorons|Goron City]].
 
 ### Kakariko City
 Kakariko City was founded shortly after the time of the [[Hero of Time|Hero of Time]]. It is named after [[Kakariko Village|Kakariko Village]]—an old [[the Sheikah|Sheikah]] settlement near [[Death Mountain]]—by its founders, that contained many Sheikah among them.

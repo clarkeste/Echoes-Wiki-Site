@@ -34,3 +34,6 @@ It is very important: Do not copy the information over manually, as that will ju
 **Eats Rocks:** Gorons eat rocks. Literally. 
 
 **Silhouette 2:** This species is [[Silhouette|Silhouette]] 2 in size. 
+‎
+‎
+*Are you looking for the Hyrule Historia entry about the Gorons? Check [[The Gorons]].*

@@ -39,6 +39,4 @@ It is very important: Do not copy the information over manually, as that will ju
 **Exiled:** By virtue of being shunned in Hyrule, their original homeland, the majority of nations and peoples will treat the Gerudo less seriously and with a higher level of distrust than other peoples.
 ‎
 ‎
-‎‎‎‎‎‎
-‎‎‎‎‎ ‎‎‎
 *Are you looking for the Hyrule Historia entry about the Gerudo? Check [[The Gerudo]].*

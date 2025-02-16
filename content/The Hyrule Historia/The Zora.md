@@ -6,6 +6,8 @@ aliases:
   - hidden
 tags: []
 ---
+*Are you looking for the article about the playable People of the same name? Check out [[Zora]].*
+
 **The Zora** are an aquatic species that live in Hyrule alongside the [[The Hylians|Hylians]] and [[The Gorons|Gorons]], living primarily in **Zora's Domain**, but also in many other cities and villages across [[Hyrule|Hyrule]]. They have historically been allies of the Hylians, and of the [[Former Hyrulean Government and Royal Family|Royal Family]]. However, that changed when they supported the [[The Followers of Dragmire, Revolutionaries|Followers]] during the [[Revolution and Second Civil War|Revolution]], and are now a part of their new government.
 
 The Zora, being the most long-lived species in Hyrule, have a rich, storied, and well-documented history. Indeed, most sources of Hyrulean history further than five hundred years in the past are told by their scholars. By the time of the [[First Hyrulean Civil War|first Hyrulean Civil War]], the Zora became a part of Hyrule, their Domain becoming an [[Autonomy Clause|autonomous zone]] that retained its own system of government. Even prior to being integrated, the Zora and the Hyrulean Royal Family had extremely strong relations, and the two peoples were best of allies.

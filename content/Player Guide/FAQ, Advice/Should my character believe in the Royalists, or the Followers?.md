@@ -16,6 +16,8 @@ tags:
   - Characters
   - Guide
 ---
+*Main articles - [[The Followers of Dragmire, Revolutionaries]], and [[The Royalists]]*
+
 Even most neutral characters will have a preference between the Royalists and the Followers. However, the two seem so fundamentally opposed, and the facts so muddled; how do I decide which side my character would lean towards?
 
 Your character may lean more towards the Royalists if they:

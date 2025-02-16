@@ -1,4 +1,4 @@
-*There are 115 pages in the Hyrule Historia. Only a few are directly accessible via the search engine and explorer side-bar. The rest can be found by clicking on backlinks like [[Link Steadfast|this]]. Feel free to share discoveries with other players, ask them to reveal theirs, or unlock the secrets of the Hyrule Historia yourself.*
+*There are 115 pages/entries in the Hyrule Historia. Only a few are directly accessible via the search engine and explorer side-bar. The rest can be found by clicking on backlinks like [[Link Steadfast|this]]. Feel free to share discoveries with other players, ask them to reveal theirs, or unlock the secrets of the Hyrule Historia yourself.*
 
 ### Foreword
 This is a book, that in our era, is needed more than ever. In light of the tumultuous changes around [[Hyrule|Hyrule]], it is necessary for us to look in the past so that may determine what to do in the present.
