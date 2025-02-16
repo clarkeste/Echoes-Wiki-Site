@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Genesys
 tags:
   - Meta
 ---

@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileNode } from "./quartz/components/ExplorerNode"  // :cite[10]
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -39,20 +40,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Explorer(({
-      filterFn: function checkNode(node): boolean {
-        // Handle folders
+      filterFn: function checkNode(node: FileNode): boolean {
         if (node.children) {
-          return node.children.some(child => {
-            // Files: direct check
+          const hasVisibleChildren = node.children.some((child: FileNode) => {
             if (child.file) {
               return !child.file.frontmatter?.aliases?.includes("hidden")
             }
-            // Folders: recursive check
             return checkNode(child)
           })
+          return hasVisibleChildren
         }
-        
-        // Handle files
         return !node.file?.frontmatter?.aliases?.includes("hidden")
       },
 }))),
@@ -74,20 +71,16 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Explorer(({
-      filterFn: function checkNode(node): boolean {
-        // Handle folders
+      filterFn: function checkNode(node: FileNode): boolean {
         if (node.children) {
-          return node.children.some(child => {
-            // Files: direct check
+          const hasVisibleChildren = node.children.some((child: FileNode) => {
             if (child.file) {
               return !child.file.frontmatter?.aliases?.includes("hidden")
             }
-            // Folders: recursive check
             return checkNode(child)
           })
+          return hasVisibleChildren
         }
-        
-        // Handle files
         return !node.file?.frontmatter?.aliases?.includes("hidden")
       },
     }))),
