@@ -50,7 +50,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ContentMeta(),
     Component.Darkmode(),
-    Component.Backlinks(),
   ],
 }
 
