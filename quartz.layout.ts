@@ -67,7 +67,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ContentMeta(),
     Component.Darkmode(),
-    Component.Backlinks(),
+    Component.Backlinks({ hideWhenEmpty: false }),
   ],
 }
 
@@ -101,6 +101,10 @@ export const defaultListPageLayout: PageLayout = {
     }))),
   ],
   right: [
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Breadcrumbs(),
+    Component.ContentMeta(),
     Component.Darkmode(),
+    Component.Backlinks({ hideWhenEmpty: false }),
   ],
 }
