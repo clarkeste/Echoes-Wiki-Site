@@ -39,13 +39,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Explorer(({
-      filterFn: (node) => {
-        // Always show folders (so their children can be filtered)
-        if (node.children) return true
-  
-        // For files: strictly exclude those with "hidden" alias
-        return node.file?.frontmatter?.aliases?.includes("hidden") !== true
-      },
+  filterFn: (node) => {
+    // exclude files with the tag "hidden"
+    return node.file?.frontmatter?.aliases?.includes("hidden") !== true
+  },
 }))),
   ],
   right: [
@@ -66,10 +63,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.DesktopOnly(Component.Explorer(({
       filterFn: (node) => {
-        // Always show folders (so their children can be filtered)
-        if (node.children) return true
-  
-        // For files: strictly exclude those with "hidden" alias
+        // exclude files with the tag "hidden"
         return node.file?.frontmatter?.aliases?.includes("hidden") !== true
       },
     }))),
