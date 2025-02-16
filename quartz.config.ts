@@ -1,11 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import * as Component from "./quartz/components" // Fixed import
 
-/**
- * Quartz 4.0 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Echoes of the Departed",
@@ -37,6 +33,7 @@ const config: QuartzConfig = {
           secondary: "#3282C7",
           tertiary: "#5FA3AB",
           highlight: "rgba(55, 96, 93, 0.15)",
+          textHighlight: "#FFD700" // Added missing color field
         },
         darkMode: {
           light: "#0B2545",
@@ -47,6 +44,7 @@ const config: QuartzConfig = {
           secondary: "#46D970",
           tertiary: "#21694F",
           highlight: "rgba(55, 96, 93, 0.15)",
+          textHighlight: "#FFD700" // Added missing color field
         },
       },
     },
@@ -91,15 +89,3 @@ const config: QuartzConfig = {
 }
 
 export default config
-
-
-
-
-          // light: "#faf8f8",
-          // lightgray: "#e5e5e5",
-          //  gray: "#b8b8b8",
-          //darkgray: "#4e4e4e",
-          // dark: "#2b2b2b",
-          // secondary: "#284b63",
-          // tertiary: "#84a59d",
-          // highlight: "rgba(143, 159, 169, 0.15)",
