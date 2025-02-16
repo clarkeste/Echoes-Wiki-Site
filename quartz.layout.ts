@@ -2,6 +2,7 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { FileNode } from "./quartz/components/ExplorerNode"  // :cite[10]
 
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -41,16 +42,23 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.DesktopOnly(Component.Explorer(({
       filterFn: function checkNode(node: FileNode): boolean {
-        if (node.children) {
-          const hasVisibleChildren = node.children.some((child: FileNode) => {
-            if (child.file) {
-              return !child.file.frontmatter?.aliases?.includes("hidden")
-            }
-            return checkNode(child)
-          })
-          return hasVisibleChildren
+        // Handle files first
+        if (node.file) {
+          const shouldHide = node.file.frontmatter?.aliases?.includes("hidden") ?? false
+          return !shouldHide
         }
-        return !node.file?.frontmatter?.aliases?.includes("hidden")
+  
+        // Handle folders
+        if (node.children) {
+          // Create a filtered copy of children
+          const filteredChildren = node.children.filter(child => checkNode(child))
+          
+          // Only show folder if it has visible children after filtering
+          return filteredChildren.length > 0
+        }
+  
+        // Default case (should never hit)
+        return false
       },
 }))),
   ],
@@ -72,16 +80,23 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.DesktopOnly(Component.Explorer(({
       filterFn: function checkNode(node: FileNode): boolean {
-        if (node.children) {
-          const hasVisibleChildren = node.children.some((child: FileNode) => {
-            if (child.file) {
-              return !child.file.frontmatter?.aliases?.includes("hidden")
-            }
-            return checkNode(child)
-          })
-          return hasVisibleChildren
+        // Handle files first
+        if (node.file) {
+          const shouldHide = node.file.frontmatter?.aliases?.includes("hidden") ?? false
+          return !shouldHide
         }
-        return !node.file?.frontmatter?.aliases?.includes("hidden")
+  
+        // Handle folders
+        if (node.children) {
+          // Create a filtered copy of children
+          const filteredChildren = node.children.filter(child => checkNode(child))
+          
+          // Only show folder if it has visible children after filtering
+          return filteredChildren.length > 0
+        }
+  
+        // Default case (should never hit)
+        return false
       },
     }))),
   ],
