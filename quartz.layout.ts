@@ -39,21 +39,20 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Explorer(({
-      filterFn: (node) => {
-        // For folders: only keep if they contain at least one visible file (recursive check)
+      filterFn: function checkNode(node): boolean {
+        // Handle folders
         if (node.children) {
-          const hasVisibleChildren = node.children.some(child => {
-            // Process child files immediately
+          return node.children.some(child => {
+            // Files: direct check
             if (child.file) {
               return !child.file.frontmatter?.aliases?.includes("hidden")
             }
-            // Process child folders recursively
-            return this.filterFn(child)
+            // Folders: recursive check
+            return checkNode(child)
           })
-          return hasVisibleChildren
         }
-  
-        // For files: exclude those with "hidden" alias
+        
+        // Handle files
         return !node.file?.frontmatter?.aliases?.includes("hidden")
       },
 }))),
@@ -75,21 +74,20 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Explorer(({
-      filterFn: (node) => {
-        // For folders: only keep if they contain at least one visible file (recursive check)
+      filterFn: function checkNode(node): boolean {
+        // Handle folders
         if (node.children) {
-          const hasVisibleChildren = node.children.some(child => {
-            // Process child files immediately
+          return node.children.some(child => {
+            // Files: direct check
             if (child.file) {
               return !child.file.frontmatter?.aliases?.includes("hidden")
             }
-            // Process child folders recursively
-            return this.filterFn(child)
+            // Folders: recursive check
+            return checkNode(child)
           })
-          return hasVisibleChildren
         }
-  
-        // For files: exclude those with "hidden" alias
+        
+        // Handle files
         return !node.file?.frontmatter?.aliases?.includes("hidden")
       },
     }))),
