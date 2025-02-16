@@ -5,7 +5,7 @@ aliases:
   - hidden
 tags: []
 ---
-**Hytopia** is a nation to the north of [[Hyrule|Hyrule]], separated by the [[Hyrulean Geography|Great Hyrulean Mountains]]. It was, for many years, a country that had strong trade ties with Hyrule but maintained its independence due to its natural defenses. Hytopia was always a minor power, but its culture—particularly, its architecture and sense of fashion—influenced many other nations in the world.
+**Hytopia** is a nation to the north of [[Hyrule|Hyrule]], separated by the [[Hyrulean Geography|Great Hyrulean Mountains]]. It was, for many years, a country that had strong [[Economy|trade]] ties with Hyrule but maintained its independence due to its natural defenses. Hytopia was always a minor power, but its culture—particularly, its architecture and sense of fashion—influenced many other nations in the world.
 
 However, shortly after the [[Revolution and Second Civil War|Revolution]] in Hyrule, revolutionary and democratic sentiment too soared in Hytopia. What was previously just a pipe-dream for the downtrodden became a real possibility. Soon after, Hytopia was overwhelmed by its rebellion. The Rebels made quick progress and destroyed much of the Hytopian Castle City, leaving mines and explosives all over it. However, the Royalist faction retaliated and began pushing the Rebels west.
 

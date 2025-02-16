@@ -10,9 +10,9 @@ tags: []
 ---
 **The Triforce** is a mythical and legendary item, a refuse of the [[Goddesses and the Gods|Gods]]' creation of the world, that has been proven to exist due to its role in history. A third of it is passed down the [[Former Hyrulean Government and Royal Family|Royal Family]]'s lineage.
 
-The Triforce consists of three glowing golden triangles that naturally organize themselves to form a larger triangle. It is said in legend that the Triforce was a byproduct of the Golden Goddesses leaving the plane of existence on which our planet rests. It was entrusted to the Goddess Hylia when they left.
+The Triforce consists of three glowing golden triangles that naturally organize themselves to form a larger triangle. It is said in legend that the Triforce was a byproduct of the [[Goddesses and the Gods|Golden Goddesses]] leaving the plane of existence on which our planet rests. It was entrusted to the Goddess Hylia when they left.
 
-What is provable about the Triforce, however, is that it consists of extremely strong magical power. Even one piece can greatly empower an individual, particularly their [[Magic|magical]] ability. All three triangles combined is said to be able to grant any wish the user desires. 
+What is provable about the Triforce, however, is that it consists of extremely strong magical power. Even one piece can greatly empower an individual, particularly their [[Spellcasting|magical]] ability. All three triangles combined is said to be able to grant any wish the user desires. 
 
 The Triforce is considered to have rested in the [[Sacred Realm|Sacred Realm]] before the era of the [[Hero of Time|Hero of Time]], but was split into its three pieces by [[Ganondorf Dragmire]]. These three pieces represented three core virtues of the Triforce; Wisdom, Power, and Courage. These pieces were given to the three separate individuals in the land that most represented their attributes. 
 

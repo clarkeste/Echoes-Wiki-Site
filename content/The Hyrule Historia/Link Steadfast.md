@@ -2,12 +2,13 @@
 aliases:
   - Link Steadfast
   - hidden
-tags: []
+  - Link
+tags:
 ---
 **Link Steadfast** is an influential [[The Followers of Dragmire, Revolutionaries|Revolutionary]] that sought the destruction of the old [[Former Hyrulean Government and Royal Family|monarchy]], and served as the right-hand man of [[The Confessor|Confessor]]. He is alleged to be wielding the [[Master Sword]].
 
 
-**Link Steadfast** was a child born to a blacksmith of middling class called [[Aadin Steadfast|Aadin Steadfast]]. Due to coincidence and the adventurous nature of both children, as well as Aadin taking a few contracts for swords from [[Capitalist and Nobleman Class|noblemen]], he and [[Princess Zelda|Zelda]] met. Despite reportedly being great friends, concerns over the security of the Princess led to her no longer being allowed to see Steadfast.
+**Link Steadfast** was a child born to a [[Crafting|blacksmith]] of middling class called [[Aadin Steadfast|Aadin Steadfast]]. Due to coincidence and the adventurous nature of both children, as well as Aadin taking a few contracts for swords from [[Capitalist and Nobleman Class|noblemen]], he and [[Princess Zelda|Zelda]] met. Despite reportedly being great friends, concerns over the security of the Princess led to her no longer being allowed to see Steadfast.
 
 In their early teen years, the two met once more. However, by this time, Link Steadfast had joined a group of dissidents called the [[Castle Town Parliamentarians|Castle Town Parliamentarians]]. While this did not seem to initially come between their very close friendship—or romance, if the gossipmongers are to be believed—that changed as soon as a report was filed to the [[Former Hyrulean Government and Royal Family|King]]. The report discovered clandestine activities by the Parliamentarians, and retaliation was carried out. Zelda ceased her relationship with Steadfast. Whether Link and Zelda were truly in a romantic relationship is unknown, but it is a scandalous idea that has gripped the imaginations of many, without good reason. Why a Princess would fall for a commoner is beyond this author.
 

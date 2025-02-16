@@ -242,7 +242,7 @@ The following are example names, for inspiration. It is suggested that you avoid
 
 
 ### Foreign Human Names
-Humans are a catch-all for humans that are not Hylian, Sheikah, or Gerudo. Their names tend to be simpler, more familiar to us, with many being “corrupted” (read: altered) versions of semi-common real names, that are pronounced similarly. Hyrulean human names are more north american, Labrynnan names more european/british, and Holodrumian names more japanese/korean.
+[[The Humans|Humans]] are a catch-all for humans that are not Hylian, Sheikah, or Gerudo. Their names tend to be simpler, more familiar to us, with many being “corrupted” (read: altered) versions of semi-common real names, that are pronounced similarly. Hyrulean human names are more north american, Labrynnan names more european/british, and Holodrumian names more japanese/korean.
 
 The following are example names, for inspiration. It is suggested that you avoid taking from them directly, as some of these names are from various minor NPCs across the Zelda series. However, that just means that they’re common first names, so at the same time, go for it if one of them really strikes your fancy.
 

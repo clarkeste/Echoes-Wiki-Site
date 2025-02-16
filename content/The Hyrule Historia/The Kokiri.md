@@ -1,9 +1,14 @@
 ---
-tags: []
+tags: 
 aliases:
   - hidden
+  - Kokiri
+  - Fairy children
+  - Forest children
+  - Fairy folk
+  - forest folk
 ---
-**The Kokiri**, also known as the **Kokiri Tribe**, the **Children of the Forest**, or **Fairy Folk**, are, according to myth, small child-like beings that inhabit the [[Lost Woods|Lost Woods]]—or ‘Korkiri Woods' as some call them when referring to the Kokiri. There, legends state, they live in treehouses within the woods' acres and clearings.
+**The Kokiri**, also known as the **Kokiri Tribe**, the **Children of the Forest**, or **Fairy Folk**, are, according to myth, small child-like beings that inhabit the [[Lost Woods|Lost Woods]]—or ‘Kokiri Woods' as some call them when referring to the Kokiri. There, legends state, they live in treehouses within the woods' acres and clearings.
 
 The Kokiri are supposedly an ageless race that takes the form of [[The Humans|human]] children. Like [[The Hylians|Hylians]], they possess long, pointed ears. It is said that one of the [[Sages|seven sages]] was a Kokiri, a girl named Saria. Despite their agelessness, Kokiri are still said to be mortal beings that can be killed.
 

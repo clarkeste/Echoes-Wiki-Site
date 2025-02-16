@@ -15,7 +15,7 @@ While the Kings and Queens of Hyrule most often used the Council as an advisory 
 In the last decade of the proper [[Hyrule|Hyrule Kingdom]], here were the members of the Council, and each role's purpose.
 
 ### Lord Chancellor
-The individual ultimately in charge of economics, supply, labor-relations, guild-relations, and the market. This position was held by Maren Auranli, before being handed to the wizened Lan Potho, who retired and nominated his protege, [[Chancellor Collin Phurn|Collin Phurn]], as his replacement—whom the King quickly approved of. Collin died during the Revolution.
+The individual ultimately in charge of economics, supply, labor-relations, [[Guilds|guild]]-relations, and the market. This position was held by Maren Auranli, before being handed to the wizened Lan Potho, who retired and nominated his protege, [[Chancellor Collin Phurn|Collin Phurn]], as his replacement—whom the King quickly approved of. Collin died during the Revolution.
 
 ### Minister of Hylia
 [[Nophandus|Nophandus]] held this role for twelve years before his death during the Revolution. The Minister of Hylia has historically been in charge of the military and other martial activities, as well as religion. In recent decades, however, it had expanded into propaganda efforts, regulating newspapers and other public information.
@@ -26,4 +26,4 @@ The individual ultimately in charge of economics, supply, labor-relations, guild
 When it was still active, this role handled the judicial branch of the government, such as criminal prosecution and civil litigation.
 
 ### Minister of the Interior
-Katoke of [[Kakariko City|Kakariko City]] held this role, until suspicions of her loyalty as a [[Sheikah|Sheikah]] became too great to ignore. Six years ago, the role was handed to Lakoh. He survived the [[Revolution and Second Civil War|Revolution]] by defecting and aiding the [[The Followers of Dragmire, Revolutionaries|Revolutionaries]]. Lakoh now holds a higher position in the Revolutionary government.
+Katoke of [[Kakariko City|Kakariko City]] held this role, until suspicions of her loyalty as a [[the Sheikah|Sheikah]] became too great to ignore. Six years ago, the role was handed to Lakoh. He survived the [[Revolution and Second Civil War|Revolution]] by defecting and aiding the [[The Followers of Dragmire, Revolutionaries|Revolutionaries]]. Lakoh now holds a higher position in the Revolutionary government.

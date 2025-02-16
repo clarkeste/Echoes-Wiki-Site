@@ -109,3 +109,5 @@ Additionally, two Spells on a Character Sheet cannot be identical. They must be 
 You can still attempt this strategy, of course, and it’s a valid way to push yourself and punch above your weight—just make sure it is not so taxing that your Character collapses and leaves themselves vulnerable.
 
 This does all raise the point of, despite my attempts to balance everything added, there are likely things that are abusable. If you do decide to abuse them—which, I understand—just be prepared for the fact that the strategy may be nerfed. If it is, the GM will offer the ability for you to re-specialize your Character Sheet at no cost.
+
+*Are you looking for the Hyrule Historia entry about Spellcasting? Check [[Spellcasting]].*

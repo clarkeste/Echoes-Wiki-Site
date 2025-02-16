@@ -12,7 +12,7 @@ tags: []
 There are three autonomous zones in Hyrule: [[Kakariko City|Kakariko City]], [[Zora|Zora’s Domain]], and [[Gorons|Goron City]].
 
 ### Kakariko City
-Kakariko City was founded shortly after the time of the [[Hero of Time|Hero of Time]]. It is named after [[Kakariko Village|Kakariko Village]]—an old [[Sheikah|Sheikah]] settlement near [[Death Mountain]]—by its founders, that contained many Sheikah among them.
+Kakariko City was founded shortly after the time of the [[Hero of Time|Hero of Time]]. It is named after [[Kakariko Village|Kakariko Village]]—an old [[the Sheikah|Sheikah]] settlement near [[Death Mountain]]—by its founders, that contained many Sheikah among them.
 
 At the time not expecting Kakariko to grow into the massive city it is today, the [[Former Hyrulean Government and Royal Family|King]] of the time granted the settlement autonomy. Whether this was due to an attempt to make sure that the Sheikah had a place where they would be safe from discrimination, or was an attempt at some type of segregation, is up to interpretation. As the city grew, it became politically unviable to revoke their autonomy clause, despite the fact that Kakariko City became more and more vital to the Hyrulean [[Economy|economy and trade]], and less of a Sheikah outpost.
 
@@ -28,7 +28,7 @@ The Royal Family never attempted to jeopardize the autonomy of the Zora, likely 
 ### Goron City
 This place is home to the [[The Gorons|Gorons]], and is placed on Death Mountain. After the Hyrulean Civil War, the Gorons pledged allegiance to the Royal Family, in exchange for their own Autonomy Clause, just like the Zora. Since then, the Gorons have used a Council of Elders for governance, with a younger leader representing the Council who is usually called the Patriarch, Chief, or Boss depending on the preference of the leader.
 
-Goron City never acted against the Royal Family, but were unable or unwilling to carry out many of the harsher measures that the Royal Family demanded of them to limit and capture dissenters, which put the two into conflict. During the Revolution, Goron City did not immediately provide aid to the Royal Family, and—after Castle Town fell—proclaimed their neutrality in the affair, wanting their home to remain peaceful. Therefore, Goron City is now *de-facto* politically independent, and neutral.
+Goron City never acted against the Royal Family, but were unable or unwilling to carry out many of the harsher measures that the Royal Family demanded of them to limit and capture dissenters, which put the two into conflict. During the Revolution, Goron City did not immediately provide aid to the Royal Family, and—after [[Castle Town|Castle Town]] fell—proclaimed their neutrality in the affair, wanting their home to remain peaceful. Therefore, Goron City is now *de-facto* politically independent, and neutral.
 
 ### Others
-[[The Gerudo|Gerudo]] Town and the areas around it were also once considered an autonomous zone, following the [[Seven Year Reign|seven year reign]] of [[Ganondorf Dragmire|Dragmire]], but they were invaded and the area’s autonomy revoked following the return of Dragmire, in the name of revenge.
+[[The Gerudo|Gerudo]] Town and the areas around it were also once considered an autonomous zone, following the [[Seven Year Reign|seven year reign]] of [[Ganondorf Dragmire|Dragmire]], but they were [[Hylian-Gerudo War|invaded]] and the area’s autonomy revoked following the return of Dragmire, in the name of revenge.

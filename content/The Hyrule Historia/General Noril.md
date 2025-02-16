@@ -3,7 +3,8 @@ aliases:
   - General Noril
   - General Nori
   - hidden
-tags: []
+  - Noril
+tags:
 ---
 **General Noril** is the current leader of the [[The Royalists|Royalist Armed Forces]]. He is a veteran of the [[Hyrule|Hyrulean]] Army and was a Captain in the [[Last King of Hyrule|King]]’s Royal Guard. In the years leading up to the [[Revolution and Second Civil War|Revolution]], he was changed to independent command, becoming a General in the panic shortly prior to the Revolution. He was tasked with leading the armed forces in [[Castle Town|Castle Town]] to meet the marching revolutionaries; however, his army was routed due to a sneak attack, and he was forced back to [[Hyrule Castle|Hyrule Castle]].
 

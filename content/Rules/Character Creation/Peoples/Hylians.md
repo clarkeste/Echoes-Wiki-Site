@@ -9,7 +9,7 @@ tags:
   - RPGSessions
 ---
 ### Physical and Cultural Traits
-Hylians an ethnicity of human. Their primary difference from other ethnicities is their distinctive sharp-pointed ears. Legends say they have these to help them better hear the gods—but the difference, if any, is minimal.
+Hylians an ethnicity of [[The Humans|human]]. Their primary difference from other ethnicities is their distinctive sharp-pointed ears. Legends say they have these to help them better hear the [[Goddesses and the Gods|gods]]—but the difference, if any, is minimal.
 
 As the main ethnicity of humans in Hyrule, the opinions and dispositions of Hylians vary. Hylians are the most common group in Hyrule, making up millions of the country’s population.
 

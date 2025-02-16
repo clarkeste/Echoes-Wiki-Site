@@ -12,7 +12,7 @@ tags: []
 ---
 **Ganondorf Dragmire**—the man who lived many centuries ago—was a cruel and powerful man hailing from the [[Desert of Mystery, Gerudo Desert|Gerudo Desert]], sometimes referred to in historical documents as simply **Ganon**. Using the political capital he secured by assisting [[Hyrule|Hyrule]] in ending their [[First Hyrulean Civil War|first Civil War]], Ganon took advantage of their trust and killed the [[King Arkenalan Bosmison Hyrule|King of Hyrule]]. By doing this, he plunged Hyrule into a [[Seven Year Reign|dictatorship of his own making for seven long years]].
 
-Despite doing this for his people, the [[Gerudo|Gerudo]], Ganon never deemed Hyrule safe enough for his people to enter it for the entirety of his reign. Instead, he spent his time consolidating power, and bringing groups such as the [[The Gorons|Gorons]], [[The Zora|Zora]], and [[The Hylians|Hylian]] refugees in [[Kakariko Village|Kakariko Village]] into line.
+Despite doing this for his people, the [[the Gerudo|Gerudo]] Ganon never deemed Hyrule safe enough for his people to enter it for the entirety of his reign. Instead, he spent his time [[Monsters|consolidating]] power, and bringing groups such as the [[The Gorons|Gorons]], [[The Zora|Zora]], and [[The Hylians|Hylian]] refugees in [[Kakariko Village|Kakariko Village]] into line.
 
 This was until the [[Princess Zelda|Princess of Hyrule]] and the [[Hero of Time|Hero of Time]] defeated him with the assistance of [[Sages|six wise Sages]]. In a climactic battle at the occupied [[Hyrule Castle|Hyrule Castle]], Ganon was sealed for one hundred years.
 

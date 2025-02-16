@@ -4,11 +4,12 @@ aliases:
   - The Followers of Dragmire
   - Revolutionary government
   - Followers of Dragmire
+  - Follower Revolution
   - Revolutionaries
   - Revolutionary
   - Followers
   - Follower
-tags:
+tags: 
 ---
 **The Followers of Dragmire**, now officially called the "**New Hyruleans**", and colloquially known as "**the Revolutionaries**", were a rebellious organization in [[Hyrule]]. Their leaders, most notably [[The Pragmatist|the Pragmatist]], staged the [[Revolution and Second Civil War|Revolution]] in which they overthrew the [[Last King of Hyrule|King of Hyrule]] and his [[Former Hyrulean Government and Royal Family|Royal government]]. They are named after [[Ganondorf Dragmire]]. In the current day, they are one of the factions in the Civil War, led by [[The Confessor|the Confessor]].
 
@@ -22,13 +23,13 @@ Approximately thirty years ago, despite their increased size, the Followers rema
 
 However, a new figure emerged; one who would turn cultists into Revolutionaries, one who would unify the rowdy, one who would besiege the world and bring nations to their knees through only his words. The [[The Pragmatist|Pragmatist]]. 
 
-The Pragmatist united the Followers solely behind their goal of overthrowing the government by various means, including appointing various leaders—referred to as [[The Chosen|Chosen]], to lead their own branches of the Followers of Dragmire, who would cooperate in operations organized by the Pragmatist. This meant that those of varying ideologies would not be disturbed by those more or less devoted. Additionally, the Pragmatist chose to avoid fantasies of what their new world would look like. Instead, he spoke of what unified the disparate, would-be Revolutionaries: hatred for the Royal Family. These appointed Chosen were the [[Master Kohga|Believer]]—a Sheikah with a veneer of moderation—and the [[The Sorcerer|Sorcerer]], a fanatic of the highest calling.
+The Pragmatist united the Followers solely behind their goal of overthrowing the government by various means, including appointing various leaders—referred to as [[The Chosen|Chosen]], to lead their own branches of the Followers of Dragmire, who would cooperate in operations organized by the Pragmatist and lead [[The Messengers, Follower Ranks|their own devotees]]. This meant that those of varying ideologies would not be disturbed by those more or less devoted. Additionally, the Pragmatist chose to avoid fantasies of what their new world would look like. Instead, he spoke of what unified the disparate, would-be Revolutionaries: hatred for the Royal Family. These appointed Chosen were the [[Master Kohga|Believer]]—a Sheikah with a veneer of moderation—and the [[The Sorcerer|Sorcerer]], a fanatic of the highest calling.
 
 Testimony from former members of the Cult confirm that the Pragmatist tailored his words to his audience very carefully. He always sought new recruits. He did this by absorbing other resistance groups into the fold. Initially, many refused to work with the Followers. This was always due to either the use of Dragmire in their name, or due to their willingness to use violence. Over time, this resistance was shown for what it was; a front, a veil of morality. Those who seek to change the world always speak the same language.
 
 The last [[The Chosen|Chosen]] to join their ranks was six years ago, when a woman who identified herself as the Confessor attacked [[Kakariko City|Kakariko City]] with impressive power. The Confessor's was reportedly the only branch where mentions of the Demon King of old were sparse, though the author of this book is skeptical of this claims intended to rehabilitate their image.
 
-Over time, the membership of all three branches of the Followers were bolstered and increased when the Royal Family outlawed and persecuted more and more peaceful dissidents, crushing organizations and burning down their buildings and posters. An example of this was the [[Castle Town Parliamentarians|Castle Town Parliamentarians]], a supposedly peaceful group that was hit with the full force of the law shortly before the Confessor appeared. With no legal and non-violent resistance organizations left, and often being wanted for their crimes, many of these activists and sympathizers chose to align with an illegal, revolutionary organization. The only one among those groups that had the organization and gall to operate all throughout Hyrule were the Followers of Dragmire—and so, the only reasonable choice. Many of these individuals joined the Confessor's branch, and some the Believer's branch; not an insignificant amount, however, were radicalized by their experiences and later joined the Sorcerer's branch of the Followers.
+Over time, the membership of all three branches of the Followers were bolstered and increased when the Royal Family outlawed and persecuted more and more peaceful dissidents, discriminated against the [[Sheikah|Sheikah]], and burned down protester’s buildings and posters. An example of this was the [[Castle Town Parliamentarians|Castle Town Parliamentarians]], a supposedly peaceful group that was hit with the full force of the law shortly before the Confessor appeared. With no legal and non-violent resistance organizations left, and often being wanted for their crimes, many of these activists and sympathizers chose to align with an illegal, revolutionary organization. The only one among those groups that had the organization and gall to operate all throughout Hyrule were the Followers of Dragmire—and so, the only reasonable choice. Many of these individuals joined the Confessor's branch, and some the Believer's branch; not an insignificant amount, however, were radicalized by their experiences and later joined the Sorcerer's branch of the Followers.
 
 An example of this is the now famous—or, infamous—[[Link Steadfast|Link Steadfast]], who was a member of the Castle Town Parliamentarians before joining the Confessor's branch and remaining there.
 

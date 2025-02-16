@@ -79,11 +79,12 @@ The Spring Festival’s origins are in the Hyrulean Civil War, celebrating a maj
 
 #### Hero's Day
 11th of Timisi
-Hero’s Day represents the gratitude towards various heroic people in Hyrule’s history, including—but not limited to—the Hero of Time and the Hero of the Flood. Various veterans or soldiers that did great things in the military are also celebrated this day. It is encouraged to give a friend a gift during this time to thank them for something ‘heroic’ they did for you. Businesses are mandated to give a day off.
+Hero’s Day represents the gratitude towards various heroic people in Hyrule’s history, including—but not limited to—the Hero of Time and the [[Hero of the Flood|Hero of the Flood]]. Various veterans or soldiers that did great things in the military are also celebrated this day. It is encouraged to give a friend a gift during this time to thank them for something ‘heroic’ they did for you. Businesses are mandated to give a day off.
 
 #### Festival of the Flood (or Day of the Flood)
 2nd of Asinober
-The Festival of the Flood celebrates the day when the Hero of the Flood slew the Demon King and stopped the torrential downpour from sinking Hyrule. While there is an element of grimness, it is mostly a celebration of the survival and tenacity of the Kingdom, and is see as a far more ‘adult’ celebration. While individual cities have their own festivals, many will travel to the biggest one in Castle Town, organized by the Royal Family—where the current reigning monarch has given an address every single year on the day of the Flood. Businesses are mandated to give a day off.
+*Main article: [[Festival of the Flood]]*
+The Festival of the Flood celebrates the day when the Hero of the Flood slew the Demon King and stopped the torrential downpour from sinking Hyrule. While there is an element of grimness, it is mostly a celebration of the survival and tenacity of the Kingdom, and is see as a far more ‘adult’ celebration. While individual cities have their own festivals, many will travel to the biggest one in [[Castle Town|Castle Town]], organized by the [[Former Hyrulean Government and Royal Family|Royal Family]]—where the current reigning monarch has given an address every single year on the day of the Flood. Businesses are mandated to give a day off.
 
 #### Princess’s Day
 24th of Yila
@@ -91,7 +92,7 @@ Princess’ Day commemorates the Princesses of Hyrule, who have long been import
 
 #### Hylara
 7th of Naviran
-Hylara, named after the Goddess Hylia, is a day that honors security and generosity. It is highly commercialized, with many companies and Guilds offering serious discounts to make buying presents for loved ones cheaper. Businesses are mandated to give the day off either on the day of, or the day after.
+Hylara, named after the Goddess Hylia, is a day that honors security and generosity. It is highly commercialized, with many [[Guilds|companies and Guilds ]]offering serious discounts to make buying presents for loved ones cheaper. Businesses are mandated to give the day off either on the day of, or the day after.
 
 #### Winter Solstice
 23rd of Naviran

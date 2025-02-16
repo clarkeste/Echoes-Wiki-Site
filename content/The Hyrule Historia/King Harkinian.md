@@ -8,4 +8,4 @@ King Harkinian was one of the many [[Former Hyrulean Government and Royal Family
 
 Harkinian is also known for reorganizing the [[Hylian Calendar|Hylian Calendar]]. The month “Harkun” is named after him.
 
-Despite his militaristic past and harsh name, Harkinian is usually considered one of the wiser Kings in Hyrule’s history. However, he is still criticized by the ever-unsatisfied for allowing the exile of the [[Gerudo|Gerudo]] to continue. Still, he reformed the justice system to be more lenient and there are stories of him personally sentencing criminals to community service, such as scrubbing floors, in cases of even treason.
+Despite his militaristic past and harsh name, Harkinian is usually considered one of the wiser Kings in Hyrule’s history. However, he is still criticized by the ever-unsatisfied for allowing the exile of the [[the Gerudo|Gerudo]] to continue. Still, he reformed the justice system to be more lenient. There are stories of him personally sentencing even treasonous criminals to community service, such as scrubbing all the floors of the kingdom.

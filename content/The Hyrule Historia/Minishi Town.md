@@ -1,7 +1,8 @@
 ---
-tags: []
+tags: 
 aliases:
   - hidden
+  - Minishi
 ---
 **Minishi Town** is a settlement in the east of [[Hyrule|Hyrule]], near the [[Lost Woods|Lost Woods]] and close to the frontline of the [[Revolution and Second Civil War|war]]. It is currently under [[The Royalists|Royalist]] control. [[Commission for the Reclamation of the Golden Power|The Commission for the Reclamation of the Golden Power]] passed by this city days before the Revolution, when heading for the Lost Woods.
 

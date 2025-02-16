@@ -1,18 +1,19 @@
 ---
 aliases:
   - blade manufacturing companies
+  - "companies and Guilds "
   - companies
   - Guilds
-  - Guild
   - hidden
-tags:
+  - Guild
+tags: 
 ---
 The **Guilds** refers to the largest businesses in [[Hyrule|Hyrule]], often those that operate across the whole country and control various smaller enterprises, allowing them to impact many different industries all at once or enforce a near-monopoly on a single industry. Those in charge of these Guilds often are [[Capitalist and Nobleman Class|extremely wealthy, noble]], and as part of their job, have communication with the [[The Royalists|Royalists]], the [[The Followers of Dragmire, Revolutionaries|Revolutionaries]], and the [[Former Hyrulean Government and Royal Family|Royal Family]] before them.
 
 The beginnings of what would become known as a Guild began to appear approximately two hundred years ago, when enterprises—which were once almost entirely local affairs—began to expand across the entire country. With new advances in various fields such as communication and transport, this became much more feasible. The early businesses that became involved in this had their profits increase immensely, their owners hiring more and more employees to delineate tasks to, further inflating the cost of running the companies. Eventually, these Guilds grew to such a point that many were competing in various industries at once, with far more money and resources than their competitors—but not always better quality products. Seeking a cheaper way to beat the competition, the Guilds petitioned local governments—and eventually, groups like the team of the [[Chancellor Collin Phurn|Lord Chancellor of Economics]] or the Royal Family. Over time, this practice became more and more accepted, as the continued prosperity of the Guilds became more and more intertwined with the prosperity of the larger [[Economy|economy]]. What was good for the Guilds was good for not just wages, but the taxes the government could collect. Even if many deals with the Guilds led to the Royal Family willingly lowering taxes on them in particular, and providing subsidies, such arrangements usually benefitted both sides equally, with the Guilds providing services that smaller businesses would never be able to give—or that would be more costly, and under far less supervision.
 The critics of this system have called it ‘Corporatism’ and accused it of essentially being a form of cronyism in which the wealthiest individuals and the government enriched each other, often at the expense of the lower classes. They say that such economic growth could be achieved in other ways, and that intertwining Guilds with the economy is a recipe for disaster. They also claim that the lack of competition in certain areas and markets fostered by the existence of such Guilds lowers the rights of laborers, and the quality of products received by buyers, while increasing the price to levels that are borderline unaffordable to the middle, lower, and working class.
 
-However, despite these claims, there is little statistical evidence of this, or studies performed that show such an effect. The supporters of this system point to the palpable economic growth, increased numbers of jobs and productivity, as well as other positive growth.
+However, despite these claims, there is little statistical evidence of this, or [[Market Research|studies]] performed that show such an effect. The supporters of this system point to the palpable economic growth, increased numbers of jobs and productivity, as well as other positive growth.
 
 Critics of the system have attempted various times to form ‘Labor Unions’; a syndicate of workers designed to negotiate with a Guild, regardless of what was already agreed to in their contract. However, this has often been struck down as illegal by the government or the Guilds. Now, as a compromise, the Guilds are required by law to have their own form of a union, named the Worker’s Resources Department. However, ever-unsatisfied, critics of this system say that a Worker’s Resource Department is just another form of control and monitoring, and without independence from the Guild, is useless.
 

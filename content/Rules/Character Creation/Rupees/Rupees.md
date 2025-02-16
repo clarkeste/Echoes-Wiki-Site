@@ -17,7 +17,7 @@ Rupees are the main form of currency in Hyrule, and are considered an internatio
 
 Rupees, therefore, are the main currency of the [[Echoes of the Departed|Echoes of the Departed]]. They can be used to purchase anything from supplies, to weapons, to lodgings and property. Rupees are usually gained through completing jobs, finding it in ruins, or other such activities that one would be expected to be paid for.
 
-While there are other currencies in the world, Rupees are the primary one, with all other currencies being compared to it. While the stability of the Rupee has taken a hit due to the Civil War, it still holds an important role in international trade.
+While there are other currencies in the world, Rupees are the primary one, with all other currencies being compared to it. While the stability of the Rupee has taken a hit due to the Civil War, it still holds an important role in international [[Economy|trade]].
 
 Here is the full [[Item Database Guide]], that lists various useful Items in different categories. All the prices in Rupees!
 
@@ -54,5 +54,7 @@ Rupees can also be shaken to determine if they are not officially issued by the 
 
 #### Adding Currency on Discord
 Use the “.c m +{amount}” command to add or remove money using the [[RPGSessions Bot|RPGSessions Discord bot]]. Simply change the {amount} field to be whichever number you are adding or subtracting. If you wish to subtract, change the + sign to a - sign. Make sure to remove the {brackets} when adding a number value.
+
+*Are you looking for the Hyrule Historia entry about Rupees? Check [[Rupees, Currencies]].*
 
 

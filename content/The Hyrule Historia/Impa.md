@@ -4,7 +4,7 @@ aliases:
   - hidden
 tags: []
 ---
-Impa is [[Sheikah|Sheikah]] who was once the lead bodyguard for [[Princess Zelda|Princess Zelda]]. Her role in history would be minor, as she was later replaced by [[Link Sahon|Link Sahon]], if not for her returning to royal employ shortly before the [[Revolution and Second Civil War|Revolution]]. She was a part of the [[Commission for the Reclamation of the Golden Power|Commission for the Recovery of the Golden Power]], likely recruited back to service for her great prowess and cunning, despite the stigma against the Sheikah regarding loyalty.
+Impa is [[the Sheikah|Sheikah]] who was once the lead bodyguard for [[Princess Zelda|Princess Zelda]]. Her role in history would be minor, as she was later replaced by [[Link Sahon|Link Sahon]], if not for her returning to royal employ shortly before the [[Revolution and Second Civil War|Revolution]]. She was a part of the [[Commission for the Reclamation of the Golden Power|Commission for the Recovery of the Golden Power]], likely recruited back to service for her great prowess and cunning, despite the stigma against the Sheikah regarding loyalty.
 
 Since Zelda was a young girl to when she was fifteen, Impa served as Zelda's maid, bodyguard, and—according to many sources—her closest confidant. However, only days after the [[Hyrule|Kingdom]] had been shaken by the skirmish between [[Castle Town Parliamentarians|Parliamentarians]] and the authorities in the [[Castle Town|capital]], Impa was removed from active duty along with many other Sheikah. While the [[Last King of Hyrule|King]] never publicly commented on why, it is widely assumed that it was due to fears over the secretive and shadowy nature, or at least reputation, that caused distrust in the Sheikah.
 

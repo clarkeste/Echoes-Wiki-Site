@@ -1,11 +1,13 @@
 ---
-tags: []
+tags: 
 aliases:
   - hidden
+  - Lusand
+  - Prince
 ---
 **Prince Lusand** is the crown prince of [[Hyrule|Hyrule]], and brother to [[Princess Zelda|Princess Zelda]]. He is a young man, nineteen years of age, and with the death of his sister and [[Last King of Hyrule|father]], the next in line to the throne.
 
-However, the line of succession was complicated when Lusand, along with his mother, were all but banished from Hyrule by the King of Hyrule, Lusand’s own father. Believing that Lusand was not his son and the product of an affair, the King divorced his wife. She and Lusand then moved across the sea to the [[Holodrum|Empire of Holodrum]], where they have lived since.
+However, the line of succession was complicated when Lusand, along with his mother, were all but banished from Hyrule by the King of Hyrule, Lusand’s own father. Believing that Lusand was not his son and the product of an affair, the King divorced his wife. She and Lusand then moved across the [[The Great Sea|sea]] to the [[Holodrum|Empire of Holodrum]], where they have lived since.
 
 The former Queen—now a Duchess—and her son live in Holodrum as respected guests of the [[Emperor of Holodrum|Emperor]], and members of his court. It is said that Lusand and the nearly-decade older Emperor Kanadei are good friends, and share many ideological agreements. Some gossipmongers go so far as to describe Kanadei as a mentor, or bigger brother, to the boy.
 

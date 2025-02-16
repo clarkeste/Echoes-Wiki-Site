@@ -14,7 +14,7 @@ To see a simpler version of Item Creation that is used when constructing Items s
 
 Craftsman and Blacksmith make various different things, specializing in different fields; toys, horseshoes, arrow-heads, replaceable parts—the options are endless, and can all be an excellent source of [[Rupees|income]]. However, one process is particularly complex, and sought-after in these times of Civil War: designing and forging [[Weapons]] and [[Armor]].
 
-Because of that, many individuals make their living selling weapons, construct them for personal use, or design entirely new ones—either for their designs to be sold to the Guilds, or simply to make a one-of-a-kind sword. Making any of these more complex Items is similar in process to the Point-Buy System used in other [[Point-Buy Systems|Creation mechanics]], allowing you to flex your creative muscles.
+Because of that, many individuals make their living selling weapons, construct them for personal use, or design entirely new ones—either for their designs to be sold to the [[Guilds]], or simply to make a one-of-a-kind sword. Making any of these more complex Items is similar in process to the Point-Buy System used in other [[Point-Buy Systems|Creation mechanics]], allowing you to flex your creative muscles.
 
 How this works is that there are 6 [[Item Creation#Base Options|Base Templates]], such as [[Weapon Template - One-Handed Weapon|One-Handed Weapons]], [[Weapon Template - Ranged Weapon|Ranged Weapons]], and [[Weapon Template - Pole-arm Weapon|Pole-arms]]. But, these Base Templates are just simple blueprints; to get a finished product, you must change the Base Templates using [[Modifiers|Modifiers]].
 

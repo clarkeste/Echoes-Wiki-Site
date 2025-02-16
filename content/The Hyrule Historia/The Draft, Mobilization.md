@@ -2,6 +2,7 @@
 aliases:
   - mobilize the Hyrulean army
   - mass conscription
+  - mobilization
   - hidden
 tags: []
 ---

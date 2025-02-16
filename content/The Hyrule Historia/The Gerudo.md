@@ -5,6 +5,8 @@ aliases:
   - hidden
 tags: []
 ---
+*Are you looking for the article about the playable People? Check [[Gerudo]].*
+
 **The Gerudo** are a desert-dwelling people, who have historically been seen as thieves and outlaws. They were the people of [[Ganondorf Dragmire|Ganondorf Dragmire]], although very few Gerudo were directly involved in Dragmire's [[Seven Year Reign|seven year reign]]. After [[The Flood|the Flood]], [[The Hylians|the Hylians]] sought revenge and [[Hylian-Gerudo War|invaded]] the [[Desert of Mystery, Gerudo Desert|Gerudo Desert]].
 
 The Gerudo, being [[The Humans|human]] a common ancestor with the [[The Hylians|Hylians]]. They have lived in [[Hyrule|Hyrule]] or its surrounding lands for just as long as the Hylians. At some point, due to a quirk of biology we are not familiar with, it is believed that the birth rate of Gerudo males slowly fell until it was almost non-existent. As a necessity, [[Economy|trade]] and cultural exchange increased among the newly-born [[Hyrule|Kingdom of Hyrule]] and the Gerudo people. Many Hylians and Gerudo married, both out of necessity and kinship. For centuries, only one Gerudo male has been born to the tribe every one-hundred years. Due to this rarity, they are often made King as a matter of birth.

@@ -6,16 +6,18 @@ aliases:
   - Central Hyrule
   - Akkala region
   - Hyrule Field
+  - Eldin Region
+  - frontline
   - Tabantha
   - Lanayru
   - region
+  - hidden
   - Hebra
   - Eldin
   - Faron
-  - hidden
-tags:
+tags: 
 ---
-While the [[(Foreword and Contents|Hyrule Historia]] is primarily focused on the history of Hyrule, we understand the importance of including basic geographical information about the country.
+While the [[Beginning - There is more to this Folder than meets the eye|Hyrule Historia]] is primarily focused on the history of Hyrule, we understand the importance of including basic geographical information about the country.
 
 ### Central Hyrule
 As the name implies, this is the center of [[Hyrule|Hyrule]]. It primarily consists of Hyrule Field, a large plain, and some of Hyrule’s most iconic landmarks. This includes [[Hyrule Castle|Hyrule Castle]] and [[Castle Town|Castle Town]]. This region is almost entirely under the control of the [[The Followers of Dragmire, Revolutionaries|Followers]].
@@ -26,10 +28,13 @@ Castor is the area west of Hyrule Castle and north of Satori Mountain. It contai
 ### Tabantha
 The Tabantha Frontier is west of Castor, across the Tabantha Canyon. The overall higher elevation and proximity to Hebra make this region chilly. As the name implies, this place is not as densely populated as most other regions in Hyrule. This region is under the control of the Followers, but is attacked by Royalist Partisans in Hebra.
 
+The Canyon is largely unused, although an [[Forgotten Temple|ancient temple whose name has been forgotten to time]] rests there.
+
 ### Hebra
 A cold, snowy area to the north of the Tabantha Frontier and in the northwest corner of Hyrule. It is mountainous and almost entirely unpopulated, except for some hermits and a few mining operations in the southern parts. This region is nominally under the control of the Followers, but the north is where a roving group of Royalist Partisans hide, almost impossible to find due to the mountains and snowy mist.
 
 ### Gerudo
+*Main article - [[Desert of Mystery, Gerudo Desert|Gerudo Desert]]*
 This region primarily consists of the famous [[Desert of Mystery, Gerudo Desert|Gerudo Desert]] where the [[The Gerudo|Gerudo Tribe]] once lived, in the south-west of the Kingdom. It is separated from the rest of the Kingdom by tall mountains, called the Gerudo Highlands, with a valley path leading to the Desert. The Desert proper is plain and flat, with Calditin City, the Desert Citadel, and a few other old Gerudo structures present. Official Royal documents call this area the ‘Desert of Mystery’, and the Gerudo Highlands simply ‘the Highlands’, but these names have not caught on. Despite the objections of the [[Hylians|Hylians]] who colonized this region after ousting the Gerudo, this region and its main city of [[Calditin City]] are under the control of the Followers.
 
 ### Faron
@@ -39,7 +44,7 @@ In the center-south of Hyrule, across Lake Hylia, lies the great forests of Faro
 Necluda is slightly north of the south-east corner of Hyrule. It is a grassy area, surrounded by mountains, and, in some ways, isolated by them. This region is firmly under the control of the Royalists, and contains various manned forts to keep it that way.
 
 ### Lanayru
-North of Necluda, in the center-east of the country, is Lanayru. It is home to the Lanayru Wetlands, the [[Lost Woods|Lost Woods]], and—perhaps most important—the Lanayru Promenade and Mount Lanayru. Atop this mountain sits a [[Lanayru Citadel|Royalist Citadel]], the headquarters of all of their operations. It is very heavily protected for this reason, and is almost completely under Royalist control.
+North of Necluda, in the center-east of the country, is Lanayru. It is home to the Lanayru Wetlands, the [[Lost Woods|Lost Woods]], and—perhaps most important—the Lanayru Promenade and [[Mount Lanayru]]. Atop this mountain sits a [[Lanayru Citadel|Royalist Citadel]], the headquarters of all of their operations. It is very heavily protected for this reason, and is almost completely under Royalist control.
 
 ### Eldin
 Eldin is to the north, and slightly east, of Hyrule Castle. This region is neutral in the war. Before the Revolution, the entire region was an [[Autonomy Clause|autonomous zone]] overseen by the [[Gorons|Gorons]]. It is home to a volcano called [[Death Mountain]], where the Gorons call home. They don’t seem to mind the heat, and often mine the volcano for resources. While the Gorons have continually offered to host peace talks, these have not gone very far.

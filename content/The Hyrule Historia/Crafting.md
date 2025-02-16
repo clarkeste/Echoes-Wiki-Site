@@ -1,7 +1,9 @@
 ---
-tags: []
+tags: 
 aliases:
+  - blacksmith
   - hidden
+  - craftsman
 ---
 **Crafting** refers to the art of creating something new and useful out of raw materials. Often, this is with metallurgy to create weapons, worked by a Blacksmith.
 

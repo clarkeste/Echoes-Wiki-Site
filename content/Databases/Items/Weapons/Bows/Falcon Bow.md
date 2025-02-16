@@ -3,7 +3,7 @@ tags:
   - Items
   - Items-Premium
 ---
-A highly refined bow created by the Rito who inhabit northern Holodrum. Rito warriors favor it for its superior rate of fire, which helps them excel even further at aerial combat. Its excellent design has made it among the most popular traditional bows even far away from the Rito homeland.
+A highly refined bow created by the Rito who inhabit northern [[Holodrum]]. Rito warriors favor it for its superior rate of fire, which helps them excel even further at aerial combat. Its excellent design has made it among the most popular traditional bows even far away from the Rito homeland.
 
 ![](https://i.imgur.com/qEpQFrQ.png)
 

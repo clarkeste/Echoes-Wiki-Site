@@ -20,7 +20,7 @@ There is something you seek. The location of a loved one, a secret artifact, a s
 This character is hiding a secret so large that discovery of it would threaten their very way of life. Perhaps they are one of the most famed sorcerers in Hyrule, but are using Malice and dark arts to secretly enhance their powers. Maybe their entire community has been captured by a cult; and as were they, until they changed their mind. Now they must hide their life apart and their newfound beliefs, or be executed. Or perhaps your character committed a murder of which they were never convicted; and the case has just been reopened.
 
 ### Prevent
-Something will happen soon, an event that will be catastrophic to you and that you have a personal investment in stopping. The event coming about seems inevitable—the frontline approaching your village, dooming it to be burned in war. Yourself or a close friend or loved one succumbing to a disease, or a friend marked for death.
+Something will happen soon, an event that will be catastrophic to you and that you have a personal investment in stopping. The event coming about seems inevitable—the [[Hyrulean Geography|frontline]] approaching your village, dooming it to be burned in war. Yourself or a close friend or loved one succumbing to a disease, or a friend marked for death.
 
 ### Save
 A close friend to the character has fallen to evil; either captured, or being corrupted by its influence. This individual must be rescued from the clutches of wrong. Liberation not only of a person is possible; perhaps an entire community has been swallowed by the clutches of evil or destruction.

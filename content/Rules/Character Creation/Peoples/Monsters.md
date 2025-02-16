@@ -1,5 +1,6 @@
 ---
 aliases:
+  - consolidating
   - Monster
 tags:
   - Characters
@@ -17,7 +18,7 @@ As the inhabitants of the world are diverse, so too are their reflections. While
 ### History
 Monsters have existed in the entire world since intelligent life itself was born. They act as the dark shadows of life that lurk in unseen corners. While their number and power waxes and wanes with each era, their existence is all but guaranteed.
 
-Their power seems to rise as anger and hatred among the world does. After the first Hyrulean Civil War, the power of monsters increased greatly. And yet, monsters were unorganized and of little efficacy without a force to guide them. Infamously, four hundred years ago, this was Ganondorf Dragmire, the Demon King. Using his malevolent powers, monsters as a society did not follow their own aimless wills as they had before—but a man, who was cunning and malicious.
+Their power seems to rise as anger and hatred among the world does. After the [[First Hyrulean Civil War|first Hyrulean Civil War]], the power of monsters increased greatly. And yet, monsters were unorganized and of little efficacy without a force to guide them. Infamously, four hundred years ago, this was Ganondorf Dragmire, the Demon King. Using his malevolent powers, monsters as a society did not follow their own aimless wills as they had before—but a man, who was cunning and malicious.
 
 In the last 300 years, their number has dwindled alongside the death of their master. But the rising anger of the revolutionaries and Royalists has foretold their return. Every day now, they appear in larger and larger numbers, their actions growing more coordinated with each passing day….
 

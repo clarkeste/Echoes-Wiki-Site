@@ -1,8 +1,9 @@
 ---
 aliases:
+  - authors
   - author
   - hidden
-tags:
+tags: 
 ---
 ### Duffan Toncele
 A wise author who lived during the era of [[First Hyrulean Civil War|Hyrule's first Civil War]], Toncele was the one to write an edition of the Hyrule Historia. He, as all contributors, are credited with every new edition of the book.
@@ -38,4 +39,4 @@ Carawn was one of the three new writers that, a decade ago, wrote the landmark 2
 Gismis Martine was another one of the writers to write the 20th edition of the Hyrule Historia. He was often considered to be the most writerly and scholarly of the group. Due to a dispute with Coltari, he left the group shortly after finishing the 20th edition.
 
 ### Coltari Erbin
-Coltari Erbin was the third writer to write the 20th edition of the Hyrule Historia. She was the most business-oriented of them, and was involved heavily in the research process. While Carawn and a few other writers contributed, she is the main author of the current 21st edition of the Historia that released nearly a year after the Follower Revolution.
+Coltari Erbin was the third writer to write the 20th edition of the Hyrule Historia. She was the most business-oriented of them, and was involved heavily in the research process. While Carawn and a few other writers contributed, she is the main author of the current 21st edition of the Historia that released nearly a year after the [[The Followers of Dragmire, Revolutionaries|Follower Revolution]].

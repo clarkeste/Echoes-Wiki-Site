@@ -3,7 +3,7 @@ tags:
   - Items
   - Items-Premium
 ---
-Exceptional swords that only the skilled can truly wield. At first glance, they appear to be regular blades, but their weight and fine edges make them the envy of many swordsmen. They were created by the [[Sheikah|Sheikah]] who defected to the Believer prior to the Civil War.
+Exceptional swords that only the skilled can truly wield. At first glance, they appear to be regular blades, but their weight and fine edges make them the envy of many swordsmen. They were created by the [[Sheikah|Sheikah]] who defected to the [[Master Kohga|Believer]] prior to the [[Revolution and Second Civil War|Civil War.]]
 ![](https://i.imgur.com/cfhhTmS.png)
 [[Damage|Damage]]: +7
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]

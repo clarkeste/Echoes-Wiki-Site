@@ -7,16 +7,17 @@ aliases:
   - current Civil War
   - current day
   - Revolution
+  - Civil War.
   - Civil War
   - Hyrule’s
   - war
-tags:
+tags: 
 ---
-**The Revolution** was an event in [[Hyrule]] that happened one year ago, as of the publication of [[(Foreword and Contents]]. It started the **Second Hyrulean Civil War**, and was enacted by the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]] for the purpose of overthrowing the [[Former Hyrulean Government and Royal Family|Royal government]]. Some blame the Royal Family for its passive—and increasingly active, in their point of view—cruelty, while others square the blame entirely on the Followers.
+**The Revolution** was an event in [[Hyrule]] that happened one year ago, as of the publication of [[Beginning - There is more to this Folder than meets the eye|Hyrule Historia]]. It started the **Second Hyrulean Civil War**, and was enacted by the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]] for the purpose of overthrowing the [[Former Hyrulean Government and Royal Family|Royal government]]. Some blame the Royal Family for its passive—and increasingly active, in their point of view—cruelty, while others square the blame entirely on the Followers.
 
 The exact architect of the Revolution is unknown. However, it seems most likely that the shadowy figure of [[The Pragmatist|the Pragmatist]] used [[The Confessor|the Confessor]] and the rest of his [[The Chosen|Chosen]] minions to complete the task, before fading into obscurity.
 
-A mere week prior to the Revolution, two of the most influential leaders in the Followers, the [[The Sorcerer|Sorcerer]] and the [[Master Kohga|Believer]], chose to strike at [[Hyrule Castle|Hyrule Castle]]. They believed that the newly arrived [[Ganondorf|Ganondorf]] was a herald of what was to come, and sign that they must act. During the raid, however, Ganondorf proved his loyalty to the [[Last King of Hyrule|King]] by allegedly killing the Sorcerer, although she later appears to have survived the encounter.
+A mere week prior to the Revolution, two of the most influential leaders in the Followers, the [[The Sorcerer|Sorcerer]] and the [[Master Kohga|Believer]], chose to strike at [[Hyrule Castle|Hyrule Castle]]. They believed that the newly arrived [[Ganondorf|Ganondorf]] was a herald of what was to come, and sign that they must act. During the raid, however, Ganondorf proved his loyalty to the [[Last King of Hyrule|King]] by allegedly killing the Sorcerer, although she later appears to have survived the encounter. The King, convinced by the threat, ordered a Kingdom-wide [[The Draft, Mobilization|mobilization]].
 
 In the following week, the Followers prepared and moved their resources to enact the Revolution. Their final move, however, was one that nobody—even almost no member of the Followers of Dragmire—saw coming. The Confessor issued a '[[Broadcast|broadcast]]' by using magic to show moving images in every torch and watery reflection in every major city in Hyrule. This broadcast showed one of the members of the Followers, [[Link Steadfast|Link Steadfast]], wielding the [[Master Sword|Master Sword]]. This was intended to reduce the divine legitimacy of the Royal Family, and it succeeded. Steadfast urged the people of Hyrule to rise up against the [[Last King of Hyrule|King of Hyrule]].
 

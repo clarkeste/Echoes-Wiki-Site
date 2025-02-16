@@ -1,5 +1,6 @@
 ---
 aliases:
+  - frivolous projects
   - Black Tower
   - hidden
 tags: []

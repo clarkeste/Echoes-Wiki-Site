@@ -3,7 +3,7 @@ tags:
   - Items
   - Items-Premium
 ---
-A wingsuit made by the [[Echoes of the Departed/Hidden Peoples/Rito|Rito]] people of Northern Holodrum. It is useful in skydiving, and has most often found its home among non-Rito aviation enthusiasts.
+A wingsuit made by the [[Echoes of the Departed/Hidden Peoples/Rito|Rito]] people of Northern [[Holodrum]]. It is useful in skydiving, and has most often found its home among non-Rito aviation enthusiasts.
 ![]()
 [[Soak|Soak]]: 0
 [[Defense|Defense]]: 1
