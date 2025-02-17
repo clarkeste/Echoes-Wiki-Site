@@ -1,12 +1,10 @@
-—-
-aliases:
-  - Skill Challenges
+---
 tags:
   - Rules
   - New-Rules
   - Dice
   - Skills
-—-
+---
 Skill Challenges are for more complex, longer, nail-biting problems. For example, climbing a mountainside a kilometer into the air while [[Adversary|Bokoblins]] pepper the stones around you with arrows, or attempting to salvage a sinking boat and stopping the pirates from boarding. Skill Challenges are usually considered a type of Structured Time.
 
 During a Skill Challenge, the [[The GM|GM]] sets an amount of [[Success|Successes]] needed to win the [[Encounter|Encounter]]. This is usually between 15 and 30. The Players then make individual [[Attack Check|Checks]], with difficulty set by the [[The GM|GM]]. Any [[Skills|Skill]] can be used so long as the [[Player|Player]] can reasonably explain how their [[Character|Character]] uses the Skill in that situation to benefit their side. For example, in the climbing example, Skills such as [[Coordination|Coordination]] and [[Athletics|Athletics]] would be the obvious ones stated by the GM. However, a Player could easily make the argument that [[Ranged|Ranged]] would be applicable by narrating how their character picks loose rocks off the mountain-side, and throws them at the Bokoblins, or how [[Resilience|Resilience]] would be applicable by describing persevering despite their increasingly callused hands.
