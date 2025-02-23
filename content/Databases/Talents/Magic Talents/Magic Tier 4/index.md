@@ -11,7 +11,6 @@ For a walk-through to help you navigate purchasing [[Talents]], particularly dur
 
 
 The following are the articles in this folder:
-[[Flight]]
 [[Swallowed by Shadow]]
 [[The Believer's Daring]]
 [[The Sorcerer's Gamble]]

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Manipulate
+  - Hurling
 tags:
   - Rules
   - Spell-Creation

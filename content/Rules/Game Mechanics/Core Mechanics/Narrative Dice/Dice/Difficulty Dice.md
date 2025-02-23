@@ -3,6 +3,7 @@ aliases:
   - Difficulty Dice
   - Difficulty Dice
   - Difficulty die
+  - Purple dice
 tags:
   - Rules
   - Dice
