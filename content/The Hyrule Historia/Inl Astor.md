@@ -1,8 +1,6 @@
 ---
 aliases:
   - Minister of Justice
-  - Inl Astor.
-  - Inl Astor
   - Astor
   - hidden
   - Inl

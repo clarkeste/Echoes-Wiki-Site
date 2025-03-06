@@ -41,7 +41,7 @@ The following are the articles in this folder:
 [[Rupee Wallet (Large)]]
 [[Rupee Wallet (Medium)]]
 [[Rupee Wallet (Small)]]
-[[Sheath, Holder]]
+[[Sheath or Holder]]
 [[Smithy's Tools]]
 [[Spell Scroll]]
 [[Spyglass]]

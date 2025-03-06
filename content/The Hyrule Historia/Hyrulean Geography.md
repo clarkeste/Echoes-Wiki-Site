@@ -1,21 +1,8 @@
 ---
 aliases:
-  - Great Hyrulean Mountains
-  - Central Hyrulean region
-  - Tabantha Canyon
-  - Central Hyrule
-  - Akkala region
-  - Hyrule Field
-  - Eldin Region
-  - frontline
-  - Tabantha
-  - Lanayru
   - region
   - hidden
-  - Hebra
-  - Eldin
-  - Faron
-tags: 
+tags:
 ---
 While the [[Beginning of the Historia|Hyrule Historia]] is primarily focused on the history of Hyrule, we understand the importance of including basic geographical information about the country.
 

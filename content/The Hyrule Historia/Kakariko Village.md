@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kakariko Village
+  - Carrok Village
   - hidden
 tags: 
 ---

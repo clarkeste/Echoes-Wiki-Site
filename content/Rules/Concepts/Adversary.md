@@ -1,14 +1,6 @@
 ---
 aliases:
   - face a PC down in battle
-  - Adversaries
-  - Bokoblins
-  - adversary
-  - opponent
-  - Nemesis
-  - Enemies
-  - target
-  - enemy
 tags:
   - Rules
   - Combat
