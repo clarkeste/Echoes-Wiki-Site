@@ -2,7 +2,8 @@
 aliases:
   - Sorcerer
   - hidden
-tags: []
+  - the Sorcerer
+tags:
 ---
 **The Sorcerer** was a [[The Chosen|Chosen]], and therefore one of the leaders of the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]]. Now, after seemingly cheating death, she is an influential member of the Revolutionary government, and one of the most vocal proponents of the earliest tenets of the Followers. Her real name is **Agnin Carolin**. She often clashed with her compatriots the [[Master Kohga|Believer]] and the [[The Confessor|Confessor]], but ultimately still followed the same master of the [[The Pragmatist|Pragmatist]].
 

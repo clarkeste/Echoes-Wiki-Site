@@ -1,6 +1,7 @@
 ---
 aliases:
   - TTRPGs
+  - TTRPG
 tags:
   - Meta
 ---

@@ -3,6 +3,7 @@ aliases:
   - Player Characters
   - PCs
   - PC
+  - Player Character
 tags:
   - Rules
   - Terminology
