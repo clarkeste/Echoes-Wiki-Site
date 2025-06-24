@@ -35,8 +35,6 @@ When **Resting**, do the following:
 - Every Week, roll [[Resilience]] [[Skill Checks|Check]] with [[Difficulty]] equal to a [[Critical Injury]] severity you wish to try and heal.
 
 ### Working
-As a great religious book once said, he who does not work, neither shall he eat. And as the great opponent of that religious book said… well, he said the same thing.
-
 It is very likely that your [[Character]] may have a more traditional, comparatively boring job, or freelance work, that they take up at various points of the story to earn [[Rupees]] to purchase things they truly care about.
 
 Different Jobs a Character might take on have different qualities and may impart different amounts of money.
