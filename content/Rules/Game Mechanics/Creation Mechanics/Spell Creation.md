@@ -1,6 +1,7 @@
 ---
 aliases:
   - Spell Creation
+  - Spellcasters
   - Base Power
   - Spell’s
   - Spells
@@ -25,8 +26,7 @@ When casting a Spell, must suffer 2 [[Strain]].
 
 You can only cast a Spell if it is on your [[Character Sheet]]. There are limits to how many Spells can be on your Character Sheet at once, meaning that there is a limited amount of Spells that can be ‘active’ at any given time.
 
-You can have Spells equal to your [[Willpower|Willpower]] + 5 on your sheet at any given time. This means a sorcerer with Willpower 2 would be able to have 7 Spells on their [[Character Sheet|sheet]]. To change the Spells on your sheet, or add another Spell to it, you need one hour of [[Downtime|Downtime]]. If you’re in a pinch and want to use a Spell that’s not on your sheet, you can do so, but must spend a [[Sacred Points|Sacred Point]] first. 
-
+You can have Spells equal to your [[Willpower|Willpower]] + 5 on your sheet at any given time. This means a sorcerer with Willpower 2 would be able to have 7 Spells on their [[Character Sheet|sheet]]. To change the Spells on your sheet, or add another Spell to it, you need one hour of [[Downtime|Downtime]]. 
 
 Here are the Base Powers—they form the foundation of your Spells! First step in making a Spell is to select a Base Power.
 
@@ -46,8 +46,6 @@ Here are the Base Powers—they form the foundation of your Spells! First step i
 
 ### Modifiers
 Here are the Modifiers. After you select a Base Power, the next step is to select the Modifiers you want. Make sure the cost of all your Modifiers is equal to or below your Magic Points! If you go over, there is a section below detailing [[Modifiers#Drawbacks|Drawbacks]]—it will add complications to the Spell, but will decrease its Magic Point cost.  
-
- If your spell is still over the limit and you would still like to cast it, you may flip a Sacred Point and suffer 1 [[Strain|Strain]] for every point your spell is over the maximum.
 
 - [[Accurate (Modifier)|Accurate]] (2)
 - [[Auto-Fire (Modifier)|Auto-Fire]] (5)
@@ -87,27 +85,57 @@ You may take the following Drawbacks to reduce the cost of your spell. If your s
 ### The Last Step
 After adding the Modifiers, you’re done! Just give it a catchy name, and put it on your sheet. If it acts similarly to a weapon, it’s advised you add it as a [[Weapons|Weapon]] that uses the Force skill; otherwise, just leave the name, Base Power, and Modifiers of the Spell in the notes section, and that is it!
 
-## Long-Standing Powers, Curses and Blessings
-Spells that last beyond a single check, such as Endow, Invoke, or some Relocate and Telepathy Spells, often spend numerous Rounds or hours activated if they are not Dispelled. 
+## Long-Lasting Powers, Curses and Blessings
+Spells that last beyond a single check, such as Endow, Invoke, or some Relocate and Telepathy Spells, can spend numerous Rounds or hours activated if they are not Dispelled. 
 
-However, there are certain conditions where these Spells can dissipate on their own. There are two ways: Either the original caster falls [[Incapacitated|unconscious]] or dies, or they move out of the [[Range Bands|Range]] of the Spell, and therefore the Spell dissipates. 
+These Long-Lasting Spells, however, do come with a cost. At the beginning of each Turn a [[Character]] has in [[Combat]] or Structured Time, they must suffer 1 Strain to represent the mental upkeep of keeping this Spell active. This cost is usually lessened when not in Structured Time, but the GM may still chose to occasionally cause a Character to suffer Strain if they continually keep a Long-Lasting Spell activated. 
 
-For example let us assume a Spellcaster uses an Endow Spell that has a range of [[Medium Range|Medium]]. If the Spellcaster casts that Spell and then at any point is at [[Long Range]] from their target, the Spell dissipates and must be recast. Any long-lasting Spell can also be removed by the Character who cast it with an [[Incidentals|Incidental]] so long as it is their turn.
+The [[Strain]] cost of Long-Lasting Spells stack. The Strain cost at the beginning of each Turn is equal to the number of active Long-Lasting Powers minus 2, to a minimum of 1. For example, if a Character has 3 Endow Spells active (or 3 instances of the same Spell), it will cost them only 1 Strain, same as if they had only 1 instance active. 5 Endow Spells active, however, will cost them 3 Strain at the beginning of every Turn.
+
+A Long-Lasting Spell can be Dismissed at any time with a [[Maneuvers|Maneuver]].
+
+Additionally, there are certain conditions where these Spells can dissipate on their own without an intentional command from its Spellcaster or from being Dispelled.
+
+There are two ways: Either the original caster falls [[Incapacitated|unconscious]] or dies, or they move out of the [[Range Bands|Range]] of the Spell, and therefore the Spell dissipates. 
+
+For example let us assume a Spellcaster uses an Endow Spell that has a range of [[Medium Range|Medium]]. If the Spellcaster casts that Spell and then at any point is at [[Long Range]] from their target, the Spell dissipates and must be recast. 
+
+[[Manipulate]] Spells are not considered long-lasting. This is because they are largely short-lived and already require maintenance in the form of at least one Maneuver spent per turn to maintain a Gripped target.
 
 There is talk in ancient lore of curses or blessings that lasted as long as the original caster or deity lived, regardless of how far they were from the person they blessed or cursed. How this was done is unknown; some Spellcasters in the modern day may know, but it is not information that is publicly shared or commonly brought up.
 
 ## Upgrading Force
 One thing to note is that Force cannot be increased past Rank 2 unless your character has some sort of mentor. Whether that mentor is a person or an object, such as a large trove of books, is up to the GM and the Player to decide.
 
-## Ahah! I’ve outsmarted you, GM!
-So, if you’re sufficiently sneaky and familiar with the rules, you may have realized: the winning strategy would be to make every single Spell on your sheet have a high Slow-Firing, allowing them to be as powerful as possible, and then fire them off in a quick succession in a Combat [[Encounter]]. However, that won’t work for a few reasons.
+## Rolling a Spell not on your Sheet?
+If you wish to roll a Spell that is not on your sheet, you may flip a [[Sacred Points|Sacred Point]] to cast it. However, the following [[Modifiers|Modifiers]] cannot be used:
 
-Every time you end a Combat Encounter with one or more Spells on Cooldown (ie, they have Slow-Firing or Prepare and have not recharged) then you suffer Strain equal to the amount of minutes/Rounds that they would’ve needed to recharge. This means if you have Slow-Firing 6 on a Spell and use it at the very last Round, you would have to suffer 6 Strain at the end of the Encounter. The same occurs with Limited Ammo. Spells with Prepare can be prepared before an [[Encounter]] if the [[Character]] suffers [[Strain]] equal to double the Prepare rating.
+- Slow-Firing 
+- Limited Ammo
 
-Additionally, two Spells on a Character Sheet cannot be identical. They must be different in some way, even if the difference is Burn 2 vs Burn 3.
+In addition to flipping a Sacred Point, you must also suffer 2 more Strain than usual in addition.
 
-You can still attempt this strategy, of course, and it’s a valid way to push yourself and punch above your weight—just make sure it is not so taxing that your Character collapses and leaves themselves vulnerable.
+## Slow-Firing and Prepare Outside of Structured Time
+While the effects of Slow-Firing and Prepare are pretty obvious in [[Combat|structured time]] such as Combat or [[Skill Challenges]], it is less clear during looser, narrative time.
 
-This does all raise the point of, despite my attempts to balance everything added, there are likely things that are abusable. If you do decide to abuse them—which, I understand—just be prepared for the fact that the strategy may be nerfed. If it is, the GM will offer the ability for you to re-specialize your Character Sheet at no cost.
+If time is of the essence for any reason in the current scenario, then a certain amount of time will pass before [[The GM]] allows you to roll. However, it is not, then you may roll right away, but must suffer additional [[Strain]]. Suffer 2 Strain per rank of Prepare on your Spell.
+
+When it comes to Slow-Firing, there is no penalty. However, each rank from 1-4 has a different meaning in narrative time.
+
+1 - May be used shortly after, after perhaps a minute of wait. Little will be lost by waiting for it.
+2 - It will be an inconvenience to wait for it. It will take perhaps 3-4 minutes to refresh, and something bad may happen when waiting.
+3 - It will take a while to refresh, perhaps 10-20 minutes. The situation may greatly change while waiting.
+4 - It will take a very long time to refresh, potentially somewhere between 30-40 minutes. 
+
+## Spells on Cooldown
+Some Spells Modifiers, like [[Slow-Firing (Modifier)|Slow-Firing]] or [[Limited Ammo (Modifier)|Limited Ammo]], put a Spell into “Cooldown” when their effects are triggered. For example, a Spell with Slow-Firing cannot be used again until a number of Rounds equal to the Slow-Firing rating have transpired. After a Spell with Limited Ammo has been used a number of times equal to its Limited Ammo rating, it runs out of uses and enters Cooldown. It must be ‘reloaded’ with four Strain.
+
+However, it is important to note: Only one Spell can be on Cooldown at any given time. For instance, if you have a Spell with Limited Ammo that needs to be reloaded, you cannot cast a Spell with Slow-Firing 1. You must first clear the Spell in Cooldown, or, in the case of Slow-Firing, let it finish Cooling Down on its own.
+
+## Preparing Spells
+A Spellcaster can, prior to an [[Encounter]] or situation where they would like to use a Spell, “pre-Prepare” a Spell with Prepare 2 or less. This means that it will be considered already ready to use, without needing to use Maneuvers to fulfill the Prepare rating, when entering [[Combat]] or the situation where they wish to cast the Spell.
+
+Only one Spell can ever be “pre-Prepared” at a time.
+
 
 *Are you looking for the Hyrule Historia entry about Spellcasting? Check [[Spellcasting]].*

@@ -6,8 +6,7 @@ aliases:
   - Hyrulean Civil War,
   - Hyrulean Civil War
   - yrulean Civil War
-  - hidden
-tags: []
+tags:
 ---
 This entry refers to the first **Hyrulean Civil War** that occurred shortly before the adventures of the [[Hero of Time|Hero of Time]], over four hundred years ago.
 

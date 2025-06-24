@@ -9,5 +9,5 @@ Crude but effective Iron Armor; its high amounts of metal lend a great deal of d
 [[Defense|Defense]]: 1
 [[Encumbrance|Encumbrance]]: 10
 
-Price: 1200 [[Rupees]]
+Price: 13k [[Rupees]]
 [[Affiliations|Affiliation]]: None

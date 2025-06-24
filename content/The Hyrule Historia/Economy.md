@@ -5,8 +5,7 @@ aliases:
   - economic
   - economy
   - trade
-  - hidden
-tags: []
+tags:
 ---
 Currently, the economy of the [[The Followers of Dragmire, Revolutionaries|Revolutionary]]-controlled areas of [[Hyrule|Hyrule]] is already struggling heavily due to the war, with the [[The Royalists|Royalists]] faring much better because of the economic aid received from [[Holodrum|Holodrum]] and [[Calatia|Calatia]].
 

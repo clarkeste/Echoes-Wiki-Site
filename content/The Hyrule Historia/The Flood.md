@@ -6,8 +6,7 @@ aliases:
   - Era of the Flood
   - Great Flood
   - Flood
-  - hidden
-tags: []
+tags:
 ---
 **The Flood** was an event three hundred years ago in which a torrential downpour fell from the heavens and bombarded into [[Hyrule|Hyrule]], coinciding with [[Ganondorf Dragmire|Dragmire]]'s return from banishment, that threatened to bury the Kingdom of Hyrule and the other countries of the continent under the waves of the ocean.
 

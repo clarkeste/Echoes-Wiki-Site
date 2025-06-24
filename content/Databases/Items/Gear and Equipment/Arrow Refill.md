@@ -7,5 +7,5 @@ A set of Arrows to be used with a Bow. Prices of this vary between localities, a
 ![](https://i.imgur.com/SdRbyOg.png)
 [[Encumbrance|Encumbrance]]: 3
 
-Price: 40
+Price: 150
 Affiliation: None

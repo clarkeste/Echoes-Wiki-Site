@@ -14,7 +14,7 @@ Accurate is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Cre
 ### [[Spell Creation]]: Accurate (2)
 Active: No
 Stacks: Yes
-Limit: None
+Limit: 6
 For each Rank of Accurate, add one [[Boost Dice|Boost Die]] to the Spell check.
 
 ### [[Potion Creation]]: Accurate (2)
@@ -26,7 +26,7 @@ The Skill the Potion is meant to enhance, usually decided by the choice of the b
 ### [[Item Creation]]: Accurate (2)
 Active: No
 Stacks: Yes
-Limit: None
+Limit: 4
 For each Rank of Accurate, add one [[Boost Dice|Boost Die]] to an [[Attack Check]].
 
 

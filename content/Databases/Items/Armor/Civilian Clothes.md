@@ -10,5 +10,5 @@ Simple clothes worn by civilians. Its design varies by culture.
 [[Defense|Defense]]: 0
 [[Encumbrance|Encumbrance]]: 0
 
-Price: Automatically given to every [[Character]], and considered readily accessible
+Price: 30 [[Rupees]]. Automatically given to every [[Character]] without need for purchase, and considered readily accessible
 [[Affiliations|Affiliation]]: None

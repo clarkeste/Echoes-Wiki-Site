@@ -11,5 +11,5 @@ A simple, heavy coat distributed by the [[Guilds]] who operate in [[Hyrulean Geo
 
 Special: Protects against cold climates and reduces debuffs from being inside them. Can be worn on top of almost any other [[Armor]].
 
-Price: 299 [[Rupees]]
+Price: 100 [[Rupees]]
 [[Affiliations|Affiliation]]: None

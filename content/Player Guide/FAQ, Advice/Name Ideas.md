@@ -13,7 +13,7 @@ The people of Hyrule do not tend to have the same names that we have. There are 
 
 Here are some examples for names that fit for each of the starting [[Peoples]], and some general tips.
 
-Oh, and if you want even more ideas, [visit this excellent name generator.](https://www.fantasynamegenerators.com/legend-of-zelda.php) Keep in mind that the “Blin” section seems to be designed for species names, and not individual [[Monsters|Monsters]], and is therefore not particularly applicable.
+Oh, and if you want even more ideas, [visit this excellent name generator.](https://www.fantasynamegenerators.com/legend-of-zelda.php) Keep in mind that the “Blin” section seems to be designed for species names, and not individual [[Monsters|Monster]], and is therefore not particularly applicable.
 
 ### Hylian
 

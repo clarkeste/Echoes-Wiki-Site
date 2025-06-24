@@ -10,5 +10,5 @@ A rod from a sturdy tree often used as the base for a magical staff in addition 
 [[Encumbrance]]: 0
 Effect: Can be used as a small [[Improvised Weapons|Improvised Weapon]].
 
-Price: 5 [[Rupees|Rupees]]
+Price: 20 [[Rupees|Rupees]]
 [[Affiliations|Affiliation]]: None

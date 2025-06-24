@@ -16,5 +16,5 @@ A heavier-duty Bomb, often used in mining and terrain-clearing. However, it can 
 [[Limited Ammo (Passive) (Quality)|Limited Ammo]] 1
 Special: This type of Bomb has a longer fuse and only goes off at the beginning of the [[Character]]’s next turn after it is thrown.
 
-Price: 149 [[Rupees]]
+Price: 900 [[Rupees]]
 [[Affiliations|Affiliation]]: None

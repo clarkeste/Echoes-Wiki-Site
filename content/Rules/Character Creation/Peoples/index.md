@@ -14,6 +14,7 @@ The following are the articles in this folder:
 [[Gerudo]]
 [[Gorons]]
 [[Hylians]]
+[[Foreign Human]]
 [[Monsters]]
 [[Peoples]]
 [[Sheikah]]

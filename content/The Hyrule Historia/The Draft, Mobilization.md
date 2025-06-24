@@ -3,8 +3,7 @@ aliases:
   - mobilize the Hyrulean army
   - mass conscription
   - mobilization
-  - hidden
-tags: []
+tags:
 ---
 Colloquially, **the Draft** refers to a decree issued by the [[Last King of Hyrule|King]] days before his death and the [[Revolution and Second Civil War|Revolution]], in which he ordered the manpower of the [[Hyrule|Hyrulean]] military to be increased threefold to maintain order in Hyrule. He authorized the use of conscription and drafting to achieve this end. While tens of thousands were levied to this end, the goal was not met before the [[Castle Town|capital]] was overwhelmed.
 

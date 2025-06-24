@@ -3,8 +3,7 @@ aliases:
   - leader of the Followers
   - The Pragmatist
   - Pragmatist
-  - hidden
-tags: []
+tags:
 ---
 **The Pragmatist** is an alias of the individual who led the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]] during and prior to the [[Revolution and Second Civil War|Revolution]]. They were one of the [[The Chosen|Chosen]], the highest rank in the Followers of Dragmire. Their real identity remains unknown, and they seem to have disappeared from history following the capture of [[Hyrule Castle|Hyrule Castle]], their purpose likely complete. 
 

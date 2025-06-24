@@ -1,6 +1,7 @@
 ---
 aliases:
   - Flanking
+  - Flanked
 tags:
   - Rules
   - Combat

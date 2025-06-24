@@ -2,8 +2,7 @@
 aliases:
   - General Ahoga
   - Believer
-  - hidden
-tags: []
+tags:
 ---
 **The Believer**, also known as **Kohga of Kakariko Village**, or **Master Kohga**, is a member of the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]] and the new Revolutionary government.
 

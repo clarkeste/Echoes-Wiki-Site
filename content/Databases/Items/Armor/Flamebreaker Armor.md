@@ -11,5 +11,5 @@ tags:
 
 Special: Protects against scorching climates and reduces debuffs from being inside them.
 
-Price: 1199 [[Rupees]]
+Price: 6500 [[Rupees]]
 [[Affiliations|Affiliation]]: None, [[Gorons|Goron]]

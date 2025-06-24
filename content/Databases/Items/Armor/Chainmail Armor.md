@@ -13,5 +13,5 @@ Steel linked together to make a mesh-like armor, Chainmail Armor is highly effec
 
 Special: Can be worn underneath civilian clothing, such as [[Traveler's Clothes]], Mountain Traveler’s Clothing, [[Noble's Finery|Noble’s Finery]], Hylian Calditin Clothes or Hebra Coat. If this is done, apply the benefits from both [[Armor|Armors]].
 
-Price: 600 [[Rupees]]
+Price: 3600 [[Rupees]]
 [[Affiliations|Affiliation]]: None

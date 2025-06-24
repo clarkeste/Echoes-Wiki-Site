@@ -9,5 +9,5 @@ A combination of metal shoulder, knee, or head plating, to provide defense only 
 [[Defense|Defense]]: 0
 [[Encumbrance|Encumbrance]]: 1
 
-Price: 99 [[Rupees]]
+Price: 550 [[Rupees]]
 [[Affiliations|Affiliation]]: None

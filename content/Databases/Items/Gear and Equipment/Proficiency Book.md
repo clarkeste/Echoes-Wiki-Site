@@ -8,5 +8,5 @@ Many books are written with the intention to impart knowledge onto the reader an
 [[Encumbrance|Encumbrance]]: 1
 Effect: A Proficiency Book takes 32 hours of [[Downtime]] to read. Every time a Proficiency Book is read, add +5 [[Experience Points|XP]]. A Proficiency Book can incurs benefit once.
 
-Price: 129 [[Rupees]]
+Price: 800 [[Rupees]]
 [[Affiliations|Affiliation]]: None

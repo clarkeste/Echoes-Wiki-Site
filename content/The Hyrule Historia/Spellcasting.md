@@ -2,8 +2,7 @@
 aliases:
   - magical
   - Spells
-  - hidden
-tags: []
+tags:
 ---
 *Are you looking for the article about the gameplay mechanic? Check [[Spell Creation]].*
 

@@ -8,5 +8,5 @@ Any type of backpack, messenger bag, haversack or officer’s pouch. An extremel
 [[Encumbrance|Encumbrance]]: 0
 Effect: Increase [[Encumbrance|Encumbrance Threshold]] by +4. [[Narrative Dice]] may cause it to be separated from its wearer. Only one Pack can be worn at a time.
 
-Price: 199 [[Rupees]]
+Price: 700 [[Rupees]]
 [[Affiliations|Affiliation]]: None

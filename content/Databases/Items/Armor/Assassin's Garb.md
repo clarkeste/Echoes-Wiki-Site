@@ -11,5 +11,5 @@ Not used exclusively by assassins, but often associated with them. This armor fo
 
 Special: Add one [[Boost Dice|Boost Die]] to [[Stealth|Stealth]] [[Skill Checks|Checks]] when worn. Additionally, reduce total [[Soak|Soak]] by 1 when worn.
 
-Price: 749 [[Rupees]]
+Price: 4500 [[Rupees]]
 [[Affiliations|Affiliation]]: None, [[Should my character believe in the Royalists, or the Followers?|Followers]]

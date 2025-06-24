@@ -3,7 +3,6 @@ aliases:
   - Empire of Holodrum
   - Holodrumian
   - Holodrum
-  - hidden
 tags:
 ---
 **The Empire of Holodrum**, colloquially known as just **Holodrum**, is one of the most powerful nations in the world. Located to the east, across the [[The Great Sea|ocean]] from [[Hyrule|Hyrule]], it has historically been one of world's most influential country, trading the spot with Hyrule depending on the circumstances of any given time.

@@ -1,7 +1,6 @@
 ---
 tags: 
 aliases:
-  - hidden
   - farm
   - crops
   - food

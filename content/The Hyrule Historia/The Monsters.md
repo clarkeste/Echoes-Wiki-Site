@@ -5,9 +5,9 @@ aliases:
   - hidden
 tags: []
 ---
-*Are you looking for the article about the playable People of the same name? Check out [[Monsters|Monsters]].*
+*Are you looking for the article about the playable People of the same name? Check out [[Monsters]].*
 
-While the purpose of the [[Beginning of the Historia|Hyrule Historia]] is to provide an accounting of historical events in [[Hyrule|Hyrule]] and not as a biology textbook, the authors of this book understand the utility in detailing basic facts about some of the most commons monsters in Hyrule. 
+While the purpose of the [[(Beginning of the Historia)|Hyrule Historia]] is to provide an accounting of historical events in [[Hyrule|Hyrule]] and not as a biology textbook, the authors of this book understand the utility in detailing basic facts about some of the most commons monsters in Hyrule. 
 
 It is believed that monsters are, to a certain extent, immortal. At least during the era of the [[Ganondorf Dragmire|Demon King]], a blood moon would revive all the slain monsters, usually close to where they died.
 

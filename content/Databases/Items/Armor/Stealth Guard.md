@@ -11,5 +11,5 @@ Armor designed for stealth. Its defining feature is its soft, tight fabric suppr
 
 Special: Add three [[Boost Dice]] to any [[Stealth]] [[Item Creation|Check]], and to all [[Attack Check|Attack Checks]] that are done while hidden. The [[Damage]] of [[Attack Check|Attack Checks]] while hidden is doubled.
 
-Price: 7000 [[Rupees]] [[Restricted|(R)]]
+Price: 35k [[Rupees]] [[Restricted|(R)]]
 [[Affiliations|Affiliation]]: None, [[Sheikah|Sheikah]]

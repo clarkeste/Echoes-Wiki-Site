@@ -6,8 +6,7 @@ aliases:
   - Royalists
   - Royalist
   - Royal
-  - hidden
-tags: []
+tags:
 ---
 **The Royalists** is the colloquial name for the side in the [[Revolution and Second Civil War|Civil War]] that claims to be the legitimate government, upholding the ideals of the [[Former Hyrulean Government and Royal Family|monarchy]]. Their current leaders are [[General Noril|General Noril]] and the former [[Governor of Kakariko|Governor of Kakariko]]; their stated goal is to take the [[Hyrule|country]] back from the [[The Followers of Dragmire, Revolutionaries|Revolutionaries]], and they have stated that they intend to invite the next-in-line to the throne to the country once they can guarantee their safety.
 

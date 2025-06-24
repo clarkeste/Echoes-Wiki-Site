@@ -2,8 +2,7 @@
 aliases:
   - profits
   - Rupees
-  - hidden
-tags: []
+tags:
 ---
 **Rupees** are the main currency of [[Hyrule|Hyrule]], and are often used world-wide due to Hyrule's large influence on the world. It is the main currency used in [[Koridai|Koridai]]—although the locals spell and pronounce it as 'Rubies’—and slightly edges out the [[Holodrum|Holodrumian]] currency as the most used currency internationally. Most [[Capitalist and Nobleman Class|entrepreneurship]] and [[Market Research|market research]] is done with Rupees.
 
@@ -15,7 +14,7 @@ In [[Labrynna|Labrynna]], coinage is used, with the face of historical [[Queen A
 
 Various smaller domains may have their own currencies, such as the [[Zuna|Zuna]], who use Shillings. The [[The Gerudo|Gerudo]] are unique in that they have no formalized currency, as far as we know, and primarily use a bartering system. The rest of the world, however, uses either Hyrulean or Holodrumian Rupees, with a minority using Labrynnan coinage.
 
-The exchange rates are intentionally not listed in the [[Beginning of the Historia|Hyrule Historia]], as—considering current events—it is quite volatile.
+The exchange rates are intentionally not listed in the [[(Beginning of the Historia)|Hyrule Historia]], as—considering current events—it is quite volatile.
 
 The different denominations of Hyrulean Rupees are the following:
 

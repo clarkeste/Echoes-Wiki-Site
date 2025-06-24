@@ -8,5 +8,5 @@ Fishing has long been a profitable industry in Hyrule, especially with the count
 [[Encumbrance|Encumbrance]]: 1
 Effect: May roll a [[Vigilance]] [[Skill Checks|Check]] to fish in waters, such as a river, lake, underground pond, or ocean. [[Difficulty]] is decided by [[The GM|the GM]] and is dependent on factors such weather, amount of active fish, water clarity, and other things.
 
-Price: 99 [[Rupees]]
+Price: 100 [[Rupees]]
 [[Affiliations|Affiliation]]: None

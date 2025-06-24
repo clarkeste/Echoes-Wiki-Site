@@ -12,4 +12,4 @@ Empowered Flanking is a [[Modifiers|Modifier]] used in [[Item Creation]]. It is 
 Active: No
 Stacks: No
 Limit: 1
-When [[Attack Check|attacking]] an enemy that is unaware of their attacker’s presence or when [[Flanking]] an enemy, double [[Damage|Base Damage]] when attacking with a [[Weapons|Weapon]] using Empowered Flanking.
+When [[Attack Check|attacking]] an enemy that is unaware of their attacker’s presence or when [[Flanking]] an enemy, double [[Damage|Base Damage]] when attacking with a [[Weapons|Weapon]] using Empowered Flanking. If the Base Damage is 0, instead add +2 to the total [[Damage]] of that Attack.

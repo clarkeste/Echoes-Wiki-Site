@@ -7,6 +7,7 @@ tags:
   - Talent-Duelist
   - Talent-Ranked
 aliases:
+  - Parried
   - Parry
 ---
 **Tier:** 1 

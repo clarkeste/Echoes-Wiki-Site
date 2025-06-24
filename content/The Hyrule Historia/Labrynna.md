@@ -1,8 +1,7 @@
 ---
 aliases:
   - Labrynna
-  - hidden
-tags: []
+tags:
 ---
 Labrynna is a nation to the east of both [[Hyrule|Hyrule]] and [[Holodrum|Holodrum]], separated by the latter country by a strait. Despite being a similar size to the two aforementioned countries, it has often lagged behind Hyrule and Holodrum in prosperity, influence, and domestic development. The current Queen of Labrynna, a figurehead leader of one of the two sides in their Civil War, is [[Queen Lakra]] who succeeded [[Queen Ambi]].
 

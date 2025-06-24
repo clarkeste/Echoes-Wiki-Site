@@ -8,5 +8,5 @@ The Book of Mudora is a publication that is a few decades old. When it released,
 [[Encumbrance|Encumbrance]]: 0
 Effect: If given enough time, may translate written or spoken languages to the native language of the [[Character]].
 
-Price: 59 [[Rupees]]
+Price: 50 [[Rupees]]
 [[Affiliations|Affiliation]]: None

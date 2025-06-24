@@ -1,8 +1,7 @@
 ---
 aliases:
   - Calatia
-  - hidden
-tags: []
+tags:
 ---
 **Calatia** is a minor power to the west of [[Hyrule|Hyrule]]. It has always been an ally of Hyrule. Hyrule’s loyalty, both diplomatically and militarily, is likely due to Calatia’s strategic position. The country of Calatia controls various naturally-formed mountain passages that, if in the wrong hands, could be used to launch a swift and likely successful invasion of the Hyrulean mainland.
 

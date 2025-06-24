@@ -11,5 +11,5 @@ Armor traditionally worn by the [[Gerudo]]. It is commonly worn by the majority 
 
 Special: Protects against warm climates and reduces debuffs from being inside them.
 
-Price: 600 [[Rupees]] [[Restricted|(R)]]
+Price: 3600 [[Rupees]] [[Restricted|(R)]]
 [[Affiliations|Affiliation]]: [[Gerudo|Gerudo]]

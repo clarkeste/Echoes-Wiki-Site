@@ -5,8 +5,7 @@ aliases:
   - legendary sword
   - Master Sword
   - blade
-  - hidden
-tags: []
+tags:
 ---
 **The Master Sword** is a legendary blade, that wields the Power to Repel Evil. It is said it can only be held by individuals that are pure of heart, and can only be pulled from its pedestal by the [[Reincarnation|reincarnation]] of the Hero. It was considered the only weapon that could kill the [[Ganondorf Dragmire|Demon King]] during the eras of the [[Hero of Time|Hero of Time]] and the [[Hero of the Flood|Hero of the Flood]]. It was wielded by both aforementioned heroes, and most recently, was wielded by [[Link Steadfast|Link Steadfast]]. The image of him holding the sword was '[[Broadcast|broadcast]]' across [[Hyrule|Hyrule]], and convinced many to join or support the [[Revolution and Second Civil War|Revolution]].
 

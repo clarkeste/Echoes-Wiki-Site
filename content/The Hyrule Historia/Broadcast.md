@@ -3,8 +3,7 @@ aliases:
   - speech which was broadcast
   - broadcast
   - announced
-  - hidden
-tags: []
+tags:
 ---
 '**Broadcast**' was the name given to the [[The Confessor|Confessor]] and [[Link Steadfast|Link Steadfast]]'s message that set off the [[Revolution and Second Civil War|Revolution]].
 

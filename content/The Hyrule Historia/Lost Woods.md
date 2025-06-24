@@ -3,7 +3,6 @@ aliases:
   - The Lost Woods
   - Lost Woods
   - Lost Wood
-  - hidden
   - Great Hyrule Forest
   - Great Hyrulean Forest
 tags:

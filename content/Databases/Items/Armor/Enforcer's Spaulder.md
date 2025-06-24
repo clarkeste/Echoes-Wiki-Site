@@ -9,7 +9,7 @@ Ramshackle but effective, this armor is often made of leather but reinforced wit
 [[Defense|Defense]]: 0
 [[Encumbrance|Encumbrance]]: 5
 
-Special: +3 [[Damage|Damage]] to all successful [[Attack Check]].
+Special: +2 [[Damage|Damage]] to all successful [[Attack Check|Attack Checks]].
 
-Price: 1299 [[Rupees]]
+Price: 11k [[Rupees]]
 [[Affiliations|Affiliation]]: None

@@ -8,5 +8,5 @@ A larger, more efficient [[Rupee Wallet]] that allows a person to carry even mor
 [[Encumbrance|Encumbrance]]: 1
 Effect: May hold up to 2999 [[Rupees|Rupees]]. Each additional 30 Rupees after that point adds one [[Encumbrance|Encumbrance]] point.
 
-Price: 499 [[Rupees]]
+Price: 3000 [[Rupees]]
 [[Affiliations|Affiliation]]: None

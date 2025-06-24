@@ -1,10 +1,9 @@
 ---
 aliases:
   - privateers
-  - hidden
   - piracy
   - smuggling
-tags: 
+tags:
 ---
 Despite being a crime in almost every country—from [[Hyrule|Hyrule]] and [[Holodrum|Holodrum]] to the smallest island-nation—the potential [[Rupees, Currencies|profits]] gained from **piracy and smuggling** are too much for many individuals to pass up. They engage in these illicit activities to gain goods that would otherwise be heavily taxed, or illegal in some jurisdictions.
 

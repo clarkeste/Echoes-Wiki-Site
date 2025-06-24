@@ -1,8 +1,7 @@
 ---
 aliases:
   - King's Port
-  - hidden
-tags: []
+tags:
 ---
 **King’s Port** is a port city located on the eastern coast of [[Hyrule]]. It was founded by the [[Last King of Hyrule|King of Hyrule]] and his civilian supporters decades ago to act as a more reliable port-city alternative to the annoyingly defiant [[Kakariko City]]. Unlike Kakariko, King’s Port is not located in an [[Autonomy Clause|autonomous zone]].
 

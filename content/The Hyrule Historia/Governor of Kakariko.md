@@ -5,8 +5,7 @@ aliases:
   - Governor of Kakariko
   - Kakan Rarurn
   - governor
-  - hidden
-tags: []
+tags:
 ---
 The former **Governor of Kakariko**—named **Kakan Rarurn**—is currently one of the two recognized leaders of the [[The Royalists|Royalist]] movement in [[Hyrule|Hyrule]], alongside [[General Noril]]. He is described by those who know him as a mild-mannered politician and was a part of the civil service for many years in [[Kakariko City|Kakariko City]]. However, after the Governor before him, [[Governor Arandin|Arandin]], got on the bad side of the [[Last King of Hyrule|King]], the monarch chose to unilaterally appoint Rarurn to the position of Governor of Kakariko, where he remained for four years prior to the [[Revolution and Second Civil War|Revolution]]. Whereas Noril resides in [[Lanayru Citadel]], Rarurn operates the political side of the government in [[King's Port| King’s Port]].
 

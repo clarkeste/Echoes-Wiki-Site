@@ -11,5 +11,5 @@ Armor from the legendary Fighter’s series. Its immense quality and light form 
 
 Special: Add a [[Boost Dice|Boost Die]] to all [[Attack Check|Attack Checks]] when worn.
 
-Price: 4999 [[Rupees]]
+Price: 36k [[Rupees]]
 [[Affiliations|Affiliation]]: None

@@ -10,5 +10,5 @@ If a [[Character]] is a [[Zora]] or from another People that has distinctive bod
 [[Encumbrance|Encumbrance]]: 1
 Effect: To identify a [[Character]] wearing a Hood or other face cover, another Character must make a [[Difficulty|Formidable]] (5p) [[Difficulty]] [[Skill Checks|Check]]. The covering can also be taken off to identity a Character. When worn, Encumbrance is 0.
 
-Price: 49 [[Rupees]]
+Price: 50 [[Rupees]]
 [[Affiliations|Affiliation]]: None

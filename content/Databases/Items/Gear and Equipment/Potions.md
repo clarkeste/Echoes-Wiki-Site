@@ -13,37 +13,37 @@ All [[Potions]] listed and widely available must be ingested for their effects t
 ### Red Potion
 Restores 7 [[Wounds]].
 ![](https://i.imgur.com/ZDCRDhK.png)
-Price: 80 [[Rupees]]
+Price: 500 [[Rupees]]
 [[Affiliations|Affiliation]]: None
 
 ### Green Potion
 Restores 7 [[Strain]].
 ![](https://i.imgur.com/usLaxbO.png)
-Price: 80 [[Rupees]]
+Price: 450 [[Rupees]]
 [[Affiliations|Affiliation]]: None
 
 ### Blue Potion
 Restores 6 [[Wounds]] and 6 [[Strain]].
 ![](https://i.imgur.com/svMkwI0.png)
-Price: 399 [[Rupees]]
+Price: 2500 [[Rupees]]
 [[Affiliations|Affiliation]]: None
 
 ### Purple Potion
 Add a [[Boost Dice|Boost Die]] to every [[Attack Check]] for the next two [[Encounter|Encounters]] or the next day, whichever is shorter.
 ![](https://i.imgur.com/hi2ucSo.png)
-Price: 299 [[Rupees]]
+Price: 1800 [[Rupees]]
 [[Affiliations|Affiliation]]: None
 
 ### Yellow Potion
 When drunk, the body temperature of the consuming [[Character]] is stabilized at a comfortable level for the next day.
 ![](https://i.imgur.com/WxHR5p3.png)
-Price: 199 [[Rupees]]
+Price: 500 [[Rupees]]
 [[Affiliations|Affiliation]]: None
 
 ### Secret Medicine
-When drunk, restore 3 [[Wounds]]. If a [[Character]] is exceeds their [[Wound Threshold]] and would otherwise be [[Incapacitated]] sometime in the next day, restore 7 [[Wounds]] immediately. 
+When drunk, restore 3 [[Wounds]]. If a [[Character]] exceeds their [[Wound Threshold]] and would otherwise be [[Incapacitated]] sometime in the next day, restore 7 [[Wounds]] immediately. 
 ![](https://i.imgur.com/NqG371X.png)
-Price: 499 [[Rupees]]
+Price: 4000 [[Rupees]]
 [[Affiliations|Affiliation]]: None
 
 ### Fairy
@@ -55,17 +55,19 @@ Price: ???
 ### Stun Potion
 A Stun Potion—usually used as anesthesia—naturally looks a dark and sickly blue. However, with the proper brew, it can be colored to look differently. When drunk, a [[Character]] suffers 8 [[Strain]].
 ![](https://i.imgur.com/LQkzPXC.png)
-Price: 299 [[Restricted|(R)]] [[Rupees]]
+Price: 1800 [[Restricted|(R)]] [[Rupees]]
 [[Affiliations|Affiliation]]: None
 
 ### Poison Potion
 A Poison Potion naturally looks a dark and sickly green; however, with the proper brew, it can be colored to look differently. When drunk, suffer 7 [[Wounds]] and make a [[Difficulty|Hard]] (3p) [[Resilience|Resilience]] [[Skill Checks|Check]]. Uncanceled [[Failure|Failures]] add [[Wounds]], uncanceled [[Threat]] adds [[Strain]] or the [[Disoriented|Disoriented]] effect, and [[Despair]] add a [[Critical Injury]]. These rules can be used for any poison, with a modified [[Difficulty]] and immediate Wounds suffered.
 ![](https://i.imgur.com/OXB12Ah.png)
-Price: 799 [[Restricted|(R)]] [[Rupees]]
+Price: 5000 [[Restricted|(R)]] [[Rupees]]
 [[Affiliations|Affiliation]]: None
 
 ### Sleep Potion
 When drunk, the [[Character]] who consumed it must make a [[Difficulty|Hard]] (3p) [[Resilience]] or [[Discipline]] [[Skill Checks|Check]] if they wish to resist its effects. If the Check fails, or if they choose not to resist its effects, the [[Character]] falls [[Incapacitated|unconscious]].
+
+Some weaker and cheaper versions exist that act a sleep-aid, but are not nearly as overwhelming or fast-acting.
 ![](https://i.imgur.com/wOpjm4s.png)
-Price: 99 [[Rupees]]
+Price: 400 [[Rupees]]
 [[Affiliations|Affiliation]]: None

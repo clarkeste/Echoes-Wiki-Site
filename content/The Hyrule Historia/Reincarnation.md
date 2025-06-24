@@ -2,8 +2,7 @@
 aliases:
   - future lives
   - past lives
-  - hidden
-tags: []
+tags:
 ---
 **Reincarnation** refers to the [[Goddesses and the Gods|religious]] belief that, after death, life begins anew in a new body with limited to no memories of past lives. The exact mechanics of this belief vary between different faiths, with some thinking that one soul can inhabit multiple bodies, or that life only begins again after death. This belief is present in most popular religions across the world.
 

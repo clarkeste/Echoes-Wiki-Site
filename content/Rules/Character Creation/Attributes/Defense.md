@@ -14,7 +14,9 @@ Ranged Defense will add Setbacks equal to Ranged Defense to all ranged Attacks; 
 
 Melee Defense will add Setbacks equal to Melee Defense rating to all melee Attacks; this means all attacks from a character within [[Engaged Range|Engaged Range]], unless the attack is using a Ranged Weapon.
 
-Defense is gained from various sources, such as [[Talents|Talents]], [[Armor|Armor]] with a Defense rating, or [[Weapons#Shields|Shields]] and Weapons with the [[Defensive (Modifier)|Defensive]] or [[Deflective (Modifier)|Deflective]] rating. It is an extremely useful statistic for avoiding Damag
+Defense is gained from various sources, such as [[Talents|Talents]], [[Armor|Armor]] with a Defense rating, or [[Weapons#Shields|Shields]] and Weapons with the [[Defensive (Modifier)|Defensive]] or [[Deflective (Modifier)|Deflective]] rating. It is an extremely useful statistic for avoiding [[Damage]].
+
+In addition to adding [[Setback Dice|Setbacks]] to Checks targeting you, it also adds Setbacks to Attack Checks targeting any nearby allies. This stacks up to a limit of 4, not including [[Cover]].
 
 
 

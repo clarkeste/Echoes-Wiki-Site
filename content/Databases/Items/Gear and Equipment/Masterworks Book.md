@@ -8,5 +8,5 @@ Various books—not just across Hyrule, but the world—were written with the in
 [[Encumbrance|Encumbrance]]: 1
 Effect: A Masterworks Book takes 48 hours to read. Every time a Masterwork Book is read, add +10 [[Experience Points|XP]]. A Masterworks Book can incurs benefit once.
 
-Price: 399 [[Rupees]]
+Price: 2500 [[Rupees]]
 [[Affiliations|Affiliation]]: None

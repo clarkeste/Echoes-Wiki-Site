@@ -10,5 +10,5 @@ While not as useful as a stocked smithy station, having some tools can allow bla
 [[Encumbrance|Encumbrance]]: 3
 Effect: Allows the use of [[Item Creation]] without a proper Workbench or other Smithy location. Reduce Crafting Points available by -6.
 
-Price: 499 [[Rupees]]
+Price: 3000 [[Rupees]]
 [[Affiliations|Affiliation]]: None

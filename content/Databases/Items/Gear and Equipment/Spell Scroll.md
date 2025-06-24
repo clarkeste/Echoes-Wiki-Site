@@ -8,5 +8,5 @@ Large Guilds have cornered the market on knowledge of [[Spell Creation|Spells]].
 [[Encumbrance|Encumbrance]]: 0
 Effect: [[The GM]] will give you a randomly-decided [[Spell Creation|Spell]] from a list. This includes the exact list of [[Modifiers|Modifiers]], a description of the Spell’s effects, and various other information, such as its intended use and advice for its use.
 
-Price: 119 [[Rupees]]
+Price: 400 [[Rupees]]
 [[Affiliations|Affiliation]]: None

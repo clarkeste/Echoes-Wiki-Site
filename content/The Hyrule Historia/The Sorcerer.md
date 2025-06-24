@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sorcerer
-  - hidden
   - the Sorcerer
 tags:
 ---

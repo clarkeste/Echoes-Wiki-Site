@@ -7,6 +7,7 @@ aliases:
   - middle-class
   - nobility
   - noblemen
+  - nobleman
   - hidden
   - noble
 tags: []

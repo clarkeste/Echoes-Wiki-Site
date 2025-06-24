@@ -8,5 +8,5 @@ The [[Hylians|Hylian]] Glider was made as a domestic substitute to the popular b
 [[Encumbrance|Encumbrance]]: 1
 Effect: When falling, a [[Character]] may deploy this glider to gain two [[Boost Dice]] on their check to mitigate [[Fall Damage]].
 
-Price: 199 [[Rupees]]
+Price: 1200 [[Rupees]]
 [[Affiliations|Affiliation]]: None

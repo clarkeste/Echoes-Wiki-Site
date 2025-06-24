@@ -11,5 +11,5 @@ Used by travelers, joggers, or speedy mailmen, this outfit’s sweat-absorbing a
 
 Special: Add two [[Boost Dice|Boost Dice ]]to all [[Coordination|Coordination]] and [[Athletics|Athletics]] [[Skill Checks|Check]]. Additionally, may take a second [[Maneuvers|Maneuver]] per turn at no additional cost.
 
-Price: 999 [[Rupees]]
+Price: 6000 [[Rupees]]
 [[Affiliations|Affiliation]]: None

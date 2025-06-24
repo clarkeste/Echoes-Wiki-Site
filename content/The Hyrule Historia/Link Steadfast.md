@@ -1,7 +1,6 @@
 ---
 aliases:
   - Link Steadfast
-  - hidden
   - Link
 tags:
 ---

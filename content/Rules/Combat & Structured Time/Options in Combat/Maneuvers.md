@@ -22,9 +22,6 @@ Moving is the most common type of Maneuver. Either by horseback or by one’s ow
 ### Target
 Also known as Aim, Target requires an [[Adversary|adversary]] to aim at. Each Maneuver spent Targeting adds a [[Boost Dice|Boost die]] to an [[Attack Check|Attack Check]] on the target, with a maximum of two. The bonus wears off after two turns if not taken advantage of.
 
-### Called Shot
-Spending one Maneuver to aim to target a specific Item or appendage on the target gives 2 [[Setback Dice|Setbacks]] to the [[Attack Check]], lowered to 1 if two Maneuvers are spent on Called Shot. [[Success|Success]] results in that particular spot being hit, such as hitting a person’s hand, thereby causing them to drop their weapon, or loosing an arrow at the eye of a daunting Hinox and causing it to stumble.
-
 ### Stow, Grab, Use
 Grabbing an [[Items|Item]] off the ground or from a belt, storing something picked up, or drinking a hearty [[Potion Creation|Potion]]. A [[Character|Character]] drinking a Potion in their pocket, for instance, would require two Maneuvers: One to grab it, and one to drink it.
 
@@ -34,11 +31,26 @@ When [[Prone|Prone]], either knocked so by an [[Attack Check|Attack]] or due to 
 ### Shove
 If in [[Engaged Range|Engaged Range]] of a target, may take the Shove Maneuver. The [[Character|Character]] taking the action pushes or otherwise forces a character into moving backwards, into [[Short Range|Short Range]] of the shoving character.
 
+If a Character is thrown off a ledge, special rules may come into play. See [[Characters Thrown off Edges]].
+
 ### Guarded Stance
 May spend a Maneuver to take a Guarded Stance; all [[Attack Check|Attack Checks]] targeting the [[Character|Character]] using Guarded Stance add a [[Setback Dice|Setback]] until the beginning of the Character’s next turn.
 
 ### Assist
 A [[Character|Character]] may use a [[Maneuvers|Maneuver]] to [[Assistance|assist]] an ally; for example, by helping to steady their bow, or handing them the tools needed to repair a boat. Often adds a [[Boost Dice|Boost]] to the check, but may sometimes add more if the help is particularly skilled.
+
+### Called Shot
+May spend one Maneuver to do the Targeted Called Shot Maneuver. This allows you to do one of the Called Shot options listed on a [[Target Card|Target Card]]. Doing a Called Shot and picking a Target Option allows you to spend your next Action making an [[Attack Check]] that has the potential to do a special effect; but your [[Dice Pool]] on that Attack suffers Setback Dice corresponding to the Target Option picked.
+
+Doing a Called Shot and selecting a Target Option usually results in a particular spot being hit, such as hitting a person’s hand, thereby causing them to drop their weapon, or loosing an arrow at the eye of a daunting Hinox and causing it to stumble.
+
+While there are some Target options which are universal, others are specific to certain enemies, many of them only being unlocked after the [[Player|Players]] have unlocked the NPC Sheet of a given enemy.
+
+Additionally, Players can come up with their own Called Shot options, and are enocuraged to present ideas to give [[The GM]]. Usually, however, things as simply “I aim for the head” is not allowed; when your Character does an Attack, it is assumed they are already trying their hardest to hit a vital area of the enemy.
+
+This is especially true in scene environments, which are constantly changing. See a chandelier? That might just be an Attack Check, but in some cases, a GM might ask for a Called Shot if you want to bring it careening down onto a clueless enemy below.
+
+See the [[Target Card]] article for more.
 
 ### Simple Interaction
 Interactions that are too minor to warrant an [[Actions|Action]], such as opening a door, or jumping over a gap. 

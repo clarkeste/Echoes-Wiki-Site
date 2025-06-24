@@ -11,3 +11,5 @@ tags:
 Not to be confused with [[Empowered Flanking (Modifier)|Empowered Flanking (Modifier)]].
 
 When [[Attack Check|Attacking]] an [[Adversary|Enemy]] that is unaware of their attacker’s presence or when [[Flanking|Flanking]] an enemy, double [[Damage#Base Damage|Base Damage]] when attacking with a [[Weapons|Weapon]] using Empowered Flanking.
+
+If a Weapon has no Base Damage, instead add +2 to the [[Damage]] total.

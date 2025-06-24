@@ -2,8 +2,7 @@
 aliases:
   - Gerudo Tribe
   - Gerudo
-  - hidden
-tags: []
+tags:
 ---
 *Are you looking for the article about the playable People? Check [[Gerudo]].*
 

@@ -1,8 +1,7 @@
 ---
 aliases:
   - Sheikah
-  - hidden
-tags: []
+tags:
 ---
 *Are you looking for the article about the playable People of the same name? Check out [[Sheikah]].*
 

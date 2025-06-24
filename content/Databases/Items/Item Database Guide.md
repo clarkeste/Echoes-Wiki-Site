@@ -5,7 +5,7 @@ tags:
 ---
 Welcome to the Item Database of [[Echoes of the Departed]]! This is a section designed to help you figure out what [[Items]] to purchase, and how to find what you’d like.
 
-Firstly, the Item Database is split into three different categories. [[Armor]], which includes clothing worn for various purposes, usually defensive. [[Gear and Equipment]], which are tools usually needed to do a job properly, or make certain tasks easier. And finally, [[Weapons]], which exist to be used in attack, although they may have further utility purposes.
+Firstly, the Item Database is split into three different categories. [[Armor]], which includes clothing worn for various purposes, usually defensive. [[Gear and Equipment]], which are tools usually needed to do a job properly, or make certain tasks easier. And finally, [[Weapons (Database)]], which exist to be used in attack, although they may have further utility purposes.
 
 The Item Database Guide is split into three sections: [[Item Database Guide#Starter Items|Starter Items]], [[Item Database Guide#Items by Affiliation|Items By Affiliation]], and [[Item Database Guide#All Items|All Items]]. The first section goes over Items that are particularly relevant or are purchasable when [[Character Creation Guide|creating a character]]; the second lists all Items by their [[Affiliations|Affiliation]], and the third is an alphabetically listing of all Items, separated by their categories.
 
@@ -179,7 +179,7 @@ Like a [[Belt]], increases [[Encumbrance|Encumbrance Threshold]] by even more.
 [[Potion Creation|Potions]]
 Various different types of Potions can be bought, and are the most efficient way to heal [[Wounds]] or [[Strain]]. They must be stored in the aforementioned [[Bottle|Bottles]].
 
-[[Quill (Medium)]]
+[[Quiver (Medium)]]
 When you run out of arrows, having a larger Quill lets you refill your bow with a [[Maneuvers|Maneuver]].
 
 [[Rope]]

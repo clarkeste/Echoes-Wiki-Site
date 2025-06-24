@@ -7,8 +7,7 @@ aliases:
   - seven year reign
   - seven long years
   - seven years
-  - hidden
-tags: []
+tags:
 ---
 **The Seven Year Reign** usually refers to the reign of [[Ganondorf Dragmire|Ganondorf Dragmire]] over [[Hyrule]] during the era of the [[Hero of Time|Hero of Time]]. It began after Ganon, abusing the trust of the [[King Arkenalan Bosmison Hyrule|King]], murdered him, most of the [[Former Hyrulean Government and Royal Family|Royal Family]] and many important ministers and politicians with the assistance of elite [[The Gerudo|Gerudo]] soldiers and bribed guards. 
 

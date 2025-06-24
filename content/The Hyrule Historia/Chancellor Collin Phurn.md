@@ -4,8 +4,7 @@ aliases:
   - Chancellor Phurn
   - Lord Chancellor
   - Collin Phurn
-  - hidden
-tags: []
+tags:
 ---
 **Collin Phurn** was the Lord Chancellor of Economics up until the [[Revolution and Second Civil War|Revolution]], where he perished—a tragic end to a life-long career in [[Economy|economic]] philosophy and service to the crown.
 

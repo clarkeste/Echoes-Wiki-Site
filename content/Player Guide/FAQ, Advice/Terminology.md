@@ -24,13 +24,13 @@ Our modern curse words are not used in Hyrule. Instead, various others are used.
 - Damn, Damnit: These are self-explanatory.
 - Hell: This one is self-explanatory.
 
-
 Additionally, adjectives like vile, pathetic and obstinate are used commonly. However, the most common type of insult in the world is usually not a particular word or phrase, but something that fits the situation. Such as “I have neither the time nor the crayons to explain that to you.” Or “You are the most obstinate, dense, and idiotic creature that has ever wandered into my woods, an abydocomist who simply assumes their stupid, violent, vile interpretation is correct, a lubberwort with far too much influence, not even clean enough to spit on, you foolish blunderboss who enacts your violent cow-handed schemes while pretending it is some sort of favor! You are a ruffian and I demand you cease at once.”
 
 
 Some animals have far more common names in Echoes of the Departed.
 - The Bats in Hyrule are often called Keese, and is the name of their subspecies
 - Animated skeletons and bones are called Stalfos
-- ‘Ghosts’ are usually referred to as phantoms or echoes. Actual ghosts that interact with the world are called Poes.
-- While mummified is a word, Gibdo is usually used instead of ‘mummy’.
-- Cyclop is not a used word. Instead, the point of reference for a one-eyed creature is the Hinox.
+- ‘Ghosts’ are usually called phantoms or echoes. Actual ghosts that interact with the world are called Poes.
+- While mummified is a word, Gibdo is usually used instead of ‘mummy’. If the mummy in question is not animated in any way, it is usually just called a mummified corpse.
+- ‘Zombies’ is not really a term in the Hyrulean lexicon. Instead, they are usually referred to as undead, or more “wordy” terms. This could be phantom, apparition, demon, specter, etc.
+- Cyclop is not a used word. Instead, the point of reference for a one-eyed creature is the Hinox. ‘ox’ is often used as an add-on to refer to a one-eyed creature. For example, a one-eyed frog might be called a frox.

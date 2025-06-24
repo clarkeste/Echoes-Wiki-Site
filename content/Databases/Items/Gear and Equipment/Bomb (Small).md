@@ -14,5 +14,5 @@ A small Bomb, usually used as a cheap source of explosive ammo, for basic excava
 [[Blast (Active) (Quality)|Blast]] 6
 [[Limited Ammo (Passive) (Quality)|Limited Ammo]] 1
 
-Price: 50 [[Rupees]]
+Price: 300 [[Rupees]]
 [[Affiliations|Affiliation]]: None

@@ -8,5 +8,5 @@ Spyglasses are often used on naval ships, they have made their way to the variou
 [[Encumbrance|Encumbrance]]: 0
 Effect: Decrease the [[Difficulty]] of all [[Perception]] [[Skill Checks|Checks]] by one when using the Spyglass. Additionally, may make Checks to see things at distances that would’ve otherwise been too far to see.
   
-Price: 49 [[Rupees]]
+Price: 300 [[Rupees]]
 [[Affiliations|Affiliation]]: None

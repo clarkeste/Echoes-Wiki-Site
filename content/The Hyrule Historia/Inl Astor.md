@@ -2,7 +2,6 @@
 aliases:
   - Minister of Justice
   - Astor
-  - hidden
   - Inl
 tags:
 ---

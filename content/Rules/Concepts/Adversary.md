@@ -1,6 +1,7 @@
 ---
 aliases:
   - face a PC down in battle
+  - Adversaries
 tags:
   - Rules
   - Combat

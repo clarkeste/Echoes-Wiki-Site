@@ -11,5 +11,5 @@ A common garb popular in Hyrule and beyond, especially—as its name would imply
 
 Special: Add +2 to [[Encumbrance|Encumbrance]] Threshold due to spacious pockets.
 
-Price: 149 [[Rupees]]
+Price: 900 [[Rupees]]
 [[Affiliations|Affiliation]]: None

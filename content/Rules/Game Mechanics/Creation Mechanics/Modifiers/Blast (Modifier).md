@@ -14,7 +14,7 @@ Blast is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creati
 Active: Yes
 Stacks: Yes
 Limit: 14
-Blast makes a Spell impact not just a target, but an entire area within [[Engaged Range]] of the original target. Whether or not it’s activated with [[Advantage|Advantages]] depends on the Spell itself.
+Blast makes a Spell impact not just a target, but an entire area within [[Engaged Range]] of the original target. Whether or not it’s activated with [[Advantage|Advantages]] depends on the Spell itself. The impact of how much Blast is actually on a Spell varies from Spell-type to Spell-type; in some, such as Attack, it determines how much [[Damage]] is done to those within Blast Range. On a [[Life]] Spell, it would determine the maximum number of people within the Blast Range that can be impacted by the base effect, sometimes with a slightly diminished effect from the main target.
 
 In [[Attack|Attack Spells]], if a check is successful and Blast is activated with 2 Advantages, each character Engaged with the original target—even if they are an ally—suffers [[Damage]] equal to the weapon's Blast rating.
 

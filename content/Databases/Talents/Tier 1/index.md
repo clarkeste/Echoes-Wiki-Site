@@ -15,7 +15,7 @@ The following are the articles in this folder:
 [[Back Away]]
 [[Bought Info]]
 [[Brace]]
-[[Challenge!]]
+[[Provoke]]
 [[Clever Retort]]
 [[Desperate Recovery]]
 [[Did You Get All That?]]

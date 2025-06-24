@@ -13,7 +13,7 @@ Actions represent most things in [[Combat|Combat]] that take a [[Skill Checks|Sk
 ### Attack
 [[Attack Check|Attacking]] is the core part of Combat, as one may expect. Attacking is as simple as determining your target, determining the [[Range Bands|Range Band]] they are in, adding [[Boost Dice|Boosts]] and [[Setback Dice|Setbacks]] from things like [[Cover|Cover]] or [[Moving Target|Moving Target]], choosing what [[Weapons|Weapon]] to use, and hitting ‘roll’. Everything else is auto-calculated.
 
-[[Success|Successes]] add to [[Damage#Base Damage#Base Damage#Base Damage#Base Damage|Base Damage]], and [[Advantage|Advantages]] and [[Triumph|Triumphs]] can be spent on secondary, narrative effects like in all checks, or to activate Weapon [[Qualities|Qualities]]. For example, perhaps when [[Brawl|brawling]] with a Bokoblin, your character knocks the monster towards the edge, leaving him clinging to dear life.
+[[Success|Successes]] add to [[Damage#Base Damage|Base Damage]], and [[Advantage|Advantages]] and [[Triumph|Triumphs]] can be spent on secondary, narrative effects like in all checks, or to activate Weapon [[Qualities|Qualities]]. For example, perhaps when [[Brawl|brawling]] with a Bokoblin, your character knocks the monster towards the edge, leaving him clinging to dear life.
 
 ### Complex Interaction
 Complex Interactions are when a [[Character]] attempts to do something challenging enough to require a [[Skill Checks|Skill Check]], besides [[Attack Check|Attacking]]. Things such as lock-picking a door, pickpocketing an opponent’s dagger, or trying to unhinge a door from the wall to throw it, are all Complex Actions that take an [[Actions|Action]] and a [[Skill Checks|Check]] to complete.
