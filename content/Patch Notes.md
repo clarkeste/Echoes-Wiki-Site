@@ -26,6 +26,8 @@
 
 - [[Enchantment]] description has been clarified.
 
+- The [[Difficulty]] of all [[Invoke]] [[Spell Creation|Spells]] have been reduced by 1.
+
 - [[Spell Creation#Long-Lasting Powers, Curses and Blessings|Long-Lasting Spells]] have been modified significantly.
 	- Long-Lasting Spells now cost their Spellcaster 1 [[Strain]] per [[Combat]] turn they are active. The Strain cost of Long-Lasting Spells stack. The Strain cost at the beginning of each Turn is equal to the number of active Long-Lasting Powers minus 2, to a minimum of 1. For example, if a Character has 3 Endow Spells active (or 3 instances of the same Spell), it will cost them only 1 Strain, same as if they had only 1 instance active. 5 Endow Spells active, however, will cost them 3 Strain at the beginning of every Turn.
 	  - This largely only applies to Invoke and Endow Spells. Manipulate Spells are considered too short-lived to be Long-Lasting, and already require maintenance in the form of at least one Maneuver every turn a target is Gripped. Some esoteric Spells based on Telepathy, Relocate, or others may be considered Long-Lasting, but this is rare.
@@ -96,7 +98,7 @@
 
 - The [[Encumbrance]] of a [[Hammer]] has been increased from 3 to 4.
 
-- Changed the [[Damage]] of the [[Whip]] from +3 to +2.
+- Changed the [[Range]] of the [[Whip]] from [[Medium Range|Medium]] to [[Short Range|Short]].
 
 
 
