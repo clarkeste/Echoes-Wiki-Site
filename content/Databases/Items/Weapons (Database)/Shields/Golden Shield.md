@@ -16,5 +16,5 @@ A [[Weapons#Shields|Shield]] issued out to officers and captains among the [[Ger
 [[Defensive (Passive) (Quality)|Defensive]] 2
 [[Knockdown (Active) (Quality)|Knockdown]]
 
-Price: 3600 [[Rupees|Rupees]] [[Restricted|(R)]]
+Price: 9500 [[Rupees|Rupees]] [[Restricted|(R)]]
 [[Affiliations|Affiliation]]: Gerudo

@@ -7,7 +7,7 @@ tags:
 ---
 Special - Add Attack Damage is a [[Modifiers|Modifier]] used in [[Item Creation#Creating Armor#Creating Armor|Armor Creation]].
 
-### [[Item Creation#Creating Armor#Creating Armor#Creating Armor#Creating Armor|Armor Creation]]: Special - Add Attack Damage (5)
+### [[Item Creation#Creating Armor#Creating Armor#Creating Armor#Creating Armor|Armor Creation]]: Special - Add Attack Damage (7)
 Active: No
 Stacks: Yes
 Limit: None

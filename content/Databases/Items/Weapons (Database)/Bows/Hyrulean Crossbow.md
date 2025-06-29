@@ -16,5 +16,5 @@ Only put into production a few years before the fall of the monarchy, the Hyrule
 [[Pierce (Passive) (Quality)|Pierce]] 4
 Special: Crossbows are one-handed [[Weapons]], unlike nearly all other [[Ranged]] Weapons.
 
-Price: 7000 [[Rupees]]
+Price: 10k [[Rupees]]
 [[Affiliations|Affiliation]]: None

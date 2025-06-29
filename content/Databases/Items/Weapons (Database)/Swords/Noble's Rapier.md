@@ -8,11 +8,10 @@ A sword often used by Noblemen for self-defense. Its high price-tag is in part t
 [[Damage|Damage]]: +3
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 3
+[[Range Bands|Range]]: [[Engaged Range|Engaged]]
 [[Encumbrance|Encumbrance]]: 2
 
-[[Range Bands|Range]]: [[Engaged Range|Engaged]]
-
-[[Accurate (Passive) (Quality)|Accurate]] 2
+[[Accurate (Passive) (Quality)|Accurate]] 1
 [[Defensive (Passive) (Quality)|Defensive]] 2
 [[Superior (Passive) (Quality)|Superior]]
 

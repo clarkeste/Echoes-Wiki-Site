@@ -6,7 +6,6 @@ tags:
   - Talent-Combat-Oriented
   - Talent-Positioning
 ---
-
 **Tier:** 1 
 **Activation:** Active (Incidental) 
 **Ranked:** No 

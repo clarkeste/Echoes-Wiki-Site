@@ -8,7 +8,7 @@ tags:
 ---
 Desperate Strength is a [[Modifiers|Modifier]] used in [[Item Creation]]. It is based off the [[Desperate Strength (Passive) (Quality)|Desperate Strength Quality]]
 
-### [[Item Creation]]: Desperate Strength (4)
+### [[Item Creation]]: Desperate Strength (5)
 Active: No
 Stacks: No
 Limit: 1

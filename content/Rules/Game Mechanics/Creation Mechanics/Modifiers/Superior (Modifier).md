@@ -22,7 +22,7 @@ Stacks: No
 Limit: 1
 Increases the potency of a certain quality. For example, [[Heal (Modifier)|Heal]] could grant the user a chance to heal a [[Critical Injury|Critical Injury]]. But be careful—it might boost something so much that it makes it dangerous.
 
-### [[Item Creation]]: Superior (4)
+### [[Item Creation]]: Superior (3)
 Active: No
 Stacks: No (Singular)
 Limit: 1

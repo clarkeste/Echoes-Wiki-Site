@@ -15,5 +15,5 @@ Delicate Gerudo carvings decorate this rare and curved sword. The engraved blade
 [[Pierce (Passive) (Quality)|Pierce]] 4
 [[Vicious (Passive) (Quality)|Vicious]] 1
 
-Price: 30k [[Rupees]]
+Price: 31k [[Rupees]]
 [[Affiliations|Affiliation]]: Gerudo

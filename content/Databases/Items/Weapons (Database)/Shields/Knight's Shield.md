@@ -1,7 +1,7 @@
 ---
 tags:
   - Items
-  - Items-Affordable
+  - Items-Premium
 ---
 A shield favored by the knights who served the Hyrulean royal family. Its sturdy metal construction makes it quite durable, but its weight requires decent skill to wield. Both banner-shaped and circular-shaped variants exist.
 ![](https://i.imgur.com/JEGP9Ei.png)
@@ -17,5 +17,5 @@ A shield favored by the knights who served the Hyrulean royal family. Its sturdy
 [[Cumbersome (Passive) (Quality)|Cumbersome]] OR [[Unwieldy (Passive) (Quality)|Unwieldy]] 4
 [[Stun (Active) (Quality)|Stun]] 2
 
-Price: 6000 [[Rupees|Rupees]] [[Restricted|(R)]]
+Price: 10k [[Rupees|Rupees]] [[Restricted|(R)]]
 [[Affiliations|Affiliation]]: Royalist

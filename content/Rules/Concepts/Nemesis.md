@@ -1,0 +1,1 @@
+Nemesis are a type of [[Adversary]] that have advanced abilities that usually only PCs possess, or that not even PCs possess. 

@@ -13,5 +13,4 @@ tags:
 **Activation:** Passive
 **Ranked:** Yes
 
-
 When a patient under your [[Character|Character]]’s care heals [[Wounds|Wounds]] from natural rest, they [[Natural Recovery|heal]] additional Wounds equal to twice your Character’s ranks in Apothecary.

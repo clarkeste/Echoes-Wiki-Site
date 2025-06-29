@@ -9,7 +9,7 @@ This spear was issued to the knights who guarded Hyrule Castle's throne room. It
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Short Range|Short]]
-[[Encumbrance|Encumbrance]]: 2
+[[Encumbrance|Encumbrance]]: 3
 
 [[Pierce (Passive) (Quality)|Pierce]] 2
 [[Defensive (Passive) (Quality)|Defensive]] 1

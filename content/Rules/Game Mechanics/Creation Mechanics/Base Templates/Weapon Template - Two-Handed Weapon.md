@@ -8,8 +8,9 @@ tags:
 Default Stats:
 
 [[Damage]]: +2
-[[Critical Rating|Crit]]: 5
+[[Critical Rating|Crit]]: 4
 [[Skills|Skill]]: [[Melee-Heavy]]
 Default [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance]]: 3
 
 Special: If a [[Character|Character]] disarms another character while using this weapon, the item that was disarmed flies to [[Short Range]] as opposed to landing at Engaged Range like usual.

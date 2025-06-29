@@ -11,7 +11,7 @@ Only the most confident of Hyrule Castle's knights carried this two-handed sword
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
 [[Encumbrance]]: 4
 
-[[Pierce (Passive) (Quality)|Pierce]] 2
+[[Pierce (Passive) (Quality)|Pierce]] 1
 [[Defensive (Passive) (Quality)|Defensive]] 2
 [[Desperate Strength (Passive) (Quality)|Desperate Strength]]
 [[Unwieldy (Passive) (Quality)|Unwieldy]] 3 OR [[Cumbersome (Passive) (Quality)|Cumbersome]] 3

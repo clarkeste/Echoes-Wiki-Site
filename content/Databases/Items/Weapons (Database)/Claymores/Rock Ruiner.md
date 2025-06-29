@@ -5,7 +5,7 @@ tags:
 ---
 The Rock Ruiner represents the pinnacle of [[Gorons|Goron]] craftsmanship, its sheer weight is able to completely crush enemy and ore alike. Even for Gorons it is heavy, but it would require an immense amount of strength from another species.
 ![](https://i.imgur.com/gLfGnZA.png)
-[[Damage|Damage]]: +9
+[[Damage|Damage]]: +10
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 4
 [[Range Bands|Range]]: [[Engaged Range|Engaged]] 

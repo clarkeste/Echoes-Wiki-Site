@@ -4,7 +4,7 @@ This sword is favored by high-ranking members of the Yiga. When wielded by a pro
 [[Skills|Skill]]: [[Melee-Heavy]]
 [[Critical Rating]]: 1
 [[Range Bands|Range]]: [[Short Range|Short]]
-[[Encumbrance|Encumbrance]]: 2
+[[Encumbrance|Encumbrance]]: 3
 
 [[Defensive (Passive) (Quality)|Defensive]] 1
 [[Empowered Flanking (Passive) (Quality)|Empowered Flanking]]

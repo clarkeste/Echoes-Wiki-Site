@@ -7,7 +7,8 @@ tags:
 ---
 Default Stats:
 
-[[Damage]]: 4
-[[Critical Rating|Crit]]: 5
+[[Damage]]: 5
+[[Critical Rating|Crit]]: 4
 [[Skills|Skill]]: [[Ranged]]
 Default [[Range Bands|Range]]: [[Medium Range|Medium]]
+[[Encumbrance]]: 2

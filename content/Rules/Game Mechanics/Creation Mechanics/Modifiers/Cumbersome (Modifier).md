@@ -8,7 +8,7 @@ tags:
 ---
 Cumbersome is a [[Modifiers|Modifier]] used in [[Item Creation]]. It is a Drawback that reduces the cost of an Item. It is not to be confused with the [[Cumbersome (Passive) (Quality)|Cumbersome Quality]].
 
-### [[Item Creation]]: Cumbersome (-3)
+### [[Item Creation]]: Cumbersome (-2)
 Active: No
 Stacks: Yes
 Limit: None

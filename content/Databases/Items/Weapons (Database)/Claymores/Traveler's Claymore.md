@@ -11,7 +11,7 @@ A basic two-handed sword often wielded by aspiring adventurers. Its weight can k
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 4
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
-[[Encumbrance|Encumbrance]]: 2
+[[Encumbrance|Encumbrance]]: 3
 
 [[Knockdown (Active) (Quality)|Knockdown]]
 [[Inaccurate (Passive) (Quality)|Inaccurate]] 1

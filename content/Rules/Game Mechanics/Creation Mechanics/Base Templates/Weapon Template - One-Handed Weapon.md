@@ -9,6 +9,7 @@ tags:
 Default Stats:
 
 [[Damage]]: +1
-[[Critical Rating|Crit]]: 5
+[[Critical Rating|Crit]]: 4
 [[Skills|Skill]]: [[Melee-Light]]
 Default [[Range Bands|Range]]: [[Engaged Range|Engaged]]
+[[Encumbrance]]: 1

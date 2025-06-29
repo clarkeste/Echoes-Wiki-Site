@@ -7,7 +7,7 @@ tags:
 ---
 Unwieldy is a [[Modifiers|Modifier]] used in [[Item Creation|Item Creation]]. It is a [[Modifiers#Drawbacks|Drawback]] that reduces the cost of an Item.
 
-### [[Item Creation|Item Creation]]: Unwieldy (-4)
+### [[Item Creation|Item Creation]]: Unwieldy (-2)
 Active: No
 Stacks: Yes
 Limit: None

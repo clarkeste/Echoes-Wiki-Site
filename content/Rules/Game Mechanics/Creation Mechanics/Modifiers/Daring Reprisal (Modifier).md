@@ -1,6 +1,6 @@
 Daring Reprisal is a [Modifier](https://echoes-of-the-departed.vercel.app/Rules/Game-Mechanics/Creation-Mechanics/Modifiers) used in [Item Creation](https://echoes-of-the-departed.vercel.app/Rules/Game-Mechanics/Creation-Mechanics/Item-Creation). It is based off the [Daring Reprisal Quality](https://echoes-of-the-departed.vercel.app/Rules/Combat--and--Structured-Time/Qualities/Daring-Reprisal-(Active)-(Quality)).
 
-### [Item Creation](https://echoes-of-the-departed.vercel.app/Rules/Game-Mechanics/Creation-Mechanics/Item-Creation): Daring Reprisal (5)
+### [Item Creation](https://echoes-of-the-departed.vercel.app/Rules/Game-Mechanics/Creation-Mechanics/Item-Creation): Daring Reprisal (7)
 Active: Yes  
 Stacks: No (Singular)  
 Limit: 1  

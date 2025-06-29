@@ -15,7 +15,7 @@ A two-handed sword once issued to the Hyrulean royal family's incredibly skilled
 [[Pierce (Passive) (Quality)|Pierce]] 2
 [[Concussive (Active) (Quality)|Concussive]] 1
 [[Daring Reprisal (Active) (Quality)|Daring Reprisal]]
-[[Unwieldy (Passive) (Quality)|Unwieldy]] 4 OR [[Cumbersome (Passive) (Quality)|Cumbersome]] 4
+[[Unwieldy (Passive) (Quality)|Unwieldy]] 3 OR [[Cumbersome (Passive) (Quality)|Cumbersome]] 3
 [[Prepare (Passive) (Quality)|Prepare]] 1
 Special: If the [[Character]] using this [[Weapons|Weapon]] disarms another Character, the [[Items|Item]] that was disarmed flies to [[Short Range|Short Range]] as opposed to landing at [[Engaged Range|Engaged Range]] like usual.
 

@@ -5,7 +5,7 @@ tags:
 ---
 The sturdy metal construction of this bow offers superior durability, while its lack of firing quirks makes it quite reliable. It was once favored by the knights at Hyrule Castle.
 ![](https://i.imgur.com/cJGzfqK.png)
-[[Damage|Damage]]: 7
+[[Damage|Damage]]: 8
 [[Skills|Skill]]: [[Ranged|Ranged]]
 [[Critical Rating]]: 2
 [[Range Bands|Range]]: [[Medium Range|Medium]]

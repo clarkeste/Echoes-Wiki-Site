@@ -9,7 +9,7 @@ A [[Weapons|Weapon]] once used by the Hyrulean Army decades ago, it was graduall
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 4
 [[Range Bands|Range]]: [[Short Range|Short]]
-[[Encumbrance|Encumbrance]]: 3
+[[Encumbrance|Encumbrance]]: 4
 
 [[Cumbersome (Passive) (Quality)|Cumbersome]] OR [[Unwieldy (Passive) (Quality)|Unwieldy]] 3
 [[Pierce (Passive) (Quality)|Pierce]] 2

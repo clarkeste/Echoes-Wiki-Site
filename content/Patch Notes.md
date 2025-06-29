@@ -1,3 +1,82 @@
+# 1.2.1
+
+### Items
+- Changed the [[Range]] of the [[Whip]] from [[Medium Range|Medium]] to [[Short Range|Short]] and increased its [[Damage]]
+
+- Modified some [[Encumbrance]] across different [[Weapons]]
+
+- Reduced the [[Unwieldy (Passive) (Quality)|Unwieldy]]/[[Cumbersome (Passive) (Quality)|Cumbersome]] rating of the [[Royal Claymore]] from 4 to 3.
+
+- Reduced the [[Accurate (Passive) (Quality)|Accurate]] rating of the [[Noble's Rapier]] from 2 to 1.
+
+- Damage of [[Rock Ruiner]] increased from +9 to +10.
+
+- Damage of [[Hyrulean Longbow]] increased from 8 to 9.
+
+- Damage of [[Knight's Bow]] increased from 7 to 8.
+
+- Reduced Pierce of [[Hyrulean Crossbow]] from 4 to 3.
+
+- Increased the price of the [[Golden Shield]] and [[Knight's Shield]]. They are now no longer [[Items]] that can be purchased at [[Character Creation Guide|Character Creation]].
+
+- Increased the price of the [[Hyrulean Crossbow]]. It is now an [[Items|Item]] that can be purchased at [[Character Creation Guide|Character Creation]].
+
+- Modified the [[Dagger]] again, primarily by removing [[Pierce (Passive) (Quality)|Pierce]] and adding +1 [[Damage]].
+### Item Creation
+Two issues in the design of [[Item Creation]] arose, mostly from Frisk’s feedback and then the second from me digging into it as a result.
+
+These issues are the following: Firstly, Item Creation has an extremely high barrier to entry that makes initial Crafting characters feel weak. Secondly, the upper echelon of Items, particularly Claymores, are entirely unbalanced. 
+
+Under the pre-patch system, a [[Knight's Claymore]] costs more Crafting Points than a [[Royal Claymore]] despite the Royal Claymore being (subjectively) better and higher-tier. A [[Rock Ruiner]], despite representing the pinnacle of [[Damage]]-focused weaponry and its Drawbacks all being implied necessary to make it possible, costs about the same as a [[Noble's Rapier]].
+
+A lot of the following changes are designed to fix those two main issues, as well as clean up the system in general.
+
+- Workstations/Workbenches now add at least +8 Crafting Points when using, so long as it is in acceptable condition.
+
+- [[Triumph|Triumphs]] on the final [[Craftsmanship]] [[Skill Checks|Check]] now add 5 Crafting Points instead of 4.
+
+- Changed how [[Difficulty]] is determined when Crafting; instead of adding a new [[Difficulty Dice|Difficulty die]] every 4 Crafting Points, add an additional one every 10 Crafting Points, with below 10 Crafting Points having one Difficulty Die.
+
+- There is now no debuff to using [[Smithy's Tools]].
+
+- Decreased the Difficulty to make a a Template by 1
+
+- Templates now reduce Crafting Points by 4 + [[Success|Successes]], instead of by 2 + Successes
+
+- [[Increase Damage (Modifier)|Increase Damage]] now becomes more expensive the more it is used on a single Crafting product, with [[Pierce (Modifier)|Pierce]] having the same effect and increasing the cost. 
+
+- Using [[Lowered Crit (Modifier)|Lowered Crit]] to lower a [[Critical Rating]] from 2 to 1 now has an increased cost, from 4 to 12.
+
+- Listed [[Encumbrance]] on all Weapon Templates on the [[Item Creation]] page
+  
+- [[Cumbersome (Modifier)|Cumbersome]] and [[Unwieldy (Modifier)|Unwieldy]] previously showed -1 on the [[Item Creation]] page, and -3 on their dedicated [[Modifiers|Modifier]] page. This has been changed to be consistently -2 on all pages.
+  
+- Changed the cost of [[Daring Reprisal (Modifier)]] from 5 to 7
+
+- [[Pierce (Modifier)|Pierce]] now costs 3 Crafting Points up until Pierce 4, instead of Pierce 3
+
+- Reduced the cost of [[Empowered Flanking (Modifier)|Empowered Flanking]] from 7 to 5
+
+- Increased the cost of [[Desperate Strength (Modifier)]] from 4 to 5
+
+- Increased the cost of “Special: Increase Attack Damage” in [[Item Creation]] from 5 to 7.
+
+- Decreased the [[Critical Rating]] in all Weapon Templates from 5 to 4
+
+- Increased the default [[Damage]] of the Ranged Weapon Template by 1
+
+- Reduced the Crafting Point cost of [[Superior (Modifier)|Superior]] from 4 to 3. This has made it inconsistent with the [[Spell Creation]] version of Superior; however, this was done because Superior in Spellcasting has additional effects, and therefore more value, than it does in [[Item Creation]].
+
+- Increased cost of Vicious from 3 to 4, to bring in line with [[Spell Creation]].
+
+### Mechanics
+- Every PC now has [[Enhanced Action Economy]] by default.
+
+### Qualities
+- Changed how [[Empowered Flanking (Passive) (Quality)|Empowered Flanking]] works for [[Weapons]] with no [[Damage|Base Damage]].
+
+- Added the ability to flip a [[Sacred Points|Sacred Point]] to be able to roll using [[Stealth]] or [[Skulduggery]] when [[Flanking]] a [[Character]] while using a Weapon with [[Empowered Flanking (Passive) (Quality)|Empowered Flanking]].
+
 
 # 1.2
 ### Spellcasting
@@ -98,7 +177,7 @@
 
 - The [[Encumbrance]] of a [[Hammer]] has been increased from 3 to 4.
 
-- Changed the [[Range]] of the [[Whip]] from [[Medium Range|Medium]] to [[Short Range|Short]].
+- Reduced the [[Damage]] of the [[Whip]] from 3 to 2
 
 
 

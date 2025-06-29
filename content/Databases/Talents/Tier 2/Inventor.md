@@ -10,4 +10,4 @@ tags:
 **Activation:** Active (Incidental)
 **Ranked:** Yes
 
-When your [[Character]] makes a [[Item Creation|Check]] to construct new [[Items|Item]] or modify existing ones, use this [[Talents|Talent]] to add a number of [[Boost Dice]] to the Check equal to ranks of Inventor. In addition, your Character lowers [[Difficulty]] by one when attempting to make a Template using the [[Operating]] [[Skills|Skill]].
+When your [[Character]] makes a [[Item Creation|Check]] to construct new [[Items|Item]], modify existing ones, or make a Template from that Item, use this [[Talents|Talent]] to add a number of [[Boost Dice]] to the Check equal to ranks of Inventor.

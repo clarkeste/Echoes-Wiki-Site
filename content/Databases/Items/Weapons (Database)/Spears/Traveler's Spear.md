@@ -9,7 +9,7 @@ A spear used mainly by travelers to fend off wolves and other beasts. It's easy 
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4
 [[Range Bands|Range]]: [[Engaged Range]]
-[[Encumbrance|Encumbrance]]: 1
+[[Encumbrance|Encumbrance]]: 2
 
 [[Inferior (Passive) (Quality)|Inferior]]
 [[Flammable (Passive) (Quality)|Flammable]]
