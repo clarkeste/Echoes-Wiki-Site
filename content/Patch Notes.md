@@ -19,7 +19,7 @@
 
 - Increased the price of the [[Golden Shield]] and [[Knight's Shield]]. They are now no longer [[Items]] that can be purchased at [[Character Creation Guide|Character Creation]].
 
-- Increased the price of the [[Hyrulean Crossbow]]. It is now an [[Items|Item]] that can be purchased at [[Character Creation Guide|Character Creation]].
+- Increased the price of the [[Hyrulean Crossbow]]. It is now no longer an [[Items|Item]] that can be purchased at [[Character Creation Guide|Character Creation]].
 
 - Modified the [[Dagger]] again, primarily by removing [[Pierce (Passive) (Quality)|Pierce]] and adding +1 [[Damage]].
 ### Item Creation
