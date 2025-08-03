@@ -11,4 +11,4 @@ Skills are the direct [[Dice Pool|Dice Pools]] that are rolled. Jumping over a f
 
 **Skills that are not [[Career Skills|Career Skills]] cost +5 Experience Points to upgrade in all cases**. This means that upgrading a Non-Career skill from Rank 2 to Rank 3 would cost 20 Experience Points, instead of the usual 15.
 
-Skills are split into three categories—[[General Skills|General Skills]], [[Combat Skills|Combat Skills]], and [[Knowledge Skills|Knowledge Skills]]. Additionally, there is one Skill outside of any category, which is [[Force|Force]]. It acts as the Magic Skill.
+Skills are split into four categories—[[General Skills|General Skills]], [[Combat Skills|Combat Skills]], [[Social Skills]], and [[Knowledge Skills|Knowledge Skills]]. Additionally, there is one Skill outside of any category, which is [[Force|Force]]. It acts as the Magic Skill.

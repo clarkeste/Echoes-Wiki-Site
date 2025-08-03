@@ -29,7 +29,7 @@ Rauru was the Sage of Light, and an ancient Sage. This means he pre-dates all th
 Rauru was an old [[The Hylians|Hylian]] man, who wielded great magical power—however, his most important trait was his wisdom which he used to guide Hero of Time.
 
 ### Saria
-Saria was the Sage of the Forest, and the first Sage awoken by the Hero of Time. The exact nature of Saria's life beforehand is unknown, however it is believed she was a childhood friend of the Hero of Time. Some believe she was a [[Kokiri|Kokiri]], however that is not confirmed.
+Saria was the Sage of the Forest, and the first Sage awoken by the Hero of Time. The exact nature of Saria's life beforehand is unknown, however it is believed she was a childhood friend of the Hero of Time. Some believe she was a [[The Kokiri|Kokiri]], however that is not confirmed.
 
 ### Darunia
 Darunia was the Sage of Fire, and the second Sage awoken by the Hero of Time. Prior to his awakening, the [[The Gorons|Goron]] named Darunia was a mighty and beloved chieftain of his people, who led them through the tribulations of the [[First Hyrulean Civil War|Hyrulean Civil War]] and the cruel reign of Ganon. When his people were at their most desperate—starved and trapped by Ganon—the Hero of Time saved them. In the process, Darunia awoke as a Sage.

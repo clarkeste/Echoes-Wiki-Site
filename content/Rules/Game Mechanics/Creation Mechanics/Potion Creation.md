@@ -32,7 +32,7 @@ To actually create a Potion, you will need a work station. In alchemy, this usua
 
 While Potion-makers can attempt to make these elixirs in simple cooking equipment, or even over a fire, the results are often worse. The penalties get worse the more primitive a method—with a simple campfire being amongst the worst options.
 
-Higher-quality Workstations can increase the amount of Alchemy Points available. While most commercially available ones will only add 2 or 3, some may add up to 8.
+Higher-quality Workstations can increase the amount of Alchemy Points available. While most commercially available ones will only add +2 or +3, some may add up to +8.
 
 Penalties from bad work stations can include -2-8 to the creator’s Alchemy Points, [[Difficulty|Difficulty]] increases and upgrades, and [[Setback Dice|Setbacks]]. A decrease in Alchemy Points usually indicates a base limitation of the method, whereas increased Difficulty and Setbacks usually represent how challenging and unsuited something is for Potion-making, and the unfamiliarity with these subpar tools. [[Dice Upgrade|Upgrading]] the Difficulty, however, introduces the chance of [[Despair|Despair]]; implying that this particular method has a risk of going very wrong…
 

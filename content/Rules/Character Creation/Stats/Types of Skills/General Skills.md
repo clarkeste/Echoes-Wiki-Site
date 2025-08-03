@@ -9,7 +9,7 @@ tags:
 ---
 General Skills are the most common type of [[Skills|Skill]] used in [[Skill Checks|Skill Checks]]. They encompass a wide variety of different tasks, as the name implies.
 
-There are sixteen General Skills.
+There are seventeen General Skills.
 
 - [[Athletics|Athletics]] (Brawn)
 - [[Cool|Cool]] (Presence)
@@ -26,4 +26,5 @@ There are sixteen General Skills.
 - [[Stealth|Stealth]] (Agility)
 - [[Streetwise|Streetwise]] (Cunning)
 - [[Survival|Survival]] (Cunning)
+- [[Swim]] (Agility)
 - [[Vigilance|Vigilance]] (Willpower)

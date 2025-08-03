@@ -1,6 +1,6 @@
 When a [[Character]] is attempting to do a [[Skill Checks|Skill Check]], other Characters may attempt to help them with the task. In [[Combat|structured time]], this is done with a [[Maneuvers|Maneuver]]. There are three types of [[Assistance]] in [[Echoes of the Departed]].
 
-With all types of Assistance, the helping Character must be within [[Range Bands|Range]] to help with the task.
+With all types of Assistance, the helping Character must be within [[Engaged Range]] to help with the task.
 
 ### Unskilled Assistance
 When a [[Character]] does not meet the requirements to provide either of the two other types of [[Assistance]], they may provide Unskilled Assistance. Unskilled Assistance provides a [[Boost Dice|Boost Die]] to the original Character’s [[Skill Checks|Check]] per amount of assisting Characters.

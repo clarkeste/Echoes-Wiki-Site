@@ -19,4 +19,4 @@ One hundred years later, the seal was broken—and Ganon returned from imprisonm
 
 However, another boy, bearing the same green tunic and [[Master Sword|legendary sword]] of the Hero of Time appeared: The [[Hero of the Flood|Hero of the Flood]], a friend of Zelda’s. But he arrived too late; true to her word, Zelda had died under interrogation before giving up the Triforce of Wisdom to Ganon. According to the words of the Hero of the Flood, the Dark Lord Ganon allowed himself to be killed in that moment, believing only his death could cease the rain. Soon after he died and his legacy ended, the storm clouds dispersed. Hyrule was saved—if shaken by the death of King Daphnes and Zelda.
 
-This Demon King, as vile as he is, should not be confused with the modern Ganondorf who is a completely different person. The modern Ganondorf, also a Gerudo, bore the same name, but sought to protect Hyrule and its government.
+This Demon King, as vile as he is, should not be confused with the modern [[Ganondorf]] who is a completely different person. The modern Ganondorf, also a Gerudo, bore the same name, but sought to protect Hyrule and its government.

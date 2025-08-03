@@ -15,10 +15,12 @@ If you mean where to get a character image or appearance, essentially any source
 ## Step 1 - Select a People
 The [[Peoples]] are species, ethnicities, or cultural backgrounds. These determine your starting characteristics, and often how your [[Character|Character]] is initially viewed in society.
 
-## Step 2 - Determine Story and Burden
+## Step 2 - Determine Story, Burden, and Beliefs
 [[Burdens and Backstory|Burdens]] are secondary obligations to your character; a dark secret they would rather not be revealed, a ghastly pursuer, or a debt which is rapidly coming due and which the creditors are more than willing to use violence to enforce.
 
 But they are just one part of your character’s [[Burdens and Backstory|Story]]—their backstory, essentially. What happened to them before the game? What makes them unique? What in life did they go through before arriving where they are now? And how does all this impact their story taking place now? What ghosts of the past, of the departed, haunt them even now?
+
+[[Beliefs]] are an additional, although not necessary, part of creating a Character’s unique Story.
 
 ## Step 3 - Select or Create a Career
 [[Careers]] are like your character’s ‘Class’. They determine what your character is initially good at, or specialized to do—in particular, they make it easier for you to grow in Skills which are considered [[Career Skills]]. Every Career has 8 Career Skills. You may tailor your own Careers, following a few guidelines, to fit your characters like a glove.

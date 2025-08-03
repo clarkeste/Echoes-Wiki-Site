@@ -180,7 +180,7 @@ Like a [[Belt]], increases [[Encumbrance|Encumbrance Threshold]] by even more.
 Various different types of Potions can be bought, and are the most efficient way to heal [[Wounds]] or [[Strain]]. They must be stored in the aforementioned [[Bottle|Bottles]].
 
 [[Quiver (Medium)]]
-When you run out of arrows, having a larger Quill lets you refill your bow with a [[Maneuvers|Maneuver]].
+When you run out of arrows, having a larger Quiver lets you refill your bow with a [[Maneuvers|Maneuver]].
 
 [[Rope]]
 An all-purpose tool for adventuring or various other tasks, like tying up a prisoner.

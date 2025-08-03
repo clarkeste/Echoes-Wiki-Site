@@ -1,3 +1,121 @@
+# 1.3
+
+### Spellcasting
+- Removed the ability to cast a [[Spell Creation|Spell]] that required more MP than a [[Character]] had by suffering [[Strain]]
+
+- Re-added the ability for a [[Character]] to cast a [[Spell Creation|Spell]] that isn’t on their sheet; cost increased to flipping a [[Sacred Points|Sacred Point]] and suffering 4 [[Strain]] as opposed to the usual 2
+
+### Talents
+- [[Two-Handed Stance]] has had its wording rectified to only apply to one-handed [[Weapons]] now
+
+- [[Berserk!]] has been changed so that automatic [[Success|Successes]] granted on [[Attack Check|Combat Checks]] are now 1 instead of 2
+
+- Removed [[Skilled Swimmer]]; it was not distinct enough from a regular [[Swim]] [[Skill Checks|Check]]
+
+- Removed [[Forager]], and combined the unique part of its effect with [[One with Nature]]
+
+- Removed [[Clever Retort]]. The Talent allowed a Character to add 2 [[Threat]] to any Social Check once per Encounter; it was deemed not interesting enough
+
+- Added the Talent [[Am I Late?]]
+
+- Added the Talent [[Hey! Listen!]]
+
+- Added the Talent [[Smile Like The Sun]].
+
+### Mechanics
+- Major rework of in-depth Skill Challenges, replacing the prior rules with a new system: [[Progress & Countdown Clocks]].
+	-  [[Progress & Countdown Clocks]] are looser and provide more interesting rules for longer, in-depth Story Challenges and multi-Check dangers. They function by being a “Clock” of usually 4-12 Segments. Different actions, such as successful [[Skill Checks]] that progress the goal, can Tick the Clock forward, filling in a Segment on it.
+	- Countdown Clocks work the opposite manner, creating a Clock whose Segments can be filled by various things (such as [[Threat]], Failed Checks, the passage of time) depending on what it represents. When it is fulfilled, something bad happens—such as a crumbling building finally collapsing, or guards arriving on the scene.
+	- These new rules also include updated rules for Chases, and new rules for [[Stealth]] [[Encounter|Encounters]] and Traveling.
+	- [[Social Encounters]] now use this system, as well.
+
+- [[Social Encounters]] have been re-worked.
+	- Now use the [[Progress & Countdown Clocks]] system as opposed to a number of [[Success]] symbols that must be reached
+	- Removed the possibility of a Check not adding towards the Success total if the [[Approach]] was only illogical due to information the [[PC|PCs]] couldn’t have known. Instead, it only adds [[Setback Dice]], as per usual with Approaches.
+	- If an [[Approach]] particularly preys on a [[Character|Character’s]] Belief or Fear, it may add an auto-Success in some cases. If it goes contrary to their Belief or Fear, it may add an auto-Failure in some cases.
+	- Removed the ability to lose a Social Encounter by falling three Checks in a row
+	- Removed the ability to lose a Social Encounter by a Timer, instead codified the possibility for there to be a Countdown Clock
+	- Clarified information on [[Approach|Approaches]], including that they often take the form of longer exchanges and the conflict of ideas
+	- Clarified the rules on Counter-Checks, and symmetrical Social Encounters
+
+
+- Introduced and codified the rules for Adversaries’ [[Round Abilities]]
+
+- Introduced [[The Final Hit]] rules
+	- These are rules that apply to some Nemesis [[Adversary|Adversaries]] who are unlikely to give up or fall unconscious until they are dead.
+
+- The [[Prone]] [[Status Effects|Status Effect]] now adds two [[Setback Dice]] to [[Ranged]] [[Attack Check|Checks]] and two [[Boost Dice]] to [[Melee-Light|Melee]]/[[Brawl]] Checks. This is to increase its tactical value, and due to the fact that due to the existence of [[Maneuvers|Guarded Stance]], a single [[Setback Dice|Setback Die]] on enemy Attacks as a benefit was not significant enough
+
+- Introduced rules for [[Horses and Mounts]]
+	- Mounts now follow a similar logic to [[Ship Combat, and Vehicles|Vehicles]]. Mounts have a Speed rating, and gain a number of Mount Maneuvers per turn equal to their Speed rating. Their rider can direct these Maneuvers to cause them to Move, without spending Maneuvers from the rider.
+	- Training and Bonding system has been introduced, including Temperaments
+	- Handling returns from [[Ship Combat, and Vehicles]], used in the same manner
+	- Clarified that one hand is needed to use the reins of a Horse, but [[Strain]] can be suffered to use two-handed [[Weapons]] regardless
+
+- Introduced rules for [[Flight]]
+	- Flight also takes inspiration from the rules for [[Ship Combat, and Vehicles|Vehicles]]. A Flying [[Character]] (or Mount, for that matter) is given a Speed rating. When Flying, they gain Flight Maneuvers equal to their Speed rating. Flight Maneuvers can be spent on things such as Moving. 
+	- Expanded on how a [[Character]] can be knocked out of Flight
+
+- Introduced rules for [[Underwater and Swimming]]
+	- [[Character|Characters]] can hold their breath for Rounds equal to their [[Willpower]]
+	- If Characters run out of air, they begin to Suffocate
+	- Whenever spending a [[Maneuvers|Maneuver]] underwater, a [[Character]] must suffer 1 [[Strain]] to be able to do the Maneuver (this does not apply to a [[The Zora|Zora]]’s free underwater Maneuver)
+	- At any point, a [[Character]] underwater may make a [[Swim]] [[Skill Checks|Check]] as an [[Actions|Action]]. On a Success, they gain a free [[Maneuvers|Maneuver]] and for the rest of the [[Encounter]], will not suffer the Strain debuff. Additionally, [[Advantage]] or [[Triumph]] may offer additional things, like a second free Maneuver on each turn, or increased breath time
+
+- Changed how [[The Zora|Zora]] bonuses to underwater movement work, and clarified that their additional [[Underwater and Swimming|underwater]] [[Maneuvers|Maneuver]] does not contribute to the 2 Maneuver limit
+
+- Cleaned up all Species template pages
+
+- Re-worked [[Monsters]] to a significant extent.
+	-  They now start with 220 XP instead of the approximately 180 they did before.
+	- Added many new Abilities, including: Unnatural Charm, Mounted, Luminous, Spirit of Light, etc. This will allow you to more easily play a Lynel, Fairy, Spy Monster, etc.
+
+- Clarified that [[Assistance]] only works within [[Engaged Range]]
+
+- Introduced a new system for (Close) and (Far) additions to Range Bands that are 2 Maneuvers long. Check them out at [[Range Bands]] to see what I mean.
+
+- Slightly changed and clarified the [[Encumbrance]] penalty rules in [[Encumbrance]]
+
+- Clarified how much a [[Character]] weighs in [[Encumbrance]]
+
+- Added [[Beliefs]]—they are currently not required, but something I’m working towards to give [[Player|Players]] interesting prompts to develop and flesh out their Characters, and so that I can better understand them. Beliefs as described are something that almost every protagonist in any fiction story ever has—and so I don’t think they are constraining, but instead revealing. Consider what your Character’s Beliefs are.
+
+- Aligned the Workbench mechanics a little for [[Potion Creation]] and [[Item Creation]]
+
+- Updated the [[Critical Injury]] table to add a new Critical Injury, add better syntax, and adjust values. At least, it’s *supposed* to be updated. RPGSessions seems bugged right now and won’t let me hit save.
+
+### Qualities
+- Slightly changed and clarified how [[Malice (Active) (Quality)|Malice]] works
+
+- Changed how the [[Telegraphed (Passive) (Quality)|Telegraphed]] [[Qualities|Quality]] works, mostly by changing the rules on how it can be cancelled. Previously, it could be cancelled but suffered a flat 2 Strain. Now, it costs an amount equal to the Telegraphed Rating. If a Weapon has “Telegraphed (Longer)” then it must be Telegraphed for 2 Turns in a row before it can be used.
+
+- [[Oppressive (Active) (Quality)|Oppressive]] now applies to [[Social Checks]] as well. Oppressive and the [[Oppressive (Modifier)]] article have been brought to parity.
+
+### Website
+- Added major new [[Threat]]/[[Advantage]] tables to all [[General Skills]] pages, most over 1k words long, that provide IDEAS (not a purchase options) for how to use them. 
+	It is suggested that you look at them once and then do not directly refer to them when needing to spend Advantage unless you are truly out of ideas.
+
+- Added new [[Threat]]/[[Advantage]] table to [[Knowledge Skills]] page. Future Threat/Advantage tables may be added to [[Social Skills]], but likely not [[Combat Skills]].
+
+- The [[Skills]] page previously said, erroneously, that there were only three types of Skills; this has been changed to include [[Social Skills]]
+
+- Fixed an issue where the [[General Skills]] page didn’t show [[Swim]]
+
+- Introduced “Adversary Mechanics” section
+
+- On [[RPGSessions]], the formatting has been fixed on all [[Peoples]] Template sheets
+
+- Fixed an issue where the [[Streetwise]] [[Skills|Skill]]’s description was identical to the [[Stealth]] [[Skills|Skill]]
+
+- Fixed an issue where the link to the Kokiri article in [[Sages]] was broken
+
+- [[Stalfos (Adversary)]] were modified to be more unique
+
+- Added some more hyperlinks, such as properly linking to the [[Ganondorf]] article in the [[Ganondorf Dragmire|Ganondorf Dragmire]] articles
+
+- The Quill/Quiver typo will no longer be of any concern to us. I have just received word that the Emperor has dissolved the quills permanently. The last remnants of the Old Typo have been swept away.
+
+
 # 1.2.1
 
 ### Items

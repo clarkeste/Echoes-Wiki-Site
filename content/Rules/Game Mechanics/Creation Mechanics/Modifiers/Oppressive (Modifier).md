@@ -16,7 +16,7 @@ Stacks: No (Singular)
 Limit: 1
 Oppressive represents a [[Spell Creation|Spell]] that is more brutal or overwhelming to its target, or the condition it is meant to prevent or cure.
 
-When using this quality in an [[Attack|Attack Spell]], add an extra [[Difficulty Dice|Difficulty Die]]. On a successful [[Attack Check|Check]], may spend 2 [[Advantage]] to reduce the [[Success|Successes]] the target will generate on Attack Checks turns equal to Oppressive rating by 1 for every 2 Advantage spent. Multiple uses of the [[Qualities]] stack.
+When using this quality in an [[Attack|Attack Spell]], add an extra [[Difficulty Dice|Difficulty Die]]. On a Successful [[Skill Checks|Check]], may spend 2 [[Advantage|Advantages]] to add Failures on the target’s [[Attack Check|Attack Checks]] and [[Social Checks]] for turns equal to Oppressive rating by 1 for every 2 Advantages spent. A [[Character|Character]] suffering from this has the [[Oppressed|Oppressed]] [[Status Effects|Status Effect.]] Multiple uses of the [[Qualities|Quality]] stack.
 
 ### [[Potion Creation]]: Oppressive (6)
 Rarity: Obscure
@@ -28,4 +28,4 @@ The different effects of Oppressive are not well documented. However, it is beli
 Active: Yes
 Stacks: No
 Limit: 1
-When using this [[Qualities|Quality]], add an extra [[Difficulty Dice|Difficulty Die]]. On a successful check, may spend 2 Advantages to reduce the Successes the target will generate on Attack checks turns equal to Oppressive rating by 1 for every 2 Advantages spent. Multiple uses of the quality stack.
+When using this [[Qualities|Quality]], add an extra [[Difficulty Dice|Difficulty Die]]. On a Successful [[Skill Checks|Check]], may spend 2 [[Advantage|Advantages]] to add Failures on the target’s [[Attack Check|Attack Checks]] and [[Social Checks]] for turns equal to Oppressive rating by 1 for every 2 Advantages spent. A [[Character|Character]] suffering from this has the [[Oppressed|Oppressed]] [[Status Effects|Status Effect.]] Multiple uses of the [[Qualities|Quality]] stack.

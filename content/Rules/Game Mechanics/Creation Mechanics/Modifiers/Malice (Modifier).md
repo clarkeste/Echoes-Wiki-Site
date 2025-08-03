@@ -16,7 +16,7 @@ Stacks: No (Singular)
 Limit: ???
 To use Malice, one must tap into their hate.
 
-On whatever [[Spell Creation|Spell]] it is added on, any [[Skill Checks|Checks]] made to cast that Spell immediately get 1 [[Success|Successes]]. Additionally, the Caster may spend 1 [[Strain]] to get 1 Success, with the limit that they can only go 1 over their [[Strain Threshold]] while doing this. Both these benefits apply to *any* Spell.
+On whatever [[Spell Creation|Spell]] it is added on, any [[Skill Checks|Checks]] made to cast that Spell immediately get 1 [[Success|Successes]]. Additionally, the Caster may spend 2 [[Strain]] to get 1 additional auto-Success before the Check, with the limit that they can only go 1 over their [[Strain Threshold]] while doing this. Both these benefits apply to *any* Spell.
 
 There are additional effects on different Spells. On an [[Attack]] Spell, if Malice is activated with two [[Advantage|Advantage]], then the target must roll a [[Resilience]] [[Skill Checks|Check]]. If the Check fails, [[Damage|Damage]] dealt is reduced to 25% and instead reduces the victim’s maximum [[Wound Threshold|Wound Threshold]].
 

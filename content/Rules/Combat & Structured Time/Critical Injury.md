@@ -1,3 +1,7 @@
+---
+aliases:
+  - Critical Injuries
+---
 Critical Injuries are major injuries caused to a [[Character]] that represent a significant, lasting pain or maiming that must be healed by a professional surgeon, or rested upon for potentially weeks.
 
 Critical Injuries are one of the only ways a Character can [[Incapacitated|die]] in [[Echoes of the Departed]].

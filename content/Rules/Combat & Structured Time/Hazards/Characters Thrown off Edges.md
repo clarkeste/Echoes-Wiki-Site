@@ -1,3 +1,7 @@
+---
+aliases:
+  - edge when tossed off
+---
 When using the Shove [[Maneuvers|Maneuver]], two [[Advantage|Advantages]] for the same purpose, [[Manipulate]], or any other number of things that may move another [[Character]] against their will, it may be beneficial to throw them off an edge. This can be out a window, off a balcony, or into a fast-running river.
 
 However, these tossed Characters are not completely helpless to protect themselves from this potential fate. Minions and some Rivals, as decided by [[The GM]], simply fall without any check and suffer the consequences; usually, exiting the [[Combat]] and suffering [[Fall Damage]].

@@ -5,6 +5,8 @@ aliases:
   - vehicle-scale
   - Ship Combat
   - ship-scale
+  - Vehicles
+  - Vessels
   - Speed
   - steed
   - Ship
@@ -116,7 +118,7 @@ Therefore, Characters can usually only take one Ship Action per turn. However, t
 ##### Gain The Advantage
 As a [[Ship Combat, and Vehicles#Ship Actions|Ship Action]], may attempt to Gain The Advantage. This represents a Ship or Vehicle maneuvering into a more advantageous position. With a sailing Ship, this might mean maneuvering to be upwind of a target, but with a carriage or horse, it might mean tailing your enemy closely.
 
-When executing Gain The Advantage, pick one target. The active [[Character]] then make an Operating or Riding [[Skill Checks|Check]] (depending on the skill used by the vehicle or mount) with [[Difficulty]] determined by the speed difference between the two vessels. If the Speed between the two vessels is equal, the [[Difficulty]] is Easy (1p). If the Speed of your vessel is above that of the target, then the Difficulty is Average (2p). If the Speed of your vessel is *lower* than that of the target, increase the Difficulty, starting from Easy, by each point of Speed your vessel is slower.
+When executing Gain The Advantage, pick one target. The active [[Character]] then make an Operating or Riding [[Skill Checks|Check]] (depending on the skill used by the vehicle or mount) with [[Difficulty]] determined by the Speed difference between the two vessels. If the Speed between the two vessels is equal, the [[Difficulty]] is Easy (1p). If the Speed of your vessel is above that of the target, then the Difficulty is Average (2p). If the Speed of your vessel is *lower* than that of the target, increase the Difficulty, starting from Easy, by each point of Speed your vessel is slower.
 
 If the initiating vessel or mount succeeds, they gain ‘The Advantage’ over the target. When they have this benefit, [[Dice Upgrade|upgrade]] all [[Attack Check|Attack Checks]] from this vessel targeting the other vessel by two. If a vessel attacks another Ship or vehicle that has ‘The Advantage’ over them, then that vessel upgrades the [[Difficulty]] twice.
 
@@ -198,6 +200,7 @@ To heal beyond that, [[Downtime|days, weeks, or even month]] are required in a p
 …
 
 Phew! That was a lot. Don’t worry if you didn’t get it all. Without a doubt, I will forget some of these. But this article also serves as a reference. In fact, it’s its main purpose, and it should greatly help with that.
+
 
 
 To learn more about the rules these are based on, read pages 220-231 of the [[Genesys Core Rulebook|Genesys Core Rulebook.]]

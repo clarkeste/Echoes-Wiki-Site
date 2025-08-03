@@ -10,4 +10,4 @@ tags:
 **Activation:** Passive
 **Ranked:** No
 
-When performing a [[Attack Check|Combat Check]] with a [[Melee-Light]] [[Weapons|Weapon]] or a Weapon that would usually only require one hand, if your [[Character]] has nothing in their other hand, they add two [[Boost Dice|Boosts]] to the results.
+When performing a [[Attack Check|Combat Check]] with Weapon that only requires one hand to use and which uses the [[Melee-Light]] [[Skills|Skill]], check if your [[Character]] is holding something in their other hand. If not, they add two [[Boost Dice]] to the results.

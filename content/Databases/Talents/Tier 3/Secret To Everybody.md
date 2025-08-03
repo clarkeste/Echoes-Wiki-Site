@@ -5,6 +5,7 @@ tags:
   - Talent-Social-Oriented
   - Talent-Sneaky
 ---
+
 **Tier:** 3
 **Activation:** Active (Incidental)
 **Ranked:** No

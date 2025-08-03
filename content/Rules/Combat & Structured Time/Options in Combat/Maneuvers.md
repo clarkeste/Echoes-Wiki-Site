@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Guarded Stance
   - Maneuvers
   - Maneuver
 tags:

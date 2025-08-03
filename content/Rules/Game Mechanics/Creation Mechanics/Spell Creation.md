@@ -24,7 +24,7 @@ Each Modifier has a **Magic Point** cost associated with it. Every character, by
 
 When casting a Spell, must suffer 2 [[Strain]].
 
-You can only cast a Spell if it is on your [[Character Sheet]]. There are limits to how many Spells can be on your Character Sheet at once, meaning that there is a limited amount of Spells that can be ‘active’ at any given time.
+You can only cast a Spell if it is on your [[Character Sheet]]. There are limits to how many Spells can be on your Character Sheet at once, meaning that there is a limited amount of Spells that can be ‘active’ at any given time. If you want to cast a Spell that is not on your Character Sheet, you must suffer 4 Strain total and flip a Sacred Point.
 
 You can have Spells equal to your [[Willpower|Willpower]] + 5 on your sheet at any given time. This means a sorcerer with Willpower 2 would be able to have 7 Spells on their [[Character Sheet|sheet]]. To change the Spells on your sheet, or add another Spell to it, you need one hour of [[Downtime|Downtime]]. 
 
@@ -72,7 +72,7 @@ Here are the Modifiers. After you select a Base Power, the next step is to selec
 - [[Vicious (Modifier)|Vicious]] (4)
 
 ### Drawbacks
-You may take the following Drawbacks to reduce the cost of your spell. If your spell is still over the limit and you would still like to cast it, you may flip a Sacred Point and suffer 1 Strain for every point your Spell is over the maximum.
+You may take the following Drawbacks to reduce the cost of your spell.
 
 - [[Decrease Power (Modifier)|Decrease Power]] (-3)
 - [[Decrease Range (Modifier)|Decrease Range]] (-4)

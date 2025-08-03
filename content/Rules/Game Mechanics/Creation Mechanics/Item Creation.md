@@ -29,7 +29,9 @@ Most Modifiers do not require any additional Parts; Accurate, for example, refle
 ### Workbench
 To actually Craft an item, you will likely want a Workstation. A [[Smithy's Tools|portable version]] can be bought, but using it in place of a proper Workstation deprive you of the benefits of a proper facility.
 
-A full-sized bench, such as those found in Workshops or Blacksmith establishments, will add +8 Crafting Points to your total, when creating Items there. Higher-quality Workstations can increase the amount of Crafting Points available even further, but this is rare.
+Higher-quality Workstations can increase the amount of Alchemy Points available. While most commercially available ones will only add +2 or +3, some may add up to +8.
+
+A full-sized bench, such as those found in Workshops or Blacksmith establishments, will usually add +6 to +8 Crafting Points to your total, when creating Items there. Higher-quality Workstations can increase the amount of Crafting Points available even further, but this is rare.
 
 ### Making the Check
 It takes Days of [[Downtime|Downtime]] equal to the Crafting Points used, to complete the weapon. [[Success|Successes]] or [[Threat|Threat]] may speed up or slow down the process respectively. Once that Downtime is up, it's time to make the [[Skill Checks|Check]].

@@ -9,4 +9,4 @@ tags:
 **Activation:** Active (Incidental)
 **Ranked:** No 
 
-When in the wilderness, your [[Character|Character]] may make a [[Difficulty|Simple]] (—) Survival check with a [[Boost Dice|Boost]], instead of with [[Discipline|Discipline]] or [[Cool|Cool]], to recover [[Strain|Strain]] at the end of an [[Encounter|Encounter]].
+When in the wilderness, your [[Character|Character]] may make a [[Difficulty|Simple]] (—) Survival check with a [[Boost Dice|Boost]], instead of with [[Discipline|Discipline]] or [[Cool|Cool]], to recover [[Strain|Strain]] at the end of an [[Encounter|Encounter]]. Checks to forage or search the area that your Character makes take [[Downtime|half the time]] they would normally.

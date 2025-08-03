@@ -9,6 +9,7 @@ tags:
 [[Silhouette]] is how the size of an object or [[Character]] is determined in [[Echoes of the Departed]]. As opposed to getting lost by using exact measurements, the issue of how big a particular object, vehicle, or Character is, is instead abstracted into their Silhouette rating. The Silhouette Rating can vary from anywhere from 0 to 8, although higher numbers are rarer.
 
 What follows is a description of what each Silhouette rating represents:
+- Silhouette 00: Truly small creatures that are difficult to see, like grasshoppers or ants. Usually cannot even be targeted.
 - Silhouette 0: Anything smaller than an adult [[Hylians|Hylian]]. Is used for children, or held [[Items|Items]], such as Swords or [[Weapons#Shields|Shields]].
 - Silhouette 1: Something about the size of an adult Hylian, such as a donkey. Most [[Character|Characters]] will fit smoothly into this range. About two meters in any direction.
 - Silhouette 2: Larger beings, such as horses, Moblins, or [[Gorons]]. About five meters in any direction.
@@ -24,6 +25,13 @@ A target’s Silhouette can impact the [[Attack Check]] [[Difficulty]]. When tar
 Likewise, when a [[Character]] is attacking a target that is 2 Silhouette Points *smaller* than them, the Difficulty is reduced by 1. The Difficulty decreases for each point beyond 2 that the Silhouette Point of the target is lower.
 
 In [[Ship Combat, and Vehicles|Ship Combat]], Silhouettes play a much more significant role, as variance in the size of targets and Ships are much more significant than in most other types of [[Combat]].
+
+## Silhouette and Encumbrance
+In some situations, it may be important to determine the Encumbrance of a person. Thankfully, this is easy to determine, and is decided by their Silhouette.
+
+A [[Character]] with Silhouette 1 is determined to weigh 5 Encumbrance. A Character with Silhouette 2 is determined to weigh 10 Encumbrance. Each additional Silhouette after that adds +10, so a Silhouette 3 Character would be 20 Encumbrance.
+
+A Silhouette 0 Character weighs 3 Encumbrance. A Silhouette 00 person weighs 0 Encumbrance.
 
 
 To learn more, see page 109 of the [[Genesys Core Rulebook|Genesys Core Rulebook.]]
