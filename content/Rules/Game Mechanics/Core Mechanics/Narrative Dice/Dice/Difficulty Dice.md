@@ -8,6 +8,7 @@ tags:
   - Rules
   - Dice
   - Difficulty
+feature: thumbnails/external/027b4f6a1b83cbc172ad4dabd7c9c531.png
 ---
 ![](https://i.imgur.com/5gUY6rT.png)
 

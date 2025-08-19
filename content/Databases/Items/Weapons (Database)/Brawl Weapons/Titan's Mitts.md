@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/c2ea857d36d8e296f46d2c858d8cf535.png
 ---
 Titan’s Mitts are old, sought after gauntlets that were created using methods which cannot be replicated in the modern day. They imbue the hands they are worn on with significant strength.
 ![](https://i.imgur.com/sYe3VDZ.png)

@@ -5,6 +5,7 @@ tags:
   - Rules
   - Dice
   - Stats
+feature: thumbnails/external/f6481a192856eb2a1c6480e48a24910d.png
 ---
 ![](https://i.imgur.com/FXm4anD.png)
 

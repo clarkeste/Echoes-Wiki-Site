@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/39285b8f7ec2110a58980f812a03a9ce.png
 ---
 An old but elegant and curved [[Gorons|Goron]] design from the period of the Hero of Time, the Giant’s Blade—also known as the Giant’s Knife—has since received popularly among the [[Sheikah]] as a large but swift blade.
 ![](https://i.imgur.com/aACYcar.png)

@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/53086fc39a3983329098f7fa2ac4a5b2.png
 ---
 A very large hammer that can smash through even the strongest barrier, taking advantage of its user’s strength to bust down cracked walls.
 ![](https://i.imgur.com/mTAXpaI.png)

@@ -6,6 +6,7 @@ tags:
   - Rules
   - Combat
   - Difficulty
+feature: thumbnails/external/e4d406bc43c54e9cbde13b019fac05a5.png
 ---
 Two characters [[Engaged Range|Engaged]] with each other are in very close proximity. For example, a soldier needs to be Engaged with a target to slice them with a sword. 
 

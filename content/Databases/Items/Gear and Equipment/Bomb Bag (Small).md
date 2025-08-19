@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/ccc355ecaa341d8a9891ef281ab836b2.png
 ---
 A small bag made of cloth used to carry bombs. It’s flexible but durable, but is the smallest of its type.
 ![](https://i.imgur.com/xBqp0xx.png)

@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/271703572842353ecef6dd2cbe9015c8.png
 ---
 Fishing has long been a profitable industry in Hyrule, especially with the country’s generous coastline. It can be useful in catching food to eat or sell, or fishing up secrets lost to the seas.
 ![](https://i.imgur.com/JMnxQoP.png)

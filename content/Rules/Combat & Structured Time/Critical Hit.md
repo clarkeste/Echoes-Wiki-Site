@@ -8,6 +8,7 @@ tags:
   - Combat
   - RPGSessions
   - Stats
+feature: thumbnails/external/f523af07c764688965d82bd08b2b3135.png
 ---
 Each weapon has a [[Critical Rating|Critical Rating]].
 

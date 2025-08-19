@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/920d3ad715bc14212b37151a54178e6f.png
 ---
 This double-sided axe was designed with both fighting and chopping in mind. It's a bit unwieldy, so it requires a well-practiced technique to use efficiently.
 ![](https://i.imgur.com/7kuUNec.png)

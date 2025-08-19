@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/4c40807649d12ccea6da69096aab22b5.png
 ---
 A [[Weapons|weapon]] intended to assist in battles as a tool in the second hand, Parrying Daggers have cross-guards which can block even the mightiest sword.
 ![](https://i.imgur.com/3QeGVvg.png)

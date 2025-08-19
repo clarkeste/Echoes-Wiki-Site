@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/57c6391d63e2fd945ff202c62eef5cb4.png
 ---
 These Steel Gauntlets go beyond the protective function of most gloves, and increase the pull and push power of its user. Its design provides for superior traction and grip, and its steel build allows it to pack a serious punch.
 ![](https://i.imgur.com/N8lj4iP.png)

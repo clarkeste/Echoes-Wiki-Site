@@ -6,6 +6,7 @@ aliases:
 tags:
   - Characters
   - Rules
+feature: thumbnails/external/9c21d77ebe76d33e00814713ea1dfdcf.png
 ---
 Experience Points, or XP, is the currency used to better a [[Character|Character]]’s stats, such as increasing [[Skills|Skill]] ranks, or purchasing new [[Talents|Talents]]. It represents the experience of a Character, as the name implies.
 

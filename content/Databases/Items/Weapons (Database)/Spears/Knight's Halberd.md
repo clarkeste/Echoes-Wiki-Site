@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/ed9ce1c36de03cd8fd648e788e14a960.png
 ---
 A spear used by knights adept in mounted and long-ranged combat. The spearhead is modeled after an axe.
 ![](https://i.imgur.com/mnU95lr.png)

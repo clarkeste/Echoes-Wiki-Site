@@ -7,6 +7,7 @@ tags:
   - Rules
   - Combat
   - Difficulty
+feature: thumbnails/external/53e90c9e0aa5d2040b1eccb7bd387717.png
 ---
 Long range is further than a few dozen meters. Quality bows, mounted [[Weapons|Weapons]], and Weapons that use the [[Gunnery|Gunnery]] [[Skills|Skill]] can reliably reach this far without too much trouble. Two people in Long Range of each other need to yell loudly to hear each other.
 

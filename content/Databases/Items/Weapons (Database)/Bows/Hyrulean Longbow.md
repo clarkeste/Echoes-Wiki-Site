@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/16bd183a27235094f568705fb26456c5.png
 ---
 This Longbow is used by both sides in the Hyrulean Civil War to equip divisions of archers, allowing them to launch arrows into the air to attack hordes of targets hundreds of meters away.
 ![](https://i.imgur.com/zcdA00P.png)

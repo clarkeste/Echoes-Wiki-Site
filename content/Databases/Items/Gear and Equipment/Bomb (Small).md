@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/1b5a85d2b8dfea2aa1805d37a548cb6f.png
 ---
 A small Bomb, usually used as a cheap source of explosive ammo, for basic excavating… or as grenades. 
 ![](https://i.imgur.com/kGaiAbi.png)

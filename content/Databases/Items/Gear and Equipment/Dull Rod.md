@@ -4,6 +4,7 @@ aliases:
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/253477025ba8824601d05250120cbe93.png
 ---
 A rod from a sturdy tree often used as the base for a magical staff in addition to gemstones, a torch, or a wooden weapon. On its own, however, it is little more than a stick.
 ![](https://i.imgur.com/OKYTbDC.png)

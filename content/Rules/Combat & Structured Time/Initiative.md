@@ -7,6 +7,7 @@ tags:
   - Guide
   - RPGSessions
   - Stats
+feature: thumbnails/external/1a98664a542ed50d30d9828533c61fba.png
 ---
 At the beginning of [[Combat|Combat]], each [[PC|PC]] and [[NPCs|NPC]] must make an Initiative Check, with no [[Difficulty Dice|Difficulty Dice]] unless under special circumstances. This Check uses [[Vigilance|Vigilance]] if the [[Character|Character]] is caught by surprise, or [[Cool|Cool]] if the Character was expecting this encounter. The amount of [[Success|Successes]] you roll determines your spot in the Initiative order, with [[Advantage|Advantages]] acting as tiebreakers. Triumphs will allow an out-of-turn Maneuver when rolling Initiative, before the Combat begins.
 

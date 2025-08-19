@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/519fad0b687d1ece94d9b8f4f096440d.png
 ---
 A [[Weapons|Weapon]] once used by the Hyrulean Army decades ago, it was gradually phased out in favor of the [[Hyrulean Pike]]. Now, this sturdy and reliable weapon is the favorite of many civilians.
 ![](https://i.imgur.com/RZP9tAJ.png)

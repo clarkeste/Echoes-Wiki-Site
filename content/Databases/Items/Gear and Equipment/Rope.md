@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/089ab6a0d00082d13211594d3b007dd8.png
 ---
 Ropes can be employed for various purposes, such as restraining a captive, connecting one object to another, or to provide support when climbing. The length of this rope is quite handy.
 ![](https://i.imgur.com/V8jnrNk.png)

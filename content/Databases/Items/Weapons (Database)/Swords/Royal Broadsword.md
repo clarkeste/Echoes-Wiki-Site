@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/10596ba196073831d85b6f1e61666e25.png
 ---
 The Hyrulean Royal Family, previous to its downfall, would award this sword to knights who achieved remarkable feats. A sword that balances strength and beauty as elegantly as this one is rare in Hyrule.
 ![](https://i.imgur.com/KcZlI8Y.png)

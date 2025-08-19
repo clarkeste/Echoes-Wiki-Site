@@ -5,6 +5,7 @@ aliases:
 tags:
   - Guide
   - RPGSessions
+feature: thumbnails/external/029df043d95934679ae2fec6d1a58c6f.png
 ---
 Modifiers are a feature on RPGSessions that allows [[Weapons]], [[Items]], [[Talents]], or [[Armor]] to influence other stats on the character sheet. This is useful for automating passive and consistent [[Qualities]] and Talent effects.
 

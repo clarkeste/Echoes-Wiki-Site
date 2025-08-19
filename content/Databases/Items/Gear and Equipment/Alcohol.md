@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/3d9163c60c4b90bb0e5d4ca6a3884a29.png
 ---
 Alcohol is a compound that many find relaxing and that act to soothe their worries, but can cause intoxication if too much is drunk.
 ![](https://i.imgur.com/chTvfOy.png)

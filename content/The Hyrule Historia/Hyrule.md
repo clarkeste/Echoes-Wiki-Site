@@ -1,13 +1,5 @@
 ---
 aliases:
-  - Kingdom of Hyrule
-  - Hyrulean Kingdom
-  - Hyrule Kingdom
-  - Hyruleans
-  - Hyrulean
-  - Kingdom
-  - country
-  - Hyrule
 tags:
 ---
 While it would be shocking that anyone would read the [[(Beginning of the Historia)|Hyrule Historia]] without knowing of the **titular country**, it bears repeating for the sake of completeness: **Hyrule** is a country on the western continent, bordering [[Calatia]] to the west, [[Hytopia]] to the north, the [[The Great Sea|sea]] to the east, and the Desert of Mystery—or more commonly known, the Gerudo Desert—to the south. Hyrule is inhabited by many peoples, primarily the [[The Hylians|Hylians]], but also [[The Gorons|Gorons]], [[Zora]], and other ethnicities of [[The Humans|human]]. It is separated from the aforementioned Calatia and Hytopia by the Great Hyrulean Canyon and mountain range.

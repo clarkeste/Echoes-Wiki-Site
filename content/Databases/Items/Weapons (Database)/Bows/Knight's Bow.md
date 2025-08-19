@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/c48bfc40b94d6a978886d90fe249172d.png
 ---
 The sturdy metal construction of this bow offers superior durability, while its lack of firing quirks makes it quite reliable. It was once favored by the knights at Hyrule Castle.
 ![](https://i.imgur.com/cJGzfqK.png)

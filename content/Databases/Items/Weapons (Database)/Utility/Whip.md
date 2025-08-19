@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/ba11e23b0b3b98daa6cf01ff359f333f.png
 ---
 While whips have usually been used in herding or controlling animals, some thieves and bandits have proven its utility in challenging interpersonal situations that it has become impossible to ignore its utility as a [[Weapons|weapon]]. Its long reach and ensnaring length is useful when attempting to control a battle.
 ![|494x480](https://i.imgur.com/KT559FT.png)

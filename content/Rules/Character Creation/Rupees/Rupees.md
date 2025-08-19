@@ -10,6 +10,7 @@ tags:
   - Rules
   - RPGSessions
   - Stats
+feature: thumbnails/external/b6c4c3b9cfd9360a1266a3321cc15a0e.png
 ---
 Rupees are the main form of currency in Hyrule, and are considered an international currency. They are used in various locations due to their reliability and the influence of Hyrule as a country, making them easily spendable—even if they are, technically, annoying to carry compared to coinage.
 

@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/6ae6cdd5d9afde4b3ce3012b87e9dcea.png
 ---
 A two-handed weapon forged from rare metals mined in [[Gorons|Goron]] City. Its center of gravity is at its tip, so it uses centrifugal force and its sheer weight to smash opponents flat.
 ![](https://i.imgur.com/Sb6eviz.png)

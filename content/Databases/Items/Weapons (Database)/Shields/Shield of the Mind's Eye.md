@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/141df53f156557ecbb7c9f69da06af24.png
 ---
 A small [[Sheikah|Sheikah]]-made [[Weapons#Shields|Shield]]. Its design is intended to decrease blind spots without sacrificing too much defense.
 ![](https://i.imgur.com/qpcnWps.png)

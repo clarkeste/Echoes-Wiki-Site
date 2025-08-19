@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/693fe39ea3ac973f474fdf3aa02e5031.png
 ---
 Spiked Handwear are gloves, gauntlets, or cestuses with hidden or clear spikes, allowing for their user to use these blades to cut their opponents with ruthless efficiency. Some are akin to the claws of a large animal, while others are called katars and are alike to push daggers.
 ![](https://i.imgur.com/A1GvIZg.png)

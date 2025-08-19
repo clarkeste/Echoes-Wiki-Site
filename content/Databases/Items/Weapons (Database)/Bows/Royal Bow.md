@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/e99b6aa275ebf9e2b5d94dd1946de77b.png
 ---
 In the past, the King of Hyrule presented this bow to only the most talented archers in the land. Its combat capabilities are as impressive as its extravagant design.
 ![](https://i.imgur.com/JtlRRnF.png)

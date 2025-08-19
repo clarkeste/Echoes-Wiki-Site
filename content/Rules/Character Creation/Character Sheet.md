@@ -8,6 +8,7 @@ tags:
   - Rules
   - Character-Template
   - RPGSessions
+feature: thumbnails/external/a505bcd65d11acd5207b7a5e92268328.png
 ---
 The Character Sheet is the core of what happens in the [[Echoes of the Departed|Echoes of the Departed]] game. All the information on a [[Character|Character]]’s mechanical abilities, as well as most of their [[Burdens and Backstory|Backstory]], should be on the Character Sheet.
 

@@ -9,6 +9,7 @@ tags:
   - Rules
   - Dice
   - Stats
+feature: thumbnails/external/0487f8cd4296f136d2cc97b66e6215b7.png
 ---
 ![](https://i.imgur.com/JRgBSg6.png)
 

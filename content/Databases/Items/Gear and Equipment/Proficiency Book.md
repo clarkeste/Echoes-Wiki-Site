@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/f42f2f9b19d938dda862b487b4b0081a.png
 ---
 Many books are written with the intention to impart knowledge onto the reader and enable them to accomplish their tasks with more efficiency and experience. While these books can take a long time to read and fully grasp, the knowledge inside them are well worth the effort.
 ![](https://i.imgur.com/6GbSp5G.png)

@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/9ff9c60c82c7c4ee699612924bdf910e.png
 ---
 Any type of backpack, messenger bag, haversack or officer’s pouch. An extremely useful tool when required to carry a little more than you can handle.
 ![](https://i.imgur.com/Ue9xQtC.png)

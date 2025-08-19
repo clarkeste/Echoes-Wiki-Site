@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/1c478acdb39e2ea8f6ecacc60cf6bbbd.png
 ---
 This spear is a [[Zora|Zora]]'s [[Weapons|Weapon]] of choice. It's lighter than it looks due to being made from a special metal and is used by the Zora for both fishing and protecting their domain.
 ![](https://i.imgur.com/DebvZyH.png)

@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/a199271744b315ba35695d8845a77be3.png
 ---
 A larger container, such as a crate or large backpack, that can carry many things inside of it.
 ![](https://i.imgur.com/stullwf.png)

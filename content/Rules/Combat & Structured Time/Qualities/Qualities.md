@@ -37,7 +37,7 @@ A different system, similar named, called [[Modifiers|Modifiers]] exists in [[Sp
 - [[Empowered Flanking (Passive) (Quality)|Empowered Flanking]]
 - [[Ensnare (Active) (Quality)|Ensnare]]
 - [[Flammable (Passive) (Quality)|Flammable]]
-- [[Guided (Passive) (Quality)]]
+- [[Guided (Passive) (Quality)|Guided]]
 - [[Inaccurate (Passive) (Quality)|Inaccurate]]
 - [[Inferior (Passive) (Quality)|Inferior]]
 - [[Knockdown (Active) (Quality)|Knockdown]]

@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/4ac4616453fd66ba3b87af0dc5c9eee0.png
 ---
 A [[Gorons|Goron]]-made two-handed [[Weapons|Weapon]]. It's made from thick, hard metal and has no cutting edge, so it relies on its sheer weight to crush all opponents.
 ![](https://i.imgur.com/WRWNupx.png)

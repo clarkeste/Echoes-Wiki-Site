@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/f17c4cc14c3a940a1ce80eee92a33087.png
 ---
 The Rock Ruiner represents the pinnacle of [[Gorons|Goron]] craftsmanship, its sheer weight is able to completely crush enemy and ore alike. Even for Gorons it is heavy, but it would require an immense amount of strength from another species.
 ![](https://i.imgur.com/gLfGnZA.png)

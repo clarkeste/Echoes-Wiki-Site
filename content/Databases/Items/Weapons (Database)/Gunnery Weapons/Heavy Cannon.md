@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/db8ded66293d6eb501edfb8b2f1c6a60.png
 ---
 A larger, but even more deadly and destructive [[Cannon]]. Even stone walls are but a temporary inconvenience with these Heavy Cannons, a few salvos away from being little more than dust.
 ![](https://i.imgur.com/h04uVw0.png)

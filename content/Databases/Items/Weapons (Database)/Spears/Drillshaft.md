@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/1c110af11c178fc6806ffc4fa2a3ef9b.png
 ---
 Goron artisans used recycled metal to forge this weapon. The tip is made from an old excavation bore, which affords it unmatched piercing capabilities.
 ![](https://i.imgur.com/9Awdrea.png)

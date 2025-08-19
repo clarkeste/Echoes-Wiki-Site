@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/639ce640a26a3ffba5d60adad08e7a2b.png
 ---
 The Mirror Shield is an item of myth; first known to have been wielded by the Hero of Time hundreds of years ago, it is theorized to have the ability to reflect magic and direct the light of the sun. Scholars theorize that there are multiple of this ancient shield, likely of ancient Gerudo or Hylian origin, but they are exceedingly rare.
 ![](https://i.imgur.com/7upZbJF.png)

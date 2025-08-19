@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/2ab5c95b77e6ad46034851e1606386f2.png
 ---
 A spear used mainly by travelers to fend off wolves and other beasts. It's easy to hold and simple to use; the cheapest of the Traveler’s gear line.
 ![](https://i.imgur.com/AGlwI33.png)

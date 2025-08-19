@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/605d04673db5ddd10c3e131e1184af0f.png
 ---
 A type of light-weight artillery that fire a projectile, often a [[Bomb (Large)|Bomb]], upwards. This bypasses any form of horizontal a cover a target may have and rains death and destruction from above.
 ![](https://i.imgur.com/PJtIOhC.png)

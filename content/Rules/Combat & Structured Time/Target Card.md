@@ -1,6 +1,7 @@
 ---
 aliases:
   - Target Card
+feature: thumbnails/external/e58d4f3cde88e6a5c8473011090807fe.png
 ---
 A Target Card is a card that lists out options for alternative or additional [[Attack Check|Attack]] effects if the [[Maneuvers#Called Shot|Called Shot]] [[Maneuvers|Maneuver]] is used and [[Setback Dice]] corresponding to the option is added to the [[Dice Pool]].
 

@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/ba0ae92905a0e5357bea00f1312226ef.png
 ---
 Only put into production a few years before the fall of the monarchy, the Hyrulean Crossbow is the result of much research. Its heavy nature makes it difficult to manage, but its punch is undeniable.
 ![](https://i.imgur.com/wwoVF2u.png)

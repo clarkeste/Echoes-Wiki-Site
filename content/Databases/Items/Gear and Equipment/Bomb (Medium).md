@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/1b5a85d2b8dfea2aa1805d37a548cb6f.png
 ---
 A heavier-duty Bomb, often used in mining and terrain-clearing. However, it can also be used in combat—but its fuse is often too long for it.
 ![](https://i.imgur.com/kGaiAbi.png)

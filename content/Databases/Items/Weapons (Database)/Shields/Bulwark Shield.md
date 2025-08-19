@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/5eede96c4cb0f9c97ded9bb8f90cd5f2.png
 ---
  A shield stronger and heavier than its wooden counterparts. Its metal design prevents it from being set aflame, but electricity is still a concern for the rugged adventurers who use this shield.
 ![](https://i.imgur.com/kZD3xMn.png)

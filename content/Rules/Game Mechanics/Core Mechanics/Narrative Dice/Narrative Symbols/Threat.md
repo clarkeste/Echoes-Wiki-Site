@@ -6,6 +6,7 @@ aliases:
 tags:
   - Rules
   - Dice
+feature: thumbnails/external/0f26bb6182d0802487a615a1faaf9674.png
 ---
 ![](https://i.imgur.com/lKnmcLD.png)
 

@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/ccf8f7e51a3aa9944ac99018b234a5f6.png
 ---
 The largest type of [[Rupee Wallet]]. It’s specially designed to hold as many Rupees as possible, and can only fit in the biggest pockets when filled!
 ![](https://i.imgur.com/KNHGJ5F.png)

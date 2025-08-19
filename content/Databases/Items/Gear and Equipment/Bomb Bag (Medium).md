@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/864d6ffad594d42968eeec95eb43e0b1.png
 ---
 A Bomb Bag of significant size that can carry several [[Bomb (Small)|Bombs]], thanks to its flexible cloth design
 ![](https://i.imgur.com/zrgSHMQ.png)

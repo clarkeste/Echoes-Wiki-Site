@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/29274edb59a938d9a88d72a556023343.png
 ---
 A bow passed down through the [[Sheikah|Sheikah]] tribe since time immemorial. Concentrating before drawing the string will allow its wielder to target distant enemies as easily as those nearby. Only a master can truly wield this bow.
 ![](https://i.imgur.com/GHLUbgT.png)

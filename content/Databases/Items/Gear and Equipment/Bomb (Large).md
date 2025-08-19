@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/1b5a85d2b8dfea2aa1805d37a548cb6f.png
 ---
 These are some of the biggest bombs, not uncommonly used in [[Cannon|Cannons]]. Both for mining and for war, its fuse is customizable.
 ![](https://i.imgur.com/kGaiAbi.png)

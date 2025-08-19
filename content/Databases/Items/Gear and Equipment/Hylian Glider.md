@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/9aacbbb964d646c8e344af405f059790.png
 ---
 The [[Hylians|Hylian]] Glider was made as a domestic substitute to the popular but expensive [[Echoes of the Departed/Hidden Peoples/Rito|Rito]] Paraglider from [[Holodrum]]. It does not have nearly the same grace or flight, but can help in a pinch. Unlike the Rito Paraglider—which is made from molted Rito feathers—the Hylian Glider is made of simple cloth.
 ![](https://i.imgur.com/he5SUMl.png)

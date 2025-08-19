@@ -4,6 +4,7 @@ tags:
   - Items-Affordable
 aliases:
   - Daggers
+feature: thumbnails/external/fbf786811f96d511c3a39bb907bb5350.png
 ---
 Daggers are small blades that can be much more easily hidden than other [[Weapons]], and despite their shorter reach, can be just as deadly. They are made both for stabbing and for throwing.
 ![](https://i.imgur.com/t5Y9RC6.png)

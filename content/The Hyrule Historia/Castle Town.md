@@ -1,11 +1,22 @@
 ---
 aliases:
-  - Hyrule Castle Town
   - capital of Hyrule
   - Castle Town
   - capital
   - city
-tags:
+Region: Central Hyrule
+City, Village: Castle Town
+Location Type:
+  - City
+Size: Metropolis
+Population: 1.7m
+Country: Hyrule
+Building: false
+Non-Unique: false
+Secret: false
+Context:
+Loyalty:
+  - Followers
 ---
 **Castle Town** is the capital of the [[Hyrule|Kingdom of Hyrule]], and is currently in the control of the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]], the very same Revolutionaries that captured the city.
 

@@ -17,6 +17,7 @@ tags:
   - Guide
   - RPGSessions
   - Stats
+feature: thumbnails/external/c46c45e6e55a92ef037fa37991f671fc.png
 ---
 The Attack Check is a type of [[Skill Checks|Skill Check]] done during [[Combat|Combat]] with the intent to deal [[Damage|Damage]] to another [[Character|Character]]. It is usually done with a [[Weapons|Weapon]] like a Sword or Bow, but can be done unarmed with just fists as well.
 

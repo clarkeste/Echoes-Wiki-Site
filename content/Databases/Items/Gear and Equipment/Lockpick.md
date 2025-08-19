@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/88b2c32aeb4aee7dfd8cd38a574b5772.png
 ---
 With this tool, it becomes possible to attempt to pry open most modern locks, and many old ones as well. However, its restricted nature has made finding and purchasing them very expensive, unless one has the proper contacts.
 ![](https://i.imgur.com/YPmFw6P.png)

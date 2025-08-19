@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/d3f34118f7be6c2a9a0219d47f547634.png
 ---
 These [[Cannon|Cannons]] with seven different bores, all lit and fired separately. While it can be challenging to aim and control, the potential damage from even a single barrage is devastating.
 ![](https://i.imgur.com/XittutU.png)

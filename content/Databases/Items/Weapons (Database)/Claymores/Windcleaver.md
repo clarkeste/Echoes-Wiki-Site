@@ -1,3 +1,6 @@
+---
+feature: HWAoC_Windcleaver_Icon_upscayl_4x_ultrasharp-4x.png
+---
 This sword is favored by high-ranking members of the Yiga. When wielded by a proficient fighter, its unique shape cleaves the very wind and creates a vacuum.
 ![[HWAoC_Windcleaver_Icon_upscayl_4x_ultrasharp-4x.png]]
 [[Damage|Damage]]: +5

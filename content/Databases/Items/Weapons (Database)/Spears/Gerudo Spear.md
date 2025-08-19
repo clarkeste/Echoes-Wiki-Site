@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/f6d03f802e5396a4bd56248a0f012161.png
 ---
 This spear's center of gravity is in its tip due to its several prongs, making it a bit unwieldy for the average fighter. But in the hands of a skilled [[Gerudo|Gerudo]] warrior, it's a [[Weapons|weapon]] of reliable strength.
 ![](https://i.imgur.com/bLFx9pp.png)

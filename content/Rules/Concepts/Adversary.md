@@ -5,6 +5,7 @@ aliases:
 tags:
   - Rules
   - Combat
+feature: thumbnails/external/7fe29e4405cc345dc9b7137a3abfd004.jpg
 ---
 Adversaries, or Enemies, are combatants in [[Combat|Combat]] that oppose the [[PC|PCs]]. They are a type of [[NPCs|NPC]]; any NPC can be considered an Adversary if the situation conspires to pit them against a PC.
 

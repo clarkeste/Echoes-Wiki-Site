@@ -5,6 +5,7 @@ aliases:
 tags:
   - Guide
   - RPGSessions
+feature: thumbnails/external/ef3681958cb15e8e0591696b6623d5d3.png
 ---
 The [[RPGSessions]] Discord bot is used for [[Echoes of the Departed|Echoes of the Departed]] due to its great functionality and integration with the [[RPGSessions]] website.
 

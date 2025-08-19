@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/5ef790c45b80a5c1838c76b59bcb8c17.png
 ---
 Trebuchets are an old, but reliable, sources of artillery. It is a type of catapult that uses a sling to launch a projectile at immense speeds far into the distance.
 ![](https://i.imgur.com/KoloD6v.png)

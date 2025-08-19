@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/cd0084da804fb722291d6d2d6e9fd52a.png
 ---
 A long spear used by the armies of Hyrule Castle, and now of the [[Should my character believe in the Royalists, or the Followers?|Followers and Royalists]]. Designed to be usable with minimal training. The iron tip is very sturdy.
 ![](https://i.imgur.com/ddh8zCu.png)

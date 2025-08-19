@@ -5,6 +5,7 @@ aliases:
 tags:
   - Rules
   - Characters
+feature: thumbnails/external/596efe78e2dd74f15e7425e8a53c7724.png
 ---
 Items encompass everything from weapons, to armor, gears, and tools. They can be found, purchased, or crafted. Different items, especially between categories, vary greatly in what they can or should be used for.
 

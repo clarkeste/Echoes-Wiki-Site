@@ -4,6 +4,7 @@ aliases:
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/70d58a59811cc1ecc8ef0f7af42c2e9e.png
 ---
 A basic two-handed sword often wielded by aspiring adventurers. Its weight can knock enemies' shields right out of their hands.
 ![](https://i.imgur.com/o6VVEMa.png)

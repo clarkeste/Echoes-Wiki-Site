@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/9d02d0c0ec22233ebdc30c140d8aa456.png
 ---
 Staffs are long wooden poles or rods that are used by [[Spell Creation|Spellcasters]] to enhance their sorcery. Why exactly carrying a large wooden stick is helpful is something of a mystery to scholars; but most suspect the effect is psychological and due to cultural association, like how an actor may feel better embedded into a role once he dons a cape.
 

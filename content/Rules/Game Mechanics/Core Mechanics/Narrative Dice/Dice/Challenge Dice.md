@@ -6,6 +6,7 @@ tags:
   - Rules
   - Dice
   - Difficulty
+feature: thumbnails/external/25931e98d112d49a080baa1560a919d5.png
 ---
 ![](https://i.imgur.com/IN5NCT1.png)
 

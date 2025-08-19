@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Affordable
+feature: thumbnails/external/e8f87db1100eb6e06f63119f05ab97b1.png
 ---
 A short and thin wire, often from a piano, used for the nefarious art of assassination. It can be used to strangle an unsuspecting victim, and incapacitate or kill them.
 ![](https://i.imgur.com/4vEf5G9.png)

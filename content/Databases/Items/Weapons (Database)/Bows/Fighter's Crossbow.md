@@ -2,6 +2,7 @@
 tags:
   - Items
   - Items-Premium
+feature: thumbnails/external/876024992a863c147cffc43d03c2fb1c.png
 ---
 The Fighter’s Crossbow represents the pinnacle of ranged technology in Hyrule. Despite the controversy when the Fighter’s brand ceased production of their traditional bow, the Fighter’s Crossbow has been a massive hit with those interested in self-defense and training.
 ![](https://i.imgur.com/LBQPMkJ.png)
