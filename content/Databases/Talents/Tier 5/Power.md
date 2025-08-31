@@ -1,6 +1,16 @@
 ---
 tags:
   - Tier-5
+Tier: 5
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 25
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 5
 **Activation:** Active (Incidental)

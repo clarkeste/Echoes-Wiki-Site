@@ -125,7 +125,7 @@ There may be some cases where a Unit can gain some benefit, or change the battle
 
 ### Effects in Combat
 #### Surrounded
-When there are Enemy Units on two spaces around a Unit (and they are not on positions/hexes directly adjacent to each other), that Unit is Surrounded. When Surrounded, all [[Attack Check|Attack Checks]] against a Unit gain [[Boost Dice]] equal to adjacent enemy Units.
+When there are Enemy Units on two spaces around a Unit (and they are not on positions/hexes directly adjacent to each other), that Unit is Surrounded. When Surrounded, all [[Attack Check|Attack Checks]] against a Unit gain [[Boost Dice]] equal to adjacent friendly Units surrounding the enemy Unit.
 
 If a Unit has no valid path to retreat (all tiles are blocked by enemy Units or impassable terrain), then they are considered Encircled. If a Unit is Encircled, then they suffer double [[Damage]] from a successful [[Mass Combat#Attack|Attack]]. 
 
@@ -134,12 +134,15 @@ If there is an adjacent hex tile that is an occupied by an ally, the encircled U
 #### Flanking
 Flanking is identical to the [[Flanking]] mechanic in personal combat.
 
-If a Unit approaches a target from behind, they gain a [[Boost Dice|Boost Die]] when attacking. This is usually determined by if the targeted enemy is [[Engaged Range|Engaged]] with another character, or if they [[Attack Check|Attacked]] another character in the opposite direction on their previous turn. Additionally, all benefits from [[Cover]] or otherwise beneficial positions or fortifications are null and void when Flanked.
+If a Unit approaches a target from behind, they gain a [[Boost Dice|Boost Die]] when attacking. This is usually determined by if the targeted enemy is [[Engaged Range|Engaged]] with another Unit, or if they [[Attack Check|Attacked]] another Unit in the opposite direction on their previous turn. Additionally, all benefits from [[Cover]] or otherwise beneficial positions or fortifications are null and void when Flanked.
 
 #### Cover
 Same as in personal combat. Various different types and levels of [[Cover]] exist, like in personal-combat. In Mass Combat, cover tends to represent terrain advantageous for the defender, and therefore applies to melee attacks as well.
 
 Some Cover may be significant enough to [[Dice Upgrade|upgrade]] the [[Difficulty]] of a Check, instead of just adding [[Setback Dice]].
+
+Cover can be in some cases be built by military engineers, and provide increasing significant benefits, or benefits against certain unit types. For example, the digging of trenches.
+
 
 ### Abilities
 Here is a list, although not exhaustive, of Abilities that various Units can have, that provide strategic bonuses or considerations.
@@ -159,7 +162,7 @@ A [[Mass Combat#Units|Unit]] with this Ability follows orders without hesitation
 #### Stand Your Ground!
 Requires an [[Mass Combat#Actions|Action]] to activate. Until the start of their next turn, all [[Mass Combat#Attack|Attacks]] against the Unit with this [[Mass Combat#Ability|Ability]] increase [[Difficulty]] by one.
 #### Will and Resolve
-This [[Mass Combat#Units|Unit]] is strong-willed, and can reorganize itself. It heals 2 [[Strain]] at the end of every turn it ends while over half its [[Strain Threshold]]. Additionally, fear-related # maluses do not affect them.
+This [[Mass Combat#Units|Unit]] is strong-willed, and can reorganize itself. It heals 2 [[Strain]] at the end of every turn it ends while over half its [[Strain Threshold]]. Additionally, fear-related maluses do not affect them.
 #### Defender
 Whenever a Unit with the Defender ability is [[Attack Check|attacked]], or a friendly [[Mass Combat#Units|Unit]] adjacent to them is attacked, that attack targeting an ally adds a [[Setback Dice|Setback Die]]. This represents a Unit protecting Allies around them.
 #### Wave

@@ -4,6 +4,18 @@ tags:
   - Talent-Active
   - Talent-Setbacks-and-Boosts
   - Talent-Utility
+Tier: 1
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 5
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 1
 **Activation:** Active (Incidental)

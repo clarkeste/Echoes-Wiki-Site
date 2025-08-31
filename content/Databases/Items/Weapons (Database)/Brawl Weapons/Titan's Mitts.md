@@ -2,7 +2,39 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/c2ea857d36d8e296f46d2c858d8cf535.png
+Location:
+Damage: 5
+Critical Rating: 4
+Skill Used:
+  - Brawl
+Range: Engaged
+Encumbrance: 1
+Qualities:
+  - Inaccurate 1
+  - Disorient 3
+  - Defensive 1
+  - Stun 2
+  - Concussive 2
+  - Inaccurate
+  - Disorient
+  - Defensive
+  - Stun
+  - Concussive
+Soak:
+Defense:
+Special Effect: May lift up a single extremely heavy [[Items|Item]] of [[Encumbrance]] 40 or lower.
+Price: 70000
+Restricted: true
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/c2ea857d36d8e296f46d2c858d8cf535.png]]"
 ---
 Titan’s Mitts are old, sought after gauntlets that were created using methods which cannot be replicated in the modern day. They imbue the hands they are worn on with significant strength.
 ![](https://i.imgur.com/sYe3VDZ.png)

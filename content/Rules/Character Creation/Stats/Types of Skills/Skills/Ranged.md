@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ranged
+  - Range
 ---
 This [[Skills|Skill]] represents the ability of a [[Character|Character]] to fight using a Ranged handheld [[Weapons]], such when throwing an object, or using a Bow. Ranged is a [[Combat Skills|Combat Skill]].
 

@@ -8,6 +8,16 @@ tags:
   - Talent-Medical
   - Talent-Wounds
   - Talent-Utility
+Tier: 1
+Activation:
+  - Passive
+Ranked: true
+Unlisted: false
+XP Cost: 5
+Talent Genre:
+  - General
+Image:
+Magic: false
 ---
 **Tier:** 1
 **Activation:** Passive

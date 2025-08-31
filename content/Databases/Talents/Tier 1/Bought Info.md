@@ -3,6 +3,16 @@ tags:
   - Tier-1
   - Talent-Active
   - Talent-Passive
+Tier: 1
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+XP Cost: 5
+Talent Genre:
+  - General
+Image:
+Magic: false
 ---
 **Tier:** 1
 **Activation:** Active (Action)

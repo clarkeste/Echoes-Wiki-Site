@@ -6,7 +6,7 @@ tags:
   - Characters
   - Rules
   - Stats
-feature: thumbnails/external/30042295fe6dfeb878ce62c2da06ded4.png
+Image: "[[Images/thumbnails/external/30042295fe6dfeb878ce62c2da06ded4.png]]"
 ---
 The Wound Threshold represents how much punishment a [[Character|Character]] can take in [[Echoes of the Departed|Echoes of the Departed]]; essentially, their max health Once the Character’s current [[Wounds|Wounds]] overtakes their Wound Threshold, the Characters becomes [[Incapacitated]] and suffers a [[Critical Injury]].
 

@@ -2,7 +2,34 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/0551af6584b4f5c6684c75d20163f9f0.png
+Location:
+Damage: 8
+Critical Rating: 2
+Skill Used:
+  - Ranged
+Range: Long
+Encumbrance: 2
+Qualities:
+  - Linked 1
+  - Vicious 2
+  - Flammable
+  - Linked
+  - Vicious
+Soak:
+Defense:
+Special Effect: Due to the dual nature of the Duplex Bow, may deal two [[Critical Injury|Critical Injuries]] in a single [[Attack Check]] if [[Linked (Active) (Quality)|Linked]] is also activated.
+Price: 21000
+Restricted: true
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/0551af6584b4f5c6684c75d20163f9f0.png]]"
 ---
 A bow favored by assassins and those interested in its unique ability to shoot two arrows at once. However, due to a series of high-profile assassinations, the bow was made illegal during the King’s reign.
 

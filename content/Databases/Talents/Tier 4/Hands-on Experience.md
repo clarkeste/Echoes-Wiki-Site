@@ -3,6 +3,16 @@ tags:
   - Tier-4
   - Talent-Passive
   - Talent-Crafting-Oriented
+Tier: 4
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 20
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 4
 **Activation:** Passive

@@ -2,7 +2,33 @@
 tags:
   - Items
   - Items-Affordable
-feature: thumbnails/external/519fad0b687d1ece94d9b8f4f096440d.png
+Location:
+Damage: 3
+Critical Rating: 4
+Skill Used:
+  - Melee (Heavy)
+Range: Short
+Encumbrance: 4
+Qualities:
+  - Cumbersome OR Unwieldy 3
+  - Pierce 2
+  - Cumbersome OR Unwieldy
+  - Pierce
+Soak:
+Defense:
+Special Effect: If a targeted [[Adversary|enemy]] is within [[Engaged Range|Engaged Range]], remove all positive [[Qualities|Qualities]] and add a [[Setback Dice]].
+Price: 3000
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/519fad0b687d1ece94d9b8f4f096440d.png]]"
 ---
 A [[Weapons|Weapon]] once used by the Hyrulean Army decades ago, it was gradually phased out in favor of the [[Hyrulean Pike]]. Now, this sturdy and reliable weapon is the favorite of many civilians.
 ![](https://i.imgur.com/RZP9tAJ.png)

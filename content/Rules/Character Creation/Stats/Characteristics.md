@@ -5,7 +5,7 @@ aliases:
 tags:
   - Characters
   - Rules
-feature: thumbnails/external/791bdf6c4c36f4b5422d55a2aa8438f4.jpg
+Image: "[[Images/thumbnails/external/791bdf6c4c36f4b5422d55a2aa8438f4.jpg]]"
 ---
 Characteristics are the overall affinities a [[Character|Character]] has, usually representing natural talents for a certain field. If the Character is strong, for example, they would have a high [[Brawn|Brawn]]; if they are particularly book smart, they may have a high [[Intellect|Intellect]], or high [[Cunning|Cunning]] if they know their way around stressful situations.
 

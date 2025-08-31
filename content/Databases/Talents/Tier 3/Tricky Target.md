@@ -4,6 +4,16 @@ tags:
   - Talent-Passive
   - Talent-Ship
   - Talent-Defense
+Tier: 3
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 15
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 3
 **Activation:** Passive

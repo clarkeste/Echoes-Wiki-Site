@@ -4,6 +4,16 @@ tags:
   - Talent-Active
   - Talent-Defense
   - Talent-Combat-Oriented
+Tier: 4
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 20
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 4
 **Activation:** Active (Incidental)

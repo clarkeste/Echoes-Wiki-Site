@@ -2,7 +2,31 @@
 tags:
   - Items
   - Items-Affordable
-feature: thumbnails/external/be9e2f11641d08e57d79ac18151b2235.png
+Location:
+Damage: 5
+Critical Rating: 3
+Skill Used:
+  - Melee (Heavy)
+Range: Engaged
+Encumbrance: 2
+Qualities:
+  - Knockdown
+  - Quick Charge
+Soak:
+Defense:
+Special Effect: If the [[Character]] using this [[Weapons|Weapon]] disarms another Character, the [[Items|Item]] that was disarmed flies to [[Short Range|Short Range]] as opposed to landing at [[Engaged Range|Engaged Range]] like usual.
+Price: 3500
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/be9e2f11641d08e57d79ac18151b2235.png]]"
 ---
 A two-handed sword designed for [[Combat|combat]]. It's heavy and hard to use but has decent build quality and durability.
 ![](https://i.imgur.com/OFRxqKu.png)

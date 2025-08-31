@@ -5,6 +5,9 @@ tags:
   - Qualities
   - Combat-Modifiers
   - Options
+aliases:
+  - Telegraph
+  - Telegraphing
 ---
 This Quality is almost exclusively used by [[Adversary|Adversaries]].
 

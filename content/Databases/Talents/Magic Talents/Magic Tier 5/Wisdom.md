@@ -3,6 +3,18 @@ tags:
   - Talent-Spells
   - Talent-Active
   - Talent-Combat-Oriented
+Tier: 5
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 25
+Talent Genre:
+  - General
+  - Combat
+  - Social
+Image:
 ---
 **Tier:** 5
 **Activation:** Active (Incidental)

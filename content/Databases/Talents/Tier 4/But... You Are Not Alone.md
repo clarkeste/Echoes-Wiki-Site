@@ -4,6 +4,16 @@ tags:
   - Talent-Active
   - Talent-Tactics-and-Leadership
   - Talent-Defense
+Tier: 4
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+XP Cost: 20
+Talent Genre:
+  - Combat
+Image:
+Magic: false
 ---
 **Tier:** 4 
 **Activation:** Active (Action) 

@@ -5,6 +5,18 @@ tags:
   - Talent-Downtime
   - Talent-Strain-Recovering
   - Talent-Ranked
+Tier: 1
+Activation:
+  - Passive
+Ranked: true
+Unlisted: false
+Magic: true
+XP Cost: 5
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 1
 **Activation:** Passive

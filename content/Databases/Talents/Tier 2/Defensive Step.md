@@ -6,6 +6,16 @@ tags:
   - Talent-Strain-Spending
   - Talent-Defense
   - Talent-Ranked
+Tier: 2
+Activation:
+  - Active (Maneuver)
+Ranked: true
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 2 
 **Activation:** Active (Maneuver) 

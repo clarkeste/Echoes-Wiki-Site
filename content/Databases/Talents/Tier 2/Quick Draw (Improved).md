@@ -4,6 +4,16 @@ tags:
   - Talent-Passive
   - Talent-Turn-Economy
   - Talent-Combat-Oriented
+Tier: 2
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 2
 **Activation:** Passive

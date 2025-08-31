@@ -4,7 +4,7 @@ aliases:
   - hidden
 tags: []
 ---
-According to Royal documents that were declassified following the [[Revolution and Second Civil War|Revolution]], [[Ganondorf|Ganondorf]] spoke of a **Temple deep in the desert**. He believed it to hold a [[The Triforce|Triforce]] Shard, but was unable to enter without a [[Sage Medallions|Sage Medallion]].
+According to Royal documents that were declassified following the [[Revolution and Second Civil War|Revolution]], [[Ganondorf (Historia)|Ganondorf]] spoke of a **Temple deep in the desert**. He believed it to hold a [[The Triforce|Triforce]] Shard, but was unable to enter without a [[Sage Medallions|Sage Medallion]].
 
 After traveling with the [[Commission for the Reclamation of the Golden Power|Commission for the Reclamation of the Golden Power]], Ganondorf recovered a Sage Medallion from inside the [[Lost Woods|Lost Woods]]. How is unknown. After he gained it, he traveled to the Temple in the Desert. He presumably opened it with the Sage Medallion, for he returned to [[Hyrule|Hyrule]] days later with the Triforce Shard.
 

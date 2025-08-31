@@ -5,6 +5,17 @@ tags:
   - Talent-Tactics-and-Leadership
   - Talent-Setbacks-and-Boosts
   - Tier-3
+Tier: 3
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 15
+Talent Genre:
+  - Combat
+  - Social
+Image:
 ---
 **Tier:** 3
 **Activation:** Passive

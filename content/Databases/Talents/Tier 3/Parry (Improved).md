@@ -8,6 +8,17 @@ tags:
   - Talent-Combat-Oriented
   - Talent-Defense
   - Talent-Duelist
+Tier: 3
+Activation:
+  - Active (Incidental)
+  - (Out-of-Turn)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 15
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 3
 **Activation:** Active (Incidental, Out of Turn) 

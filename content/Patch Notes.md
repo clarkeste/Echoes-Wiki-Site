@@ -1,3 +1,41 @@
+
+# 1.3.1
+
+### Items
+- Changed [[Cannon]] and [[Heavy Cannon]] slightly so that using regular Cannon Balls also decreases the Blast Range
+
+- Lowered the [[Encumbrance]] of the [[Hylian Shield]] from 5 to 2
+
+- Cleaned up the [[Mirror Shield]] page, removing a superfluous Special effect
+
+- Changed [[Rito Wingsuit]] alignment from “Neutral, Rito” to “None, Rito”
+
+- Fixed various cases where [[Deflective (Passive) (Quality)|Deflective]] was listed as “Deflection”
+
+- Changed the [[Affiliations|Affiliation]] of [[Sheikah Kodachi]]
+
+- Changed the [[Range|Range]] of the [[Trebuchet]] from [[Strategic Range|Strategic]] to [[Extreme Range|Extreme]]
+
+- Significant changes to the [[Hyrulean Pike]]—it is now significantly more expensive, changing from 5000 [[Rupees]] to 7000. However, it has gained a new Special ability; the wielder may immediately make an [[Attack Check]] against any [[Character]] that enters within [[Engaged Range]] of the Pike-Wielder. This Attacks does not deal [[Damage]], but on a [[Success]] will push the target back to [[Short Range]]. Its [[Critical Rating]] has also been lowered to 3.
+
+### Talents
+- Fixed various typos in the Talents page
+
+- Fixed an error where [[Dance of Battle]] and a few other Talents read as “Ranked” when they were not
+
+- Clarified that the range of [[Field Commander]] is [[Medium Range]]
+
+- Clarified that using a [[Spell Creation|Spell]] with [[Reflect]] does not cost additional [[Strain]]
+
+### Website
+- Fixed a few issues where clicking on a link that said ‘Zuna’ would result in a 404. I wonder why that happened.
+
+The next update. 1.3.2, will probably focus primarily on [[Mass Combat]], so keep an eye out for that! And maybe a Spellcasting talent. I figured out I had only 31, instead of the 32 I was aiming for.
+
+Additionally, I updated a lot of meta-data on this patch. That shouldn’t show anything on the website end; it was mostly for my convenience when sorting. However, if you notice anything awry on the website, let me know, as that may be the culprit.
+
+
+
 # 1.3
 
 ### Spellcasting
@@ -111,7 +149,7 @@
 
 - [[Stalfos (Adversary)]] were modified to be more unique
 
-- Added some more hyperlinks, such as properly linking to the [[Ganondorf]] article in the [[Ganondorf Dragmire|Ganondorf Dragmire]] articles
+- Added some more hyperlinks, such as properly linking to the [[Ganondorf (Historia)]] article in the [[Ganondorf Dragmire|Ganondorf Dragmire]] articles
 
 - The Quill/Quiver typo will no longer be of any concern to us. I have just received word that the Emperor has dissolved the quills permanently. The last remnants of the Old Typo have been swept away.
 

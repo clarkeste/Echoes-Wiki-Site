@@ -2,7 +2,35 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/ed9ce1c36de03cd8fd648e788e14a960.png
+Location:
+Damage: 4
+Critical Rating: 3
+Skill Used:
+  - Melee (Heavy)
+Range: Short
+Encumbrance: 3
+Qualities:
+  - Defensive 1
+  - Desperate Strength
+  - Knockdown
+  - Swift Strike 2
+  - Defensive
+  - Swift Strike
+Soak:
+Defense:
+Special Effect:
+Price: 13000
+Restricted: true
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Royalists
+Image: "[[Images/thumbnails/external/ed9ce1c36de03cd8fd648e788e14a960.png]]"
 ---
 A spear used by knights adept in mounted and long-ranged combat. The spearhead is modeled after an axe.
 ![](https://i.imgur.com/mnU95lr.png)

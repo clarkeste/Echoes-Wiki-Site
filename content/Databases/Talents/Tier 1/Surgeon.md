@@ -5,6 +5,16 @@ tags:
   - Talent-Medical
   - Talent-Strain-Recovering
   - Talent-Ranked
+Tier: 1
+Activation:
+  - Passive
+Ranked: true
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 1 
 **Activation:** Passive 

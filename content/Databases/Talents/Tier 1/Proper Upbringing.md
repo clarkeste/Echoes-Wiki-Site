@@ -4,6 +4,16 @@ tags:
   - Talent-Active
   - Talent-Social-Oriented
   - Talent-Strain-Recovering
+Tier: 1
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Social
+Image:
 ---
 **Tier:** 1 
 **Activation:** Active (Incidental) 

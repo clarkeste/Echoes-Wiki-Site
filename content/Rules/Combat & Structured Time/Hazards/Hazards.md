@@ -2,6 +2,7 @@
 aliases:
   - Environmental Hazards
   - Hazards
+  - Hazard
 tags:
   - Rules
   - Combat

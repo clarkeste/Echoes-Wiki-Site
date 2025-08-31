@@ -2,6 +2,7 @@
 aliases:
   - staggering
   - Staggered
+  - Stagger
 tags:
   - Rules
   - Combat

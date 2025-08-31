@@ -4,6 +4,16 @@ tags:
   - Talent-Active
   - Talent-Potion-Oriented
   - Talent-Crafting-Oriented
+Tier: 3
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 15
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 3
 **Activation:** Active (Incidental)

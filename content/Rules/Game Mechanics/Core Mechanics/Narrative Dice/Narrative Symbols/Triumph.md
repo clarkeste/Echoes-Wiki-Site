@@ -5,7 +5,7 @@ aliases:
 tags:
   - Rules
   - Dice
-feature: thumbnails/external/e29941cbc95d5b86047c2c96b8b62c73.png
+Image: "[[Images/thumbnails/external/e29941cbc95d5b86047c2c96b8b62c73.png]]"
 ---
 ![](https://i.imgur.com/ngeDZki.png)
 

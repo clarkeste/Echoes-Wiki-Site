@@ -4,6 +4,16 @@ tags:
   - Talent-Active
   - Talent-Strain-Recovering
   - Talent-Utility
+Tier: 1
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 1 
 **Activation:** Active (Incidental)

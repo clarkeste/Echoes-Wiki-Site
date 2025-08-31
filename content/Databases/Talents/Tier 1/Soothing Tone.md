@@ -4,6 +4,17 @@ tags:
   - Talent-Active
   - Talent-Mounts
   - Talent-Strain-Recovering
+Tier: 1
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - General
+  - Combat
+Image:
 ---
 **Tier:** 1 
 **Activation:** Active (Action) 

@@ -2,7 +2,32 @@
 tags:
   - Items
   - Items-Affordable
-feature: thumbnails/external/1b5a85d2b8dfea2aa1805d37a548cb6f.png
+Location:
+Damage: 8
+Critical Rating: 4
+Skill Used:
+  - Ranged
+Range: Medium
+Encumbrance: 1
+Qualities:
+  - Blast 6
+  - Limited Ammo 1
+  - Blast
+  - Limited Ammo
+Soak:
+Defense:
+Special Effect:
+Price: 300
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/1b5a85d2b8dfea2aa1805d37a548cb6f.png]]"
 ---
 A small Bomb, usually used as a cheap source of explosive ammo, for basic excavating… or as grenades. 
 ![](https://i.imgur.com/kGaiAbi.png)

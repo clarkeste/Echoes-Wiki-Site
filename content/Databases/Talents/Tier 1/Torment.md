@@ -6,6 +6,17 @@ tags:
   - Talent-Combat-Oriented
   - Talent-Social-Oriented
   - Talent-Tactics-and-Leadership
+Tier: 1
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+  - Social
+Image:
 ---
 **Tier:** 1 
 **Activation:** Passive 

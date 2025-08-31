@@ -2,7 +2,42 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/057161d1aecda07e1417b728f4d85bfe.png
+Location:
+Damage: 1
+Critical Rating: 4
+Skill Used:
+  - Melee (Light)
+Range: Engaged
+Encumbrance: 1
+Qualities:
+  - Accurate 1
+  - Disorient 2
+  - Concussive 1
+  - Defensive 2
+  - Deflective 2
+  - Knockdown
+  - Stun 3
+  - Accurate
+  - Disorient
+  - Concussive
+  - Defensive
+  - Deflective
+  - Stun
+Soak:
+Defense:
+Special Effect:
+Price: 26000
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/057161d1aecda07e1417b728f4d85bfe.png]]"
 ---
 The Fighter’s brand has long been known in Hyrule as a producer of quality personal defensive and offensive items, and this shield is no exception; the best on the legal market in all of the country. It comes in red and blue varieties.
 ![](https://i.imgur.com/mlKJWyG.png)
@@ -15,7 +50,7 @@ The Fighter’s brand has long been known in Hyrule as a producer of quality per
 [[Accurate (Passive) (Quality)|Accurate]] 1
 [[Disorient (Active) (Quality)|Disorient]] 2
 [[Concussive (Active) (Quality)|Concussive]] 1
-[[Defensive (Passive) (Quality)|Defensive]] 2, [[Deflective (Passive) (Quality)|Deflection]] 2
+[[Defensive (Passive) (Quality)|Defensive]] 2, [[Deflective (Passive) (Quality)|Deflective]] 2
 [[Knockdown (Active) (Quality)|Knockdown]]
 [[Stun (Active) (Quality)|Stun]] 3
 

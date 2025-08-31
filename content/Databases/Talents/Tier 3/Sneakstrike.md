@@ -4,6 +4,16 @@ tags:
   - Talent-Active
   - Talent-Combat-Oriented
   - Talent-Sneaky
+Tier: 3
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 15
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 3
 **Activation:** Active (Action)

@@ -6,6 +6,18 @@ tags:
   - Talent-Derived-Attributes
   - Talent-Wounds
   - Talent-Strain-Recovering
+Tier: 4
+Activation:
+  - Active (Maneuver)
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 20
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 4 
 **Activation:** Active (Maneuver) 

@@ -2,6 +2,16 @@
 tags:
   - Talent-Spells
   - Talent-Active
+Tier: 2
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 10
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

@@ -2,6 +2,28 @@
 tags:
   - Items
   - Items-Affordable
+Location:
+Damage:
+Critical Rating:
+Skill Used:
+Range:
+Encumbrance: 2
+Qualities:
+Soak: 1
+Defense: 1
+Special Effect: Protects against warm climates and reduces debuffs from being inside them.
+Price: 3600
+Restricted: true
+Unique: false
+Unlisted: false
+Is Armor: true
+Is Weapon: false
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Gerudo
+Image:
 ---
 Armor traditionally worn by the [[Gerudo]]. It is commonly worn by the majority of Gerudo, particularly following their exile from Hyrle,
 ![]()

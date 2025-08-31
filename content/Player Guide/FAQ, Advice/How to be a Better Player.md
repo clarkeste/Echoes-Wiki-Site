@@ -7,6 +7,7 @@ tags:
   - Rules
   - Character-Template
   - RPGSessions
+Image: "[[Images/thumbnails/youtube/Sd3stb5fz8I.webp]]"
 ---
 There is a variety of good advice on the manner, and others have said it better than me. Be it in posts, text, videos, etc. So, I’ve collected some useful resources on the topic and collected them here. I hope you find some use in them!
 

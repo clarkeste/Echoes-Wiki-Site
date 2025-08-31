@@ -2,7 +2,41 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/f17c4cc14c3a940a1ce80eee92a33087.png
+Location:
+Damage: 10
+Critical Rating: 4
+Skill Used:
+  - Melee (Heavy)
+Range: Engaged
+Encumbrance: 6
+Qualities:
+  - Concussive 1
+  - Cumbersome 6
+  - Disorient 3
+  - Knockdown
+  - Prepare 2
+  - Stun 4
+  - Concussive
+  - Cumbersome
+  - Disorient
+  - Prepare
+  - Stun
+Soak:
+Defense:
+Special Effect: If the [[Character]] using this [[Weapons|Weapon]] disarms another Character, the [[Items|Item]] that was disarmed flies to [[Short Range|Short Range]] as opposed to landing at [[Engaged Range|Engaged Range]] like usual.
+Price: 34000
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Neutrality
+  - Gorons
+Image: "[[Images/thumbnails/external/f17c4cc14c3a940a1ce80eee92a33087.png]]"
 ---
 The Rock Ruiner represents the pinnacle of [[Gorons|Goron]] craftsmanship, its sheer weight is able to completely crush enemy and ore alike. Even for Gorons it is heavy, but it would require an immense amount of strength from another species.
 ![](https://i.imgur.com/gLfGnZA.png)

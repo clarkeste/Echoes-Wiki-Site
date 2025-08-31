@@ -6,7 +6,7 @@ tags:
   - Characters
   - Rules
   - Stats
-feature: thumbnails/external/80edfa22674043b6b41fcb601f1d1684.png
+Image: "[[Images/thumbnails/external/80edfa22674043b6b41fcb601f1d1684.png]]"
 ---
 The [[Strain Threshold|Strain Threshold]] represents how much physical and mental effort and exertion one can take before they begin to suffer ill-effects, such as falling unconscious, thereby being [[Incapacitated]]. Once a character’s current [[Strain|Strain]] becomes higher than their Strain Threshold, they fall unconscious. Notably, unlike with [[Wounds|Wounds]], a character going over their Strain Threshold does not cause a [[Critical Injury|Critical Injury]].
 

@@ -5,6 +5,18 @@ tags:
   - Talent-Strain-Spending
   - Talent-Knowledge-Oriented
   - Talent-Utility
+Tier: 1
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 1
 **Activation:** Active (Action)

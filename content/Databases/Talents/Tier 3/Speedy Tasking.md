@@ -3,6 +3,16 @@ tags:
   - Tier-3
   - Talent-Active
   - Talent-Downtime
+Tier: 3
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 15
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 3
 **Activation:** Active (Incidental)

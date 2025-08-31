@@ -4,6 +4,18 @@ tags:
   - Talent-Passive
   - Talent-Career-Skills
   - Talent-Utility
+Tier: 4
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 20
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 4
 **Activation:** Passive

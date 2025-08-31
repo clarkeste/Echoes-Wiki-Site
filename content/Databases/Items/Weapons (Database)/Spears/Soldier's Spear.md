@@ -2,10 +2,35 @@
 tags:
   - Items
   - Items-Affordable
-feature: thumbnails/external/cd0084da804fb722291d6d2d6e9fd52a.png
+Location:
+Damage: 3
+Critical Rating: 4
+Skill Used:
+  - Melee (Light)
+Range: Engaged
+Encumbrance: 2
+Qualities:
+  - Accurate 2
+  - Quick Charge
+  - Accurate
+Soak:
+Defense:
+Special Effect: May be used as a one-handed [[Weapons|Weapon]]. If that is done, add 2 [[Setback Dice]] to every [[Attack Check]] done with this Weapon.
+Price: 2400
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/cd0084da804fb722291d6d2d6e9fd52a.png]]"
 ---
 A long spear used by the armies of Hyrule Castle, and now of the [[Should my character believe in the Royalists, or the Followers?|Followers and Royalists]]. Designed to be usable with minimal training. The iron tip is very sturdy.
-![](https://i.imgur.com/ddh8zCu.png)
+![|480x491](https://i.imgur.com/ddh8zCu.png)
 [[Damage|Damage]]: +3
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4

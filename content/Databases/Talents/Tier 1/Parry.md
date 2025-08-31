@@ -9,6 +9,17 @@ tags:
 aliases:
   - Parried
   - Parry
+Tier: 1
+Activation:
+  - Active (Incidental)
+  - (Out-of-Turn)
+Ranked: true
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 1 
 **Activation:** Active (Incidental, Out of Turn) 

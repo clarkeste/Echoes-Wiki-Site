@@ -8,7 +8,7 @@ tags:
   - Rules
   - Difficulty
   - Dice
-feature: thumbnails/external/aeff97af778d196994e52e1980ac9345.png
+Image: "[[Images/thumbnails/external/aeff97af778d196994e52e1980ac9345.png]]"
 ---
 
 ![](https://i.imgur.com/zrigysf.png)

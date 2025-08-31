@@ -2,7 +2,39 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/4db3a1add018f364be0acd2c21b2b408.png
+Location:
+Damage: 9
+Critical Rating: 3
+Skill Used:
+  - Ranged
+Range: Long
+Encumbrance: 1
+Qualities:
+  - Auto-Fire
+  - Unwieldy 3
+  - Superior
+  - Deflective 1
+  - Swift Strike 2
+  - Flammable
+  - Unwieldy
+  - Deflective
+  - Swift Strike
+Soak:
+Defense:
+Special Effect:
+Price: 39000
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country: Holodrum
+Context:
+Loyalty:
+  - None
+  - Rito
+Image: "[[Images/thumbnails/external/4db3a1add018f364be0acd2c21b2b408.png]]"
 ---
 A highly refined bow created by the Rito who inhabit northern [[Holodrum]]. Rito warriors favor it for its superior rate of fire, which helps them excel even further at aerial combat. Its excellent design has made it among the most popular traditional bows even far away from the Rito homeland.
 
@@ -18,7 +50,7 @@ A highly refined bow created by the Rito who inhabit northern [[Holodrum]]. Rito
 [[Unwieldy (Passive) (Quality)|Unwieldy]] 3
 [[Superior (Passive) (Quality)|Superior]]
 [[Deflective (Passive) (Quality)|Deflective]] 1
-[[Swift Strike (Passive) (Quality)|Swift Strike]] 3
+[[Swift Strike (Passive) (Quality)|Swift Strike]] 2
 [[Flammable (Passive) (Quality)|Flammable]]
 
 Price: 39k [[Rupees]]

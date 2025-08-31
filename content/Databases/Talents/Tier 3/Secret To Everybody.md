@@ -4,6 +4,16 @@ tags:
   - Talent-Active
   - Talent-Social-Oriented
   - Talent-Sneaky
+Tier: 3
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 15
+Talent Genre:
+  - Social
+Image:
 ---
 
 **Tier:** 3

@@ -4,6 +4,15 @@ tags:
   - Talent-Characteristics
   - Talent-Active
   - Talent-Strain-Spending
+Tier: 2
+Activation:
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

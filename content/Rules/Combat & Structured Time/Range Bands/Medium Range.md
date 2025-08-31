@@ -6,7 +6,7 @@ tags:
   - Rules
   - Combat
   - Difficulty
-feature: thumbnails/external/e4d406bc43c54e9cbde13b019fac05a5.png
+Image: "[[Images/thumbnails/external/e4d406bc43c54e9cbde13b019fac05a5.png]]"
 ---
 Medium Range can be up to several dozen meters away. Most reliable bows can reach up to Medium Range. Most thrown [[Weapons|Weapons]] can reach this far. Two people in Medium Range of each other need to talk loudly to hear each other.
 

@@ -5,6 +5,16 @@ tags:
   - Talent-Turn-Economy
   - Talent-Utility
   - Talent-Ranked
+Tier: 1
+Activation:
+  - Active (Action)
+Ranked: true
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 1
 **Activation:** Active (Action) 

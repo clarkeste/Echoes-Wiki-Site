@@ -8,6 +8,17 @@ tags:
   - Talent-Strain-Spending
 aliases:
   - Dodge Talent
+Tier: 2
+Activation:
+  - Active (Incidental)
+  - (Out-of-Turn)
+Ranked: true
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Incidental, Out of Turn)

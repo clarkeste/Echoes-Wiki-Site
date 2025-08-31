@@ -2,7 +2,35 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/ba0ae92905a0e5357bea00f1312226ef.png
+Location:
+Damage: 8
+Critical Rating: 3
+Skill Used:
+  - Ranged
+Range: Medium
+Encumbrance: 2
+Qualities:
+  - Accurate 2
+  - Prepare 1
+  - Pierce 4
+  - Accurate
+  - Prepare
+  - Pierce
+Soak:
+Defense:
+Special Effect: Crossbows are one-handed [[Weapons]], unlike nearly all other [[Ranged]] Weapons.
+Price: 10000
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country: Hyrule
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/ba0ae92905a0e5357bea00f1312226ef.png]]"
 ---
 Only put into production a few years before the fall of the monarchy, the Hyrulean Crossbow is the result of much research. Its heavy nature makes it difficult to manage, but its punch is undeniable.
 ![](https://i.imgur.com/wwoVF2u.png)

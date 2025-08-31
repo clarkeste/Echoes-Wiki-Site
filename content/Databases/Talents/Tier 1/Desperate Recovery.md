@@ -4,6 +4,18 @@ tags:
   - Talent-Passive
   - Talent-Strain-Recovering
   - Talent-Utility
+Tier: 1
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 1
 **Activation:** Passive

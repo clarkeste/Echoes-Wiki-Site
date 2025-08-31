@@ -2,7 +2,41 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/605d04673db5ddd10c3e131e1184af0f.png
+Location:
+Damage: 30
+Critical Rating: 3
+Skill Used:
+  - Gunnery
+Range: Extreme
+Encumbrance: 10
+Qualities:
+  - Artillery
+  - Blast 14
+  - Blast (Improved)
+  - Breach 1
+  - Guided
+  - Inaccurate 2
+  - Prepare 1
+  - Blast
+  - Breach
+  - Inaccurate
+  - Prepare
+Soak:
+Defense:
+Special Effect: Mortars cannot attack targets that have cover from above. Additionally, can be destroyed with a [[Maneuvers|Maneuver]] or two [[Advantage]] by a [[Character]] in [[Engaged Range]].
+Price: 42000
+Restricted: true
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Royalists
+  - Followers
+Image: "[[Images/thumbnails/external/605d04673db5ddd10c3e131e1184af0f.png]]"
 ---
 A type of light-weight artillery that fire a projectile, often a [[Bomb (Large)|Bomb]], upwards. This bypasses any form of horizontal a cover a target may have and rains death and destruction from above.
 ![](https://i.imgur.com/PJtIOhC.png)

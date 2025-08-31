@@ -2,10 +2,41 @@
 tags:
   - Items
   - Items-Affordable
-feature: thumbnails/external/141df53f156557ecbb7c9f69da06af24.png
+Location:
+Damage: 0
+Critical Rating: 4
+Skill Used:
+  - Melee (Light)
+Range: Engaged
+Encumbrance: 1
+Qualities:
+  - Accurate 1
+  - Disorient 2
+  - Defensive 1
+  - Deflective 2
+  - Accurate
+  - Disorient
+  - Defensive
+  - Deflective
+Soak:
+Defense:
+Special Effect: As long as a [[Character]] is holding this [[Weapons#Shields|Shield]], [[Staggered|staggering]], [[Prone|knocking down]], or [[Disoriented|disorienting]] them costs one more [[Advantage]].
+Price: 4200
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+  - Sheikah
+Image: "[[Images/thumbnails/external/141df53f156557ecbb7c9f69da06af24.png]]"
 ---
 A small [[Sheikah|Sheikah]]-made [[Weapons#Shields|Shield]]. Its design is intended to decrease blind spots without sacrificing too much defense.
-![](https://i.imgur.com/qpcnWps.png)
+![|480x519](https://i.imgur.com/qpcnWps.png)
 [[Damage|Damage]]: +0
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]
 [[Critical Rating]]: 4
@@ -14,7 +45,7 @@ A small [[Sheikah|Sheikah]]-made [[Weapons#Shields|Shield]]. Its design is inten
 
 [[Accurate (Passive) (Quality)|Accurate]] 1
 [[Disorient (Active) (Quality)|Disorient]] 2
-[[Defensive (Passive) (Quality)|Defensive]] 1, [[Deflective (Passive) (Quality)|Deflection]] 2
+[[Defensive (Passive) (Quality)|Defensive]] 1, [[Deflective (Passive) (Quality)|Deflective]] 2
 Special: As long as a [[Character]] is holding this [[Weapons#Shields|Shield]], [[Staggered|staggering]], [[Prone|knocking down]], or [[Disoriented|disorienting]] them costs one more [[Advantage]].
 
 Price: 4200 [[Rupees|Rupees]]

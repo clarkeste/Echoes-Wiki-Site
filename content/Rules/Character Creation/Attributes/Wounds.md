@@ -7,7 +7,7 @@ tags:
   - Rules
   - Stats
   - RPGSessions
-feature: thumbnails/external/85538346c70bb3ad6d8a643de53e0097.png
+Image: "[[Images/thumbnails/external/85538346c70bb3ad6d8a643de53e0097.png]]"
 ---
 Wounds are the health system of [[Echoes of the Departed|Echoes of the Departed]]. It represents physical wounds, injuries, and the overall worsening state of a [[Character|Character]]’s body.
 

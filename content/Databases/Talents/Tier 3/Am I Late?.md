@@ -5,6 +5,17 @@ tags:
   - Talent-Combat-Oriented
   - Talent-Positioning
   - Talent-Turn-Economy
+Tier: 3
+Activation:
+  - Active (Incidental)
+  - Active (Maneuver)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 15
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 3
 **Activation:** Active (Incidental, Maneuver)

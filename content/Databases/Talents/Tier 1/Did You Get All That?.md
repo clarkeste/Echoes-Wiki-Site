@@ -4,6 +4,16 @@ tags:
   - Talent-Social-Oriented
   - Talent-Utility
   - Talent-Passive
+Tier: 1
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Social
+Image:
 ---
 **Tier:** 1
 **Activation:** Passive

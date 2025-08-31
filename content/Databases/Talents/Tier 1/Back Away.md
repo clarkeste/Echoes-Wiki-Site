@@ -4,6 +4,16 @@ tags:
   - Talent-Active
   - Talent-Positioning
   - Talent-Combat-Oriented
+Tier: 1
+Activation:
+  - Active (Maneuver)
+Ranked: false
+Unlisted: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+Image:
+Magic: false
 ---
 **Tier:** 1
 **Activation:** Active (Maneuver)

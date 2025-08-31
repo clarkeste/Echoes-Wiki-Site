@@ -2,6 +2,28 @@
 tags:
   - Items
   - Items-Premium
+Location:
+Damage:
+Critical Rating:
+Skill Used:
+Range:
+Encumbrance: 5
+Qualities:
+Soak: 1
+Defense: 0
+Special Effect: +2 [[Damage|Damage]] to all successful [[Attack Check|Attack Checks]].
+Price: 11000
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: true
+Is Weapon: false
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image:
 ---
 Ramshackle but effective, this armor is often made of leather but reinforced with steel in important locations, such as the shoulder. It is the favorite of mercenaries, travelers who require heavier but not limiting equipment, or thugs who wish to intimidate their victims.
 ![]()

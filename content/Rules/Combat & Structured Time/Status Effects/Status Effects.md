@@ -6,7 +6,7 @@ tags:
   - Rules
   - Combat
   - Combat-Modifiers
-feature: thumbnails/external/88b612bdea11138c5ca2ffc53c3500f0.png
+Image: "[[Images/thumbnails/external/88b612bdea11138c5ca2ffc53c3500f0.png]]"
 ---
 Status Effects include [[Disoriented|Disoriented]], [[Prone|Prone]], [[Staggered|Staggered]], [[Immobilized|Immobilized]], [[Debilitated|Debilitated]], and [[Oppressed|Oppressed]]. While not true for every Status Effect, most of them can be added on [[RPGSessions|RPGSessions]] for easy tracking.
 

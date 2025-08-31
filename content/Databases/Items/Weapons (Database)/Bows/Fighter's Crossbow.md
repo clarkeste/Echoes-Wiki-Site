@@ -2,7 +2,36 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/876024992a863c147cffc43d03c2fb1c.png
+Location:
+Damage: 10
+Critical Rating: 2
+Skill Used:
+  - Ranged
+Range: Long
+Encumbrance: 2
+Qualities:
+  - Accurate 2
+  - Prepare 1
+  - Pierce 3
+  - Superior
+  - Accurate
+  - Prepare
+  - Pierce
+Soak:
+Defense:
+Special Effect: Crossbows are one-handed [[Weapons]], unlike nearly all other [[Ranged]] Weapons.
+Price: 36000
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/876024992a863c147cffc43d03c2fb1c.png]]"
 ---
 The Fighter’s Crossbow represents the pinnacle of ranged technology in Hyrule. Despite the controversy when the Fighter’s brand ceased production of their traditional bow, the Fighter’s Crossbow has been a massive hit with those interested in self-defense and training.
 ![](https://i.imgur.com/LBQPMkJ.png)

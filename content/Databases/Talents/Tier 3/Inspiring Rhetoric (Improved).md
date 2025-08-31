@@ -5,6 +5,18 @@ tags:
   - Talent-Combat-Oriented
   - Talent-Social-Oriented
   - Talent-Setbacks-and-Boosts
+Tier: 3
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 15
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 3
 **Activation:** Active (Action)

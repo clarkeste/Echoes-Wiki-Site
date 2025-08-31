@@ -1,5 +1,5 @@
 ---
-feature: thumbnails/external/e855b302797fb8c422a61b2ebac72b7b.png
+Image: "[[Images/thumbnails/external/e855b302797fb8c422a61b2ebac72b7b.png]]"
 ---
 Stalfos are skeletal creatures that are condemned to infinitely act out the repetitive routines of what they were in their past life. The true memory is dead, but a sort of muscle memory remains, their movements just the rote movements of a body repeating its final commands from a mind that no longer exists.
 

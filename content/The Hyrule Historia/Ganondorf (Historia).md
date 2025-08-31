@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Ganondorf
   - hidden
 tags: []
+title: Ganondorf
 ---
 Due to the [[The Gerudo|Gerudo]]’s isolation from the rest of the world, little is known about the boy who would eventually become the Gerudo Chief and travel to [[Hyrule|Hyrule]] to die nobly for our [[Former Hyrulean Government and Royal Family|monarchy]], spurning the legacy of his namesake. However, from what was told to us by this Ganondorf and our knowledge of their past customs, we can paint a reasonably accurate picture of Ganondorf’s early life. The life of an individual whose long-dead namesake, the [[Ganondorf Dragmire|Demon King Dragmire]], hung over him like a shadow.
 

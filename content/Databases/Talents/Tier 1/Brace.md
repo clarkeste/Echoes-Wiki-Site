@@ -4,6 +4,17 @@ tags:
   - Talent-Active
   - Talent-Combat-Oriented
   - Talent-Setbacks-and-Boosts
+Tier: 1
+Activation:
+  - Active (Maneuver)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+  - General
+Image:
 ---
 **Tier:** 1
 **Activation:** Active (Maneuver)

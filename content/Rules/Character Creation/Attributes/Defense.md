@@ -5,7 +5,7 @@ tags:
   - Characters
   - Rules
   - Stats
-feature: thumbnails/external/972a5f04f174493c1b2cb114a2d27c4b.png
+Image: "[[Images/thumbnails/external/972a5f04f174493c1b2cb114a2d27c4b.png]]"
 ---
 Defense increases the chance to entirely avoid [[Damage|Damage]], by adding [[Setback Dice|Setbacks]] to an opposing [[Attack Check|Attack Check]]. It represents things such as thick armor or strong shield that would cause blows to bounce off, or the ability to dodge or parry a blow with your own [[Weapons|Weapon]].
 

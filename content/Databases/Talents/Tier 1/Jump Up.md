@@ -5,6 +5,16 @@ tags:
   - Talent-Combat-Oriented
   - Talent-Positioning
   - Talent-Turn-Economy
+Tier: 1
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 1
 **Activation:** Active (Incidental)

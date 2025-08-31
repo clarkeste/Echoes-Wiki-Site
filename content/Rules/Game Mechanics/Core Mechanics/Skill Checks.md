@@ -11,7 +11,7 @@ tags:
   - Stats
   - RPGSessions
   - Skills
-feature: thumbnails/external/11493eb5e2696d87b440b33a8d893721.png
+Image: "[[Images/thumbnails/external/11493eb5e2696d87b440b33a8d893721.png]]"
 ---
 Skill Checks are whenever your or another [[Character|Character]] does something in which its success could be in doubt. This could be lock-picking a door while [[Adversary|Bokoblins]] bear down on you, swinging your sword at an enemy combatant, or trying to jump across a gap, of which you cannot see the bottom.
 

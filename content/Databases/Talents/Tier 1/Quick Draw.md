@@ -6,6 +6,16 @@ tags:
   - Talent-Active
   - Talent-Duelist
   - Talent-Ranged
+Tier: 1
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 1
 **Activation:** Active (Incidental)

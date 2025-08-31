@@ -5,6 +5,16 @@ tags:
   - Talent-Combat-Oriented
 aliases:
   - Killing You
+Tier: 4
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 4 
 **Activation:** Active (Action) 

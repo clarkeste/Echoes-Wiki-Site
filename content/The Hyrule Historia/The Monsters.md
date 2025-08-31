@@ -1,8 +1,9 @@
 ---
 aliases:
   - monstrous beings
-  - monsters
   - hidden
+  - Monster
+  - Monsters
 tags: []
 ---
 *Are you looking for the article about the playable People of the same name? Check out [[Monsters]].*

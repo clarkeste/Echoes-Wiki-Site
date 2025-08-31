@@ -5,6 +5,15 @@ tags:
   - Talent-Strain-Spending
   - Talent-Combat-Oriented
   - Talent-Positioning
+Tier: 1
+Activation:
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 1 
 **Activation:** Active (Incidental) 

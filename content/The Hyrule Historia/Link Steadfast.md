@@ -17,7 +17,7 @@ There are no official or unofficial records of what happened to Link Steadfast d
 
 Steadfast was likely corrupted into a cynical man during his time on the run. He chose to ally with a group that wanted to kill a friend who trusted in him, and her entire family. So much that he became indispensable to a cruel woman who sought to kill what he’d once held dear. He chose the Parliamentarians over our Princess. 
 
-Years later, shortly before the [[Revolution and Second Civil War|Revolution]], [[Ganondorf|Ganondorf]] reported fighting who would later be identified as Steadfast when he discovered the Follower base at Lon Lon Ranch. Steadfast, however, escaped.
+Years later, shortly before the [[Revolution and Second Civil War|Revolution]], [[Ganondorf (Historia)|Ganondorf]] reported fighting who would later be identified as Steadfast when he discovered the Follower base at Lon Lon Ranch. Steadfast, however, escaped.
 
 On the day of the Revolution, hours before it began, Steadfast was in a raid along with the Confessor and the [[Master Kohga|Believer]] on [[Lanayru Citadel|Lanayru Citadel]] to free prisoners, including some of his old Parliamentarian compatriots. At the evening of that day, he and the Confessor staged the now famous—or infamous—[[Broadcast|speech which was broadcast]] into every water reflection and fiery torch in every major city in [[Hyrule|Hyrule]], where he showed that he had gained the [[Master Sword|Master Sword]]. This was the last push the Revolutionaries needed to launch their attack.
 

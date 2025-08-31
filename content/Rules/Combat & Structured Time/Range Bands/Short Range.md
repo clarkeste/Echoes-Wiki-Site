@@ -6,7 +6,7 @@ tags:
   - Rules
   - Combat
   - Difficulty
-feature: thumbnails/external/fe49d88e03417a4a530a71ca7ccedb26.png
+Image: "[[Images/thumbnails/external/fe49d88e03417a4a530a71ca7ccedb26.png]]"
 ---
 Short Range indicates a close distance, but one that cannot be reached by most melee weapons, with the exceptions of particularly long spears. Two people in Short Range can talk comfortably without raising their voices.
 

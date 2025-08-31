@@ -6,6 +6,17 @@ tags:
   - Talent-Social-Oriented
 aliases:
   - Scathing Tirade
+Tier: 2
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - Social
+  - Combat
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Action) 

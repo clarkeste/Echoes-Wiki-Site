@@ -3,6 +3,18 @@ tags:
   - Tier-5
   - Talent-Active
   - Talent-Defense
+Tier: 5
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 25
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 5
 **Activation:** Active (Incidental)

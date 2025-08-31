@@ -4,7 +4,32 @@ aliases:
 tags:
   - Items
   - Items-Affordable
-feature: thumbnails/external/70d58a59811cc1ecc8ef0f7af42c2e9e.png
+Location:
+Damage: 4
+Critical Rating: 4
+Skill Used:
+  - Melee (Heavy)
+Range: Engaged
+Encumbrance: 3
+Qualities:
+  - Knockdown
+  - Inaccurate 1
+  - Inaccurate
+Soak:
+Defense:
+Special Effect: If the [[Character]] using this [[Weapons|Weapon]] disarms another Character, the [[Items|Item]] that was disarmed flies to [[Short Range|Short Range]] as opposed to landing at [[Engaged Range|Engaged Range]] like usual.
+Price: 900
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/70d58a59811cc1ecc8ef0f7af42c2e9e.png]]"
 ---
 A basic two-handed sword often wielded by aspiring adventurers. Its weight can knock enemies' shields right out of their hands.
 ![](https://i.imgur.com/o6VVEMa.png)

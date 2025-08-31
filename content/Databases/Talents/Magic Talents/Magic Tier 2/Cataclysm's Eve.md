@@ -4,6 +4,18 @@ tags:
   - Talent-Passive
   - Talent-Utility
   - Talent-Setbacks-and-Boosts
+Tier: 2
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 10
+Talent Genre:
+  - General
+  - Combat
+  - Social
+Image:
 ---
 **Tier:** 2
 **Activation:** Passive

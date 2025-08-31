@@ -4,6 +4,7 @@ aliases:
 tags:
   - Rules
   - Stats
+Image: "[[Images/thumbnails/youtube/WDlZ_SXx5gA.jpg]]"
 ---
 This [[Social Skills|Social Skill]] measures the character's general likability, in whatever way that may take shape—such as good looks, flattery, or simply their kindness and good-nature being evident for all to see. Different [[Approach|Approaches]] might do better with different people. It is tied to [[Presence|Presence]].
 

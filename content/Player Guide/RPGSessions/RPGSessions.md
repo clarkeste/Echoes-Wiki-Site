@@ -5,7 +5,7 @@ aliases:
 tags:
   - Guide
   - RPGSessions
-feature: thumbnails/external/7488df967edf906bf7d81dcf1412e23d.jpg
+Image: "[[Images/thumbnails/external/7488df967edf906bf7d81dcf1412e23d.jpg]]"
 ---
 RPGSessions is the online and interactive character sheet and [[Narrative Dice|Dice]] roller system that Echoes of the Departed uses. It boasts a full feature set, and robust mechanics for custom content.
 ![](https://i.imgur.com/0oLcnZe.jpg)

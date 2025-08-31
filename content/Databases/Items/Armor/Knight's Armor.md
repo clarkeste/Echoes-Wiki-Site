@@ -2,6 +2,28 @@
 tags:
   - Items
   - Items-Premium
+Location:
+Damage:
+Critical Rating:
+Skill Used:
+Range:
+Encumbrance: 5
+Qualities:
+Soak: 3
+Defense: 1
+Special Effect:
+Price: 25000
+Restricted: true
+Unique: false
+Unlisted: false
+Is Armor: true
+Is Weapon: false
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Royalists
+Image:
 ---
 Armor worn by the Knights and Soldiers who served the Royal Family of Hyrule; even still, its imposing metal and Hyrulean emblems symbolize the Kingdom.
 ![]()

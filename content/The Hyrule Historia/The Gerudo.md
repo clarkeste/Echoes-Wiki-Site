@@ -32,7 +32,7 @@ Gerudo are considered to be an ethnicity of human, much like the Hylians. They t
 
 Due to a quirk of their biology, the Gerudo have dominant genes; this means the Gerudo are a tribe that consists almost entirely of women, with a male being born only once every hundred years. According to tradition, this male is destined to become their king. When there is no male to be their king, the Gerudo are led by a chief with the position passed on from mother to daughter. 
 
-The most recent male is [[Ganondorf|Ganondorf]], who left his people in the care of a Chief while he traveled to Hyrule. There, attempting right the wrongs of the past, he met his demise at the hands of [[Link Steadfast|Link Steadfast]]. 
+The most recent male is [[Ganondorf (Historia)|Ganondorf]], who left his people in the care of a Chief while he traveled to Hyrule. There, attempting right the wrongs of the past, he met his demise at the hands of [[Link Steadfast|Link Steadfast]]. 
 
 The lack of males of their own ethnicity means that the Gerudo primarily enter relationships with other peoples. Before, this was [[The Hylians|Hylians]]; now, many Gerudo take Zuna husbands. 
 

@@ -3,6 +3,16 @@ tags:
   - Tier-4
   - Talent-Active
   - Talent-Utility
+Tier: 4
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 20
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 4
 **Activation:** Active (Action)

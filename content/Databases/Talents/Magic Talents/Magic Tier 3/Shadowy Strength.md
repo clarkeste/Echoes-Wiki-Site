@@ -4,6 +4,16 @@ tags:
   - Talent-Passive
   - Talent-Sneaky
   - Talent-Setbacks-and-Boosts
+Tier: 3
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 15
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 3
 **Activation:** Passive

@@ -5,6 +5,18 @@ tags:
   - Talent-Tactics-and-Leadership
   - Tier-1
   - Talent-Ranked
+Tier: 1
+Activation:
+  - Passive
+Ranked: true
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 1
 **Activation:** Passive

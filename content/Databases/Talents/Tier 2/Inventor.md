@@ -5,6 +5,16 @@ tags:
   - Talent-Setbacks-and-Boosts
   - Talent-Active
   - Talent-Crafting-Oriented
+Tier: 2
+Activation:
+  - Active (Incidental)
+Ranked: true
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

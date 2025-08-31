@@ -5,6 +5,16 @@ tags:
   - Talent-Positioning
   - Talent-Turn-Economy
   - Talent-Duelist
+Tier: 2
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

@@ -1,23 +1,3 @@
----
-aliases:
-  - capital of Hyrule
-  - Castle Town
-  - capital
-  - city
-Region: Central Hyrule
-City, Village: Castle Town
-Location Type:
-  - City
-Size: Metropolis
-Population: 1.7m
-Country: Hyrule
-Building: false
-Non-Unique: false
-Secret: false
-Context:
-Loyalty:
-  - Followers
----
 **Castle Town** is the capital of the [[Hyrule|Kingdom of Hyrule]], and is currently in the control of the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]], the very same Revolutionaries that captured the city.
 
 Since time immemorial, Castle Town has served as the center of Hyrule's [[Former Hyrulean Government and Royal Family|government]]. While initially it was only a village, it has grown over the millennia, including its most famous feature—[[Hyrule Castle|Hyrule Castle]]. Census reports are inconclusive, but it is believed that the current population of Castle Town is over a million, making up a little over 7% of the nation's population. It is thought to be the most dense city in the world. [[Capitalist and Nobleman Class|Nobility]] and those involved with the national government often made their abode here, due to the closeness to the [[Last King of Hyrule|King]]. Due to this large population and its proximity to government, many political activist groups have had their start in Castle Town, such as the [[Castle Town Parliamentarians|Castle Town Parliamentarians]]. Activists in Castle Town have a reputation for being more moderate and labor-oriented, but that stereotype is just as often untrue.

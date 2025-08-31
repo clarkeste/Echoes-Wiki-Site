@@ -3,6 +3,17 @@ tags:
   - Tier-2
   - Talent-Ship
   - Talent-Strain-Spending
+Tier: 2
+Activation:
+  - Active (Incidental)
+  - (Out-of-Turn)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Incidental, Out of Turn)

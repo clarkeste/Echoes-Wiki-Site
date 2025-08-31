@@ -3,7 +3,7 @@ aliases:
   - Genesys Core Rulebook.
 tags:
   - Meta
-feature: thumbnails/external/8fca6cf6e672416231cfd62615a173c0.png
+Image: "[[Images/thumbnails/external/8fca6cf6e672416231cfd62615a173c0.png]]"
 ---
 ![](https://i.imgur.com/oxCyMTB.png)
 

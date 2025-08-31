@@ -2,7 +2,39 @@
 tags:
   - Items
   - Items-Affordable
-feature: thumbnails/external/6ae6cdd5d9afde4b3ce3012b87e9dcea.png
+Location:
+Damage: 7
+Critical Rating: 5
+Skill Used:
+  - Melee (Heavy)
+Range: Engaged
+Encumbrance: 5
+Qualities:
+  - Knockdown
+  - Disorient 2
+  - Cumbersome 5
+  - Stun 3
+  - Prepare 1
+  - Disorient
+  - Cumbersome
+  - Stun
+  - Prepare
+Soak:
+Defense:
+Special Effect: If the [[Character]] using this [[Weapons|Weapon]] disarms another Character, the [[Items|Item]] that was disarmed flies to [[Short Range|Short Range]] as opposed to landing at [[Engaged Range|Engaged Range]] like usual.
+Price: 4800
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Neutrality
+  - Gorons
+Image: "[[Images/thumbnails/external/6ae6cdd5d9afde4b3ce3012b87e9dcea.png]]"
 ---
 A two-handed weapon forged from rare metals mined in [[Gorons|Goron]] City. Its center of gravity is at its tip, so it uses centrifugal force and its sheer weight to smash opponents flat.
 ![](https://i.imgur.com/Sb6eviz.png)

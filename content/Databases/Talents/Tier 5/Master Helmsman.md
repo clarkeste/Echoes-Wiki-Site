@@ -6,6 +6,17 @@ tags:
   - Talent-Mounts
   - Talent-Active
   - Talent-Turn-Economy
+Tier: 5
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 25
+Talent Genre:
+  - Combat
+  - General
+Image:
 ---
 **Tier:** 5 
 **Activation:** Active (Incidental) 

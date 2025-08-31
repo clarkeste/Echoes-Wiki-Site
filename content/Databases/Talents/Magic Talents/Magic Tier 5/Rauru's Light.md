@@ -4,6 +4,16 @@ tags:
   - Talent-Active
   - Talent-Turn-Economy
   - Talent-Combat-Oriented
+Tier: 5
+Activation:
+  - Active (Maneuver)
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 25
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 5
 **Activation:** Active (Maneuver)

@@ -4,6 +4,18 @@ tags:
   - Talent-Active
   - Talent-Strain-Recovering
   - Talent-Characteristics
+Tier: 2
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 2 
 **Activation:** Active (Incidental) 

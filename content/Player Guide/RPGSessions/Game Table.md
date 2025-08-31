@@ -4,7 +4,7 @@ aliases:
 tags:
   - Guide
   - RPGSessions
-feature: thumbnails/external/71c09eaf522874e7825f7e20f87c0009.png
+Image: "[[Images/thumbnails/external/71c09eaf522874e7825f7e20f87c0009.png]]"
 ---
 The Game Table is the center of the game, on the [[RPGSessions]] website. While most of its functions can be achieved using the [[RPGSessions Bot]], using the Game Table offers both integration with the server and an intuitive GUI.
 

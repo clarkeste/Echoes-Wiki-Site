@@ -11,7 +11,7 @@ tags:
   - Rules
   - Dice
   - Difficulty
-feature: thumbnails/external/f85b19edb37b00ec8a51acc2af7c2ba5.png
+Image: "[[Images/thumbnails/external/f85b19edb37b00ec8a51acc2af7c2ba5.png]]"
 ---
 Difficulty refers to the Difficulty of a check. It refers to the base Difficulty, divorced from additional [[Challenge Dice]] or [[Setback Dice]]. The base Difficulty is represented via [[Difficulty Dice]].
 

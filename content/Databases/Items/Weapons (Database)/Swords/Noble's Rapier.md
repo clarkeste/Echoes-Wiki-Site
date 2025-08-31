@@ -2,7 +2,34 @@
 tags:
   - Items
   - Items-Affordable
-feature: thumbnails/external/cefea387017863f7a77880a9699e5f41.png
+Location:
+Damage: 3
+Critical Rating: 3
+Skill Used:
+  - Melee (Light)
+Range: Engaged
+Encumbrance: 2
+Qualities:
+  - Accurate 1
+  - Defensive 2
+  - Superior
+  - Accurate
+  - Defensive
+Soak:
+Defense:
+Special Effect:
+Price: 18000
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/cefea387017863f7a77880a9699e5f41.png]]"
 ---
 A sword often used by Noblemen for self-defense. Its high price-tag is in part thanks to the adornments that line the blade, and the status of carrying one.
 ![](https://i.imgur.com/yHoiClJ.png)

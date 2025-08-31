@@ -12,7 +12,7 @@ In Holodrum, Rupees are also used. To denote the difference, they are usually ca
 
 In [[Labrynna|Labrynna]], coinage is used, with the face of historical [[Queen Ambi|monarchs]] and Prime Ministers on its front, and a seal from the Labrynnan government on the back. These are rarely used outside of Labrynna, although of course currency exchanges exist.
 
-Various smaller domains may have their own currencies, such as the [[Zuna|Zuna]], who use Shillings. The [[The Gerudo|Gerudo]] are unique in that they have no formalized currency, as far as we know, and primarily use a bartering system. The rest of the world, however, uses either Hyrulean or Holodrumian Rupees, with a minority using Labrynnan coinage.
+Various smaller domains may have their own currencies, such as the [[Zuna Republic|Zuna]], who use Shillings. The [[The Gerudo|Gerudo]] are unique in that they have no formalized currency, as far as we know, and primarily use a bartering system. The rest of the world, however, uses either Hyrulean or Holodrumian Rupees, with a minority using Labrynnan coinage.
 
 The exchange rates are intentionally not listed in the [[(Beginning of the Historia)|Hyrule Historia]], as—considering current events—it is quite volatile.
 

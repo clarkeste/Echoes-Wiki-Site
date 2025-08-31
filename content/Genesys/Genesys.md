@@ -1,7 +1,7 @@
 ---
 tags:
   - Meta
-feature: thumbnails/external/0ba67ace5df3a5239d76ac0e03446565.jpg
+Image: "[[Images/thumbnails/external/0ba67ace5df3a5239d76ac0e03446565.jpg]]"
 ---
 ![](https://i.imgur.com/kY65Wqt.jpeg)
 

@@ -4,6 +4,17 @@ tags:
   - Talent-Active
   - Talent-Ship
   - Talent-Characteristics
+Tier: 3
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 15
+Talent Genre:
+  - Combat
+  - General
+Image:
 ---
 **Tier:** 3
 **Activation:** Active (Action)

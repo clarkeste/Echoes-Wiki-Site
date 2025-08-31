@@ -6,6 +6,17 @@ tags:
   - Talent-Defense
   - Talent-Positioning
   - Talent-Turn-Economy
+Tier: 5
+Activation:
+  - Active (Incidental)
+  - (Out-of-Turn)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 25
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 5 
 **Activation:** Active (Incidental, Out of Turn) 

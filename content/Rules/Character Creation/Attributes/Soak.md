@@ -6,7 +6,7 @@ tags:
   - Rules
   - Stats
   - RPGSessions
-feature: thumbnails/external/187e8cf79f5e524ed62ac6a6e5f207f9.png
+Image: "[[Images/thumbnails/external/187e8cf79f5e524ed62ac6a6e5f207f9.png]]"
 ---
 Soak is the ability to endure or reduce [[Damage|Damage]] that would otherwise cause [[Wounds|Wounds]], usually conferred by armor or [[Brawn|Brawn]].
 

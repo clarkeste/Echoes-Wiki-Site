@@ -7,6 +7,18 @@ tags:
   - Talent-Derived-Attributes
   - Talent-Wounds
   - Talent-Ranked
+Tier: 1
+Activation:
+  - Passive
+Ranked: true
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - General
+  - Combat
+  - Social
+Image:
 ---
 **Tier:** 1 
 **Activation:** Passive 

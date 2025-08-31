@@ -3,6 +3,16 @@ tags:
   - Tier-2
   - Talent-Active
   - Talent-Potion-Oriented
+Tier: 2
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

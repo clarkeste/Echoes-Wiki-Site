@@ -3,6 +3,16 @@ tags:
   - Talent-Spells
   - Talent-Active
   - Talent-Positioning
+Tier: 2
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 10
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Action)

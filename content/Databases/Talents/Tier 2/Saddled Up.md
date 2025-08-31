@@ -4,6 +4,16 @@ tags:
   - Talent-Active
   - Talent-Utility
   - Talent-Mounts
+Tier: 2
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

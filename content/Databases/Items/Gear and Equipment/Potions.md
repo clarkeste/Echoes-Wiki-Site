@@ -2,7 +2,7 @@
 tags:
   - Items
   - Items-Affordable
-feature: thumbnails/external/3337f9a215614ad071b9abe0e0c1e6d8.png
+Image: "[[Images/thumbnails/external/3337f9a215614ad071b9abe0e0c1e6d8.png]]"
 ---
 Potions, created via [[Potion Creation|alchemy]], are among the most valuable [[Items]] in Hyrule. They can serve a wide variety of services to a wide variety of people, such as increasing one’s energy, increasing one’s hardiness, or even something as simple as being used by insomniacs for a peaceful night of rest.
 

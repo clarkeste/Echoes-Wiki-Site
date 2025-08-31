@@ -4,6 +4,16 @@ tags:
   - Talent-Social-Oriented
   - Talent-Active
   - Talent-Setbacks-and-Boosts
+Tier: 2
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 10
+Talent Genre:
+  - Social
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Incidental)

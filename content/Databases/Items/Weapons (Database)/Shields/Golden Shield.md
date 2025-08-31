@@ -2,7 +2,36 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/29b09b2ac5badbca8b8c2d0f5a741f91.png
+Location:
+Damage: 3
+Critical Rating: 3
+Skill Used:
+  - Melee (Light)
+Range: Engaged
+Encumbrance: 1
+Qualities:
+  - Disorient 1
+  - Concussive 1
+  - Defensive 2
+  - Knockdown
+  - Disorient
+  - Concussive
+  - Defensive
+Soak:
+Defense:
+Special Effect:
+Price: 9500
+Restricted: true
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Gerudo
+Image: "[[Images/thumbnails/external/29b09b2ac5badbca8b8c2d0f5a741f91.png]]"
 ---
 A [[Weapons#Shields|Shield]] issued out to officers and captains among the [[Gerudo|Gerudo]] military. Gaining one requires explicit permission from the Gerudo Chief, and are gifted; but some are still sold illegally.
 ![](https://i.imgur.com/dTVaev7.png)

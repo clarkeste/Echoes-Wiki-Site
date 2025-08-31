@@ -6,7 +6,7 @@ tags:
   - Rules
   - Stats
   - RPGSessions
-feature: thumbnails/external/ce3ebcd067d294561fc94c2e989e84c6.png
+Image: "[[Images/thumbnails/external/ce3ebcd067d294561fc94c2e989e84c6.png]]"
 ---
 Strain is the stamina system of [[Echoes of the Departed|Echoes of the Departed]]. It represents physical exertion, mental exhaustion, and the tiredness both can inflict on the body.
 

@@ -4,6 +4,16 @@ tags:
   - Talent-Passive
   - Talent-Sneaky
   - Talent-Utility
+Tier: 1
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - General
+Image:
 ---
 **Tier:** 1
 **Activation:** Passive

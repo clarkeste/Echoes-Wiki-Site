@@ -3,11 +3,11 @@ tags:
   - Rules
   - Spell-Creation
 ---
-Allows the player to teleport. At its base value, it is similar to teleportation used by the Yiga and some other groups of Sheikah. 
+Allows the player to teleport. At its base value, it is similar to teleportation used by the Yiga and some other groups of [[Sheikah]]. 
 
 Its default [[Range Bands|Range]] is [[Short Range|Short]]. 
 
-The location that the target is teleported to can be anywhere within the Range of the Spell from the Spellcaster. For example, if the Spell has a Range of [[Long Range|Long]], the target can only be teleported to some place within Long Range of the original Spellcas
+The location that the target is teleported to can be anywhere within the Range of the Spell from the Spellcaster. For example, if the Spell has a Range of [[Long Range|Long]], the target can only be teleported to some place within Long Range of the original Spellcaster.
 
 Unless the target is an unwilling [[Character|Character]], the [[Difficulty]] of a Relocate Spell is dependent on the [[Silhouette]] (size) of the object or person that the Spellcaster is trying to move.
 

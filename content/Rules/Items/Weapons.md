@@ -1,8 +1,8 @@
 ---
 aliases:
   - Weapon's
-  - weapons
-  - weapon
+  - Weapons
+  - Weapon
 tags:
   - Rules
   - Characters

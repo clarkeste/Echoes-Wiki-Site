@@ -3,6 +3,16 @@ tags:
   - Talent-Spells
   - Talent-Social-Oriented
   - Talent-Active
+Tier: 1
+Activation:
+  - Active (Incidental)
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 5
+Talent Genre:
+  - Social
+Image:
 ---
 **Tier:** 1
 **Activation:** Active (Incidental)

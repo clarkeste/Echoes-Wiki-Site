@@ -2,7 +2,32 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/e99b6aa275ebf9e2b5d94dd1946de77b.png
+Location:
+Damage: 10
+Critical Rating: 2
+Skill Used:
+  - Ranged
+Range: Medium
+Encumbrance: 2
+Qualities:
+  - Superior
+  - Daring Reprisal
+Soak:
+Defense:
+Special Effect: When making an [[Attack Check]], may suffer any amount of [[Strain]] to add [[Boost Dice]] equal to half the amount of Strain suffered.
+Price: 31000
+Restricted: true
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Royalists
+  - Royal Family
+Image: "[[Images/thumbnails/external/e99b6aa275ebf9e2b5d94dd1946de77b.png]]"
 ---
 In the past, the King of Hyrule presented this bow to only the most talented archers in the land. Its combat capabilities are as impressive as its extravagant design.
 ![](https://i.imgur.com/JtlRRnF.png)

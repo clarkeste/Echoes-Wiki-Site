@@ -2,6 +2,18 @@
 tags:
   - Tier-5
   - Talent-Passive
+Tier: 5
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 25
+Talent Genre:
+  - Combat
+  - General
+  - Social
+Image:
 ---
 **Tier:** 5
 **Activation:** Passive

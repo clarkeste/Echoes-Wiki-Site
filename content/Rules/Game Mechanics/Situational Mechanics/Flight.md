@@ -1,3 +1,7 @@
+---
+aliases:
+  - Fly
+---
 Some [[Character|Characters]] in [[Echoes of the Departed]] are gifted with the natural ability to fly and soar through the air; to glide like birds, or flap and hover like bats.
 
 Characters with Flight have a Speed rating, and therefore operate similarly to Mounts in [[Horses and Mounts]]. Their Speed Rating is determined by the [[Peoples]] they belong to.

@@ -2,6 +2,34 @@
 tags:
   - Items
   - Items-Premium
+Location:
+Damage: 11
+Critical Rating: 3
+Skill Used:
+  - Ranged
+Range: Long
+Encumbrance: 10
+Qualities:
+  - Auto-Fire
+  - Clumsy
+  - Pierce 3
+  - Pierce
+Soak:
+Defense:
+Special Effect: Can be destroyed with a [[Maneuvers|Maneuver]] or two [[Advantage]] when in [[Engaged Range]].
+Price: 45000
+Restricted: true
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Followers
+  - Royalists
+Image:
 ---
 A type of [[Hyrulean Crossbow|Crossbow]] that is the size of an adult [[Hylians|Hylian]], and is treated as a stationary Weapon emplacement. It can rapidly fire Crossbow bolts, with even more force than a hand-held Crossbow.
 

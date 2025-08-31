@@ -2,7 +2,38 @@
 tags:
   - Items
   - Items-Affordable
-feature: thumbnails/external/d7b2f1055032f3d71435f928dfe416cc.png
+Location:
+Damage: 2
+Critical Rating: 4
+Skill Used:
+  - Melee (Heavy)
+Range: Engaged
+Encumbrance: 4
+Qualities:
+  - Concussive 1
+  - Cumbersome 3
+  - Disorient 2
+  - Knockdown
+  - Stun 2
+  - Concussive
+  - Cumbersome
+  - Disorient
+  - Stun
+Soak:
+Defense:
+Special Effect:
+Price: 2400
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - None
+Image: "[[Images/thumbnails/external/d7b2f1055032f3d71435f928dfe416cc.png]]"
 ---
 Large hammers are rare, but not unheard of; unlike Hylians and other species who often use hammers no bigger than their palm, Gorons have often produced these larger hammers to fit their frame.
 ![](https://i.imgur.com/S5zSvjE.png)

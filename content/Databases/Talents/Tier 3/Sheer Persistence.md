@@ -6,6 +6,16 @@ tags:
   - Talent-Turn-Economy
   - Talent-Utility
   - Talent-Ranked
+Tier: 3
+Activation:
+Ranked: true
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - General
+  - Social
+Image:
 ---
 **Tier:** 3
 **Activation:** Active (Incidental)

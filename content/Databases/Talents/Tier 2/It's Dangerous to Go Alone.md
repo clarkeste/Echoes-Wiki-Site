@@ -6,6 +6,17 @@ tags:
   - Talent-Defense
   - Talent-Tactics-and-Leadership
   - Talent-Duelist
+Tier: 2
+Activation:
+  - Active (Incidental)
+  - (Out-of-Turn)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Incidental, Out Of Turn)

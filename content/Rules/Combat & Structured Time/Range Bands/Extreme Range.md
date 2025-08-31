@@ -7,7 +7,7 @@ tags:
   - Rules
   - Combat
   - Difficulty
-feature: thumbnails/external/db3c50c8fd40736393c6e4b8ad7c074e.png
+Image: "[[Images/thumbnails/external/db3c50c8fd40736393c6e4b8ad7c074e.png]]"
 ---
 Extreme range is the farthest range at which two personal-scale targets can interact. Extremely precise bows and long-bows may reach out to this range—although with reduced accuracy. Two people at Extreme range may not be able to hear each other even if they shout, depending on the terrain and weather conditions.
 

@@ -13,7 +13,7 @@ The name first appeared in intercepted letters to and from other Chosen in the F
 
 Over a decade and a half, the Followers grew and grew under the watchful eye of the Pragmatist. This shadowy figure continued to give their lieutenants orders and instructions. 
 
-Approximately half a decade ago, this led to an attempt to capture the the only Gerudo male at the time—[[Ganondorf|Ganondorf]]—to complete a dark ritual intended to revive [[Ganondorf Dragmire|Dragmire]], their worshipped lord. Such an attempt failed, but spawned a dedicated enemy for the Followers of Dragmire, and the Pragmatist themself. The King of the [[The Gerudo|Gerudo]], Ganondorf.
+Approximately half a decade ago, this led to an attempt to capture the the only Gerudo male at the time—[[Ganondorf (Historia)|Ganondorf]]—to complete a dark ritual intended to revive [[Ganondorf Dragmire|Dragmire]], their worshipped lord. Such an attempt failed, but spawned a dedicated enemy for the Followers of Dragmire, and the Pragmatist themself. The King of the [[The Gerudo|Gerudo]], Ganondorf.
 
 It is believed that the appearance of Ganondorf in Hyrule during the [[Festival of the Flood|Festival of the Flood]] expedited the plans of the Pragmatist. They attacked [[Hyrule Castle|Hyrule Castle]] immediately, perhaps hoping that the Gerudo would support them; instead, however, Ganondorf seemingly killed one of the Chosen and Lieutenants of the Pragmatist, the [[The Sorcerer|Sorcerer]].
 
@@ -23,6 +23,6 @@ After failing, the Followers revealed their final card: [[Link Steadfast|Link St
 
 During this time, the whereabouts of the Pragmatist are unknown; the individuals leading the Revolutionary armies were the Confessor and the Believer. However, the King and his [[The Council|councilmen]] suspected that someone high-ranking inside Hyrule Castle was acting as a spy, and was indeed the Pragmatist. They would never discover this spy before their demise.
 
-When [[Ganondorf|Ganondorf]] died inside Hyrule Castle and the [[Castle Town|city]] was taken by the Revolutionaries, further mentions or letters from the Pragmatist ceased. It is rumored that the Confessor told her colleagues that the Pragmatist had deemed that their goal was complete: that the business of civil war and what came after the death of the King was not the Pragmatist’s responsibility. Some, however, speculate that the Pragmatist died during the assault, or that they took another name.
+When [[Ganondorf (Historia)|Ganondorf]] died inside Hyrule Castle and the [[Castle Town|city]] was taken by the Revolutionaries, further mentions or letters from the Pragmatist ceased. It is rumored that the Confessor told her colleagues that the Pragmatist had deemed that their goal was complete: that the business of civil war and what came after the death of the King was not the Pragmatist’s responsibility. Some, however, speculate that the Pragmatist died during the assault, or that they took another name.
 
 The most popular theory accuses [[Lakoh|Lakoh]] of being the Pragmatist, and therefore the spy inside Hyrule Castle. However, this seems unlikely, as there is little evidence of dissidence on the part of Lakoh before the final days of the Royalist government.

@@ -2,7 +2,41 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/acc572ec9ff59a34ad36430cf5751d0c.png
+Location:
+Damage: 4
+Critical Rating: 3
+Skill Used:
+  - Melee (Light)
+Range: Short
+Encumbrance: 2
+Qualities:
+  - Pierce 5
+  - Disorient 3
+  - Stun 3
+  - Water Warrior
+  - Defensive 2
+  - Unwieldy 4
+  - Pierce
+  - Disorient
+  - Stun
+  - Defensive
+  - Unwieldy
+Soak:
+Defense:
+Special Effect:
+Price: 21000
+Restricted: false
+Unique: false
+Unlisted: false
+Is Armor: false
+Is Weapon: true
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Followers
+  - Zora
+Image: "[[Images/thumbnails/external/acc572ec9ff59a34ad36430cf5751d0c.png]]"
 ---
 The most skilled [[Zora|Zora]] fighters wield this spear. Its beautiful fish-tail design belies its impressive strength; the spearhead can pierce even the toughest scales.
 ![](https://i.imgur.com/Ijv0HPq.png)

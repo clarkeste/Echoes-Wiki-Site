@@ -2,7 +2,34 @@
 tags:
   - Items
   - Items-Premium
-feature: thumbnails/external/29274edb59a938d9a88d72a556023343.png
+Location:
+Damage: 6
+Critical Rating: 1
+Skill Used:
+  - Ranged
+Range: Extreme
+Encumbrance: 1
+Qualities:
+  - Accurate 1
+  - Unwieldy 4
+  - Flammable
+  - Accurate
+  - Unwieldy
+Soak:
+Defense:
+Special Effect: Lower [[Difficulty]] of hitting targets at [[Long Range|Long]] and [[Extreme Range]] by one.
+Price: 33000
+Restricted: true
+Unique: false
+Unlisted: false
+Is Armor: true
+Is Weapon: false
+Is Gear: false
+Country:
+Context:
+Loyalty:
+  - Sheikah
+Image: "[[Images/thumbnails/external/29274edb59a938d9a88d72a556023343.png]]"
 ---
 A bow passed down through the [[Sheikah|Sheikah]] tribe since time immemorial. Concentrating before drawing the string will allow its wielder to target distant enemies as easily as those nearby. Only a master can truly wield this bow.
 ![](https://i.imgur.com/GHLUbgT.png)

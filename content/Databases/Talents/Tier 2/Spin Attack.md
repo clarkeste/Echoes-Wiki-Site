@@ -5,6 +5,16 @@ tags:
   - Talent-Combat-Oriented
   - Talent-Duelist
   - Talent-Positioning
+Tier: 2
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Action)

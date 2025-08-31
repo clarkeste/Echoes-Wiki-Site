@@ -6,6 +6,17 @@ tags:
   - Talent-Utility
   - Talent-Turn-Economy
   - Talent-Mounts
+Tier: 2
+Activation:
+  - Active (Action)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - General
+  - Combat
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Action)

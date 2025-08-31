@@ -3,6 +3,16 @@ tags:
   - Talent-Spells
   - Talent-Passive
   - Talent-Combat-Oriented
+Tier: 3
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: true
+XP Cost: 15
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 3
 **Activation:** Passive

@@ -5,6 +5,16 @@ tags:
   - Talent-Combat-Oriented
   - Talent-Duelist
   - Talent-Strain-Spending
+Tier: 2
+Activation:
+  - Active (Maneuver)
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 10
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 2
 **Activation:** Active (Maneuver) 

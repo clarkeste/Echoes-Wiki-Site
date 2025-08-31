@@ -5,6 +5,16 @@ tags:
   - Talent-Combat-Oriented
   - Talent-Duelist
   - Talent-Passive
+Tier: 1
+Activation:
+  - Passive
+Ranked: false
+Unlisted: false
+Magic: false
+XP Cost: 5
+Talent Genre:
+  - Combat
+Image:
 ---
 **Tier:** 1
 **Activation:** Passive
