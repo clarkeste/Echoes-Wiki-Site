@@ -25,7 +25,7 @@ Loyalty:
   - Royalists
 Image:
 ---
-Armor worn by the Knights and Soldiers who served the Royal Family of Hyrule; even still, its imposing metal and Hyrulean emblems symbolize the Kingdom.
+Armor worn by the Knights and Soldiers who served the Royal Family of Hyrule; even still, its imposing plate metal and Hyrulean emblems symbolize the Kingdom.
 ![]()
 [[Soak|Soak]]: 3
 [[Defense|Defense]]: 1

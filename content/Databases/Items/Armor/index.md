@@ -24,7 +24,7 @@ The following are the articles in this folder:
 [[Hylian Calditin Clothes]]
 [[Knight's Armor]]
 [[Magic Armor]]
-[[Metal Vambraces]]
+[[Metal Vambraces & Brigandines]]
 [[Noble's Finery]]
 [[Rito Wingsuit]]
 [[Runner's Attire]]

@@ -133,7 +133,7 @@ A thick coat that protects against cold climates and can be worn over other clot
 [[Hylian Calditin Clothes]]
 Simple clothes designed to help a person stay cool in the searing desert.
 
-[[Metal Vambraces]]
+[[Metal Vambraces & Brigandines]]
 The favorite of many non-human species, such as the [[Zora]] or [[Gorons]], this armor is made up of scattered pieces of steel that covers areas such as the shoulders, elbows, head, and kneecaps.
 
 [[Noble's Finery]]

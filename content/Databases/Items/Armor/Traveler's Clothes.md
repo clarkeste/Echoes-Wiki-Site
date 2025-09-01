@@ -25,7 +25,7 @@ Loyalty:
   - None
 Image:
 ---
-A common garb popular in Hyrule and beyond, especially—as its name would imply—among travelers. Its light-yet-sturdy fabric doesn't limit movement.
+A common garb popular in Hyrule and beyond, especially—as its name would imply—among travelers. Its light-yet-sturdy and padded fabric doesn't limit movement.
 ![]()
 [[Soak|Soak]]: 1
 [[Defense|Defense]]: 0

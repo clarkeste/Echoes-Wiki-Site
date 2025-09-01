@@ -143,6 +143,38 @@ Some Cover may be significant enough to [[Dice Upgrade|upgrade]] the [[Difficult
 
 Cover can be in some cases be built by military engineers, and provide increasing significant benefits, or benefits against certain unit types. For example, the digging of trenches.
 
+#### Fortifications
+Fortifications are like Cover intensified. As opposed to just being advantageous terrain, they are areas or locations specifically designed to confer an advantage to the defenders.
+
+There are three main types of Fortifications.
+
+##### Walls
+
+##### Fortified Positions
+
+
+##### Citadels and Forts
+Large structures, like Castles, Towers or City walls, fall into the category of Citadels and Forts. These structures were often build hundreds of years ago when warfare was less advanced, but still confer a strong defensive benefit—and are used as central locations to manage supply or tactics, or an Artillery fort.
+
+Many of these Forts are very large on the inside, and entire Mass Combats can take place inside of them. However, if that occurs, the Fort has already been breached; the main purpose of a Fort is to prevent enemy armies from entering it, such as City walls prevent an enemy from entering.
+
+Forts of all types are commonly the victim of sieges, but have many areas where Units can be stationed to defend or gain the high-ground. Different Forts have increased or decreased bonuses, but this is the baseline:
+
+Ranged Units in Forts increase their Range by one [[Range Bands|Range Band]]. Damage on Units inside Forts is reduced by half, and successful Attacks targeting a Fort defender do not push the Unit back.
+
+Forts have their own [[Strain Threshold]]; a default of 100, but they can be repaired by adjacent Military Engineer Units.
+
+##### Entrenched Positions
+Trenches are a type of fortification that first began to see large usage in the Koridai-Labrynnan war, and now in the Civil War. It often occurs when the Artillery of both armies are placed out of range of each other, but within range of each army, and there is not enough space to maneuver for the purposes of flanking. This means that the space between the two armies can be pummeled with Artillery, but the Artillery itself remains safe from the enemy’s Artillery. Since the defender is benefitted in this situation, both sides often dig trenches to try and survive against Artillery assaults and hold their ground or prepare an attack.
+
+Trenches are therefore long tunnels dug into the ground, with man-made caves or bunkers underneath the earth made for soldiers to hide under during artillery barrages. The baseline of Trenches are the following:
+
+Units in Trenches take half-damage from Ranged Units, and add 2 [[Difficulty Dice]] to any Attack Check from Ranged Units. Units in Trenches cannot be pushed back, unless the Attacking Unit is also in the same Trench. If a Unit in the Trench is pushed back by another Unit in a Trench, they can only flee to another spot in the Trench. If there are no viable slots in a Trench, they are considered Surrounded. Often, Military Engineers can construct Trenches and make them better over time.
+
+Trench warfare often develops in conditions where both sides have significant Artillery emplacements, but are unable to use that Artillery to strike at the other side’s Artillery. Usually, this would result in maneuver warfare, each side attempting to get into a position where their Artillery could destroy the enemy’s. However, if the frontline is too narrow, the terrain not conducive to such a thing, or a piece of land particularly important to defend, armies will instead entrench their position and look for an opening to try and assault the enemy army so that their Infantry or Cavalry can bypass the enemy’s Trench and destroy the enemy’s Artillery, or simply take the Trench outright even despite the enemy’s shelling.
+
+In some cases, if one side holds Artillery dominance from a strategic prospective, the only remaining strategy of the defending side may be to Entrench—in which case they act to delay the inevitable, as army charges and heavy shelling will eventually break almost every Trench.
+
 
 ### Abilities
 Here is a list, although not exhaustive, of Abilities that various Units can have, that provide strategic bonuses or considerations.

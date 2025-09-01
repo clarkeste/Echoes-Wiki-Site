@@ -25,7 +25,7 @@ Loyalty:
   - None
 Image:
 ---
-A combination of metal shoulder, knee, or head plating, to provide defense only to vulnerable areas. This can be combined with civilian garments, or be worn on its own. Very common among species like the [[Zora|Zora]] or [[Gorons|Gorons]] who often wear little clothing to begin with.
+A combination of metal shoulder, knee, or head plating, to provide defense only to vulnerable areas. Usually, these armor pieces are combined with padded clothes, Brigandines, or similar minimal armor, when worn by Hylians and other humans. It can also be worn on its own or with civilian clothing, which is common among species like the [[Zora|Zora]] or [[Gorons|Gorons]] who often wear little clothing to begin with.
 ![]()
 [[Soak|Soak]]: 1
 [[Defense|Defense]]: 0

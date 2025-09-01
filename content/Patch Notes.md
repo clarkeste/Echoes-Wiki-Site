@@ -1,4 +1,5 @@
 
+
 # 1.3.1
 
 ### Items
@@ -13,6 +14,8 @@
 - Fixed various cases where [[Deflective (Passive) (Quality)|Deflective]] was listed as “Deflection”
 
 - Changed the [[Affiliations|Affiliation]] of [[Sheikah Kodachi]]
+
+- Changed the name of Metal Vambraces to [[Metal Vambraces & Brigandines]] to better represent what the armor might represent when worn by [[Hylians]] and other types of [[The Humans|humans]].
 
 - Changed the [[Range|Range]] of the [[Trebuchet]] from [[Strategic Range|Strategic]] to [[Extreme Range|Extreme]]
 

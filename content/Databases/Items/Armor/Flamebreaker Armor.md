@@ -30,7 +30,7 @@ Image:
 ![]()
 [[Soak|Soak]]: 3
 [[Defense|Defense]]: 0
-[[Encumbrance|Encumbrance]]: 6
+[[Encumbrance|Encumbrance]]: 7
 
 Special: Protects against scorching climates and reduces debuffs from being inside them.
 
