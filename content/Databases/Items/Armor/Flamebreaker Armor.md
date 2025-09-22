@@ -25,12 +25,13 @@ Loyalty:
   - None
   - Gorons
 Image:
+Consumable: false
 ---
 [[Gorons|Goron]] artisans used flame-resistant rocks known as Goron Cooling Stones to craft these fireproof boots for curious—or refuge-seeking—[[Hylians|Hylians]] and others visiting Goron City.
 ![]()
 [[Soak|Soak]]: 3
 [[Defense|Defense]]: 0
-[[Encumbrance|Encumbrance]]: 7
+[[Encumbrance|Encumbrance]]: 9
 
 Special: Protects against scorching climates and reduces debuffs from being inside them.
 

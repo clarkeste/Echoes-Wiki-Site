@@ -37,6 +37,9 @@ Loyalty:
   - Followers
   - Zora
 Image: "[[Images/thumbnails/external/acc572ec9ff59a34ad36430cf5751d0c.png]]"
+Weapon Type:
+  - Spear
+Consumable: false
 ---
 The most skilled [[Zora|Zora]] fighters wield this spear. Its beautiful fish-tail design belies its impressive strength; the spearhead can pierce even the toughest scales.
 ![](https://i.imgur.com/Ijv0HPq.png)

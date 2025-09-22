@@ -34,6 +34,9 @@ Context:
 Loyalty:
   - Gerudo
 Image: "[[Images/thumbnails/external/4016c1784b1bcd410f922594457d1cf3.png]]"
+Weapon Type:
+  - Spear
+Consumable: false
 ---
 A glaive wielded by only the most skilled of the [[Gerudo]]. Its design prioritizes deadliness, reach and speed, but not accessibility.
 ![](https://i.imgur.com/WNM1dC4.png)

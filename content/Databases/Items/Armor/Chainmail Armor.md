@@ -23,6 +23,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/67e8a543985ecbc116f510679565fb61.png]]"
+Consumable: false
 ---
 Steel linked together to make a mesh-like armor, Chainmail Armor is highly effective in combat without sacrificing too much maneuverability.
 

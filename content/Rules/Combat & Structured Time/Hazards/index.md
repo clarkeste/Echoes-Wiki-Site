@@ -17,7 +17,7 @@ The following are the articles in this folder:
 [[Gas]]
 [[Hazards]]
 [[Light Haze]]
-[[Malice]]
+[[Malice (Hazard)]]
 [[Thick Haze]]
 [[Water, Sinking, and Drowning]]
 

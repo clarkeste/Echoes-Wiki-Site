@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/feecbced3e1936c2e3aed3b19a0dd42a.png]]"
+Consumable: false
 ---
 The Lantern is invaluable for any adventurer interested in exploring ruins, or the underground. Its heat and light, fueled by lantern oil, provide simple comforts.
 ![](https://i.imgur.com/b0PVNRw.png)

@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/bfa4be9efab54af40f3815269b74d655.png]]"
+Consumable: false
 ---
 A Quiver for true enthusiast, and commonly used in armies for logistical purposes. It can hold more Arrows than [[Quiver (Small)|small Quivers]], allowing you more arrows in a pinch.
 ![](https://i.imgur.com/i6hvQiA.png)

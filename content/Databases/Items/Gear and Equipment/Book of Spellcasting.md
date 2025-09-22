@@ -23,6 +23,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/02456c44fc7cdf9f813551cc838faf30.png]]"
+Consumable: false
 ---
 This publication is dedicated entirely to the lore, history, and theory behind the creation of [[Spellcasting|Spells]]; while expensive, it is considered by sorcerers to be the definitive textbook for anyone attempting to control magic. It even includes a few basic Spells.
 

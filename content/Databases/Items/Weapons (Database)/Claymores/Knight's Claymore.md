@@ -32,6 +32,9 @@ Context:
 Loyalty:
   - Royalists
 Image: "[[Images/thumbnails/external/5e4f067c2f3e7e88a19107effb672644.png]]"
+Weapon Type:
+  - Claymore
+Consumable: false
 ---
 Only the most confident of Hyrule Castle's knights carried this two-handed sword. Its cutting edge is finely honed.
 ![|480x501](https://i.imgur.com/bH3gzuF.png)

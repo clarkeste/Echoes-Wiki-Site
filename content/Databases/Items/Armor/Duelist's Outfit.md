@@ -23,6 +23,7 @@ Context:
 Loyalty:
   - None
 Image:
+Consumable: false
 ---
 A Duelist’s outfit can take many forms—a masterfully made green tunic, flowing but utilitarian robes, or civilian clothing with pauldrons and knee-guards. Its only defining characteristic is that it gracefully balances a respectable amount of defense with the ability for its user to move quickly.
 ![]()

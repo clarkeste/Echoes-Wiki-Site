@@ -26,6 +26,7 @@ Context:
 Loyalty:
   - None
 Image:
+Consumable: false
 ---
 Garb used by Noblemen and officials who can afford and seek out such clothing. Its high-quality tends to generate a certain respect in most people.
 ![]()

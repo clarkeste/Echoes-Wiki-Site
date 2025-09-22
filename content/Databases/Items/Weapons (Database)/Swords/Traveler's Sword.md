@@ -27,6 +27,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/89b6fd948eaf54e10fef719f4cd38c5e.png]]"
+Weapon Type:
+  - Sword
+Consumable: false
 ---
 A very common sword often kept by travelers to fend off small beasts and thieves. It's fairly durable, but a bit unreliable against actively aggressive opponents.
 ![](https://i.imgur.com/UzFjeaz.png)

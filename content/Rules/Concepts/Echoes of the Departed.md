@@ -13,8 +13,6 @@ One year ago, the Kingdom of Hyrule was embroiled in a climatic Revolution that
 
 Now, the Revolutionaries--known as the Followers--fight a civil war against the Royalists for control of the country. Yet, while this battle occurs, more malevolent forces, of neither man nor nature, plot the Kingdom's downfall from the shadows. It hides from sight, a festering anger that will not be quenched until all that wronged it burns in red flames.
 
-
-
 The tone of Echoes of the Departed is similar to that of the Zelda games, particularly the more serious ones.
 
 Additionally, the game is largely open-world, allowing [[Player|Players]] to explore the war-torn Hyrule separated or together with other [[PC|PCs]]. They can ally with one another to strike at the core of the Followers or Royalists, or go into deep, ancient Dungeons alone. Additionally, Players are encouraged to have multiple [[Character|Characters]] so that they can be engaged in as many stories are they want, or can manage.

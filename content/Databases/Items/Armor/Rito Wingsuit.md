@@ -25,8 +25,9 @@ Loyalty:
   - None
   - Rito
 Image:
+Consumable: false
 ---
-A wingsuit made by the [[Rito|Rito]] people of Northern [[Holodrum]]. It is useful in skydiving, and has most often found its home among non-Rito aviation enthusiasts.
+A wingsuit made by the [[Rito|Rito]] people of Northern [[Holodrum (Historia)|Holodrum]]. It is useful in skydiving, and has most often found its home among non-Rito aviation enthusiasts.
 ![]()
 [[Soak|Soak]]: 0
 [[Defense|Defense]]: 1

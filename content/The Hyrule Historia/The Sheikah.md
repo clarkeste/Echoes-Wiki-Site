@@ -2,6 +2,7 @@
 aliases:
   - Sheikah
 tags:
+Is Historia: true
 ---
 *Are you looking for the article about the playable People of the same name? Check out [[Sheikah]].*
 
@@ -17,7 +18,7 @@ Following the end of the Hyrulean Civil War, this practice thankfully stopped. T
 
 Six years ago, in response to growing bigotry and hatred of the Sheikah, the [[Former Hyrulean Government and Royal Family|King]] issued a decreed that removed almost all the Sheikah from government, with only a few exceptions. This was meant to firmly gain the trust of the [[The Hylians|Hylian]] people, and assure them that the King was not under any Sheikah influence.
 
-Over time—especially after the King's decree—more and more Sheikah grew weary of the Royal Family, despite their history of loyalty to the monarchy. This lead to what is often called the [[Yiga Movement|Yiga movement]]—Sheikah joining dissident groups due to considering themselves under attack by cruel sections of society supported or allowed by the King. Sheikah, in recent decades, often feel most safe in [[Kakariko City|Kakariko City]]—a large melting pot with a significant Sheikah minority—and small towns, such as [[Kakariko Village|Kakariko Village]], that are majority Sheikah.
+Over time—especially after the King's decree—more and more Sheikah grew weary of the Royal Family, despite their history of loyalty to the monarchy. This lead to what is often called the [[Yiga Movement|Yiga movement]]—Sheikah joining dissident groups due to considering themselves under attack by cruel sections of society supported or allowed by the King. Sheikah, in recent decades, often feel most safe in [[Kakariko City (Historia)|Kakariko City]]—a large melting pot with a significant Sheikah minority—and small towns, such as [[Kakariko Village (Historia)|Kakariko Village]], that are majority Sheikah.
 
 One thing remains consistent since the first Civil War, when the Sheikah were divided: the Sheikah are treated with distrust and disdain by the people of Hyrule. They are seen as—paradoxically—either as unloyal to the Kingdom, or the shadowy eyes of the powers that be.
 

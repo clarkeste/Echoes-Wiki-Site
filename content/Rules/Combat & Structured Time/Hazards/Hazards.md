@@ -17,7 +17,7 @@ In [[Encounter|Encounters]], particularly [[Combat|Combat Encounters]], there wi
 - [[Thick Haze|Thick Haze]]
 - [[Gas|Gas]]
 - [[Water, Sinking, and Drowning]]
-- [[Malice|Malice]]
+- [[Malice (Hazard)|Malice]]
 
 Keep in mind these are very much just categories, and some Hazards may mix and match, or may introduce new effects.
 

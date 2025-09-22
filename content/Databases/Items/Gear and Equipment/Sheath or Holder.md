@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/e0e160e6580d3f2c5ac1dff939133048.png]]"
+Consumable: false
 ---
 Storage for a sword, spear, bow, or [[Weapons#Shields|Shield]]. Sheaths and their equivalents often match with their swords to fit perfectly, often tied to the wielder’s back or their side.
 ![](https://i.imgur.com/qmb5BbX.png)

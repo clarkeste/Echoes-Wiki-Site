@@ -3,6 +3,7 @@ aliases:
   - Hylians
   - Hylian
 tags:
+Is Historia: true
 ---
 *Are you looking for the article about the playable People of the same name? Check out [[Hylians|Hylians]].*
 

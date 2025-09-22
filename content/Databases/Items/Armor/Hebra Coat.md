@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image:
+Consumable: false
 ---
 A simple, heavy coat distributed by the [[Guilds]] who operate in [[Hyrulean Geography|Hebra]] and the northern reaches of [[Hyrulean Geography|Tabantha]]. Its enveloping heat helps travelers and workers stay warm in the cold mountains.
 ![]()

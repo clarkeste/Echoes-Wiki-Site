@@ -17,6 +17,8 @@ XP Cost: 10
 Talent Genre:
   - Combat
 Image:
+aliases:
+  - It’s Dangerous To Go Alone
 ---
 **Tier:** 2
 **Activation:** Active (Incidental, Out Of Turn)

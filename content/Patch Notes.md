@@ -1,4 +1,37 @@
 
+# 1.3.2
+### Items
+- Increased the [[Encumbrance]] of [[Flamebreaker Armor]] from 7 to 9
+
+- It has been clarified that the [[Fighter's Crossbow]] and [[Hyrulean Crossbow]] need its wielder to use both hands to Prepare it
+
+- The [[Damage]] of the [[Hyrulean Pike]] has been lowered from +4 to +3, its [[Critical Rating]] increased to 4, and its [[Encumbrance]] increased to 6. However, it has gained [[Defensive (Passive) (Quality)|Defensive]] 3.
+
+- Split up [[Potions]] into various different files:
+	- [[Potion - Red Potion]]
+	- [[Potion - Green Potion]]
+	- [[Potion - Blue Potion]]
+	- [[Potion - Purple Potion]]
+	- [[Potion - Yellow Potion]]
+	- [[Potion - Secret Medicine]]
+	- [[Fairy]]
+	- [[Potion - Stun Potion]]
+	- [[Potion - Poison Potion]]
+	- [[Potion - Sleep Potion]]
+
+### Qualities
+- Updated the [[Artillery (Passive) (Quality)|Artillery]] [[Qualities|Quality]] to confirm it cannot fire at [[Short Range]] or [[Engaged Range]], and its minimum [[Difficulty]] is 3 [[Difficulty Dice]].
+
+### Mechanics
+- A new Peoples has been unlocked—the [[Zuna]]! Courtesy of Farowin, who met the first Zuna in the game by inviting the former Zuna Ambassador to Hyrule to act as an aid for her own diplomatic mission.
+- [[Limited Ammo (Modifier)|Limited Ammo]] in [[Item Creation]] is now -3 instead of -4.
+
+
+I’m aware I said there would be a [[Mass Combat]] update here… sorry. I’m sure all the players who were definitely about to engage in Mass Combat are very sad. Next time, though, I promise.
+
+### Website
+- Fixed a mistake where [[Limited Ammo (Modifier)|Limited Ammo]] read as -4 on its page, when it should say -3 like [[Spell Creation]].
+
 
 # 1.3.1
 
@@ -29,6 +62,10 @@
 - Clarified that the range of [[Field Commander]] is [[Medium Range]]
 
 - Clarified that using a [[Spell Creation|Spell]] with [[Reflect]] does not cost additional [[Strain]]
+
+### Mechanics
+- A [[Character]] on a Mount now gains Ranged [[Defense]] equal to the Speed of their Mount. Does not stack with [[Armor]].
+
 
 ### Website
 - Fixed a few issues where clicking on a link that said ‘Zuna’ would result in a 404. I wonder why that happened.
@@ -152,7 +189,7 @@ Additionally, I updated a lot of meta-data on this patch. That shouldn’t show 
 
 - [[Stalfos (Adversary)]] were modified to be more unique
 
-- Added some more hyperlinks, such as properly linking to the [[Ganondorf (Historia)]] article in the [[Ganondorf Dragmire|Ganondorf Dragmire]] articles
+- Added some more hyperlinks, such as properly linking to the [[Ganondorf (Historia)|Ganondorf]] article in the [[Ganondorf Dragmire|Ganondorf Dragmire]] articles
 
 - The Quill/Quiver typo will no longer be of any concern to us. I have just received word that the Emperor has dissolved the quills permanently. The last remnants of the Old Typo have been swept away.
 

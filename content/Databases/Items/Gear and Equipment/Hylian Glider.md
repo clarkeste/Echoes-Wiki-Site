@@ -24,8 +24,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/9aacbbb964d646c8e344af405f059790.png]]"
+Consumable: false
 ---
-The [[Hylians|Hylian]] Glider was made as a domestic substitute to the popular but expensive [[Rito|Rito]] Paraglider from [[Holodrum]]. It does not have nearly the same grace or flight, but can help in a pinch. Unlike the Rito Paraglider—which is made from molted Rito feathers—the Hylian Glider is made of simple cloth.
+The [[Hylians|Hylian]] Glider was made as a domestic substitute to the popular but expensive [[Rito|Rito]] Paraglider from [[Holodrum (Historia)|Holodrum]]. It does not have nearly the same grace or flight, but can help in a pinch. Unlike the Rito Paraglider—which is made from molted Rito feathers—the Hylian Glider is made of simple cloth.
 ![](https://i.imgur.com/he5SUMl.png)
 [[Encumbrance|Encumbrance]]: 1
 Effect: When falling, a [[Character]] may deploy this glider to gain two [[Boost Dice]] on their check to mitigate [[Fall Damage]].

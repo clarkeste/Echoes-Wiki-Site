@@ -30,6 +30,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/0551af6584b4f5c6684c75d20163f9f0.png]]"
+Weapon Type:
+  - Bow
+Consumable: false
 ---
 A bow favored by assassins and those interested in its unique ability to shoot two arrows at once. However, due to a series of high-profile assassinations, the bow was made illegal during the King’s reign.
 

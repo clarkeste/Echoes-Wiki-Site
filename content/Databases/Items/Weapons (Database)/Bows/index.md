@@ -1,5 +1,8 @@
 ---
 title: Bows
+Weapon Type:
+  - Bow
+Consumable: false
 ---
 This is the folder for Bows. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

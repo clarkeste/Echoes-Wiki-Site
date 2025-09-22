@@ -30,6 +30,9 @@ Context:
 Loyalty:
   - Gerudo
 Image: "[[Images/thumbnails/external/ed640462e1ad4a1f4317b4900a8e2ffa.png]]"
+Weapon Type:
+  - Sword
+Consumable: false
 ---
 Delicate Gerudo carvings decorate this rare and curved sword. The engraved blade is extremely sharp. While it once served ceremonial purposes in festivals, it is often used today by only the most elite Gerudo Warriors.
 ![|480x530](https://i.imgur.com/eOj6tgi.png)

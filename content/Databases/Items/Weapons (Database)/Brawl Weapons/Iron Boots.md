@@ -27,6 +27,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/fd2d38e97a109ad73aad970b5c76b79e.png]]"
+Weapon Type:
+  - Brawl
+Consumable: false
 ---
 Metal boots, usually made of iron, ground their wearer down and provide complete protection for a combatant’s feet. However, for lighter individuals, these boots can be a detriment to one’s mobility.
 ![](https://i.imgur.com/yO39lWb.png)

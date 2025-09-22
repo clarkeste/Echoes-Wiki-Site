@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/9afb78609d431ba29fc870145001d062.png]]"
+Consumable: true
 ---
 A full bottle of oil. Most commonly used to fuel Lanterns, but can also be thrown or used to cook.
 ![](https://i.imgur.com/UgkLBVc.png)

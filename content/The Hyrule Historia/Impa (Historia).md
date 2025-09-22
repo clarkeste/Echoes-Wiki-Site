@@ -1,0 +1,15 @@
+---
+aliases:
+  - Impa
+  - hidden
+tags: []
+Is Historia: true
+title:
+---
+Impa is [[the Sheikah|Sheikah]] who was once the lead bodyguard for [[Princess Zelda (Historia)|Princess Zelda]]. Her role in history would be minor, as she was later replaced by [[Link Sahon|Link Sahon]], if not for her returning to royal employ shortly before the [[Revolution and Second Civil War|Revolution]]. She was a part of the [[Commission for the Reclamation of the Golden Power|Commission for the Recovery of the Golden Power]], likely recruited back to service for her great prowess and cunning, despite the stigma against the Sheikah regarding loyalty.
+
+Since Zelda was a young girl to when she was fifteen, Impa served as Zelda's maid, bodyguard, and—according to many sources—her closest confidant. However, only days after the [[Hyrule|Kingdom]] had been shaken by the skirmish between [[Castle Town Parliamentarians|Parliamentarians]] and the authorities in the [[Castle Town (Historia)|capital]], Impa was removed from active duty along with many other Sheikah. While the [[Last King of Hyrule|King]] never publicly commented on why, it is widely assumed that it was due to fears over the secretive and shadowy nature, or at least reputation, that caused distrust in the Sheikah.
+
+Impa was brought back into the fold when Zelda captured, just over a week before the Revolution. This was at the request of Sahon, who had served under her. Despite her apprehension at working with [[Ganondorf (Historia)|Ganondorf]] and frustration with [[Inl Astor|Astor]], she joined the Commission and journeyed to [[Kakariko City (Historia)|Kakariko City]] with the rest of the team. Once there, she guided them into the catacombs. Leading them through various trials and difficulties, she was able to assist them in finding the [[The Triforce (Historia)|Triforce]] shard that they had set out to find. Later, on the path to [[The Zora|Zora's Domain]], Impa and Zelda had a reunion, before quickly continuing into the underwater temple near Zora's Domain. They then continued and to the [[Lost Woods (Historia)|Lost Woods]], where Impa met and attempted to defeat the [[The Confessor (Historia)|Confessor]], but was unable to. She logged a report when she returned to [[Hyrule Castle (Historia)|Hyrule Castle]] the next day.
+
+When at the capital, her and Zelda were finally able to catch up. Whether it was a happy, bittersweet, or tragic reunion we do not know. However, it seems it would be among the last time the two of them would enjoy their time together. Impa was soon ordered by the King to apprehend the Confessor and retrieve the Triforce Shard at [[Death Mountain (Historia)|Death Mountain]]; within hours, she was successful. Upon returning to Hyrule Castle with the Confessor as her captive, little is known about what Impa did as the Revolutionaries soon approached and invaded Castle Town. However, the most likely explanation is that she fought amongst Royalist Forces before retreating when the battle was lost and the Confessor was freed. Most sources would indicate that she survived, but her exact whereabouts are unknown.

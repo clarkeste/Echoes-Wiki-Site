@@ -15,7 +15,7 @@ Qualities:
   - Cumbersome OR Unwieldy
 Soak:
 Defense:
-Special Effect: If attacking a [[Adversary#Minions|Minion Group]] or a group of [[Adversary|Adversaries]], increase [[Range Bands|Range]] to [[Extreme Range]].
+Special Effect: If attacking a Minion Group or a group of Adversaries, increase Range to Extreme Range.
 Price: 3900
 Restricted: false
 Unique: false
@@ -28,6 +28,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/16bd183a27235094f568705fb26456c5.png]]"
+Weapon Type:
+  - Bow
+Consumable: false
 ---
 This Longbow is used by both sides in the Hyrulean Civil War to equip divisions of archers, allowing them to launch arrows into the air to attack hordes of targets hundreds of meters away.
 ![](https://i.imgur.com/zcdA00P.png)

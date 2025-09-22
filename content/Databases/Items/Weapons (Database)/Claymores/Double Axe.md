@@ -31,6 +31,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/920d3ad715bc14212b37151a54178e6f.png]]"
+Weapon Type:
+  - Claymore
+Consumable: false
 ---
 This double-sided axe was designed with both fighting and chopping in mind. It's a bit unwieldy, so it requires a well-practiced technique to use efficiently.
 ![](https://i.imgur.com/7kuUNec.png)

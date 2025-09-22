@@ -29,6 +29,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/cffec7e46c20e7470786b24fcd1437d3.png]]"
+Weapon Type:
+  - Brawl
+Consumable: false
 ---
 Steel-Laced Gloves (or ‘Iron Knuckles’) are hand-wear that, while otherwise looking normal, have been laced with steel. A punch from someone using these gloves will hurt significantly more than the average blow.
 ![](https://i.imgur.com/2ZYoIDX.png)

@@ -22,6 +22,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/f50d3be097734f78b0355e811e3bb112.png]]"
+Consumable: false
 ---
 Simple clothes worn by civilians. Its design varies by culture.
 

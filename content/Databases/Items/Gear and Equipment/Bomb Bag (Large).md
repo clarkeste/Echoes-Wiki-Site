@@ -23,6 +23,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/3d6549cee41aa1f6bec32d0b4f14ec3a.png]]"
+Consumable: false
 ---
 A large Bomb Bag with plenty of space for [[Bomb (Small)|Bombs]] of any type to be carried.
 ![|481x558](https://i.imgur.com/OEB2RqV.png)

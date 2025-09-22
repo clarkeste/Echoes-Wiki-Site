@@ -28,6 +28,7 @@ Loyalty:
   - Royalists
   - Royal Family
 Image:
+Consumable: false
 ---
 Made for a prince of the Royal Family, the Magic Armor drains Rupees to power and provide its extremely impressive defense.
 

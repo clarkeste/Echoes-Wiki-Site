@@ -29,6 +29,9 @@ Context:
 Loyalty:
   - Gerudo
 Image: "[[Images/thumbnails/external/4deaa8f0a12ffbd24e2a5310a9cedec5.png]]"
+Weapon Type:
+  - Bow
+Consumable: false
 ---
 This [[Gerudo|Gerudo]]-made bow is used by both Gerudo civilians and warriors for its accuracy and ease of use. Designed for hunting and warfare alike, this bow was engineered to strike distant targets.
 ![](https://i.imgur.com/py4FBzs.png)

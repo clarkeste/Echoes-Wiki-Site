@@ -3,6 +3,7 @@ aliases:
   - magical
   - Spells
 tags:
+Is Historia: true
 ---
 *Are you looking for the article about the gameplay mechanic? Check [[Spell Creation]].*
 
@@ -12,4 +13,4 @@ It is estimated that about 19% of the [[Hyrule|Hyrulean]] population can technic
 
 Magical theory proposes that the sorcerer is the manifestation of thoughts and energies. It says that there are ten 'base powers', which are—metaphorically—various exits or channels from which said energies can depart and then be made manifest, their effects shaped by the channel. It is believed that the thoughts of the user, and their intentions, can further change and detail the effects of the magic. All of this combined together has an effect on the world, and is called a 'Spell'. Sorcerers can repeat a particular 'Spell', and manipulate themselves in new ways to produce new ones, with varying effects.
 
-While being a Sorcerer or Spell-caster sounds like an extremely exciting job—and it certainly can be—many with these skills decide to do simpler, less risky work. Despite it being much less challenging or time-consuming compared to other jobs that pay similarly highly, the fact that sorcerers are in such high-demand means that the pay remains high even for only a few hours of domestic work. This can include healing [[Farming|crops]], rent-a-caster services, or helping a construction by moving large parts telepathically. Using various powers on crops has done much to improve [[Farming|food]] security in Hyrule.
+While being a Sorcerer or Spell-caster sounds like an extremely exciting job—and it certainly can be—many with these skills decide to do simpler, less risky work. Despite it being much less challenging or time-consuming compared to other jobs that pay similarly highly, the fact that sorcerers are in such high-demand means that the pay remains high even for only a few hours of domestic work. This can include healing [[Farming (Historia)|crops]], rent-a-caster services, or helping a construction by moving large parts telepathically. Using various powers on crops has done much to improve [[Farming (Historia)|food]] security in Hyrule.

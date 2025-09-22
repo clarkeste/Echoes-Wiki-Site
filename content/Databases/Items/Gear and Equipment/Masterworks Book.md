@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/f002535066b1b356f4cbb8ab373b0917.png]]"
+Consumable: false
 ---
 Various books—not just across Hyrule, but the world—were written with the intention to impart knowledge onto the reader and enable them to accomplish their tasks with more efficiency and experience. While these books can take a long time to read and fully grasp, they are well worth the effort.
 ![](https://i.imgur.com/nNtu0Ux.png)

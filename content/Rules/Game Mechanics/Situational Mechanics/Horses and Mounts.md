@@ -11,6 +11,8 @@ Similar to Max Speed, the Speed rating represents how fast an animal can go. The
 Unlike with Max Speed, the animal is assumed to always be going at their Speed rating, and therefore the [[Character]] riding them always gets a number of free Mount Maneuvers equal to their Mount’s Speed. However, they are under *no obligation* to spend all of these Mount Maneuvers.
 
 The Speed of most Mounts and Horses is 1-2. A Mount with Speed 0 must suffer 1 [[Strain]] each turn to gain one Mount Maneuver. 
+
+The rider of a Mount, while on a Mount, gains Ranged [[Defense]] equal to the Mount’s Speed. This does not stack with Defense from [[Armor]].
 #### Handling
 Handling with Mounts and Horses represents the discipline of the animal, and its bond with its rider. Mechanically, it operates very similarly to Handling in Ships and Vehicles.
 

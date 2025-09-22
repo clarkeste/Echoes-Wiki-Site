@@ -25,6 +25,7 @@ Loyalty:
   - None
   - Rito
 Image: "[[Images/thumbnails/external/90c70266ba0b4f2b65d97e0a35912c8a.png]]"
+Consumable: false
 ---
 Gliders of [[Rito|Rito]] design have long been lauded as the highest quality; with their impressive ability to glide, the Rito Paraglider allows for individuals using them to travel up gusts of wind, glide between platforms, and break most falls with the proper technique. However, being too heavy means even the Paraglider might not be able to support your weight.
 ![](https://i.imgur.com/COYC8k2.png)

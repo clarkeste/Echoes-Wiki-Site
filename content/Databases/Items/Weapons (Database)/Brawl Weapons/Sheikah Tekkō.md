@@ -29,6 +29,9 @@ Loyalty:
   - None
   - Sheikah
 Image: "[[Images/thumbnails/external/b4b4a5ae20c4c4944d83870ecdfd4596.png]]"
+Weapon Type:
+  - Brawl
+Consumable: false
 ---
 The Tekkō is a Sheikah self-defense [[Weapons|weapon]]. It comes in pairs and resembles horseshoes connected together to create a weapon that can be used for cutting and defense.
 ![](https://i.imgur.com/JjYp1iF.png)

@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image:
+Consumable: true
 ---
 Healing Salves are concoctions made of various things, such as peppermint, alcohol, and other anti-septics. They can be used to treat [[Wounds]] and the herbs can have a brief alerting affect.
 

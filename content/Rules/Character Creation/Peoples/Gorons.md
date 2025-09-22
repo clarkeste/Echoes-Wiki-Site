@@ -10,7 +10,7 @@ tags:
   - RPGSessions
 ---
 ### Physical and Cultural Traits
-The Gorons are yellow-hued gentle-giants that live in the mountainous [[Hyrulean Geography|Eldin Region]]. In particular, Goron City, built into the side of the volcano calle [[Death Mountain|Death Mountain]]. With their natural strength and an affinity for rocks, the Gorons are laid-back and friendly. Additionally, due to their different biology, Gorons do not really have genders. Most, however, refer to themselves as male, and reproduce asexually.
+The Gorons are yellow-hued gentle-giants that live in the mountainous [[Hyrulean Geography|Eldin Region]]. In particular, Goron City, built into the side of the volcano calle [[Death Mountain (Historia)|Death Mountain]]. With their natural strength and an affinity for rocks, the Gorons are laid-back and friendly. Additionally, due to their different biology, Gorons do not really have genders. Most, however, refer to themselves as male, and reproduce asexually.
 
 It is said that the Gorons are as old as the stones of Hyrule. But their sense of brotherhood does not extend only to their own kind. Historians agree that the [[the Gerudo|Gerudo]] living among the Gorons in their City were among the last to be exiled from Hyrule. They spared no expense to protect their neighbors for as long as they could.
 

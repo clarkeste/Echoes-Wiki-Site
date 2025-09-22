@@ -11,11 +11,12 @@ aliases:
   - God
   - Din
 tags:
+Is Historia: true
 ---
 The [[The Hylians|Hylian]] people, and others in [[Hyrule]], even those of a single faith, tend to be believe in various separate—but connected—gods and goddesses. While the existence of some of the minor ones have evidence for their existence—although it is usually agreed by secular scholars that 'god' is an incorrect term for them—others are more a matter of faith. The most popular deities in [[Hyrule|Hyrulean]] culture are the following:
 
 ### The Goddess Hylia
- Undoubtedly the most influential and often mentioned—statues representing Hylia can be found in many places across Hyrule. Hylia, in legend, was created by the Golden Goddesses before their departure, and entrusted to be a caretaker of the world. She was to guide the people of the world with grace, dignity, and compassion, and to guard an artifact known as the [[The Triforce|Triforce]]. Legends state that after a great threat emerged from underground, her people—the ancestors of the Hyruleans, or forebearers—were raised skyward to protect them. In this time, she used the Triforce to make the world safe again, before returning the people many generations later, and disappearing from her great exertion.
+ Undoubtedly the most influential and often mentioned—statues representing Hylia can be found in many places across Hyrule. Hylia, in legend, was created by the Golden Goddesses before their departure, and entrusted to be a caretaker of the world. She was to guide the people of the world with grace, dignity, and compassion, and to guard an artifact known as the [[The Triforce (Historia)|Triforce]]. Legends state that after a great threat emerged from underground, her people—the ancestors of the Hyruleans, or forebearers—were raised skyward to protect them. In this time, she used the Triforce to make the world safe again, before returning the people many generations later, and disappearing from her great exertion.
 
 Many disagree on how exactly Hylia used the Triforce; some say she willingly reincarnated as a [[The Humans|human]] on the land she raised, while others say she was aided by a Hylian in green. Additionally, it is common in legend to believe that either a descendent of Hylia, Hylia reborn, or someone directly guided by her, was the person from which the Royal Family of Hyrule is descended from. It is said that Hylia watches us even now.
 

@@ -3,7 +3,8 @@ aliases:
   - authors
   - author
   - hidden
-tags: 
+tags:
+Is Historia: true
 ---
 ### Duffan Toncele
 A wise author who lived during the era of [[First Hyrulean Civil War|Hyrule's first Civil War]], Toncele was the one to write an edition of the Hyrule Historia. He, as all contributors, are credited with every new edition of the book.
@@ -12,7 +13,7 @@ A wise author who lived during the era of [[First Hyrulean Civil War|Hyrule's fi
 Drazzle was an author who, following the early retirement of Toncele, wrote the second and third editions of the Hyrule Historia. He is remembered for his prolific writing, having penned many more texts than just the Hyrule Historia in his lifetime.
 
 ### Minaris Arfrisk
-Arfrisk's childhood was marred by the last gasps of the Hyrulean Civil War. During her early life, she worked as a guard, providing security at the [[Castle Town|Castle Town]] jail for mostly petty criminals. Later, she became an author and co-wrote with Tubo the fourth edition of the Hyrule Historia.
+Arfrisk's childhood was marred by the last gasps of the Hyrulean Civil War. During her early life, she worked as a guard, providing security at the [[Castle Town (Historia)|Castle Town (Historia)]] jail for mostly petty criminals. Later, she became an author and co-wrote with Tubo the fourth edition of the Hyrule Historia.
 
 ### Vitou Ertay
 A hundred years later, shortly after the [[The Flood|Flood]], Vitou Ertay would write the fifth edition of the Hyrule Historia, using notes from Tubo and Arfrisk. He was described to be mild-mannered, but prolific in his work, using a dryer but effective style.

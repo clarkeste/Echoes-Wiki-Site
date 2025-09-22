@@ -1,3 +1,10 @@
+---
+aliases:
+  - Semaphore Tower
+  - Semaphore
+  - Optical Telegraph
+Is Historia: true
+---
 Semaphores, or Semaphore Towers, are a system of visual telegram towers that runs much of [[Hyrule]], particularly its most important routes. It is used for high-priority civilian messages, news, and government or military usages. It allows a message that would otherwise take a week to transmit via courier to reach the other side of a continent in a matter of hours.
 
 These optical telegraphs function by using the aforementioned chain of towers. In each tower is an operator, who has access to at least two mounted telescopes pointing to at least two other towers; one behind them in the chain, and one ahead. Using these highly magnified telescopes, the operator watches for visual signals from the other Tower that spell out words or represent phrases.

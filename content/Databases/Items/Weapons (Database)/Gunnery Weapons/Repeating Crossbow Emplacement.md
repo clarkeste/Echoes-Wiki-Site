@@ -30,6 +30,9 @@ Loyalty:
   - Followers
   - Royalists
 Image:
+Weapon Type:
+  - Artillery
+Consumable: false
 ---
 A type of [[Hyrulean Crossbow|Crossbow]] that is the size of an adult [[Hylians|Hylian]], and is treated as a stationary Weapon emplacement. It can rapidly fire Crossbow bolts, with even more force than a hand-held Crossbow.
 

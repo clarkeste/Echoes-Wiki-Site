@@ -1,4 +1,7 @@
-*There are 115 pages/entries in the Hyrule Historia. Only a few are directly accessible via the search engine and explorer side-bar. The rest can be found by clicking on links like [[Link Steadfast|this]], moving from related page to related page. Feel free to share discoveries with other players, ask them to reveal theirs, or unlock the secrets of the Hyrule Historia yourself.*
+---
+Is Historia: true
+---
+*There are 115 pages/entries in the Hyrule Historia. Only a few are directly accessible via the search engine and explorer side-bar. The rest can be found by clicking on links like [[Link Steadfast (Historia)|this]], moving from related page to related page. Feel free to share discoveries with other players, ask them to reveal theirs, or unlock the secrets of the Hyrule Historia yourself.*
 
 *Oh, and to be clear, everything is written in-universe from the prospective of the author of the Historia.*
 
@@ -23,11 +26,11 @@ Dr gm re
 [[The Followers of Dragmire, Revolutionaries|The Followers of Dragmire]]
 [[Revolution and Second Civil War|The Revolution]]
 T e Ch os n
-[[Princess Zelda]]
+[[Princess Zelda (Historia)|Princess Zelda]]
 …
 Link St  d ast
 …
-[[Kakariko City]]
+[[Kakariko City (Historia)|Kakariko City]]
 [[Hero of the Flood]]
 Auth rs
 …

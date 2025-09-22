@@ -31,6 +31,9 @@ Loyalty:
   - None
   - Sheikah
 Image: "[[Images/thumbnails/external/29a725bb4511168e2599540df8c2efea.png]]"
+Weapon Type:
+  - Sword
+Consumable: false
 ---
 A single-edged sword traditional to the [[Sheikah|Sheikah]] tribe. Forged using recent advancements, it just may be among the sharpest conventional weapons ever made.
 ![](https://i.imgur.com/oxle98s.png)

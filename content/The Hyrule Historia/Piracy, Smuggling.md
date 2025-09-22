@@ -4,8 +4,9 @@ aliases:
   - piracy
   - smuggling
 tags:
+Is Historia: true
 ---
-Despite being a crime in almost every country—from [[Hyrule|Hyrule]] and [[Holodrum|Holodrum]] to the smallest island-nation—the potential [[Rupees, Currencies|profits]] gained from **piracy and smuggling** are too much for many individuals to pass up. They engage in these illicit activities to gain goods that would otherwise be heavily taxed, or illegal in some jurisdictions.
+Despite being a crime in almost every country—from [[Hyrule|Hyrule]] and [[Holodrum (Historia)|Holodrum]] to the smallest island-nation—the potential [[Rupees, Currencies|profits]] gained from **piracy and smuggling** are too much for many individuals to pass up. They engage in these illicit activities to gain goods that would otherwise be heavily taxed, or illegal in some jurisdictions.
 
 Many different pirate groups exist, with many running independently. While smugglers often are simply unlicensed and unregistered convoys, pirates often raid merchant or cargo vessels to steal their wares and sell them at a later date, or used by themselves.
 

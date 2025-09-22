@@ -29,7 +29,7 @@ Ordini is named after the Ordon region in [[Hyrulean Geography|Faron]]. It is th
 Nayre is named after one of the [[Goddesses and the Gods|Golden Goddesses]], Nayru.
 
 ### 4 - Elda
-Elda is named after the most common name for [[Princess Zelda|Princesses of Hyrule, Zelda]].
+Elda is named after the most common name for [[Princess Zelda (Historia)|Princesses of Hyrule, Zelda]].
 
 5 - Faroraru
 Faroraru is a portmanteau of Farore, one of the Golden Goddesses and the name of an ancient [[Sages|Sage]]. Faroraru is the final month of Spring.
@@ -84,7 +84,7 @@ Hero’s Day represents the gratitude towards various heroic people in Hyrule’
 #### Festival of the Flood (or Day of the Flood)
 2nd of Asinober
 *Main article: [[Festival of the Flood]]*
-The Festival of the Flood celebrates the day when the Hero of the Flood slew the Demon King and stopped the torrential downpour from sinking Hyrule. While there is an element of grimness, it is mostly a celebration of the survival and tenacity of the Kingdom, and is see as a far more ‘adult’ celebration. While individual cities have their own festivals, many will travel to the biggest one in [[Castle Town|Castle Town]], organized by the [[Former Hyrulean Government and Royal Family|Royal Family]]—where the current reigning monarch has given an address every single year on the day of the Flood. Businesses are mandated to give a day off.
+The Festival of the Flood celebrates the day when the Hero of the Flood slew the Demon King and stopped the torrential downpour from sinking Hyrule. While there is an element of grimness, it is mostly a celebration of the survival and tenacity of the Kingdom, and is see as a far more ‘adult’ celebration. While individual cities have their own festivals, many will travel to the biggest one in [[Castle Town (Historia)|Castle Town (Historia)]], organized by the [[Former Hyrulean Government and Royal Family|Royal Family]]—where the current reigning monarch has given an address every single year on the day of the Flood. Businesses are mandated to give a day off.
 
 #### Princess’s Day
 24th of Yila

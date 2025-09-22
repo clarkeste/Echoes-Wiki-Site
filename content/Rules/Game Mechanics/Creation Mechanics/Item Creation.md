@@ -102,7 +102,7 @@ You may take the following Drawbacks to reduce the cost of creating your weapon.
 - [[Inaccurate (Modifier)|Inaccurate]] (-2)
 - [[Increase Encumbrance (Modifier)|Increase Encumbrance]] (-1)
 - [[Inferior (Modifier)|Inferior]] (-3)
-- [[Limited Ammo (Modifier)|Limited Ammo]] (-4)
+- [[Limited Ammo (Modifier)|Limited Ammo]] (-3)
 - [[Prepare (Modifier)|Prepare]] (-3)
 - [[Special - Negative Custom Effect|Special - Negative Custom Effect]] (GM and Player must agree)
 - [[Flammable (Modifier)|Flammable]] (-2)

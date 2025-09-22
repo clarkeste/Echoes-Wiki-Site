@@ -31,6 +31,9 @@ Loyalty:
   - Royalists
   - Royal Family
 Image: "[[Images/thumbnails/external/f158f6eada94b6b4c628d4dae9b36aba.png]]"
+Weapon Type:
+  - Spear
+Consumable: false
 ---
 This spear was issued to the knights who guarded Hyrule Castle's throne room. Its ornate design was applied by a craftsman in service to the royal family.
 ![](https://i.imgur.com/XxQvQFD.png)

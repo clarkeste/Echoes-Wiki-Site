@@ -5,6 +5,7 @@ aliases:
   - Monster
   - Monsters
 tags: []
+Is Historia: true
 ---
 *Are you looking for the article about the playable People of the same name? Check out [[Monsters]].*
 

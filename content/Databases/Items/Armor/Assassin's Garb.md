@@ -24,6 +24,7 @@ Loyalty:
   - None
   - Followers
 Image:
+Consumable: false
 ---
 Not used exclusively by assassins, but often associated with them. This armor forgoes defensive specifications to instead provide light fabrics that let the user dodge and weave out of the way of strikes.
 ![]()

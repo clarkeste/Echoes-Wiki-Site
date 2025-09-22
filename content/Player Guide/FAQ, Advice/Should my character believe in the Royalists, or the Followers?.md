@@ -1,17 +1,5 @@
 ---
 aliases:
-  - Royalist against Follower
-  - Followers and Royalists
-  - " Royalist and Follower"
-  - Followers of Dragmire
-  - Royalist and Follower
-  - Royalists, Followers
-  - Royalist, Follower
-  - Revolutionaries
-  - Followers
-  - Royalists
-  - Follower
-  - Royalist
 tags:
   - Characters
   - Guide

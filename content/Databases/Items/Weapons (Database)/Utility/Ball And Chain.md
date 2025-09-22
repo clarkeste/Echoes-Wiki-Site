@@ -36,6 +36,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/a12d39be4c5002d7e0de356a0bd6c2c9.png]]"
+Weapon Type:
+  - Misc
+Consumable: false
 ---
 While difficult to use, the Ball and Chain is a useful weapon for those who can wield it. Its crushing power, leveraging momentum from its user spinning around its chain, is extremely impressive.
 ![](https://i.imgur.com/SsIY5qw.png)

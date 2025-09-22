@@ -36,6 +36,9 @@ Loyalty:
   - Royalists
   - Royal Family
 Image: "[[Images/thumbnails/external/0e2ce99d9f1e482dfeb1341e3dfc0923.png]]"
+Weapon Type:
+  - Claymore
+Consumable: false
 ---
 A two-handed sword once issued to the Hyrulean royal family's incredibly skilled immediate guard detail. Its powerful strikes are said to crush an opponent's body and resolve alike.
 ![](https://i.imgur.com/qQ7UmqE.png)

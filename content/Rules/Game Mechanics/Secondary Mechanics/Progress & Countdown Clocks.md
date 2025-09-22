@@ -79,7 +79,7 @@ Each time this is done, however, and not rolled, one [[Setback Dice|Setback Die]
 Many other minor actions that do not require a Check, add this same drawback.
 
 ## Travel and Discoveries (Long-term Story Challenges)
-The land of Hyrule and the surrounding Kingdoms are large and vast. So are the oceans and the [[Holodrum|Empires]] beyond it. Traveling it, depending on the circumstances, can take some time; but may also make sense to do in a more zoomed-out manner, using a Progress Clock.
+The land of Hyrule and the surrounding Kingdoms are large and vast. So are the oceans and the [[Holodrum (Historia)|Empires]] beyond it. Traveling it, depending on the circumstances, can take some time; but may also make sense to do in a more zoomed-out manner, using a Progress Clock.
 
 The Progress Clock when **Traveling** can be increased by Skill Checks done to further it, and represent terrain being traveled. Most usually, these are [[Riding]], [[Survival]], [[Resilience]], [[Vigilance]], or [[Discipline]] Checks. In some cases, Skills such as [[Athletics]], [[Swim]], or [[Operating]] may make sense to be used, as well. Using the same Skills comes with the Strain penalties mentioned earlier; however, breaks or rests at Villages or Taverns can reset the count.
 

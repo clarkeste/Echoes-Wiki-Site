@@ -3,7 +3,7 @@ tags:
   - Rules
   - Spell-Creation
 ---
-Allows the player to teleport. At its base value, it is similar to teleportation used by the Yiga and some other groups of [[Sheikah]]. 
+A type of [[Spell Creation|Spell]]; allows the Caster to teleport. At its base value, it is similar to teleportation used by the Yiga and some other groups of [[Sheikah]]. 
 
 Its default [[Range Bands|Range]] is [[Short Range|Short]]. 
 

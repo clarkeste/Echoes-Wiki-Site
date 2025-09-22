@@ -1,9 +1,9 @@
 ### Agent of the Revolution
-Soen Naherenn was a [[Yiga Movement|Yiga]] Commander who ultimately died in battle against [[The Royalists|Royalist]] spies during an operation at [[Kakariko Village]]. He was killed by Taninn Silvermuth.
+Soen Naherenn was a [[Yiga Movement|Yiga]] Commander who ultimately died in battle against [[The Royalists|Royalist]] spies during an operation at [[Kakariko Village (Historia)|Kakariko Village]]. He was killed by Taninn Silvermuth.
 
-Soen was a professor many years ago, as revealed by Thantzo Dairan’s mind probe of one of Soen’s proteges. Working in a university at [[Kakariko City]], Soen witnessed the injustices the poor and impoverished experienced, and the discrimination that was rife against the [[The Sheikah|Sheikah]].
+Soen was a professor many years ago, as revealed by Thantzo Dairan’s mind probe of one of Soen’s proteges. Working in a university at [[Kakariko City (Historia)|Kakariko City]], Soen witnessed the injustices the poor and impoverished experienced, and the discrimination that was rife against the [[The Sheikah|Sheikah]].
 
-Perhaps convinced by another professor would would become the [[Master Kohga|Believer]], Soen at some point became a Revolutionary. He took in a young girl who lived on the streets of Kakariko City called Rantee and raised her.
+Perhaps convinced by another professor would would become the [[Master Kohga (Historia)|Believer]], Soen at some point became a Revolutionary. He took in a young girl who lived on the streets of Kakariko City called Rantee and raised her.
 
 When Soen was slain, Rantee was orphaned for the third time.
 ### Tactics

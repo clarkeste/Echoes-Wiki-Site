@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/cefa903526a6cfe5183d9bd6636dcdb2.png]]"
+Consumable: false
 ---
 A variety of equipment and gear used by those from all walks of life, like thieves, survivalists, or warriors.
 ![](https://i.imgur.com/tU28rHU.png)

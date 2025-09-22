@@ -34,6 +34,9 @@ Loyalty:
   - Royalists
   - Royal Family
 Image: "[[Images/thumbnails/external/c36d5b00455ce06a2b50d6f27140b8ff.png]]"
+Weapon Type:
+  - Shield
+Consumable: false
 ---
 A shield issued to the Hyrulean royal family's immediate guard detail. It boasts an effective defense, but these days its appearance is rare.
 ![](https://i.imgur.com/vW1YkQj.png)

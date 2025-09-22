@@ -5,6 +5,7 @@ tags:
   - Talent-Combat-Oriented
   - Talent-Positioning
   - Talent-Ship
+  - Talent-Ranged
 Tier: 1
 Activation:
   - Active (Action)

@@ -36,6 +36,9 @@ Context:
 Loyalty:
   - Royalists
 Image: "[[Images/thumbnails/external/427902f809e9809ac26d34725742dccc.png]]"
+Weapon Type:
+  - Shield
+Consumable: false
 ---
 A shield favored by the knights who served the Hyrulean royal family. Its sturdy metal construction makes it quite durable, but its weight requires decent skill to wield. Both banner-shaped and circular-shaped variants exist.
 ![](https://i.imgur.com/JEGP9Ei.png)

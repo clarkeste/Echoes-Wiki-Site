@@ -27,6 +27,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/e1ac99f1e42c029226a9d82b2f4d0145.png]]"
+Weapon Type:
+  - Bow
+Consumable: false
 ---
 A bow designed for close-ranged armed conflict and warfare. Inflicts more damage than a civilian bow, but it will still burn if it touches fire.
 ![](https://i.imgur.com/wUKjEKq.png)

@@ -31,6 +31,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/ae65e2232f54d10238b49f784d98e313.png]]"
+Weapon Type:
+  - Misc
+Consumable: false
 ---
 Boomerangs, while often times just toys for children, can also be useful tools and can stun targets. They often return to their throwers.
 ![|494x480](https://i.imgur.com/RgiKCFk.png)

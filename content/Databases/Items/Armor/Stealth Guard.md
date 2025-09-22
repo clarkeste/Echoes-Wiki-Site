@@ -25,6 +25,7 @@ Loyalty:
   - None
   - Sheikah
 Image:
+Consumable: false
 ---
 Armor designed for stealth. Its defining feature is its soft, tight fabric suppresses sound coming from the wearer. The most famous example of Stealth Guard is the [[Sheikah|Sheikah]] Guard.
 ![]()

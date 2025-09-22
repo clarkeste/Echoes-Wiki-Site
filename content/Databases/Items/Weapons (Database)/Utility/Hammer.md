@@ -34,6 +34,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/d7b2f1055032f3d71435f928dfe416cc.png]]"
+Weapon Type:
+  - Misc
+Consumable: false
 ---
 Large hammers are rare, but not unheard of; unlike Hylians and other species who often use hammers no bigger than their palm, Gorons have often produced these larger hammers to fit their frame.
 ![](https://i.imgur.com/S5zSvjE.png)

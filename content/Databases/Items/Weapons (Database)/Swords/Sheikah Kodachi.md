@@ -31,6 +31,9 @@ Loyalty:
   - None
   - Sheikah
 Image: "[[Images/thumbnails/external/4b3f5c323ba1a25d4422d37ca6fdcf37.png]]"
+Weapon Type:
+  - Sword
+Consumable: false
 ---
 A short sword favored by the Sheikah of Kakariko Village. It is believed in Sheikah culture that simply gripping the hilt brings one to a state of spiritual unity, allowing the holder to sense anyone who feels enmity toward them.
 ![](https://i.imgur.com/VOUtOWZ.png)

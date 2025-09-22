@@ -1,5 +1,8 @@
 ---
 title: Swords
+Weapon Type:
+  - Sword
+Consumable: false
 ---
 This is the folder for Sword [[Weapons]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

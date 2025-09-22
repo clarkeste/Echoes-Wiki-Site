@@ -23,12 +23,15 @@ Unique: false
 Unlisted: false
 Is Armor: false
 Is Weapon: true
-Is Gear: false
+Is Gear: true
 Country:
 Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/1b5a85d2b8dfea2aa1805d37a548cb6f.png]]"
+Consumable: true
+Weapon Type:
+  - Throwable
 ---
 These are some of the biggest bombs, not uncommonly used in [[Cannon|Cannons]]. Both for mining and for war, its fuse is customizable.
 ![](https://i.imgur.com/kGaiAbi.png)

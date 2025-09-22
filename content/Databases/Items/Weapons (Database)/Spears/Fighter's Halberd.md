@@ -33,6 +33,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/dd7e840f307ebce0e4192610440e649e.png]]"
+Weapon Type:
+  - Spear
+Consumable: false
 ---
 The Fighter’s Brand is the epitome of quality in the space of weaponry and self-defense, and the Fighter’s Halberd is no exception. It boasts excellent craftsmanship, durability, and sharpness.
 ![](https://i.imgur.com/INcdh0K.png)

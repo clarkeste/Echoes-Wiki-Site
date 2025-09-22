@@ -28,6 +28,9 @@ Loyalty:
   - Royalists
   - Royal Family
 Image: "[[Images/thumbnails/external/e99b6aa275ebf9e2b5d94dd1946de77b.png]]"
+Weapon Type:
+  - Bow
+Consumable: false
 ---
 In the past, the King of Hyrule presented this bow to only the most talented archers in the land. Its combat capabilities are as impressive as its extravagant design.
 ![](https://i.imgur.com/JtlRRnF.png)

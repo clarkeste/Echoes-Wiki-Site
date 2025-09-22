@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image:
+Consumable: false
 ---
 Used by travelers, joggers, or speedy mailmen, this outfit’s sweat-absorbing and slick fabric is very useful in getting places fast.
 ![]()

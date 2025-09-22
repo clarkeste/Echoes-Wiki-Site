@@ -32,6 +32,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/42b845d41d66832f4a6b7f30a86f2599.png]]"
+Weapon Type:
+  - Sword
+Consumable: false
 ---
 The Fighter’s brand has long been known in Hyrule as a producer of quality personal defensive and offensive items, and this sword is no exception; it is the best on the legal market in all of the country, and valued greatly as a self-defense weapon.
 ![](https://i.imgur.com/XRwGXHn.png)

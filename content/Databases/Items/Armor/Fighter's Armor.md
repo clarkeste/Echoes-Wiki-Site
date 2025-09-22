@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image:
+Consumable: false
 ---
 Armor from the legendary Fighter’s series. Its immense quality and light form is the envy of almost anyone who seeks protective clothing.
 ![]()

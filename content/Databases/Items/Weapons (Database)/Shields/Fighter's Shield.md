@@ -38,6 +38,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/057161d1aecda07e1417b728f4d85bfe.png]]"
+Weapon Type:
+  - Shield
+Consumable: false
 ---
 The Fighter’s brand has long been known in Hyrule as a producer of quality personal defensive and offensive items, and this shield is no exception; the best on the legal market in all of the country. It comes in red and blue varieties.
 ![](https://i.imgur.com/mlKJWyG.png)

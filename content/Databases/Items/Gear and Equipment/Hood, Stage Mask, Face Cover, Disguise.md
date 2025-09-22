@@ -24,6 +24,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/1442333676b982eddfcbd91ba6cf271e.png]]"
+Consumable: false
 ---
 Various pieces of clothing are used to mask an individual’s identity, mostly by hiding their most distinctive trait—their face. Stage masks, while originally used by actors playing out the stories of playwrights or in [[Goddesses and the Gods|religious]] ceremonies, can also be used for hiding one’s identity. They come in all shapes in sizes—some replicating the face of a character, or some acting as a veil. Hoods, on the other hand, are simple pieces of clothing, but quite effective at masking one’s appearance.
 

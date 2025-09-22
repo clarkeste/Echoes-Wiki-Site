@@ -31,8 +31,12 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/ba0ae92905a0e5357bea00f1312226ef.png]]"
+Weapon Type:
+  - Bow
+  - Crossbow
+Consumable: false
 ---
-Only put into production a few years before the fall of the monarchy, the Hyrulean Crossbow is the result of much research. Its heavy nature makes it difficult to manage, but its punch is undeniable.
+eapOnly put into production a few years before the fall of the monarchy, the Hyrulean Crossbow is the result of much research. Its heavy nature makes it difficult to manage, but its punch is undeniable.
 ![](https://i.imgur.com/wwoVF2u.png)
 [[Damage|Damage]]: 8
 [[Skills|Skill]]: [[Ranged|Ranged]]
@@ -43,7 +47,7 @@ Only put into production a few years before the fall of the monarchy, the Hyrule
 [[Accurate (Passive) (Quality)|Accurate]] 2
 [[Prepare (Passive) (Quality)|Prepare]] 1
 [[Pierce (Passive) (Quality)|Pierce]] 4
-Special: Crossbows are one-handed [[Weapons]], unlike nearly all other [[Ranged]] Weapons.
+Special: Crossbows are partial one-handed [[Weapons]], unlike nearly all other [[Ranged]] Weapons, but must be prepared with both hands.
 
 Price: 10k [[Rupees]]
 [[Affiliations|Affiliation]]: None

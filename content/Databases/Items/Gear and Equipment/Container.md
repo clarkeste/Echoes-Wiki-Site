@@ -23,6 +23,7 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/d24339afc148368418c52bcc6d6b9706.png]]"
+Consumable: false
 ---
 A small box, bag, or pouch, this bag is useful for storing items inside and making them more convenient to carry.
 ![](https://i.imgur.com/4lZzq0g.png)

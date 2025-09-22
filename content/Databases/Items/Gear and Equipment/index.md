@@ -1,5 +1,6 @@
 ---
 title: Gear and Equipment
+Consumable: false
 ---
 This is the folder for Gear and Equipment. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

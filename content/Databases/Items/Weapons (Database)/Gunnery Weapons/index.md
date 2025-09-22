@@ -1,5 +1,8 @@
 ---
 title: Gunnery Weapons
+Weapon Type:
+  - Artillery
+Consumable: false
 ---
 This is the folder for [[Gunnery]] [[Weapons]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 

@@ -34,6 +34,9 @@ Context:
 Loyalty:
   - None
 Image: "[[Images/thumbnails/external/96d23d8e55c7ba4aeeef112f606762a9.png]]"
+Weapon Type:
+  - Artillery
+Consumable: false
 ---
 Cannons are a type of artillery that fire a projectile—often a steel ball or an explosive device, like a [[Bomb (Large)|Bomb]]—at a target, often from extremely long distances and awe-inspiring speeds.
 ![](https://i.imgur.com/hJvixYU.png)
