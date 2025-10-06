@@ -82,7 +82,7 @@ The Spring Festival’s origins are in the Hyrulean Civil War, celebrating a maj
 Hero’s Day represents the gratitude towards various heroic people in Hyrule’s history, including—but not limited to—the Hero of Time and the [[Hero of the Flood|Hero of the Flood]]. Various veterans or soldiers that did great things in the military are also celebrated this day. It is encouraged to give a friend a gift during this time to thank them for something ‘heroic’ they did for you. Businesses are mandated to give a day off.
 
 #### Festival of the Flood (or Day of the Flood)
-2nd of Asinober
+4th of Asinober
 *Main article: [[Festival of the Flood]]*
 The Festival of the Flood celebrates the day when the Hero of the Flood slew the Demon King and stopped the torrential downpour from sinking Hyrule. While there is an element of grimness, it is mostly a celebration of the survival and tenacity of the Kingdom, and is see as a far more ‘adult’ celebration. While individual cities have their own festivals, many will travel to the biggest one in [[Castle Town (Historia)|Castle Town (Historia)]], organized by the [[Former Hyrulean Government and Royal Family|Royal Family]]—where the current reigning monarch has given an address every single year on the day of the Flood. Businesses are mandated to give a day off.
 

@@ -1,14 +1,6 @@
 ---
 aliases:
-  - Revolutionary government and Followers of Dragmire
-  - The Followers of Dragmire
-  - Revolutionary government
   - Followers of Dragmire
-  - Follower Revolution
-  - Revolutionaries
-  - Revolutionary
-  - Followers
-  - Follower
 tags:
 Is Historia: true
 ---

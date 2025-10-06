@@ -10,6 +10,7 @@ aliases:
   - Gods
   - God
   - Din
+  - Goddesses
 tags:
 Is Historia: true
 ---

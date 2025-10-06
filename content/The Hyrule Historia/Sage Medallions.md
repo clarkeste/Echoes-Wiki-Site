@@ -2,6 +2,7 @@
 aliases:
   - sage medallion
   - hidden
+  - Sage Medallion
 tags: []
 Is Historia: true
 ---

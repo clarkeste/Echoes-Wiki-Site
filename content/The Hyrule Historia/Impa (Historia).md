@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Impa
   - hidden
 tags: []
 Is Historia: true

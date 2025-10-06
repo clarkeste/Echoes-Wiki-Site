@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Kakariko Village
 tags:
 Is Historia: true
 title: Kakariko Village

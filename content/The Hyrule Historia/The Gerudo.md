@@ -2,6 +2,7 @@
 aliases:
   - Gerudo Tribe
   - Gerudo
+  - the Gerudo
 tags:
 Is Historia: true
 ---

@@ -1,7 +1,5 @@
 ---
 aliases:
-  - General Noril
-  - Noril
 tags:
 Is Historia: true
 title: General Noril

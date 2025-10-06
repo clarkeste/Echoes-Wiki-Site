@@ -2,7 +2,6 @@
 aliases:
   - Threats
   - Threat
-  - that
 tags:
   - Rules
   - Dice

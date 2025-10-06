@@ -1,10 +1,7 @@
 ---
 aliases:
-  - Demon King, Ganondorf
   - Demon King Dragmire
   - Ganondorf Dragmire
-  - Demon King
-  - Ganondorf
   - Dragmire
   - Ganon
 tags:

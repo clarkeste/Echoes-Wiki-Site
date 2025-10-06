@@ -6,6 +6,8 @@ tags:
   - RPGSessions
 Image: "[[Images/thumbnails/external/71c09eaf522874e7825f7e20f87c0009.png]]"
 ---
+*[Access the Game Table here!](https://app.rpgsessions.com/game/5c170cf6-ce75-42ef-88c1-1227ebb4d6e6/table)*
+
 The Game Table is the center of the game, on the [[RPGSessions]] website. While most of its functions can be achieved using the [[RPGSessions Bot]], using the Game Table offers both integration with the server and an intuitive GUI.
 
 To find the Game Table, look at the tabs at the top-right of the website. Select ‘Games’.
