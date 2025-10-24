@@ -22,9 +22,11 @@ Once rolled, it is automatically added to your [[Character Sheet]]. Make sure to
 
 ### Critical Injury Table
 Here is the full Critical Injury Table for [[Echoes of the Departed]]!
-![[Critical Injury Table 1-1.png]]
-![[Critical Injury Table 2-1.png]]
+![](https://i.imgur.com/Sgt5pXR.png)
 
-![[Critical InjuryTable 3.png]]
 
-![[Critical Injury Table4.png]]
+![|845x2103](https://i.imgur.com/VQE6Jdt.png)
+
+![](https://i.imgur.com/zjC499T.png)
+
+![](https://i.imgur.com/zjC499T.png)
