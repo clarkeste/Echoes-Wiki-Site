@@ -29,4 +29,4 @@ Here is the full Critical Injury Table for [[Echoes of the Departed]]!
 
 ![](https://i.imgur.com/zjC499T.png)
 
-![](https://i.imgur.com/zjC499T.png)
+![](https://i.imgur.com/sBVC160.png)
