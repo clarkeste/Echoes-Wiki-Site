@@ -14,7 +14,7 @@ There are three main categories of Items.
 - [[Armor|Armor]]
 - [[Gear and Equipment|Gear and Equipment]]
 
-Check [[Item Database Guide]] to buy Items.
+Check [[Item Navigation Guide]] to buy Items.
 #### Adding a Weapon to RPGSessions
 To add a Weapon to [[RPGSessions|RPGSessions]], first navigate to the [[Character Sheet|Character Sheet]]. To do so at the [[Game Table|Game Table]], first navigate to it.
 

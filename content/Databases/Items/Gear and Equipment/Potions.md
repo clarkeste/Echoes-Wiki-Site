@@ -51,3 +51,8 @@ All [[Potions]] listed and widely available must be ingested for their effects t
 ### Sleep Potion
 *See - [[Potion - Sleep Potion]]*
 ![](https://i.imgur.com/wOpjm4s.png)
+
+## Potion Degradation
+Potions degrade when placed into containers that are not suited to them, such as wood, porcelain, or clay. The reason why is unknown, but it seems to contaminate the liquid and dull its effects.
+
+This effect is not instant, but it is fast-acting. If a Potion has been in the wrong container for more than ten minutes, its effectiveness is halved. If it has been in the wrong container for over an hour, its effectiveness is a quarter of its original—for many Potions, this means it has no mechanical effect at all.

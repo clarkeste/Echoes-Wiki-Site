@@ -12,7 +12,7 @@ Talents function on a tier system, with each tier costing 5 more [[Experience Po
 
 Additionally, there are some Ranked Talents. For example, the [[Parry]] Talent, which is Tier 1. If you purchase Parry, you can then purchase an additional rank. However, this additional rank is Tier 2. Likewise, purchasing a third rank would count as a Tier 3 Talent.
 
-Here is a is the navigational [[Talent Database Guide]]. Echoes of the Departed has 120 regular Talents, and 32 Magic Talents.
+Here is a is the navigational [[Talent Navigation Guide]]. Echoes of the Departed has 120 regular Talents, and 32 Magic Talents.
 
 ### Magic Talents
 Magic Talents act as regular Talents in every day, and count as Talents on the ‘pyramid’. The core difference, however, is that only [[Character|Characters]] with the [[Force]] [[Career Skills|Career Skill]] can purchase or benefit from them.

@@ -20,7 +20,7 @@ Rupees, therefore, are the main currency of the [[Echoes of the Departed|Echoes 
 
 While there are other currencies in the world, Rupees are the primary one, with all other currencies being compared to it. While the stability of the Rupee has taken a hit due to the Civil War, it still holds an important role in international [[Economy|trade]].
 
-Here is the full [[Item Database Guide]], that lists various useful Items in different categories. All the prices in Rupees!
+Here is the full [[Item Navigation Guide]], that lists various useful Items in different categories. All the prices in Rupees!
 
 #### Rupees in the Bank, or in your Wallet?
 Not all Rupees are stored on your person. Or, at least, they do not have to be. How many Rupees you can hold is dependent on the size of the [[Rupee Wallet|Rupee Wallet]] you have. While you can go over the limit, Rupees over the limit will cause [[Encumbrance|Encumbrance]] to be added to your character.

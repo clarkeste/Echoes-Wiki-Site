@@ -31,7 +31,11 @@ It is very important: Do not copy the information over manually, as that will ju
 #### Abilities
 **Goron Mettle:** Gorons can survive in incredible heat without penalty, and have strength beyond compare. They gain +3 to their default [[Encumbrance|Encumbrance Threshold]] (making it 8 as opposed to 5) and the [[Cumbersome (Passive) (Quality)|Cumbersome]] rating of all [[Weapons|Weapons]] is treated as one lower. However, they also weigh much more by default and will have difficulty swimming or staying at the top of bodies of water. To counteract this, they seem to be able to hold their breath four or five times longer than a [[Hylians|Hylian]].
 
+Additionally, steep falls with sharp rocks that would often cause [[Fall Damage]] as a Character rolls down, has little effect on Gorons.
+
 **Eats Rocks:** Gorons eat rocks. Literally. 
+
+**Rock and Roll:** Gorons can curl into a ball and roll. Even on the harsh and rocky terrain they are used to, this is not uncomfortable at all and is easy for them to move on. May enter Rolling mode in [[Combat]] with a [[Maneuvers|Maneuver]]. When rolling into a ball, gain a free Maneuver on each turn that can only be used on Movement, and does not count towards the two Maneuver limit, and increase [[Defense]] by 1. However, cannot [[Attack Check|Attack]] or interact with many elements or objects when Rolling.
 
 **Silhouette 2:** This species is [[Silhouette|Silhouette]] 2 in size. 
 ‎

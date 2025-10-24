@@ -13,7 +13,7 @@ The people of Hyrule do not tend to have the same names that we have. There are 
 
 Here are some examples for names that fit for each of the starting [[Peoples]], and some general tips.
 
-Oh, and if you want even more ideas, [visit this excellent name generator.](https://www.fantasynamegenerators.com/legend-of-zelda.php) Keep in mind that the “Blin” section seems to be designed for species names, and not individual [[Monsters|Monster]], and is therefore not particularly applicable.
+Oh, and if you want even more ideas, [visit this excellent name generator.](https://www.fantasynamegenerators.com/legend-of-zelda.php) Keep in mind that the “Blin” section seems to be designed for species names, and not individual [[Monsters (People)|Monster]], and is therefore not particularly applicable.
 
 ### Hylian
 
@@ -212,7 +212,7 @@ The following are example names, for inspiration. It is suggested that you avoid
 
 
 ### Monster Names
-The names of [[Monsters]] tend to be harsh or esoteric, fitting with their often frightening and uncanny nature. Some others are simple, deceptively so. When making a monster name, feel free to be very creative and don’t worry if it sounds a little unusual.
+The names of [[Monsters (People)|Monsters]] tend to be harsh or esoteric, fitting with their often frightening and uncanny nature. Some others are simple, deceptively so. When making a monster name, feel free to be very creative and don’t worry if it sounds a little unusual.
 
 The following are example names, for inspiration. It is suggested that you avoid taking from them directly, as a lot of these names are from various minor NPCs across the Zelda series. However, that just means that they’re common first names, so at the same time, go for it if one of them really strikes your fancy.
 

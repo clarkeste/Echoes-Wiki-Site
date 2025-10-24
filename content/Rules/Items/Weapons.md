@@ -22,7 +22,7 @@ There are seven main categories of weapon in [[Echoes of the Departed]].
 - Brawl Weapons
 - Artillery Weapons
 
-To view all purchasable items in, please the [[Item Database Guide]] for more information.
+To view all purchasable items in, please the [[Item Navigation Guide]] for more information.
 
 ### Categories
 

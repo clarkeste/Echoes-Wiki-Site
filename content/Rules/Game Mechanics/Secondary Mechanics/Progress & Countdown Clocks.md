@@ -95,11 +95,13 @@ When Traveling, there are few different Resources that should be kept in mind.
   
   The maximum amount of Supply that can be carried at any given time is 15.
   
-- **Time:** Applicable in situations where time is of the essence. Time starts at a value of 5-20 depending on how much time the PCs have to reach their destination. 
+- **Time:** Applicable in situations where time is of the essence. Time starts at a value of 5-20 or more depending on how much time the PCs have to reach their destination. 
   
   Each Travel Check reduces the Time value by 1; other Travel actions, such as taking a detour to lodge at an Inn, or spending time salvaging Food (to increase Supply), will usually also reduce the Time value by 1. Once depleted, Time cannot be restored.
   
   If Time runs out, the Characters don’t make it in time; whatever would’ve happened at their destination without their presence, happens. In addition to narrative consequences, any time a Character suffers Strain during Travel actions, they suffer 1 additional Strain due to the stress.
+  
+  Each unit of Time is about 3 Hours. Three units of Time is equal to a Day of Traveling, or a Day of [[Downtime]].
 
 - **Rupees:** The same as [[Rupees]] in the rest of the game. Lodgings, purchasing Supply mid-trip, all of these things may cost Rupees.
 
@@ -113,32 +115,32 @@ Just like in regular narrative time, Players are encouraged to come up with thin
   
   Consumes 1 Time and 1 Supply. Sometimes, other paths may be available that fill more of the Progress Clock, take less time, etc, but may be a harder Check, cost Strain or Supply, etc.
 
-- **Foraging/Hunting:** Make a [[Survival]] or [[Culinary]] Check, with [[Difficulty]] determined by the area. 
+- **Foraging/Hunting:** Make a [[Survival]] or [[Culinary]] Check, with [[Difficulty]] determined by the area. On a Success, add +1 Supply.
   
-  On a Success, add +1 Supply. Active Character suffers 2 Strain.
+  Consumes 1 Time, and the Active Character suffers 2 Strain.
 
-- **Cooking:** Make a Culinary Check to [[Potion Creation|cook]] a [[Potion Template - Meal|Meal]] that will lift people’s spirits and be more appealing than eating the rations on their own.
+- **Cooking:** Make a Culinary Check to [[Potion Creation|cook]] a [[Potion Template - Meal|Meal]] that will lift people’s spirits and be more appealing than eating the rations on their own. Heal 1 Strain on every Character who can eat the Meal. In addition, every Character gains the benefits of the Meal made (Strain or Wound restoration).
   
-  Consumes 1 Supply and 1 Time, but heals 1 Strain on every Character who can eat the Meal. In addition, every Character gains the benefits of the Meal made (Strain or Wound restoration).
+  Consumes 2 Supply and 1 Time.
 
 - **Rest:** Set up camp or book an Inn and rest for longer than is necessary to sleep, to be ready for the next day.
   
-  Consumes 1 Supply and 2 Time. Every Character who rests can roll an [[Difficulty|Easy]] (1p) [[Cool]], Discipline, or Resilience Check to heal Strain equal to Advantages and [[Success|Successes]].
+  Consumes 1 Supply and 1 Time. Every Character who rests can roll an [[Difficulty|Easy]] (1p) [[Cool]], Discipline, or Resilience Check to heal Strain equal to Advantages and [[Success|Successes]].
   
   If done in a proper resting area, such as an Inn, Consumes 0 Supply, there is no Difficulty to heal Strain, and in addition to the Check, all Characters resting heal +2 Strain. Inns will have costs, however; commonly 40-100 Rupees for each person.
 
 - **Restock:** At a Village, Town, or City, restock on Supply, most commonly by purchasing more.
   
-  Consumes 0 Supply and 0 Time. Add +3 Supply. Costs 300-800 Rupees depending the location, [[Negotiation]] roll, etc.
+  Consumes 0 Supply and 1 Time. Add up to +6 Supply, each unit of Supply costing 50-250 Rupees depending the location, [[Negotiation]] roll, etc.
 
-- **Push Forward:** Travel at an increased pace, pushing the group to their limits to try and get to their destination quicker.
+- **Push Forward:** Travel at an increased pace, pushing the group to their limits to try and get to their destination quicker. Fill out twice as many sections of the Progress Clock as you would on a regular Travel Check!
   
-  Functions the same as the option named Travel—except that it consumes 2 Supply instead of 1, and all Characters suffer 3 Strain even on a Success, and regardless of any Strain suffered due to a Failure.
+  Consumes 2 Supply and 1 Time. All Characters suffer 3 Strain even on a Success, and in addition to any Strain suffered due to a Failure.
 
 #### Determining Clock Size and Supply
 The size of the Clock is determined by the distance and conditions in the Traveling. For every 10km between the Starting Location and the Waypoint, the GM adds another Segment to the Clock. For areas with dangerous terrain—such as harsh winterlands, deep deserts, or war-torn battlefields—a Segment is added every 5km.
 
-Supply on all trips is, by default, 5. Two hundred [[Rupees, Currencies|Rupees]] can be spent prior to the Travel at a Village or Town to buy another point of Supply.
+Supply on all trips is, by default, 5. 50-250 [[Rupees, Currencies|Rupees]] can be spent prior to the Travel at a Village or Town to buy another point of Supply each.
 
 #### Travel Checks, and Journeying
 Each Skill Check to move forward represents about 10km of travel, or 5km in dangerous terrain, and therefore Ticks the Progress Clock forward.

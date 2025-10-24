@@ -12,6 +12,6 @@ Unless otherwise stated, only one suit of Armor can be worn at any given time. A
 
 When worn, the [[Encumbrance|Encumbrance]] of Armor is reduced by 3. Armor may have other benefits listed as [[Qualities|Qualities]] on their stat-blocks, making each option unique.
 
-To see all the available options, please check out the the [[Item Database Guide]].
+To see all the available options, please check out the the [[Item Navigation Guide]].
 
 Check the [[Items|Items]] document to see how to add Armor to a [[Character Sheet|Character Sheet]].

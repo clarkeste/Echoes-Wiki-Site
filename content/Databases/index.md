@@ -6,13 +6,13 @@ This is the folder for Databases. It is not an article, and therefore has no uni
 [[Items]]
 For an overview of Items and how they work.
 
-[[Item Database Guide]]
+[[Item Navigation Guide]]
 For a walk-through to help you navigate purchasing [[Items]], particularly during [[Character Creation Guide|Character Creation]].
 
 [[Talents]]
 For an overview of Talents and how they work.
 
-[[Talent Database Guide]]
+[[Talent Navigation Guide]]
 For a walk-through to help you navigate purchasing [[Talents]], particularly during [[Character Creation Guide|Character Creation]].
 
 

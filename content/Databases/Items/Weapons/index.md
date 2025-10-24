@@ -7,7 +7,7 @@ This is the folder for [[Weapons (Database)]]. It is not an article, and therefo
 [[Weapons (Database)]]
 For an overview of Weapons and how they work.
 
-[[Item Database Guide]]
+[[Item Navigation Guide]]
 For a walk-through to help you navigate purchasing [[Items]], particularly during [[Character Creation Guide|Character Creation]].
 
 

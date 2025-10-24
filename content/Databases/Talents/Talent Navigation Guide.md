@@ -1,11 +1,10 @@
 ---
 aliases:
-  - Talent Database
 tags:
   - Rules
   - Guide
 ---
-Hi, and welcome to the Talent Database! Here is where all the [[Talents]] for [[Echoes of the Departed]] are catalogued, and where you can easily access various categories to properly navigate them. If you’d like to know what Talents are, how much they cost, etc, check out the [[Talents]] page. This article is primarily for navigating and finding the ones you want.
+Hi, and welcome to the Talent Navigation Guide! Here is where all the [[Talents]] for [[Echoes of the Departed]] are catalogued, and where you can easily access various categories to properly navigate them. If you’d like to know what Talents are, how much they cost, etc, check out the [[Talents]] page. This article is primarily for navigating and finding the ones you want.
 
 ### Tiers
 Each Talent has a Tier. There are 5 Tiers. Please note that despite using the same Tier system, Magic Talents are not tagged using Tiers as to not confuse [[Player|Players]] who are making a [[Character]] that does not use [[Spell Creation|Magic]].

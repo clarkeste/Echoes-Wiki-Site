@@ -6,8 +6,8 @@ This is the folder for [[Talents#Magic Talents|Magic Talents]] Tier 4. It is not
 [[Talents]]
 For an overview of [[Talents]] and how they work. Check out the [[Talents#Magic Talents|Magic Talents section]].
 
-[[Talent Database Guide]]
-For a walk-through to help you navigate purchasing [[Talents]], particularly during [[Character Creation Guide|Character Creation]]. Check out the [[Talent Database Guide#Magic Talents|Magic Talents section]].
+[[Talent Navigation Guide]]
+For a walk-through to help you navigate purchasing [[Talents]], particularly during [[Character Creation Guide|Character Creation]]. Check out the [[Talent Navigation Guide#Magic Talents|Magic Talents section]].
 
 
 The following are the articles in this folder:

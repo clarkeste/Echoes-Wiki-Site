@@ -16,7 +16,7 @@ To begin with in Echoes of the Departed, there six playable Peoples. Number 7th 
 - [[Zora|Zora]]
 - [[Sheikah]]
 - [[Gerudo|Gerudo]]
-- [[Monsters|Monsters]]
+- [[Monsters (People)|Monsters (People)]]
 - [[Foreign Human]]
 - [[Zuna]]
 Five more playable Peoples are planned, but must be unlocked during play.

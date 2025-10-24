@@ -9,7 +9,7 @@ This is the folder for Pole-arm [[Weapons]]. It is not an article, and therefore
 [[Weapons]]
 For an overview of Weapons and how they work. Check out the [[Weapons#Pole-arm Weapons|Pole-arm Weapons section]].
 
-[[Item Database Guide]]
+[[Item Navigation Guide]]
 For a walk-through to help you navigate purchasing [[Items]], particularly during [[Character Creation Guide|Character Creation]].
 
 

@@ -12,7 +12,7 @@ For an overview of Weapons and how they work. Check out the [[Weapons#Artillery 
 [[Gunnery]]
 The namesake of this folder. It is a [[Skills|Skill]] used to operate most Weapons in this folder.
 
-[[Item Database Guide]]
+[[Item Navigation Guide]]
 For a walk-through to help you navigate purchasing [[Items]], particularly during [[Character Creation Guide|Character Creation]].
 
 

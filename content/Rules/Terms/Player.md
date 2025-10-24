@@ -24,3 +24,5 @@ Then, when the GM continues the Combat, they will make sure the first two Attack
 Of course, should a Player be online during the enemy’s turn, they may override or change any plans they set out earlier, or at any time prior, should they wish.
 
 To read more about this, check out the [[How Much Do I Post? What is Expected of Me?]] article.
+
+Additionally, see [[PC|PCs]] as it has information for what occurs if a Player experiences a prolonged period of inactivity.

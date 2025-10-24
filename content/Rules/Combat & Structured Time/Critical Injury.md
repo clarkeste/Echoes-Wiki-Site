@@ -18,7 +18,13 @@ Next to the “Roll Crit” button, you will notice buttons saying +10 and -10. 
 
 If a Character already has Critical Injuries, this also adds +10 to the roll per pre-existing Injury. This, however, is automatically calculated by [[RPGSessions|RPGSessions]].
 
-Once rolled, it is automatically added to your [[Character Sheet]]. Make sure to check what the Injury was, as almost every Injury has an immediate consequence of being rolled. This can be as simple as dropping the item you are holding (Sudden Jolt, 1-9) or dying in the next turn if you do not see immediate medical attention (The End Is Nigh, 139-151).
+Once rolled, it is automatically added to your [[Character Sheet]]. Make sure to check what the Injury was, as almost every Injury has an immediate consequence of being rolled. This can be as simple as suffering a [[Strain]] (Minor Scrape, 1-9) or dying in the next turn if you do not see immediate medical attention (You’re Not Meant To Make It, 171-184).
 
+### Critical Injury Table
+Here is the full Critical Injury Table for [[Echoes of the Departed]]!
+![[Critical Injury Table 1-1.png]]
+![[Critical Injury Table 2-1.png]]
 
+![[Critical InjuryTable 3.png]]
 
+![[Critical Injury Table4.png]]

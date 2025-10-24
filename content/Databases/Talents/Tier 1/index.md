@@ -6,7 +6,7 @@ This is the folder for Tier 1 [[Talents]]. It is not an article, and therefore h
 [[Talents]]
 For an overview of [[Talents]] and how they work.
 
-[[Talent Database Guide]]
+[[Talent Navigation Guide]]
 For a walk-through to help you navigate purchasing [[Talents]], particularly during [[Character Creation Guide|Character Creation]].
 
 

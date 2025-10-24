@@ -1,4 +1,50 @@
 
+# 1.3.3
+
+### Mechanics
+- Introduced Inactive PCs and Inactive Players, to solve my fraying sanity. See [[PC|PCs]] for more information.
+
+- Slightly modified and clarified the Travel rules in [[Progress & Countdown Clocks]]
+	- Clarified that 3 units of Time is equal to a day
+	- Clarified that Push Forward fills in twice as many Segments of the Progress Clock as a regular Travel Action
+	- Set a standard price range for an individual piece of Supply
+	- Changed some of the Supply and Time costs of the various Travel Actions
+
+- Elaborated on the mechanics of Potion degradation in [[Potions]]
+
+- Clarified that brews made with the [[Potion Template - Internal Potion|Internal Potion]] and [[Potion Template - External Potion|External Potion]] templates must also be stored in [[Bottle|Bottles]], or they [[Potions#Potion Degradation|degrade]] in the same way.
+
+- Changed [[Gorons]] slightly, adding mechanics to their ability to Roll.
+
+- Re-ordered the [[Critical Injury]] Table and made various changes.
+	- Gained the Advantage has been modified; now any target can benefit from the free [[Triumph]], but it only applies until the end of the next Round.
+	- Modified ‘Disarmed!’ so that the dropped [[Items|Item]] goes to [[Short Range|Short]] Range.
+	- The Unique Minor Wound of [[Monsters (People)|Monsters]] and [[Gorons]] were changed, and the Unique Major Wound of Monsters, Gorons, Zora, and ??? were changed as well.
+	- Slightly changed ‘Pushed Back’ and ‘Toss’; in both, may now spend a [[Sacred Points|Sacred Point]] to immediately re-engage the Target.
+	- Increased the effect of ‘Broken Defenses’
+	- Changed ‘Tactical Success’ to apply to Characters within [[Medium Range]], not just [[Short Range]].
+	- Renamed ‘The End is NIgh’ to ‘You’re Not Meant To Make It’.
+	- Renamed ‘Compromised’ to ‘Losing!’
+	- Removed the ‘Grapple’ [[Critical Injury]], which forced the Target to move alongside the Attacker until broken.
+	- Removed ‘Formidable Wound’, which caused only Checks using a specific [[Characteristics|Characteristic]] to have their [[Difficulty]] increased, which was too complicated.
+	- Removed the ‘Blinded’ [[Critical Injury]], which is from default [[Genesys]] and SWRPG.
+	- Removed ‘Dazed and Scattered’, which stopped a Character from receiving [[Boost Dice]]
+	- Changing the ordering and value range for many of the [[Critical Injury|Critical Injuries]].
+	- Edited for clarity, including adding Dice Icons.
+
+The Critical Injury Table is now listed and visible at [[Critical Injury]].
+
+### Website
+- Talent Database Guide renamed to [[Talent Navigation Guide]]
+
+- Item Database Guide renamed to [[Item Navigation Guide]]
+
+
+Small update, I know! The Mass Combat update will be 1.4, which will also include the final version of the currently in-development weather condition effects. Potentially some Talent changes, too. Let me know what you’d like to see added, changed, or what you think is useless, in terms of [[Talents]]. Both Magic and regular.
+
+
+
+
 # 1.3.2
 ### Items
 - Increased the [[Encumbrance]] of [[Flamebreaker Armor]] from 7 to 9
@@ -144,7 +190,7 @@ Additionally, I updated a lot of meta-data on this patch. That shouldn’t show 
 
 - Cleaned up all Species template pages
 
-- Re-worked [[Monsters]] to a significant extent.
+- Re-worked [[Monsters (People)]] to a significant extent.
 	-  They now start with 220 XP instead of the approximately 180 they did before.
 	- Added many new Abilities, including: Unnatural Charm, Mounted, Luminous, Spirit of Light, etc. This will allow you to more easily play a Lynel, Fairy, Spy Monster, etc.
 

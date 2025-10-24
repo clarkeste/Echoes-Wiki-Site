@@ -7,7 +7,7 @@ This is the folder for [[Armor]]. It is not an article, and therefore has no uni
 [[Armor]]
 For an overview of Armor and how they work.
 
-[[Item Database Guide]]
+[[Item Navigation Guide]]
 For a walk-through to help you navigate purchasing [[Items]], particularly during [[Character Creation Guide|Character Creation]].
 
 

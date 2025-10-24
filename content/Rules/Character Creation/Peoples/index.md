@@ -15,7 +15,7 @@ The following are the articles in this folder:
 [[Gorons]]
 [[Hylians]]
 [[Foreign Human]]
-[[Monsters]]
+[[Monsters (People)]]
 [[Peoples]]
 [[Sheikah]]
 [[Zora]]

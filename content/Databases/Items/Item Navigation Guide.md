@@ -3,11 +3,11 @@ tags:
   - Guide
   - Options
 ---
-Welcome to the Item Database of [[Echoes of the Departed]]! This is a section designed to help you figure out what [[Items]] to purchase, and how to find what you’d like.
+Welcome to the Item Navigation Guide of [[Echoes of the Departed]]! This is a section designed to help you figure out what [[Items]] to purchase, and how to find what you’d like.
 
-Firstly, the Item Database is split into three different categories. [[Armor]], which includes clothing worn for various purposes, usually defensive. [[Gear and Equipment]], which are tools usually needed to do a job properly, or make certain tasks easier. And finally, [[Weapons (Database)]], which exist to be used in attack, although they may have further utility purposes.
+Firstly, the Item Navigation Guide is split into three different categories. [[Armor]], which includes clothing worn for various purposes, usually defensive. [[Gear and Equipment]], which are tools usually needed to do a job properly, or make certain tasks easier. And finally, [[Weapons]], which exist to be used in attack, although they may have further utility purposes.
 
-The Item Database Guide is split into three sections: [[Item Database Guide#Starter Items|Starter Items]], [[Item Database Guide#Items by Affiliation|Items By Affiliation]], and [[Item Database Guide#All Items|All Items]]. The first section goes over Items that are particularly relevant or are purchasable when [[Character Creation Guide|creating a character]]; the second lists all Items by their [[Affiliations|Affiliation]], and the third is an alphabetically listing of all Items, separated by their categories.
+The Item Navigation Guide is split into three sections: [[Item Navigation Guide#Starter Items|Starter Items]], [[Item Navigation Guide#Items by Affiliation|Items By Affiliation]], and [[Item Navigation Guide#All Items|All Items]]. The first section goes over Items that are particularly relevant or are purchasable when [[Character Creation Guide|creating a character]]; the second lists all Items by their [[Affiliations|Affiliation]], and the third is an alphabetically listing of all Items, separated by their categories.
 
 ### Starter Items
 Not every Item listed in this wiki is purchasable right off the bat; usually, because the asking price for them is more than the price a [[Character]] gains at [[Character Creation Guide|Character Creation]]. Therefore, we’ve curated a list of [[Items]] that could be worth consideration when starting, starting with [[Gear and Equipment]].

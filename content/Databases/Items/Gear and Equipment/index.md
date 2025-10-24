@@ -7,7 +7,7 @@ This is the folder for Gear and Equipment. It is not an article, and therefore h
 [[Gear and Equipment]]
 For an overview of Gear, Equipment, and how they work.
 
-[[Item Database Guide]]
+[[Item Navigation Guide]]
 For a walk-through to help you navigate purchasing [[Items]], particularly during [[Character Creation Guide|Character Creation]].
 
 
