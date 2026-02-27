@@ -1,7 +1,6 @@
 ---
 aliases:
   - hidden
-  - aryll
   - Aryll Steadfast
 tags:
 Is Historia: true

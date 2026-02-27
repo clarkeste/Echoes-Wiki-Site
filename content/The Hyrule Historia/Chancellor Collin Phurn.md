@@ -4,6 +4,8 @@ aliases:
   - Chancellor Phurn
   - Lord Chancellor
   - Collin Phurn
+  - Phurn
+  - Collin
 tags:
 Is Historia: true
 ---

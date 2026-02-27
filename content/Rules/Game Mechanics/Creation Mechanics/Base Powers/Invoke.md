@@ -5,7 +5,7 @@ tags:
 aliases:
   - Invoke
 ---
-The Invoke [[Spell Creation|Spell]] allows its user to create objects and shapes and then summon them into the world. The Base Power of Invoke creates simple objects, such as barriers or [[Items]].
+The Invoke [[Spell Creation|Spell]] allows its user to create objects and shapes and then summon them into the world. The Base Power of Invoke creates simple objects, such as barriers or some basic [[Items]].
 
 [[Difficulty]] depends on the [[Silhouette]] of the object to be summoned. Its default [[Range Bands|Range]] is [[Medium Range|Medium]]. [[Modifiers]] on Invoke tend to impact what is made with it.
 

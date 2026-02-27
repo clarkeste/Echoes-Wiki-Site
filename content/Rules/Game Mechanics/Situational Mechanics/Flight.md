@@ -4,7 +4,7 @@ aliases:
 ---
 Some [[Character|Characters]] in [[Echoes of the Departed]] are gifted with the natural ability to fly and soar through the air; to glide like birds, or flap and hover like bats.
 
-Characters with Flight have a Speed rating, and therefore operate similarly to Mounts in [[Horses and Mounts]]. Their Speed Rating is determined by the [[Peoples]] they belong to.
+Characters with Flight have a **Speed** rating, and therefore operate similarly to Mounts in [[Horses and Mounts]]. Their Speed Rating is determined by the [[Peoples]] they belong to.
 
 Each turn while in Flight, a Character who is Flying gains free **Flight Maneuvers** equal to their Speed rating.
 
@@ -28,9 +28,9 @@ If the Character in Flight chooses to use the Move Maneuver to take go through a
 
 Regular Move Maneuvers (done with regular Maneuvers, not Flight Maneuvers) can also be used by a Character to move while Flying, and are functionally identical.
 #### Evasive Flight
-All [[Skill Checks|Checks]] targeting the [[Character]] who uses Evasive Flight add one [[Setback Dice|Setback Die]], until the beginning of that Character’s next turn. Can be used a maximum of twice on one Turn.
+All [[Skill Checks|Checks]] targeting the [[Character]] who uses Evasive Flight adds one more [[Setback Dice|Setback Die]], until the beginning of that Character’s next turn. Can be used a maximum of twice on one Turn.
 #### Aggressive Flight
-The next [[Attack Check]] done by the [[Character]] in Flight add one [[Boost Dice|Boost Die]], although this effect expires at the beginning of their next Turn. Can be used a maximum of twice on one Turn.
+The next [[Attack Check]] done by the [[Character]] in Flight adds one more [[Boost Dice|Boost Die]], although this effect expires at the beginning of their next Turn. Can be used a maximum of twice on one Turn.
 #### Landing
 When within [[Engaged Range]] of the ground, may take a Flight Maneuver to land, and end flight. May also do this using a regular [[Maneuvers|Maneuver]].
 
@@ -46,7 +46,7 @@ In addition to all regular penalties from Encumbrance Threshold existing, there 
 
 If a Character would be over their Encumbrance Threshold if they started to Fly, but are currently not, they cannot take a Maneuver to begin Flying. For example, let us say a Character has an Encumbrance Threshold of 10, and are currently have an Encumbrance of 8. Since Flying would cause their Encumbrance Threshold to drop to 7, and therefore leave them one point over their Encumbrance Threshold, they cannot take a Maneuver to begin to fly.
 
-Picking up another Character adds to Encumbrance. Characters that are [[Silhouette]] 1 add +5 Encumbrance when held, in addition to any [[Items]] they are carrying. [[Silhouette]] 2 adds +10 [[Encumbrance]]. Silhouette 3 adds +20 Encumbrance. So on and so fourth. See [[Encumbrance#The Encumbrance of a Person|The Encumbrance of a Person]].
+Picking up another Character adds to Encumbrance. Characters that are [[Silhouette]] 1 add +10 Encumbrance when held, in addition to any [[Items]] they are carrying. [[Silhouette]] 2 adds +20 [[Encumbrance]]. Silhouette 3 adds +30 Encumbrance. So on and so fourth. See [[Encumbrance#The Encumbrance of a Person|The Encumbrance of a Person]].
 ### Jumping over Hazards
 Any [[Character]] with Flight who tries to jump over [[Hazards]] or gaps the regular way gain three [[Boost Dice]] to the attempt, unless their Flight is currently being blocked or denied to them.
 

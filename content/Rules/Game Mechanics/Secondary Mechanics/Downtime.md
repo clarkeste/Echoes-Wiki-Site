@@ -3,6 +3,7 @@ aliases:
   - days, weeks, or even month
   - half the time
   - Downtime
+  - Day
 tags:
   - Rules
   - New-Rules

@@ -15,20 +15,20 @@ There are different rules for handling water-faring Ships and larger vehicles su
 
 At the core of these rules, are the Ship/vehicle sheets, which are like [[Character Sheet|Character Sheets]] but instead of describing the abilities of a [[Character]], it describes the properties and abilities of a Ship or vehicle. While some of these properties are identical to those found in Character Sheets, such as [[Soak]], others are a little different.
 
-### Ship and vehicle Sheets
+# Ship and vehicle Sheets
 #### Integrity Threshold 
 The **Integrity Threshold** of a Ship or vehicle is akin to its [[Wound Threshold]]. It determines how much physical [[Damage]] it can take from [[Attack Check|Attacks]] and other damage to its hull and frame. Aside from that, the Integrity Threshold functions the same as the Wound Threshold on a regular [[Character]].
 
 Just like the Wound Threshold of a Character, when a Ship or vehicle passes its Integrity Threshold, it becomes unusable. If it is akin to a [[Adversary#Minions|Minion]] or [[Adversary#Rivals|Rival]], then the Ship or vehicle sinks, falls apart, explodes, or is otherwise destroyed. Otherwise, it suffers a Ship [[Critical Injury]] and becomes inoperable due to major damage that could destroy it if quick action is not taken.
 
-Integrity can be [[Operating|repaired using the Operating]] [[Skills|Skill]].
+Integrity can be repaired using the [[Craftsmanship]] [[Skills|Skill]] and the ‘Damage Control’ [[Actions|Action]] listed below.
 
 #### Strain Threshold
 The **Strain Threshold** of a Ship or vehicle is largely identical to the [[Strain Threshold]] of a regular [[Character]]. It represents pushing a Ship or vehicle to its limit. The creaking of wood, loosening of important parts, quality of the rope, mast, or tiller, and things that could cause a Ship to fall apart, but that are separate from the Integrity of the hull or frame. 
 
 Just like the Strain Threshold of a Character, it can be used to activate various [[Talents]] or [[Maneuvers]]. Additionally, when the active amount of Strain goes over the Strain Threshold, the ship slows its Speed to 0 and is unable to move.
 
-Strain on a Ship or vehicle can be [[Operating|repaired using the Operating]] [[Skills|Skill]] or other actions done by the crew. Unlike regular [[Strain]] on a Character, it cannot be healed using [[Advantage]].
+Strain on a Ship or vehicle can be a [[Craftsmanship|Craftsmanship]] [[Skill Checks|Check]] done using the ‘Damage Control’ [[Actions|Action]] listed below, or by other actions done by the crew. Unlike regular [[Strain]] on a Character, it cannot be healed using [[Advantage]].
 
 #### Soak
 The **Soak** of a Ship or vehicle is identical to the [[Soak]] of a regular [[Character]]. It represents the armor and defenses of a vehicle or ship against [[Attack Check|Attacks]]. 
@@ -43,7 +43,7 @@ Just like regular Defense, all [[Attack Check|Attack Checks]] targeting a Ship o
 #### Handling
 **Handling** is a value on a Ship or vehicle that determines how easy it is for the driver or Captain to maneuver and control it. It can be caused by a wide variety of factors, such as an effective handling system, or a bulky frame.
 
-The Handling of a Ship or vehicle adds [[Boost Dice]] equal to the positive Handling rating any [[Operating]] [[Skill Checks]] to control the Ship or vehicle. If the Handling rating is instead negative (ie, -2), then [[Setback Dice]] equal to the negative Handling rating are added to any [[Operating]] [[Skill Checks|Skill Check]] to control the Ship or vehicle.
+The Handling of a Ship or vehicle adds [[Boost Dice]] equal to the positive Handling rating to any [[Operating]] [[Skill Checks]] to control the Ship or vehicle. If the Handling rating is instead negative (ie, -2), then [[Setback Dice]] equal to the negative Handling rating are added to any [[Operating]] [[Skill Checks|Skill Check]] to control the Ship or vehicle.
 
 #### Silhouette
 **Silhouette** is simply how big or small the vessel in question is, using the [[Silhouette]] system used in the rest of [[Echoes of the Departed]].
@@ -55,26 +55,26 @@ The most unique part of Ships/Vehicles and their Combat is **Maximum Speed**, an
 
 During [[Combat]], the Operator, Captain, or whoever is driving or managing a Ship or Vehicle gains [[Ship Combat, and Vehicles#Ship Maneuvers|Ship Maneuvers]] equal to the current Speed of the Ship or Vehicle. They **must** spend all Ship Maneuvers. 
 
-### Encumbrance Capacity
+#### Encumbrance Capacity
 This determines how many people or objects a Ship or vehicle can transport. Usually this can be ignored and treated as “a lot”. But in some cases, it might be relevant.
 
 For the purposes of determining [[Encumbrance]] on a ship, each [[Silhouette]] 1 person is 5 Encumbrance, with each additional Silhouette adding +5. Silhouette 0 individuals are 2 Encumbrance.
 
-### Crew Required
+#### Crew Required
 Larger Ships require a significant crew complement to keep them running. Not everything has a vital or exciting job; many are just there to keep an eye on things, or operate functions such as the anchor or carrying out orders on the mast. Many Ships or Vehicles, like a simple Sailboat or a Chariot, will only require a single person to operate it.
 
 
-### Structured Time and Combat
+# Structured Time and Combat
 Just as with there are additional rules in [[Combat]] without Vehicles, there are additional rules that apply to Ships and vehicles when they are in Combat. While many of these rules, such as [[Attack Check|Attack Checks]] remain the same with regular Combat, Ships and vehicles tend to move in different ways than their bipedal counterparts.
 
 It should be noted that the addition of vehicles does not change what individual [[Character|Characters]] can do in Combat or structured time. Even in an [[Encounter|Encounter]] heavily featuring Ships and or vehicles, a Character can still do any of the [[Maneuvers]], [[Actions|Actions]], and [[Incidentals]] they usually could. This can be things such as moving around the deck of a Ship, or shooting Arrows out of a carriage window. The main difference in Ship and Vehicle Combat comes in how the vessels themselves move, how their resources are managed, and how Ship-bound [[Weapons]] are operated.
 
-#### Changing Speed
+### Changing Speed
 Out-of-combat, changing Speed is fairly easy and painless, and can simply be declared like anything else. In [[Combat]] or an otherwise dangerous situation, however, it becomes a much more tenuous proposition.
 
-Each Round, on the turn of the Captain, Pilot, Operator, or the person otherwise managing the vessel, the aforementioned person can change the Speed of the vessel, as an [[Incidentals|Incidental]]. They can increase or decrease the Speed by 1. Each additional increase or decrease of Speed takes [[Ship Combat, and Vehicles#Strain Threshold|Ship Strain]]. For instance, increasing or decreasing Speed by 3 causes the Ship to suffer 2 Strain.
+Each Round, on the turn of the Captain, Pilot, Operator, or the person otherwise managing the vessel, can change the Speed of the vessel, as an [[Incidentals|Incidental]]. They can increase or decrease the Speed by 1. Each additional increase or decrease of Speed takes [[Ship Combat, and Vehicles#Strain Threshold|Ship Strain]]. For instance, increasing or decreasing Speed by 3 causes the Ship to suffer 2 Strain.
 
-#### Ship Maneuvers
+### Ship Maneuvers
 During [[Combat]], the Operator, Captain, or whoever is driving or managing a Ship or Vehicle, is the [[Character]] who decides how **Ship Maneuvers** are spent. A Ship gains Maneuvers equal to the current Speed of the Ship or Vehicle. They **must** spend all Ship Maneuvers on their turn. Ship Maneuvers are unrelated to the [[Maneuvers]] used by regular Characters.
 
 Ship Maneuvers can be spent on the following things:
@@ -102,13 +102,14 @@ When using Brace For Impact, requiring a [[Ship Combat, and Vehicles#Ship Maneuv
 ##### Collide 
 The Collide [[Ship Combat, and Vehicles#Ship Maneuvers|Ship Maneuver]] may only be done if the active Ship or vehicle ‘has the Advantage’ by completing the [[Ship Combat, and Vehicles#Gain The Advantage|Gain The Advantage]] [[Ship Combat, and Vehicles#Ship Actions|Action]]. Additionally, the Ship or vehicle must be within [[Engaged Range]] of the target of Collide.
 
-When using Collide, the target Ship is dealt [[Damage]] equal to ten times (10x) the [[Silhouette]] difference between the ramming vessel and the defending vessel, plus an additional 30 Damage. The vessel that used the Collide Ship Maneuver then suffers half the Damage inflicted.
+When using Collide, the targeted Ship is dealt [[Damage]] equal to ten times (10x) the [[Silhouette]] difference between the ramming vessel and the defending vessel, plus an additional 30 Damage. The vessel that used the Collide Ship Maneuver then suffers half the Damage inflicted.
+
+If the ramming vessel is smaller than the targeted vessel, the targeted vessel only suffers 30 [[Damage]].
 
 ##### Prepare to Board
 As a [[Ship Combat, and Vehicles#Ship Maneuvers|Ship Maneuver]], when within [[Engaged Range]] of another Ship or vehicle, may take the Prepare to Board Ship Maneuver. The vessel in question repositions itself so that it is flush with the other ship, allowing individuals to jump across with an [[Difficulty|Average]] (2p) [[Difficulty]] Coordination or Athletics [[Skill Checks|Check]], as an [[Actions|Action]].
 
-
-#### Ship Actions
+### Ship Actions
 Just like in ground-scale [[Combat]] there are [[Actions]], so are there Actions that can impact an entire Ship or vehicle. These are called Ship Actions, similar to [[Ship Combat, and Vehicles#Ship Maneuvers|Ship Maneuvers]].
 
 However, whereas Ship Maneuvers were independent from regular [[Maneuvers]] and instead based on Speed, Ship Actions are not. The [[Character]] in charge—the helmsman, operator, captain, or otherwise manager of the vessel—must use their regular [[Actions|Action]] to take a Ship Action when controlling the vessel.
@@ -137,7 +138,7 @@ Focus Fire! is a [[Ship Combat, and Vehicles#Ship Actions|Ship Action]]. Unlike 
 When using Focus Fire! make a **[[Difficulty|Hard]]** (3p) **[[Leadership]]** [[Skill Checks|Check]] and select one part of a target as if you were making a [[Maneuvers#Called Shot|Called Shot]] [[Maneuvers|Maneuver]]. If successful, all [[Attack Check|Attack Checks]] originating from that same vessel may fire and damage that part of the target as if they had done a Called Shot Maneuver. The same penalties apply.
 
 
-#### Sailing Upwind
+### Sailing Upwind
 
 ##### What does “Upwind” mean?
 Upwind has been referenced a few times by now. I struggled to understand what it meant, so I wanted to put as simple a description as possible here.
@@ -178,10 +179,12 @@ Similar to [[Medicine|Medical Checks]], [[Craftsmanship]] can be used to heal [[
 
 Damage Control operates identically to Medical Checks, with [[Success|Successes]] healing Integrity and [[Advantage]] healing Strain. In addition to this, the masts and other important components of the ship can be the target of an endless amount of [[Craftsmanship]] Checks even if they are not damaged, but these Checks only heal Strain. [[Success|Successes]] gained on them heal [[Strain]], as do [[Advantage]].
 
+The maximum ‘backlog’ for [[Craftsmanship]] [[Skill Checks|Checks]] that can be made is three. Only one attempt can be made to heal a ship’s [[Critical Injury]].
+
 In particularly dire circumstances where there are multiple hull breaches but the ship is still salvageable, keeping a sea-faring Ship afloat may become a [[Skill Challenges|Skill Challenge]].
 
 #### Spotting
-May make an [[Difficulty|Average]] (2p) [[Perception]] [[Skill Checks|Check]] to a spot a weak-point or error in the formation or direction of the enemy. If successful, add two [[Boost Dice]] to the next [[Ship Combat, and Vehicles#Ship Actions|Ship Action]] preformed.
+May make an [[Difficulty|Average]] (2p) [[Perception]] [[Skill Checks|Check]] to a spot a weak point or error in the formation or direction of the enemy. If successful, add one auto-successes to the next [[Ship Combat, and Vehicles#Ship Actions|Ship Action]] performed.
 
 #### Boarding and Fighting Boarders
 Boarding another vessel, usually to capture it or disable it from the inside if other methods prove unreliable, is not an uncommon tactic. If a Ship or vehicle has done the [[Ship Combat, and Vehicles#Prepare to Board|Prepare to Board]] [[Ship Combat, and Vehicles#Ship Maneuvers|Maneuver]], this is a simple [[Difficulty|Average]] (2p) [[Difficulty]] Coordination or Athletics [[Skill Checks|Check]], as an [[Actions|Action]].

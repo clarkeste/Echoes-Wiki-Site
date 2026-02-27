@@ -29,9 +29,9 @@ In [[Ship Combat, and Vehicles|Ship Combat]], Silhouettes play a much more signi
 ## Silhouette and Encumbrance
 In some situations, it may be important to determine the Encumbrance of a person. Thankfully, this is easy to determine, and is decided by their Silhouette.
 
-A [[Character]] with Silhouette 1 is determined to weigh 5 Encumbrance. A Character with Silhouette 2 is determined to weigh 10 Encumbrance. Each additional Silhouette after that adds +10, so a Silhouette 3 Character would be 20 Encumbrance.
+A [[Character]] with Silhouette 1 is determined to weigh 10 Encumbrance. A Character with Silhouette 2 is determined to weigh 20 Encumbrance. Each additional Silhouette after that adds +10, so a Silhouette 3 Character would be 30 Encumbrance.
 
-A Silhouette 0 Character weighs 3 Encumbrance. A Silhouette 00 person weighs 0 Encumbrance.
+A Silhouette 0 Character weighs 5 Encumbrance. A Silhouette 00 person weighs 0 Encumbrance.
 
 
 To learn more, see page 109 of the [[Genesys Core Rulebook|Genesys Core Rulebook.]]

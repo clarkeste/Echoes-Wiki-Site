@@ -7,6 +7,7 @@ tags:
   - Rules
   - Character-Template
   - RPGSessions
+title: Monsters
 ---
 ### Physical and Cultural Traits
 Born of Malice, Monsters are endowed with power by their creators—usually some sort of malevolent energy or entity. Monsters can vary wildly in appearance, intelligence, tools, role, or any other way. Additionally, some of the more intelligent ones have shown the ability to act independently of their master. Or even disobey them.

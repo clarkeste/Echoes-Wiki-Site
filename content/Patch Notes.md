@@ -1,4 +1,101 @@
 
+# 1.4
+### Mechanics
+- Overhauled [[Mass Combat]].
+	- Introduced Tile Modifiers, which add rules for various different types of terrain.
+		- Fortified Positions - Cover that can be created by Military Engineers and which add [[Setback Dice|Setbacks]] to attempts to take it.
+		- Added rules for how Fortified Positions can be destroyed.
+		- Walls - Defensive positions with their own [[Strain Threshold|Strain Threholds]], and which provide an advantage to defenders. They can be held to the last man!
+		- Trenches - earthworks that block [[Damage]] caused by Artillery and ranged Attacks.
+		- Hills - the high-ground is beneficial in many ways, such as by increasing the [[Range Bands|Range]] of Ranged Units.
+		- Inclines - Fighting uphill is challenging, but is often essential to reach high ground and gain an advantage.
+		- River - Impassable except for when there is a bridge, rivers separate the battlefield.
+		- Steep Cliffs - Impassable terrain; inclines that are too steep to move up.
+		- Difficult Terrain - Rocky, snowy, uneven, crater-filled—any number of things can cause Difficult Terrain, which makes it hard to operate.
+		- Muddy - Marshes and wetlands are the bane of every army. They are extremely hard to fight in, and a killing zone. Artillery cannot enter.
+		- Forests - Forests block visibility and provide cover, especially from Ranged Units.
+	- Introduced Battle Modifiers; Battlefield-wide effects.
+		- Extreme Weather - representing the heat of a desert, or the cold of a tundra. Causes Units additional [[Strain]].
+		- Night, Fog - reduces visibility and the efficacy of Artillery and ranged Units.
+		- Rain - Damage bows and makes Archers and Crossbowmen less efficient. It can even create new Muddy tiles.
+	- Clarified how much a [[Range Bands|Range Band]] is in Mass Combat hex terms. [[Medium Range|Medium]] are 2 hexes, [[Long Range]] is 4, [[Extreme Range|Extreme]] is 6, [[Strategic Range|Strategic]] is 8, and Strategic Range+ is 10—each additional + is another 2 hexes of range.
+	- Added a list of common Unit types.
+		- Pikemen - Defensive Units. For a short time, they were dominant; but the advent of Artillery, which can disrupt their prized formations, have made them much more specialized. They primarily serve as heavy defensive Infantry, or anti-cavalry.
+		- Skirmishers - Small, light Infantry, which can stop enemy Units from being used on their turn by engaging in small skirmishes.
+		- Assault Infantry - Looser-formation soldiers who fight with various Weapons, and now form the back-bone of most armies.
+		- Military Engineers - Specialized Units who can construct beneficial Tile Modifiers, or repair Walls and other structures.
+		- Heavy Assault Infantry - Well-trained Units who excel at beating other Infantry, but which are vulnerable to cavalry.
+		- Crossbowmen - Ranged Units who can shoot at [[Medium Range]], and also capture territory like Infantry, but excel at support.
+		- Archers - With their [[Long Range]], Archers can deal high [[Damage]] at a distance but are very fragile.
+		- Cannons - Long-range, direct fire Artillery that can pummel an enemy with their Suppressive Fire. It can deal very high [[Damage]] and soften up targets—with [[Strategic Range]]+.
+		- Mortars - Another work of modern engineering, a source of Artillery that uses indirect fire and can therefore fire over walls, hills, or any other obstacle. Very high [[Damage]] and suppressive, with [[Strategic Range]].
+		- Light Cavalry - Fast-moving Mounted Units which, like Skirmishes, can stop Enemy Units from activating on the Enemy Turn, and which has high Defense, Strain, and Attack.
+		- Heavy Cavalry - The strongest type of Unit in the game, with excellent stats in every way—but like other Cavalry, is extremely vulnerable to bad terrain conditions.
+		- Archer Cavalry - Horseback Archers with a range of [[Medium Range|Medium]] who can move and shoot quickly and efficiently.
+	- Changed the list of Abilities slightly, adding a few more and removing a few.
+	- Refined the Advantage/Threat Table.
+	- Streamlined the overall article and rules descriptions to be clearer.
+
+- Added a “Trample” mechanic to [[Horses and Mounts]], as an option to be done with a Mount Maneuver.
+- Added rules for [[Potion Effect Deterioration]].
+- Added new weather rules, codifying the existing ones—see them at [[Storms & Lightning]], [[Heated Temperatures]], and [[Cold Temperatures]].
+- Removed the Moving Target mechanic, which added a [[Setback Dice]] whenever attacking a [[Nemesis]] or [[PC|PC]] that had moved on their turn, because this was difficult to keep track of and of very little consequence.
+- Changed the ‘[[Encumbrance]] of a person’ from 5 to 10 for [[Silhouette]] 1 [[Character|Characters]], from 10 to 20 for [[Silhouette]] 2 [[Character|Characters]], and from 3 to 5 for [[Silhouette]] 0 [[Character|Characters]].
+
+
+### Peoples
+- Changed [[Hylians|Hylian]] starting XP from 110 to 115, and [[Foreign Human|Human]] starting XP from 105 to 110. Any existing Characters of these Peoples made before this change can add +5 XP.
+- For [[Monsters (People)|Monsters]], the purchasable ability “Mounted” was changed as to have a Handling value of +0 instead of +1.
+- To align with the new temperature systems, levels of Resistance to the heat have been given to each [[Peoples|People]]-group in their description. The [[Gerudo]] have 1 level of heat resistance, the [[Zuna]] have 2, and the [[Gorons]] have 3.
+- For [[Monsters (People)|Monsters]], some of their purchasable abilities have been changed to accommodate the  new temperature system, and allow them to purchase various levels of resistances.
+  
+  
+### Spellcasting
+- Overhauled [[Prophecy]], as I felt it was lacking in many ways. It is now activated at will by the [[Spell Creation|Spellcasters]], a major departure from how it previously worked, but requires an Hour of [[Downtime]] to activate. Clarified its dreamlike nature and how the desire and thoughts of the Spellcaster shape what they see.
+
+### Item Creation
+- Changed how the Cold and Heat Protection modifiers on Armors in [[Item Creation]] work, including their Crafting Point cost.
+
+### Talents
+- Added a new [[Talents|Talent]]—[[Childish Mind to Noble Ambition]].
+- Added a new [[Talents|Talent]]—[[Clear Waters, Reflect Growth]].
+- Added a new [[Talents|Talent]]—[[Destiny Is At Work, Then]]
+- [[Berserk!]] has been nerfed, back to its regular [[Genesys]] RPG state.
+- Changed “[[Applied Scholarship]]” and “[[Natural]]” to refresh every Day instead of every [[Adventure]]
+- Purchasing [[Parry (Improved)]] is no longer a requirement to purchase [[Perfect Guard]]. It can now only be used once per Round.
+- Changed the wording on [[Am I Late?]] from “have suffered 20 [[Damage]]” to “be inflicted 20 [[Damage]]”. This is to make it clear that avoiding [[Damage]] via [[Soak]] or [[Parry]] counts towards the total.
+- Added a new [[Talents|Talent]]—[[Power Mastery]]. It allows you to reduce the final cost of a [[Spell Creation|Spell]] depending on its [[Spell Creation|Base Power]].
+- Added a new [[Talents|Talent]]—[[Kinetic Prowess]], which allows you to cast [[Manipulate]] [[Spell Creation|Spells]] as [[Maneuvers]], and keep targets Gripped without the use of a [[Maneuvers|Maneuver]] every turn.
+- Changed the name of the [[Talents|Talent]] “Flow of Time, Always Cruel” to “[[Memories of Younger Days]]”
+- Along with the changes to [[Prophecy]], the [[Talents|Talent]] [[Memories of Younger Days]] has been completely re-worked. Previously, it allowed you to use a [[Prophecy]] [[Spell Creation|Spell]] at will, but this is now obsolete. Instead, it now has a Psychometric effect.
+- Modified [[Wake The Dreamer]] to clarify that multiple ranks can be used on multiple Base Powers.
+- Modified how [[Reflect]] works, to better represent the intention of having the power to Reflect an attack back to its originator
+- Changed ‘[[Sense Thoughts]]’ to be a Tier 1 [[Talents|Talent]].
+- Changed [[The Believer's Daring]], adding the ability to use [[Relocate]] out-of-turn after being [[Attack Check|attacked]].
+- Changed name of the [[Talents|Talent]] ‘Connection’ to [[A Parting Need Not Last Forever]]
+- Added a new ability to the [[Talents|Talent]] [[A Parting Need Not Last Forever]]; now may use [[Telepathy]] on selected individuals (that you have physically interacted with) regardless of great distance, lack of sight, or lack of recent interaction.
+- Removed the [[Talents|Talent]] Shadowy Strength, which added [[Boost Dice|Boost Die]] equal to [[Force]] on all [[Stealth]] and [[Survival]] [[Skill Checks|Checks]].
+- Changed how [[Surgeon]] works; it can no longer be used on Life [[Spell Creation|Spells]]
+- Removed the [[Talents|Talent]] Apothecary, which restored additional [[Wounds]] for another [[Character|Character]] when that Character was resting in “the care” of the [[Character]] with [[Apothecary]]
+- Removed the [[Talents|Talent]] [[Quick Draw (Improved)]], which allowed a [[Character]] to use the [[Quick Draw]] [[Talents|Talent]] twice per round, and reduced the [[Prepare (Passive) (Quality)|Prepare]] rating of any [[Weapons|Weapon]] by one to a minimum of one.
+- Removed the [[Talents|Talent]] [[Speedy Tasking]], which reduced the [[Downtime]] needed on any given task by half.
+
+### Items
+- Increased the price of a [[Lockpick]] from 500 [[Rupees, Currencies|Rupees]] to 1500
+- Changed [[Masterworks Book]] to take 7 Days to read, instead of 48 Hours
+- Changed [[Proficiency Book]] to take 5 Days to Read, instead of 36 Hours
+- Changed the [[Staff]] to add 2 [[Boost Dice]] to [[Force]] [[Skill Checks|Checks]] when 1 [[Strain]] is suffered and if it is held
+- Changed the [[Encumbrance]] of the [[Staff]] from 3 to 5
+- Added the Item [[Magical Rod]]. It has a similar use to the [[Staff]].
+- Removed the Item ‘Dull Rod’, which was just a stick
+- Updated the description of various Armors’ special abilities, due to the new temperature system
+
+### Website
+- The folder ‘Databases’ has been changed to ‘Indexes’ as to not interfere with my other notes of a similar name
+- Cleaned up various articles, such as the [[Potion Creation]] article and the [[Ship Combat, and Vehicles]] article
+
+
+
 # 1.3.3
 
 ### Mechanics

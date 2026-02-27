@@ -2,7 +2,7 @@ Horses and other ridable animals follow similar mechanics to those outlined in [
 
 Horses, just like any other living creature when relevant to track, have a [[Wound Threshold]] and [[Strain Threshold]]. These represent the same things as they do on any other [[Character]].
 
-In addition to this, however, Horses have an additional stat, which is similar to one from Ships and Vehicles.
+In addition to this, however, Horses have an additional stat called **Speed**, which is similar to one from Ships and Vehicles.
 
 ### Mount Stats
 #### Speed
@@ -53,6 +53,8 @@ Move between locations and [[Range Bands|Range Bands]] using the same rules as i
 
 If the Mount’s rider chooses to use the Move Maneuver to take their Mount or horse through a particularly dangerous or precarious path, [[The GM|the GM]] may require that they make an Riding [[Skill Checks|Check]] to successfully navigate.
 
+Regular Move Maneuvers (done with regular Maneuvers, not Mount Maneuvers) can also be used by a [[Character]] to move themselves and their Mount, and are functionally identical.
+
 #### Gain The Advantage
 Similar to the option of the same name in [[Ship Combat, and Vehicles]], Gain the Advantage here is a Maneuver, not an Action. Gain the Advantage represents maneuvering and guiding Horse or Mount in such a way that you gain a significant advantage in the [[Combat]], in comparison to your enemies, such as tailing behind a horseback enemy.
 
@@ -68,10 +70,15 @@ The Mount suffers 2 [[Strain]] to move into a more advantageous position for an 
 #### Evasion
 The Mount suffers 2 [[Strain]] to move into a more advantageous position for defense, or avoiding enemies. The next [[Attack Check]] targeting the Mount or its rider add an automatic [[Failure]].
 
+#### Trample
+Pick a target within [[Engaged Range|Engaged Range]], and trample them. This pushes the target one [[Maneuvers|Maneuver]] in a direction decided by the trampler. If the same target is the victim of a second Trample in the same turn, they are knocked [[Prone]] on the second one instead of being moved. 
+
+If Trampling an already Prone [[Character]], or a Character in [[Maneuvers|Guarded Stance]], the Character instead suffers 8 [[Damage]] when Trampled.
+
 ### Strain
 At the end of [[Encounter|Encounters]], Horses and Mounts do not heal strain. Instead, if they were active to a significant degree and were used, they suffer Strain.
 
-Roll 2 [[Difficulty Dice]]. The Mount adds Strain equal to the amount of [[Failure|Failures]] rolled on that Check.
+Roll 2 [[Difficulty Dice]]. The Mount adds Strain equal to the amount of [[Failure|Failures]] rolled on that Check. 
 
 Additionally, time spent using a Horse, such as when traveling or during [[Downtime]], may increase its Strain, per the GM’s ruling. Higher [[Encumbrance]] loads may also increase the Strain suffered.
 

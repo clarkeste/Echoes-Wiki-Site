@@ -3,7 +3,6 @@ aliases:
   - Characters
   - character
   - drinker’s
-  - Characte
   - wearer
   - target
   - those

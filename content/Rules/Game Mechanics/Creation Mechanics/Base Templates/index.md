@@ -17,7 +17,7 @@ The following are the articles in this folder:
 [[Potion Template - Meal]]
 [[Weapon Template - Brawl Weapon]]
 [[Weapon Template - One-Handed Weapon]]
-[[Weapon Template - Pole-arm Weapon]]
+[[Weapon Template - Polearm Weapon]]
 [[Weapon Template - Ranged Weapon]]
 [[Weapon Template - Siege Weapon]]
 [[Weapon Template - Two-Handed Weapon]]

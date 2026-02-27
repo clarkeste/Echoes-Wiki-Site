@@ -27,12 +27,12 @@ Which ingredients cause which Modifiers exactly is largely abstracted, so you wi
 
 To use a Potion portably, one needs a glass [[Bottle|Bottle]] to reliably store the contents. Other containers can be used, but they have a myriad of flaws, and something such as wood may dull and weaken the effects of the Potion.
 
-### Cauldron and Brewery
-To actually create a Potion, you will need a work station. In alchemy, this usually refers to a **Cauldron**, and various other bits and bobs that can help with Potion creation—most of the time, included with a Cauldron.
+### Cauldron and Workstation
+To actually create a Potion, you will need a work station. In alchemy, this usually refers to a **Cauldron** or **Workstation**, and various other bits and bobs that can help with Potion creation—most of the time, included with a Cauldron.
+
+A fully-equipped Workstation/Cauldron/Brewery will usually add +6 to +8 Alchemy Points to your total, when creating [[Potions]] there. Higher-quality Workstations may increase Alchemy Points even further, but this is rare.
 
 While Potion-makers can attempt to make these elixirs in simple cooking equipment, or even over a fire, the results are often worse. The penalties get worse the more primitive a method—with a simple campfire being amongst the worst options.
-
-Higher-quality Workstations can increase the amount of Alchemy Points available. While most commercially available ones will only add +2 or +3, some may add up to +8.
 
 Penalties from bad work stations can include -2-8 to the creator’s Alchemy Points, [[Difficulty|Difficulty]] increases and upgrades, and [[Setback Dice|Setbacks]]. A decrease in Alchemy Points usually indicates a base limitation of the method, whereas increased Difficulty and Setbacks usually represent how challenging and unsuited something is for Potion-making, and the unfamiliarity with these subpar tools. [[Dice Upgrade|Upgrading]] the Difficulty, however, introduces the chance of [[Despair|Despair]]; implying that this particular method has a risk of going very wrong…
 
@@ -62,7 +62,7 @@ Potions expire after an hour, most of the time; however, some of the effects—l
 - [[Heal (Modifier)|Heal]] (3)
 - [[Energize (Modifier)|Energize]] (2)
 - [[Superior (Modifier)|Superior]] (5)
-- [[Accurate (Modifier)|Accurate]] (2
+- [[Accurate (Modifier)|Accurate]] (2)
 - [[Burn (Modifier)|Burn]] (3)
 - [[Linked (Modifier)|Linked]] (2
 - [[Auto-Fire (Modifier)|Auto-Fire]] (5)

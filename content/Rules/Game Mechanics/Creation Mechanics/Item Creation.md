@@ -16,7 +16,7 @@ Craftsman and Blacksmith make various different things, specializing in differen
 
 Because of that, many individuals make their living selling weapons, construct them for personal use, or design entirely new ones—either for their designs to be sold to the [[Guilds]], or simply to make a one-of-a-kind sword. Making any of these more complex Items is similar in process to the Point-Buy System used in other [[Point-Buy Systems|Creation mechanics]], allowing you to flex your creative muscles.
 
-How this works is that there are 6 [[Item Creation#Base Options|Base Templates]], such as [[Weapon Template - One-Handed Weapon|One-Handed Weapons]], [[Weapon Template - Ranged Weapon|Ranged Weapons]], and [[Weapon Template - Pole-arm Weapon|Pole-arms]]. But, these Base Templates are just simple blueprints; to get a finished product, you must change the Base Templates using [[Modifiers|Modifiers]].
+How this works is that there are 6 [[Item Creation#Base Options|Base Templates]], such as [[Weapon Template - One-Handed Weapon|One-Handed Weapons]], [[Weapon Template - Ranged Weapon|Ranged Weapons]], and [[Weapon Template - Polearm Weapon|Pole-arms]]. But, these Base Templates are just simple blueprints; to get a finished product, you must change the Base Templates using [[Modifiers|Modifiers]].
 
 All the Modifiers are in the [[Item Creation#Creating a Weapon|Creating a Weapon]] section below. They include things like [[Burn (Active) (Quality)|Burn]], [[Concussive (Active) (Quality)|Concussive]], [[Accurate (Passive) (Quality)|Accurate]], [[Linked (Active) (Quality)|Linked]], [[Disorient (Active) (Quality)|Disorient]], etc. The idea is to pick a Base Template, then pick a set of Modifiers, and finally head to the forge to shape your weapon. What Modifiers you choose will change final product you create. How exactly the weapon operates given its parameters, is determined by the [[Player|Player]]’s narration, so long as is it justified and logical, as agreed upon with the [[The GM|GM]].
 
@@ -24,12 +24,12 @@ Each Modifier has a **Crafting Point** cost associated with it. Every character,
 
 A difference between Item Creation and [[Spell Creation|Spell Creation]] are the **Parts** and supplies required by craftsmen. Items require physical Parts in their construction. This includes basic supplies that essentially all weapons need, such as wood and steel, as well as the rarer materials that certain Modifiers may require. These Parts are largely abstracted, so you will not have to worry about remembering what each one does.
 
-Most Modifiers do not require any additional Parts; Accurate, for example, reflects on the finesse of the design and skill of the craftsman, whereas Concussive is more related to the purpose of the design and the blunt force it can exert. Neither would require additional materials. A Modifier like Burn, however, does require special Parts. For example, a Ruby or a suitable alternative would be needed to make a Firesword with Burn. Anything flies so long as you can logically explain or justify why the weapon has it and how it works, along with GM approval. 
+Most Modifiers do not require any additional Parts; Accurate, for example, reflects on the finesse of the design and skill of the craftsman, whereas Concussive is more related to the purpose of the design and the blunt force it can exert. Neither would require additional materials. A Modifier like Burn, however, does require special Parts. For example, a Ruby or a suitable alternative would be needed to make a Firesword with Burn. 
+
+Narratively, in terms of your final product and its portrayal, anything flies so long as you can logically explain or justify why the weapon has it and how it works, along with GM approval. 
 
 ### Workbench
 To actually Craft an item, you will likely want a Workstation. A [[Smithy's Tools|portable version]] can be bought, but using it in place of a proper Workstation deprive you of the benefits of a proper facility.
-
-Higher-quality Workstations can increase the amount of Alchemy Points available. While most commercially available ones will only add +2 or +3, some may add up to +8.
 
 A full-sized bench, such as those found in Workshops or Blacksmith establishments, will usually add +6 to +8 Crafting Points to your total, when creating Items there. Higher-quality Workstations can increase the amount of Crafting Points available even further, but this is rare.
 
@@ -55,7 +55,7 @@ Once an item is made, you may make a Template from it by making an [[Operating|O
 #### Base Options:
 - [[Weapon Template - One-Handed Weapon|One-Handed Weapon]]
 - [[Weapon Template - Two-Handed Weapon|Two-Handed Weapon]]
-- [[Weapon Template - Pole-arm Weapon|Polearm Weapon]]
+- [[Weapon Template - Polearm Weapon|Polearm Weapon]]
 - [[Weapon Template - Ranged Weapon|Ranged Weapon]]
 - [[Weapon Template - Brawl Weapon|Brawl Weapon]]
 - [[Weapon Template - Siege Weapon|Siege Weapon]]
@@ -123,10 +123,10 @@ In addition to creating weapons, a craftsman may also create armor to be worn, f
 - [[Increase Defense (Modifier)|Increase Defense]] (10)
 - [[Decrease Encumbrance (Modifier)|Decrease Encumbrance]] (1)
 - [[Reinforced (Modifier)]] (14)
-- [[Special - Heat Protection (Modifier)|Special - Heat Protection]] (4)
-- [[Special - Scorch Protection|Special - Scorch Protection]] (8)
-- [[Special - Cold Protection (Modifier)|Special - Cold Protection]] (3)
-- [[Special - Freeze Protection (Modifier)|Special - Freeze Protection]] (6)
+- [[Special - Heat Protection (Modifier)|Special - Heat Protection]] (5)
+- [[Special - Scorch Protection|Special - Scorch Protection]] (12)
+- [[Special - Cold Protection (Modifier)|Special - Cold Protection]] (4)
+- [[Special - Freeze Protection (Modifier)|Special - Freeze Protection]] (8)
 - [[Special - Add Boost to Selected Skill (Modifier)|Special - Add Boost to Selected Skill]] (4)
 - [[Special - Worn Underneath Civilian Clothes (Modifier)|Special - Worn Underneath Civilian Clothes]] (7)
 - [[Special - Increase Attribute (Modifier)|Special - Increase Attribute]] (3)
