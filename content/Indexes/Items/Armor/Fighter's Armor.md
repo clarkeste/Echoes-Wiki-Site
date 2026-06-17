@@ -10,9 +10,9 @@ Range:
 Encumbrance: 3
 Qualities:
 Soak: 2
-Defense: 1
+Defense: 2
 Special Effect: Add a [[Boost Dice|Boost Die]] to all [[Attack Check|Attack Checks]] when worn.
-Price: 36000
+Price: 86000
 Restricted: false
 Unique: false
 Unlisted: false
@@ -29,10 +29,10 @@ Consumable: false
 Armor from the legendary Fighter’s series. Its immense quality and light form is the envy of almost anyone who seeks protective clothing.
 ![]()
 [[Soak|Soak]]: 2
-[[Defense|Defense]]: 1
+[[Defense|Defense]]: 2
 [[Encumbrance|Encumbrance]]: 3
 
 Special: Add a [[Boost Dice|Boost Die]] to all [[Attack Check|Attack Checks]] when worn.
 
-Price: 36k [[Rupees]]
+Price: 86k [[Rupees]]
 [[Affiliations|Affiliation]]: None

@@ -25,7 +25,7 @@ Loyalty:
 Image:
 Consumable: false
 ---
-A Duelist’s outfit can take many forms—a masterfully made green tunic, flowing but utilitarian robes, or civilian clothing with pauldrons and knee-guards. Its only defining characteristic is that it gracefully balances a respectable amount of defense with the ability for its user to move quickly.
+A Duelist’s outfit can take many forms—a masterfully made green tunic, flowing but utilitarian robes, a thick leather coat, or loose clothing (perhaps none if a [[Gorons|Goron]] or [[Zora]]) with pauldrons, gorget, gauntlets, and knee-guards. Its only defining characteristic is that it gracefully balances a respectable amount of defense with the ability for its user to move quickly.
 ![]()
 [[Soak|Soak]]: 1
 [[Defense|Defense]]: 2

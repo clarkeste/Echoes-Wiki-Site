@@ -9,8 +9,12 @@ Welcome to the Character Creation Guide. This will guide you through the process
 ## Where do I make my Character?
 [On this website!](https://www.rpgsessions.com/) It is convenient, pleasing to look at, and it automates a lot of the finer details. It’s called [[RPGSessions]]. To get started, pick a [[Peoples|People]] and go its template sheet and copy it. That’ll be your starting template.
 
+See [[Character Sheet]] for further information on how to edit your Character Sheet, which you’ll want to do as you follow this guide.
+
 If you mean where to get a character image or appearance, essentially any source is fine, including simply googling images until you find one you like. However, it’s usually recommended to use an image that’s actually a piece of artwork as opposed to something like a game screenshot. You’re going to see your character icon a lot—it might as well look good.
 # Steps
+## Step 0 - Import the Data Library
+The [[RPGSessions Data Library|Data Library]] contains all the information in this wiki, already put into RPGSessions. All you need to do is click a few buttons to transfer any given [[Talents|Talent]] or [[Items|Item]]. Check out the [[RPGSessions Data Library|Data Library]] first and import the Echoes of the Departed Kit before taking any further steps!
 
 ## Step 1 - Select a People
 The [[Peoples]] are species, ethnicities, or cultural backgrounds. These determine your starting characteristics, and often how your [[Character|Character]] is initially viewed in society.
@@ -36,7 +40,7 @@ It should be noted that it is generally suggested to spend as much of your start
 The full list of Derived Attributes can be found on its page.
 
 ## Step 6 - Purchase with Rupees
-[[Rupees|Rupee]] are the primary currency, not just in Hyrule, but much of the world. While that may change soon seeing as the Civil War has destabilized Hyrule’s currency, it is still the money with which almost everything is bought; if it be [[Armor]], [[Weapons]], tools, or [[Weapons#Shields|Shields]]. Every character starts with 7200 Rupees. This can be spent in the stores. Check out the [[Item Navigation Guide]]. Anything from there and the folder it belongs to can be purchased, so long as your character is not incompatible with a weapon’s or Item’s [[Affiliations]] (determined by the [[The GM|GM]] and [[Player]] based on the backstory). What would your character use, or own? If they have a weapon, this is the time to buy one.
+[[Rupees|Rupee]] are the primary currency, not just in Hyrule, but much of the world. While that may change soon seeing as the Civil War has destabilized Hyrule’s currency, it is still the money with which almost everything is bought; if it be [[Armor]], [[Weapons]], tools, or any type of [[Items|Item]]. Every character starts with 7200 Rupees. This can be spent in the stores. Check out the [[Item Navigation Guide]]. Anything from there and the folder it belongs to can be purchased, so long as your character is not incompatible with a weapon’s or Item’s [[Affiliations]] (determined by the [[The GM|GM]] and [[Player]] based on the backstory). What would your character use, or own? If they have a weapon, this is the time to buy one.
 
 ## Step 7 - Use Additional Experience
 If you are reading this after the game has already been running for some time, it is possible that some XP has already been awarded to Players for their Adventures. So that new characters are not left behind, there is a baseline of additional Experience that is updated as the game progresses. This XP counts as if your character gained it after Character Creation, meaning it cannot be spent on Characteristics.
@@ -46,7 +50,7 @@ Current Highest XP Awarded: 75 (Poppy and Taninn)
 Current +XP for New Characters: 40
 
 ## Step 8 - Send Character to the GM!
-Once your Character Sheet is complete and done—on [[RPGSessions]], preferably—then send it over to me! I’ll take a look at it, maybe ask a few questions about the story or where XP was spent, and then I’ll approve it! Then, you’re ready to play.
+Once your Character Sheet is complete and done—on [[RPGSessions]], preferably—then send it over to me! I’ll take a look at it, maybe ask a few questions about the story or where XP was spent, and then I’ll approve it! Then, you’re ready to play. If you feel like you missed anything, check out the #Characters tag.
 
 
 

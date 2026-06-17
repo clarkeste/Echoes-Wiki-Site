@@ -32,7 +32,7 @@ Blue Potions are a combination of [[Potion - Green Potion|Green Potions]] and [[
 ![|480x863](https://i.imgur.com/svMkwI0.png)
 
 [[Encumbrance]]: 0
-Effect: Restores 6 [[Wounds]] and 6 [[Strain]] when drunk. Consumes the Potion. Must be stored in a bottle, otherwise its effects deteriorate.
+Effect: Restores 7 [[Wounds]] and 7 [[Strain]] when drunk. Consumes the Potion. Must be stored in a bottle, otherwise its effects deteriorate.
 
 Price: 2500 [[Rupees]]
 [[Affiliations|Affiliation]]: None

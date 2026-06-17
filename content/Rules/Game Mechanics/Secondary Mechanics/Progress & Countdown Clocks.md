@@ -1,3 +1,13 @@
+---
+aliases:
+  - Progress Clock
+  - Progress Clocks
+  - Countdown Clock
+  - Countdown Clocks
+tags:
+  - Rules
+  - New-Rules
+---
 ## Progress Clocks & Story Challenges
 **Progress Clocks** measure the development of a longer, nail-biting problem. For example, it may measure how close to the top of a mountain the [[Character|Characters]] are, while climbing up its side, or how close a [[PC|PC]] is to picking a lock on an extremely tough vault door. Clocks are essentially Progress Bars—for either you, or your enemy.
 

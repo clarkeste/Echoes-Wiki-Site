@@ -8,7 +8,7 @@ Critical Rating: 3
 Skill Used:
   - Melee (Heavy)
 Range: Short
-Encumbrance: 4
+Encumbrance: 5
 Qualities:
   - Pierce 5
   - Prepare 1
@@ -16,10 +16,12 @@ Qualities:
   - Pierce
   - Prepare
   - Cumbersome OR Unwieldy
+  - Defensive
+  - Defensive 3
 Soak:
 Defense:
 Special Effect: When an Enemy enters Engaged Range and not vice versa, may make an out-of-turn Attack Check. If Successful, immediately push the target back to Short Range. Additionally, If a targeted enemy is within Engaged Range, remove all positive Qualities and add a Setback Dice.
-Price:
+Price: 7000
 Restricted: true
 Unique: false
 Unlisted: false
@@ -42,13 +44,13 @@ The Hyrulean Pike became the standard long polearm of the Hyrulean Army a few ye
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 4
 [[Range Bands|Range]]: [[Short Range|Short]]
-[[Encumbrance|Encumbrance]]: 6
+[[Encumbrance|Encumbrance]]: 5
 
 [[Pierce (Passive) (Quality)|Pierce]] 5
 [[Prepare (Passive) (Quality)|Prepare]] 1
 [[Defensive (Passive) (Quality)|Defensive]] 3
 [[Cumbersome (Passive) (Quality)|Cumbersome]] OR [[Unwieldy (Passive) (Quality)|Unwieldy]] 3
-Special: When an Enemy enters [[Engaged Range]] and not vice versa, may make an out-of-turn [[Attack Check]]. If Successful, immediately push the target back to [[Short Range]], or dismount them if on a mount. Additionally, If a targeted [[Adversary|enemy]] is within [[Engaged Range|Engaged Range]], remove all positive [[Qualities|Qualities]] and add a [[Setback Dice]].
+Special: When an Enemy enters [[Engaged Range]] of the Pike-wielder and not vice versa, may make an out-of-turn [[Attack Check]]. If Successful, immediately push the target back to [[Short Range]], or dismount them if on a mount. Additionally, If a targeted [[Adversary|enemy]] is within [[Engaged Range|Engaged Range]], remove all positive [[Qualities|Qualities]] and add a [[Setback Dice]].
 
 Price: 7000 [[Rupees]] [[Restricted|(R)]]
 Affiliation: [[Should my character believe in the Royalists, or the Followers?|Royalist, Follower]]

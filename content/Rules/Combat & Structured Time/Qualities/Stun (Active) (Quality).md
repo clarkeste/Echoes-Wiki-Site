@@ -1,7 +1,6 @@
 ---
 aliases:
   - Stun Quality
-  - Quick Charge
   - Stun
 tags:
   - Rules

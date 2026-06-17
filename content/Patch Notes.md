@@ -1,4 +1,118 @@
 
+# 1.4.1
+
+### Spell Creation
+- An Invoked structure can no longer be Dismissed on the same turn it is cast.
+- [[Decrease Power (Modifier)|Decrease Power]] can now only be used 3 times on a [[Spell Creation|Spell]] to decrease Magic Point cost; after that, it does not reduce MP cost.
+- Clarified that if a [[Spell Creation|Spellcaster]] targets themselves with an [[Attack]] Spell, they can choose to suffer no [[Damage]].
+
+
+### Talents
+- Removed the [[Talents|Talent]] Hard-Headed (Improved), as it was too similar to [[Indomitable]]
+- Removed the Talent Justice for Hyrule, because it was too similar to [[The Hand That Holds It]] (even though I liked the name…)
+- Changed the [[Bodyguard (Improved)]] [[Talents|Talent]] from being usable once per [[Adventure]], to being usable once per [[Downtime|Day]]
+- Reduced the Tier of [[Inventor]] from Tier 2 to Tier 1, as I felt it was not valuable enough to be Tier 1.
+- Changed the effect of [[Sneakstrike]] so that it adds +3 [[Damage]] to a sneak attack, instead of doubling [[Damage|Base Damage]].
+- [[Proper Upbringing]] was slightly nerfed. Now it only gives one [[Advantage]] when in “proper company”, and no longer heals a [[Strain]] when rolling a [[Social Checks|Social Check]] in their presence as well.
+- Reduced the amount of [[Advantage]] needed to trigger [[Spin Attack]] from 2 to 1.
+- Changed the use of [[Elementary!]] to be once per Week instead of once per [[Adventure]]
+- [[Hold Together!]] no longer applies to [[Horses and Mounts|Mounts]].
+- Increased the max possible [[Difficulty]] of an [[Insight]] [[Skill Checks|Check]] to be [[Difficulty|Formidable]]. Added that using [[Vigilance]] adds two [[Setback Dice]], but removed the range penalty. 
+- Changed [[Can Only Be Called Fate]] to be usable every [[Downtime|Day]], instead of every [[Encounter]].
+- Changed [[Government History]] so that a favor can be gained every Week instead of every [[Adventure]].
+- Changed [[Guild History]] so that a favor can be gained every Week instead of every [[Adventure]]. Additionally, changed out the option to get [[Coordination]] as a [[Career Skills|Career Skill]] to instead the ability to get [[Craftsmanship]] as a Career Skill.
+- Changed [[Scholarly History]] so that a favor can be gained every Week instead of every [[Adventure]].
+- Changed the penalty in [[Marked For Elimination]] from -1 [[Damage]] to -2.
+- Using [[Shield Bash]] to remove a target’s [[Defense]] now lasts until the end of the attacker’s next turn, not until the end of the Round. Additionally, it can now be done to any enemy, not just Minions or Rivals.
+- Clarified that [[Back Slice]] can be used even without ranks in [[Coordination]].
+- Changed wording on [[Dance of Battle]] to clarify that changing [[Range Bands]] is not important, only spending [[Maneuvers]] on movement.
+- Clarified that [[Am I Late?]] also counts [[Damage]] from Attacks that failed
+- Removed the requirement to have [[Back Slice]] to purchase [[Helm Splitter]]
+- Changed [[Mortal Draw]] to work once per [[Downtime|Day]], rather than once per [[Adventure]]
+- Changed [[The Wind is Blowing]] to work with either [[Intellect]] or [[Cunning]], instead of just Cunning. Additionally, changed its maximum Speed to 6.
+- [[Sagely Awakening]] now grants a bonus to [[Dispel|Dispelling]] any curse ([[Endow]] [[Spell Creation|Spell]] that acts as a debuff to its wielder), not just curses that affect a location.
+- Changed the timers of various other [[Talents]], such as [[Courage]] and [[These Toys Are Too Much For You]], to be every Week or Day rather than every [[Adventure]].
+- Reduced the cost of [[The Power to Ruin The World]] Modifier from 10MP to 7MP. Additionally, made it deal a +80 [[Critical Injury]] instead of a +180. Now, the chance of death is low. Emphasis on low. It’s still about 9% and, although one rank of [[Durable]] would reduce the chance to 0%, some sort of long-term injury is still likely.
+- Reduced the cost of the [[Did My Puppet Entertain You?]] Modifier from 11MP to 9MP.
+- Added the [[Talents|Talent]] [[Overwatch]]—allows you to set Attack people who move on their turn if certain conditions are met!
+- Added the [[Talents|Talent]] [[Handy Operator]]—great for someone who has a good [[Operating]] Skill and wants to use tools. Allows a Character to suffer [[Strain]] to be able to use Operating on any [[Skill Checks|Check]] which involves using a tool or piece of gear to achieve the goal of the Check.
+
+### Items
+- Changed [[Metal Vambraces & Brigandines]] to give 1 [[Defense]] in addition to its 1 [[Soak]], instead of 0. Mostly, this is because it is intended to be what [[Gorons]] and [[Zora]] wear in the games. However, by giving only 1 Soak, it was so useless as anything but an extreme budget option that it made no sense for anyone to actually buy. Increased price from 550 to 3000 due to its increase in usefulness, and increased its [[Encumbrance]] from 1 to 3.
+- [[Chainmail Armor]]’s effect changed so that it doesn’t stack [[Soak]] with another armor, just beneficial special effects. This was because it was too easy (costing only about 4500 [[Rupees]]) to get 3 Soak, and to do so at [[Character Creation Guide|Character Creation]]. Decreased its [[Encumbrance]] from 4 to 3.
+- Added [[Steel Breastplate]]
+- Changed the price of [[Knight's Armor]] from 25k to 29k.
+- Increased price of Magical Rod from 20 Rupees to 40
+- Decreased the [[Damage]] of the [[Moonlight Scimitar]] from +5 to +4. Considering it has [[Pierce (Passive) (Quality)|Pierce]] 4, +5 seemed to be too much. Price increased from 31 to 37.
+- Increased the [[Damage]] of the [[Royal Claymore]] from +7 to +8, but removed its [[Pierce (Passive) (Quality)|Pierce]] 2. This was because most enemies will have a [[Soak]] of at least 2; meaning that, effectively, the Royal Claymore’s damage was +9. This was, in my opinion, a little too much.
+- Increased [[Damage]] of the [[Giant's Blade]] from +6 to +7, and lowered its [[Unwieldy (Passive) (Quality)|Unwieldy]] rating from 4 to 3. For its price, it was arguably worse than the [[Soldier's Greatsword]], despite being 10k Rupees more expensive, because of its significant [[Unwieldy (Passive) (Quality)|Unwieldy]] rating more than cancelling out its main benefits of slightly higher [[Damage]] and [[Defensive (Passive) (Quality)|Defensive]] rating. Since melee-fighters tend to rarely invest in [[Agility]], an [[Unwieldy (Passive) (Quality)|Unwieldy]] rating is a significantly tougher requirement for them to meet compared to an equivalent [[Cumbersome (Passive) (Quality)|Cumbersome]] rating. Increased its price from 15k to 16k [[Rupees]].
+- Changed the [[Dagger]] so that it no longer gave two [[Boost Dice]] to [[Characters]] attacking its wielder. Increased its price from 500 to 600.
+- Decreased the [[Range Bands|Range]] of the [[Duplex Bow]] from [[Long Range|Long]] to [[Medium Range|Medium]]
+- Removed [[Pierce (Passive) (Quality)|Pierce]] 2 from the [[Fighter's Sword]] and changed its [[Damage]] from +5 to +6
+- Changed [[Cobble Crusher]]’s [[Cumbersome (Passive) (Quality)|Cumbersome]] rating from 4 to 3
+- Increased [[Damage]] of [[Traveler's Bow]] from 5 to 6
+- Increased the price of [[Alcohol]] from 20 to 30 [[Rupees]]
+- Increased the [[Encumbrance]] of the [[Toolkit]] from 1 to 3
+- Increased the cost of the [[Spyglass]] from 300 to 600
+- Increased the price of [[Sheath or Holder]] from 400 to 750 and noted the price may vary depending on the commonness of the [[Weapons|Weapon]] the Sheath is for.
+- The carrying capacity of the [[Pack]] has been increased from +4 [[Encumbrance]] to +5 and price increased from 700 to 800. Additionally, it now adds a [[Setback Dice|Setback Die]] to [[Skill Checks]] done with [[Brawn]] or [[Agility]] while wearing it, due to its unwieldiness.
+- Reduced the carrying capacity of the [[Belt]] from +3 to +2 [[Encumbrance]], and decreased its price from 250 to 200.
+- Increased the carrying capacity of the [[Traveler's Clothes|Traveler’s Clothes]] from +2 to +3; increased the [[Encumbrance]] from 1 to 2.
+- Changed the “actual value” of [[Noble's Finery|Noble’s Finery]] from 3600 to 2200.
+- Changed the name of Heavy Iron Armor to [[Heavy Plate Armor]]
+- Decreased the [[Defense]] given by [[Heavy Plate Armor]] from 1 to 0, and decreased its price from 13k to 12k.
+- Increased [[Defense]] of the [[Stealth Guard]] from 0 to 2. Changed its effect so that it grants +3 [[Damage]] to a sneak attack, rather than doubling it. Additionally, instead of adding three [[Boost Dice]] to [[Stealth]] and [[Attack Check|Attack Checks]] while hidden, it instead adds an automatic [[Success]]. Increased its price from 35k to 46k.
+- [[Fighter's Armor]] cost has been increased from 36k to 86k, and [[Defense]] increased from 1 to 2.
+- Increased [[Rito Wingsuit]]’s [[Soak]] from 0 to 1
+- Decreased [[Gerudo Warrior Armor]]’s price from 3600 to 3200 [[Rupees]]
+- Reduced price of [[Assassin's Garb]] from 4500 to 4000.
+- Decreased the [[Soak]] given by the [[Flamebreaker Armor]] from 3 to 2, and the [[Encumbrance]] from 9 to 6, and the cost from 6500 to 5500.
+- Added the [[Grappling Hook]]
+- Added [[Pouch]]
+- Added the [[Instrument]] [[Items|Item]]
+- Added the [[Toy]] [[Items|Item]]
+- Added [[Steel Trap]]
+- Added [[Mine]]
+- Added [[Caltrops]]
+- Added [[Piton]]
+- Added [[Cooking Pot]]
+- Added [[Raft]]
+- Added [[Smoke Artifice]]
+- Added [[Field Whetstone]]
+- Added [[Firebomb]]
+- Added [[Harness & Saddle]]
+- Added [[Wagon]]
+- Increased [[Encumbrance]] of [[Rope]] from 1 to 2.
+- Removed [[Defensive (Passive) (Quality)|Defensive]] 1 from the [[Iron Boots]], and reduced their price from 12k [[Rupees]] to 9k.
+- Increased the [[Wounds]] and [[Strain]] healed by the [[Potion - Blue Potion|Blue Potion]] from 6 to 7. Wait shit no I didn’t mean to—
+
+### RPGSessions
+- The Data Library has been added to [[RPGSessions]]! The amazing development team of Joress, Dallas, and Shane implemented it in an incredibly useful way.
+- All of the [[Items]], [[Talents]], and [[Qualities]] of [[Echoes of the Departed]] have been added to the RPGSessions Data Library. This means it is much, *much* easier for you to make a [[Character]] and add their [[Talents]], [[Weapons]], [[Gear and Equipment]], etc. It also has various benefits for me as [[The GM|the GM]]. Took me the better part of three days to input it all!
+- See [[RPGSessions Data Library]] article on information for how to use it with Echoes.
+- Additionally, RPGSessions has introduced the Spellbook. This is less flexible than the Data Library so far, but will likely still be better for inputting Spells than adding them as [[Weapons]] or just as sheet information.
+- See [[RPGSessions Spellbook]] for information on how to use it, and on how it should be used with [[Echoes of the Departed]].
+- Some example Spells have also been added to the Data Library for Echoes of the Departed, to show how they can be used.
+
+
+### Mechanics
+- Changed some of the [[Damage]] values on [[Improvised Weapons]] slightly to be a little more in-line with default [[Genesys]]
+- Clarified that it is assumed that a [[Character]] who would do a [[Medicine|Medicine Check]] has the proper supplies with them to make a Check, unless there would be a reason to assume they didn’t.
+- Clarified how [[Encumbrance]] and Encumbrance Thresholds work on [[Horses and Mounts]], including that [[Gorons]] are unable to ride most horses.
+- [[Swift Strike (Passive) (Quality)|Swift Strike]] can now be [[Parry|Parried]], creating a tactical decision over whether you want to suffer the 3 Strain required to avoid the [[Wounds]], or just accept the [[Wounds]].
+	- Changed some values to bring [[Potion Creation|Potion]] and [[Item Creation]] into greater parity, such as [[Triumph]] giving 5 Points in both systems
+
+
+### Website
+- Overhauled various tutorials with new images and explanations across the website to show you how to use the [[RPGSessions Data Library|Data Library]] to add things, primarily in the [[Items]] and [[Talents]] articles.
+- Edited a variety of articles, such as [[Weapons]], [[Armor]], etc, to point towards [[Items]] for the tutorial on how to add them to a [[Character Sheet]]
+- Added new tutorials with images, including on how to edit [[Skills|Skill]] ranks in the [[Character Sheet]] article, and how to add [[Qualities]] in the [[Modifiers or Qualities (RPGSessions)|Quality/Modifier]] article
+- Added a few new articles, including [[What Should My Backstory Be Like?]]
+- Added Images to a variety of articles that didn’t have them, such as [[Healing Salve]], and added a new image to [[Staff]]
+- Cleaned up a bunch of tags, and added new ones to articles that should’ve had them but didn’t
+
+
+
 # 1.4
 ### Mechanics
 - Overhauled [[Mass Combat]].

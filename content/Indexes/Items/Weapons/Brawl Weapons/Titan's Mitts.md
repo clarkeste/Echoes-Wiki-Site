@@ -51,7 +51,7 @@ Titan’s Mitts are old, sought after gauntlets that were created using methods 
 [[Defensive (Passive) (Quality)|Defensive]] 1
 [[Stun (Active) (Quality)|Stun]] 2
 [[Concussive (Active) (Quality)|Concussive]] 2
-Special: May lift up a single extremely heavy [[Items|Item]] of [[Encumbrance]] 40 or lower.
+Special: May lift up a single extremely heavy [[Items|Item]] of [[Encumbrance]] 40 or lower. In a tense situation, this may require a [[Skill Checks|Check]], although an easier one than usual. If wearing the Titan’s Mitts while using another [[Weapons|Weapon]], add a [[Setback Dice|Setback Die]] to all rolls using that Weapon.
 
 Price: 70k [[Rupees|Rupees]] [[Restricted|(R)]]
 [[Affiliations|Affiliation]]: None

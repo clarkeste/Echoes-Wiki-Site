@@ -1,6 +1,11 @@
 ---
 aliases:
   - edge when tossed off
+tags:
+  - Rules
+  - Combat-Modifiers
+  - Combat
+  - New-Rules
 ---
 When using the Shove [[Maneuvers|Maneuver]], two [[Advantage|Advantages]] for the same purpose, [[Manipulate]], or any other number of things that may move another [[Character]] against their will, it may be beneficial to throw them off an edge. This can be out a window, off a balcony, or into a fast-running river.
 

@@ -5,6 +5,7 @@ aliases:
 tags:
   - Rules
   - Characters
+  - Guide
 Image: "[[Images/thumbnails/external/596efe78e2dd74f15e7425e8a53c7724.png]]"
 ---
 Items encompass everything from weapons, to armor, gears, and tools. They can be found, purchased, or crafted. Different items, especially between categories, vary greatly in what they can or should be used for.
@@ -15,6 +16,50 @@ There are three main categories of Items.
 - [[Gear and Equipment|Gear and Equipment]]
 
 Check [[Item Navigation Guide]] to buy Items.
+
+## Adding Items to RPGSessions
+[[Weapons]], [[Armor]], etc, should all be added using the [[RPGSessions Data Library|Data Library]]. This makes it very easy, just a few clicks, to addd an Item directly from this website without any need to copy over the information yourself.
+
+Follow the steps in the [[RPGSessions Data Library|Data Library]] article to import the [[Echoes of the Departed]] “kit” and then assign it your [[Character Sheet]]. After doing so, you can add them by the following method.
+
+For [[Weapons]], navigate to the [[Character Sheet]]. To do so at the [[Game Table]], first navigate to it.
+
+Then, in the top left of the screen, select on your character to open the [[Character Sheet|Character Sheet]] in the [[Game Table|Game Table]].
+
+![](https://i.imgur.com/IOSSljP.png)
+
+Then, scroll down below the [[Skills|Skill]] section of the character sheet to reach the Weapons section. Select “Add A Weapon”.
+
+![](https://i.imgur.com/mapcrIt.png)
+
+This will open the following view. As you can see, you have a variety of options to search for Weapons, including by name, or with various filters such as [[Damage]] amount, [[Critical Rating]], etc. All of them can be added with the “Add” or “Buy” button (highlighted in this image).
+
+In this example, we are trying to add a [[Soldier's Broadsword]], so type that into the search bar at the top-left of the modal and then hit “Apply Filters” in the bottom-left.
+
+![](https://i.imgur.com/Hf3Kqqs.png)
+
+After doing so, it will appear in the list. You have two options; “Add” or “Buy”. Both of these add the Item to your sheet, but “Buy” will automatically deduct the [[Rupees|Rupee]] cost of the Item from your money. So, for example, if you found this Broadsword during play, you should simply hit “Add”.
+
+![](https://i.imgur.com/gJEmzml.png)
+
+If you hit “Buy”, which you should do if you purchased the Weapon, an additional menu will appear. It asks if you want to buy it at the default selling price, or at 50%, or at 150%, or allows you to input in a custom amount of money. This can be useful in a variety of circumstances, such as if a vendor in-game is having a discount. But, if you are adding it as a part of [[Character Creation Guide|Character Creation]], you should simply hit “Purchase Weapon” and buy it at 100% of its listed value.
+
+![](https://i.imgur.com/niMgFaV.png)
+
+After doing so, it will appear on your sheet. Congratulations!
+
+The process for other types of Items is nearly identical. Simply scroll down to, for example, the [[Armor]] section just below [[Talents]]. Hit “Add Armor”, which will show the same modal, but now with options to select Armor instead. 
+
+![](https://i.imgur.com/RG54hPK.png)
+
+The same is true for [[Gear and Equipment]]. Scroll down to where it says “Equipment and Gear”, just below armor, and hit “Add Equipment”.
+
+![](https://i.imgur.com/1pttnxG.png)
+
+If you’re seeing a variety of any type of Item that doesn’t seem right—for example, it’s from a different genre or setting—then make sure you’ve configured your [[Character Sheet]] correctly so that it has the “[[Echoes of the Departed]]” kit assigned to it, as explained in the [[RPGSessions Data Library|Data Library]] article. If this still doesn’t work, in the filter option which says “Filter by kit…” select the “Echoes of the Departed” option. If it is not available, then you likely failed to import the kit properly, which is detailed in the [[RPGSessions Data Library|Data Library]] article.
+
+## Adding Items Manually
+In some cases, you may want to, or have to, add Items manually.
 #### Adding a Weapon to RPGSessions
 To add a Weapon to [[RPGSessions|RPGSessions]], first navigate to the [[Character Sheet|Character Sheet]]. To do so at the [[Game Table|Game Table]], first navigate to it.
 
@@ -25,6 +70,8 @@ Then, in the top left of the screen, select on your character to open the [[Char
 Then, scroll down below the [[Skills|Skill]] section of the character sheet to reach the Weapons section. Select “Add New Weapon” to create a new weapon.
 
 ![](https://i.imgur.com/zWP9CrD.png)
+
+This will first open the [[RPGSessions Data Library|Data Library]] modal. Look at the bottom-right corner of this modal, where it says “Add Blank Weapon”. Click on that button to bypass this view, which gives you the opportunity to add a custom Item.
 
 This will then open a new section which will allow you to edit various different pats of the Weapon you are adding.
 
@@ -60,6 +107,8 @@ Then, scroll down below the Talents section of the character sheet to reach the 
 
 ![](https://i.imgur.com/1pttnxG.png)
 
+This will first open the [[RPGSessions Data Library|Data Library]] modal. Look at the bottom-right corner of this modal, where it says “Add Blank Equipment”. Click on that button to bypass this view, which gives you the opportunity to add a custom Item.
+
 This will then open a new section which will allow you to edit various different parts of the Gear you are adding.
 
 ![](https://i.imgur.com/lJn2wOe.png)
@@ -88,6 +137,8 @@ Then, in the top left of the screen, select on your character to open the Charac
 Then, scroll down below the Talent section of the character sheet to reach the Armor section. Select “Add New Armor” to create a new piece of Armor.
 
 ![](https://i.imgur.com/RG54hPK.png)
+
+This will first open the [[RPGSessions Data Library|Data Library]] modal. Look at the bottom-right corner of this modal, where it says “Add Blank Armor”. Click on that button to bypass this view, which gives you the opportunity to add a custom Item.
 
 This will then open a new section which will allow you to edit various different parts of the Armor you are adding.
 

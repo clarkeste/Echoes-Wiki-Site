@@ -44,7 +44,7 @@ Spiked Handwear are gloves, gauntlets, or cestuses with hidden or clear spikes, 
 [[Knockdown (Active) (Quality)|Knockdown]]
 [[Disorient (Active) (Quality)|Disorient]] 2
 [[Vicious (Passive) (Quality)|Vicious]] 1
-Special: When purchased, may spend an additional 50 Rupees to purchase a version with hidden spikes. If this is done, whenever making a [[Skill Checks|Check]] to attempt to hide this [[Items|Item]]’s true purpose, add two [[Boost Dice]].
+Special: When purchased, may spend an additional 500 [[Rupees]] to purchase a version with hidden spikes. If this is done, whenever making a [[Skill Checks|Check]] to attempt to hide this [[Items|Item]]’s true purpose, add two [[Boost Dice]]. This is considerably more illegal. Some actions undertaken while wearing Spiked Handwear will be considerably harder or more awkward, especially if using the version of Spiked Handwear is not the hidden version.
 
 Price: 3500 [[Rupees|Rupees]]
 [[Affiliations|Affiliation]]: None

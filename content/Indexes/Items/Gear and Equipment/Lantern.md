@@ -29,7 +29,7 @@ Consumable: false
 The Lantern is invaluable for any adventurer interested in exploring ruins, or the underground. Its heat and light, fueled by lantern oil, provide simple comforts.
 ![](https://i.imgur.com/b0PVNRw.png)
 [[Encumbrance|Encumbrance]]: 0
-Effect: Creates light up to [[Short Range]] and minor heat. May consume a [[Bottle]]’s worth of Oil due to three [[Threat]], a [[Despair]], or the GM flipping a [[Sacred Points|Sacred Point]].
+Effect: Creates light up to [[Short Range]] and minor heat. Must be filled with oil to function. May consume a [[Bottle]]’s worth of Oil due to an extended period of use, three [[Threat]], a [[Despair]], or the GM flipping a [[Sacred Points|Sacred Point]]. Won’t be extinguished from rain, usually, unlike a [[Torch]].
 
 Price: 10 [[Rupees]]
 [[Affiliations|Affiliation]]: None

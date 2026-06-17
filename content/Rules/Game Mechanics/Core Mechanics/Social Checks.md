@@ -9,6 +9,7 @@ tags:
   - Stats
   - New-Rules
   - Skills
+  - Terminology
 ---
 There are ways to make progress without a bladed edge. Whether that be through threats, lies, or simple kindness, it all falls into the category of Social Checks.
 

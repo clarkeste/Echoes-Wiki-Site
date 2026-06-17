@@ -26,9 +26,9 @@ This is not good! It’s an understandable reaction, but the fact of the matter 
 ### Write Prompting Messages
 It is much more interesting if your messages are detailed and leave things for other Players, or the GM, to riff on and interact with.
 
-While single-sentence messages that only have dialogue *can* be good if you’re interjecting or something like that, you shouldn’t make a habit out of them. They are short, often add little value, characterization or story information unless you can stick around to send more of them, and above all, can be extremely boring. Consider, at the very least, describing what your Character does while they speak. If you know about writing prose, you know that it’s usually advised to not use dialogue tags and instead say things like *He scratched his beard. “Well, I don’t know about that, but there is...”*
+While single-sentence messages that only have dialogue *can* be good if you’re interjecting or something like that, you shouldn’t make a habit out of them. They are short, often add little value, characterization or story information unless you can stick around to send more of them, and above all, can be extremely boring. Consider, at the very least, describing what your Character does while they speak. If you know about writing prose, you know that it’s usually advised to mix up dialogue tags with things like *He scratched his beard. “Well, I don’t know about that, but there is...”*
 
-And consider when writing your message: What new information am I giving my fellow players or the GM that I wasn’t before? How am I changing the situation? How do I expect them to respond? If someone made this message and I was expected to respond, what are some ways I would?
+And consider when writing your message: What new information am I giving my fellow players or the GM that I wasn’t before? How am I changing the situation? How do I expect them to respond? If someone else made this message and I was expected to respond, what are some ways I would?
 ### Don’t Disappear for too Long
 There are few things more debilitating to a PbP, and particularly a Character’s story in that PbP, than the Player of that Character simply… disappearing.
 
@@ -50,7 +50,7 @@ However, sometimes, there are questions that result in long delays, or which hav
 
 For instance, and while it is rare, I had a Player DM me asking: “Is it my turn?” when no PC was in a combat scenario or turn-based system at all. Despite replying within 5 minutes, they had gone inactive and only checked 24 hours later, hours in which the group was waiting on them.
 
-I totally understand that brain farts happen. And generally, I am more than okay with answering questions, especially since most of the questions you folks ask me, I have not properly explained in pre-written material. However, if it becomes a re-occurring pattern that a Player asks very simple game questions repeatedly, it becomes clear to me that a Player is expecting me to compensate for a lack of effort on their part. At the very least, please ask these simple game mechanic questions like “Are we in combat taking turns?” in public channels, so that other players can reply—and stick around for at least a little bit so that if someone replies in a timely manner, you can quickly take your action.
+I totally understand that brain farts happen. And generally, I actually *enjoy* answering and being asked questions, especially since most of the questions you folks ask me, I have not properly explained in pre-written material. However, if it becomes a re-occurring pattern that a Player asks very simple game questions repeatedly, it becomes clear to me that a Player is expecting me to compensate for a lack of effort on their part. At the very least, please ask these simple game mechanic questions like “Are we in combat taking turns?” in public channels, so that other players can reply—and stick around for at least a little bit so that if someone replies in a timely manner, you can quickly take your action.
 ## Good Advice I’ve Found
 ### PbP Player Advice
 
@@ -118,7 +118,7 @@ These are in order of what I think is the most useful!
 [Roleplaying](https://www.youtube.com/watch?v=7YCVHnItKuY)  
 
 
-I don’t agree with a lot about what is said about “one-dimensional characters”, or the examples used, but it is overall a good video. Nothing wrong with playing a 1D Character as he describes them, only that I don’t really feel like they count as 1D Characters.
+I don’t agree with a lot about what is said about “one-dimensional characters” in the “Roleplaying” video, or the examples used, but it is overall a good video. Nothing wrong with playing a 1D Character as he describes them, only that I don’t really feel like they count as 1D Characters.
 
 A one-dimensional Character is a Character that is consistent no matter what. The examples he describes are Characters with one or two overwhelming personality traits that define them to make them memorable and interesting without having to put too much time into focusing on them. [A limp and an eyepatch, as author Brandon Sanderson describes it](https://kevinhabits.com/tag/brandon-sanderson). This doesn’t mean they don’t have a rich internal world, implied or not, it is just that we don’t see it, or it is relegated to just subtext.
 

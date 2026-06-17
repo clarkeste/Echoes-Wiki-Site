@@ -2,7 +2,6 @@
 aliases:
   - Skill Checks
   - Skill Check
-  - Skill Check
   - Checks
   - Check
 tags:
@@ -11,6 +10,8 @@ tags:
   - Stats
   - RPGSessions
   - Skills
+  - Guide
+  - Terminology
 Image: "[[Images/thumbnails/external/11493eb5e2696d87b440b33a8d893721.png]]"
 ---
 Skill Checks are whenever your or another [[Character|Character]] does something in which its success could be in doubt. This could be lock-picking a door while [[Adversary|Bokoblins]] bear down on you, swinging your sword at an enemy combatant, or trying to jump across a gap, of which you cannot see the bottom.
@@ -37,6 +38,9 @@ Then, select any Skill to roll. Here, [[Cool]] and [[Vigilance]] are highlighted
 ![](https://i.imgur.com/rqCbQVs.png)
 
 Then, the Dice Pool will appear in the Dice Panel. Now, you only need to add the [[Difficulty]] as set by the GM, or additional modifiers such as Setback and Boost dice.
+
+Some relevant Check modifiers options, added by [[Modifiers or Qualities (RPGSessions)]], can sometimes be seen underneath the Dice Pool in the Dice Panel. These correspond to [[Talents]] or other abilities your Character may have, and are governed by those rules.
+
 ### Rolling on Discord
 To roll on Discord using the [[RPGSessions Bot]], use .r command. For example: “.r (charm)ppp”. Replace ([[Charm|charm]]) with any [[Skills|Skill]] you want to use. The “ppp" afterwards is the difficulty, representing three [[Difficulty Dice]] otherwise known as Purple dice. You may also add Boosts to this field. 
 

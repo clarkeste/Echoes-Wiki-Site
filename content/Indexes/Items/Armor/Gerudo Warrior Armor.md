@@ -12,7 +12,7 @@ Qualities:
 Soak: 1
 Defense: 1
 Special Effect: Protects against warm climates. Provides Minor heat Resistance in [[Heated Temperatures]].
-Price: 3600
+Price: 3200
 Restricted: true
 Unique: false
 Unlisted: false
@@ -26,7 +26,7 @@ Loyalty:
 Image:
 Consumable: false
 ---
-Armor traditionally worn by the [[Gerudo]]. It is commonly worn by the majority of Gerudo, particularly following their exile from Hyrle,
+Armor traditionally worn by the [[Gerudo]]. It is commonly worn by the majority of Gerudo, particularly following their exile from Hyrule.
 ![]()
 [[Soak|Soak]]: 1
 [[Defense|Defense]]: 1
@@ -34,5 +34,5 @@ Armor traditionally worn by the [[Gerudo]]. It is commonly worn by the majority 
 
 Special: Protects against warm climates. Provides Minor heat Resistance in [[Heated Temperatures]].
 
-Price: 3600 [[Rupees]] [[Restricted|(R)]]
+Price: 3200 [[Rupees]] [[Restricted|(R)]]
 [[Affiliations|Affiliation]]: [[Gerudo|Gerudo]]

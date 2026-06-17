@@ -3,7 +3,7 @@ tags:
   - Items
   - Items-Premium
 Location:
-Damage: 7
+Damage: 8
 Critical Rating: 3
 Skill Used:
   - Melee (Heavy)
@@ -42,14 +42,13 @@ Consumable: false
 ---
 A two-handed sword once issued to the Hyrulean royal family's incredibly skilled immediate guard detail. Its powerful strikes are said to crush an opponent's body and resolve alike.
 ![](https://i.imgur.com/qQ7UmqE.png)
-[[Damage|Damage]]: +7
+[[Damage|Damage]]: +8
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 3
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
 [[Encumbrance|Encumbrance]]: 4
 
 [[Knockdown (Active) (Quality)|Knockdown]]
-[[Pierce (Passive) (Quality)|Pierce]] 2
 [[Concussive (Active) (Quality)|Concussive]] 1
 [[Daring Reprisal (Active) (Quality)|Daring Reprisal]]
 [[Cumbersome (Passive) (Quality)|Cumbersome]] OR [[Unwieldy (Passive) (Quality)|Unwieldy]] 3

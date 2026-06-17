@@ -12,3 +12,5 @@ Its default Range is [[Long Range|Long]].
 [[Difficulty]] is dependent on the Range. [[Long Range]] is [[Difficulty|Average]] (2p), [[Extreme Range]] is [[Difficulty|Hard]] (3p), and [[Strategic Range]] is [[Difficulty|Daunting]] (4p). Anything below Long is [[Difficulty|Easy]] (1p). Further than Strategic is often impossible.
 
 If the intent is to do harm or the target is unwilling, the Difficulty is an [[Opposed Check]] against the target’s [[Discipline]] or [[Resilience]], or the regular method of determining Difficulty; whichever is harder. If there is some sort of blockage of challenge in contact, the [[Difficulty]] may also change as a result of that.
+
+Depending on the Spell combination, Telepathy can be a [[Spell Creation#Long-Lasting Powers, Curses and Blessings|Long-Lasting Power]].

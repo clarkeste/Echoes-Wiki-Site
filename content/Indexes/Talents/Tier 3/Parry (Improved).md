@@ -1,7 +1,6 @@
 ---
 aliases:
   - Parry (Improved)
-  - Parry (Improved)
 tags:
   - Tier-3
   - Talent-Active

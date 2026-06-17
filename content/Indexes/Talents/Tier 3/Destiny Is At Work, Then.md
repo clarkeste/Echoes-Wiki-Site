@@ -11,6 +11,7 @@ Talent Genre:
 tags:
   - Talent-Active
   - Talent-Tactics-and-Leadership
+  - Talent-Combat-Oriented
 Image:
 ---
 **Tier:** 3

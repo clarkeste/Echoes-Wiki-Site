@@ -47,7 +47,7 @@ Additionally, if you are paid or are carrying money that is not in Rupees, list 
 #### Rupees and Rupoors
 Rupees are common gemstones that are said to have some magical power, which was the original reason for their use as currency in eras past. 
 
-It seems there is truth to this, as some items--such as the [[Magic Armor]] crafted by certain artisans--drain Rupees, turning them 'dun'. A dun Rupee is a blank Rupee that has no color. Dun Rupees are worthless, and not accepted as currency, since they can be easily forged and be illegitimate. Additionally, due to their lack of color, their value cannot be determined.
+It seems there is truth to this, as some items—such as the [[Magic Armor]] crafted by certain artisans—drain Rupees, turning them 'dun'. A dun Rupee is a blank Rupee that has no color. Dun Rupees are worthless, and not accepted as currency, since they can be easily forged and be illegitimate. Additionally, due to their lack of color, their value cannot be determined.
 
 Some Rupees may be so devoid of color that they actively drain the Rupees around them of their own color, turning them dun. These Rupees are, fittingly, called Rupoors. 
 

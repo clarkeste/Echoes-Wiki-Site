@@ -1,3 +1,9 @@
+---
+tags:
+  - Rules
+  - Combat
+  - New-Rules
+---
 In a fight, there are doubtless various objects that can be used as improvised [[Weapons]], and offer an advantage when attacking. This can be a bottle in a tavern, a large rock in the depths of the earth, or a shovel leaning against a farm’s outhouse.
 
 There are three ‘tiers’ of Improvised Weapons—Small, Medium, and Large. Different Items fit into different categories, and some may have different [[Qualities]]. However, it should be noted that all Improvised Weapons have the [[Inferior (Passive) (Quality)|Inferior]] Quality due to the fact that none of them were meant to be used as Weapons.
@@ -5,7 +11,7 @@ There are three ‘tiers’ of Improvised Weapons—Small, Medium, and Large. Di
 ### Small Improvised Weapons
 These Weapons are small objects that can be held in a single hand, and allow their user to hit even harder. They are things such as rocks, bottles, or splintered wood.
 
-[[Damage]]: +2
+[[Damage]]: +1
 [[Skills|Skill]]: [[Brawl]] OR [[Melee-Light]] 
 [[Critical Rating]]: 5
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
@@ -17,9 +23,9 @@ Price: ???
 [[Affiliations]]: None
 
 ### Medium Improvised Weapons
-This category represents larger objects, such as a shovel, two-handed rock, box, or pot. Or a steel chair.
+This category represents larger objects, such as a two-handed rock, chair, or pot.
 
-[[Damage]]: +3
+[[Damage]]: +2
 [[Skills|Skill]]: [[Brawl]] OR [[Melee-Heavy]] 
 [[Critical Rating]]: 5
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
@@ -31,9 +37,9 @@ Price: ???
 [[Affiliations]]: None
 
 ### Large Improvised Weapons
-This is for truly difficult to carry and use objects, such as a table, particularly large tool, or a wooden crate.
+This is for devastating, cumbersome or large objects, such as a table, shovel or a wooden crate. Or a steel chair.
 
-[[Damage]]: +4
+[[Damage]]: +3
 [[Skills|Skill]]: [[Melee-Heavy]] 
 [[Critical Rating]]: 5
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]

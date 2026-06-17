@@ -4,6 +4,8 @@ aliases:
   - adventure
   - Adventures
   - adventures
+tags:
+  - Terminology
 ---
 Adventures, or what is usually called “sessions” in the [[Genesys Core Rulebook]] and other supplementary [[Genesys]] material, is a measure of out-of-game time in [[Echoes of the Departed]].
 

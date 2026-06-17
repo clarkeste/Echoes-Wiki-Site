@@ -6,6 +6,7 @@ tags:
   - Talent-Strain-Spending
 Tier: 2
 Activation:
+  - Active (Incidental)
 Ranked: false
 Unlisted: false
 Magic: false

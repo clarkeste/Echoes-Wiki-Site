@@ -18,7 +18,7 @@ Special Effect:
 Price: 2400
 Restricted: false
 Unique: false
-Unlisted: false
+Unlisted:
 Is Armor: false
 Is Weapon: true
 Is Gear: false

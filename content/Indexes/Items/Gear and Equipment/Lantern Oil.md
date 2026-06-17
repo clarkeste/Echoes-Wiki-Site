@@ -26,10 +26,10 @@ Loyalty:
 Image: "[[Images/thumbnails/external/9afb78609d431ba29fc870145001d062.png]]"
 Consumable: true
 ---
-A full bottle of oil. Most commonly used to fuel Lanterns, but can also be thrown or used to cook.
+A full bottle of oil. Most commonly used to fuel [[Lantern|Lanterns]], but can also be thrown or used to cook. Comes in its own cheap glass container.
 ![](https://i.imgur.com/UgkLBVc.png)
-Encumbrance: None, stored in a [[Bottle]]
-Effect: May be used to refill Lanterns or other [[Items]] that use Oil as a fuel, or in [[Potion Creation|cooking]] to add +2 Alchemy Points to a [[Potion Template - Meal|Meal]].
+[[Encumbrance]]: 1
+Effect: May be used to refill Lanterns or other [[Items]] that use Oil as a fuel, or in [[Potion Creation|cooking]] to add +2 Alchemy Points to a [[Potion Template - Meal|Meal]]. Fire spreads easily on ground covered in oil. Oil is slippery. A [[Bottle]] can hold two regular containers-worth of Oil.
 
 Price: 60 [[Rupees]]
 [[Affiliations|Affiliation]]: None

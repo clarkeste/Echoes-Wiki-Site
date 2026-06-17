@@ -6,6 +6,7 @@ aliases:
   - EotD
 tags:
   - Meta
+  - Terminology
 ---
 Echoes of the Departed is this game, set in the Legend of Zelda world. It is a game set 400 years following the events of Ocarina of Time, and involve Hyrule in the throes of a Civil War—[[Should my character believe in the Royalists, or the Followers?|Royalist against Follower]], Brother against brother, son against father, daughter against mother, wife against husband, friend against friend. 
 

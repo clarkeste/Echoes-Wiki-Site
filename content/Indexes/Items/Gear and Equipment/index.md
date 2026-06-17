@@ -26,7 +26,7 @@ The following are the articles in this folder:
 [[Bottle]]
 [[Container]]
 [[Fishing Rod]]
-[[Hood, Stage Mask, Face Cover, Disguise]]
+[[Hood, Mask, Veil, Disguise]]
 [[Hylian Glider]]
 [[Lantern]]
 [[Lantern Oil]]

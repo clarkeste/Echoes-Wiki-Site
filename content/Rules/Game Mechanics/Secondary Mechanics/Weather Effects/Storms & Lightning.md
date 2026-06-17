@@ -1,5 +1,9 @@
 ---
 aliases:
+tags:
+  - Rules
+  - New-Rules
+  - Combat-Modifiers
 ---
 In cases where a storm and its accompanying rain are particularly harsh, Lightning might occur in such a manner that it becomes a threat to the safety of individuals, and the rain or darkness that sometimes pours down can limit visibility or create hazards.
 

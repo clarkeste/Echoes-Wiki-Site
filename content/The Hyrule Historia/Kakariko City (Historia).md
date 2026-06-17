@@ -1,7 +1,5 @@
 ---
 aliases:
-  - Kakariko City’s
-  - Kakariko City
 tags:
 Is Historia: true
 title: Kakariko City

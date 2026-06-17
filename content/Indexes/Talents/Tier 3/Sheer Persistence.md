@@ -8,6 +8,7 @@ tags:
   - Talent-Ranked
 Tier: 3
 Activation:
+  - Active (Incidental)
 Ranked: false
 Unlisted: false
 Magic: false

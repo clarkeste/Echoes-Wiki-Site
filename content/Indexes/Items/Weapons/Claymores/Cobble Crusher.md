@@ -10,7 +10,7 @@ Skill Used:
 Range: Engaged
 Encumbrance: 4
 Qualities:
-  - Cumbersome 4
+  - Cumbersome 3
   - Disorient 2
   - Knockdown
   - Stun 2
@@ -44,7 +44,7 @@ A [[Gorons|Goron]]-made two-handed [[Weapons|Weapon]]. It's made from thick, har
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
 [[Encumbrance]]: 4
 
-[[Cumbersome (Passive) (Quality)|Cumbersome]] 4
+[[Cumbersome (Passive) (Quality)|Cumbersome]] 3
 [[Disorient (Active) (Quality)|Disorient]] 2
 [[Knockdown (Active) (Quality)|Knockdown]]
 [[Stun (Active) (Quality)|Stun]] 2

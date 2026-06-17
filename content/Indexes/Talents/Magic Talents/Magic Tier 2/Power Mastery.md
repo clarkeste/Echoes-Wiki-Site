@@ -13,6 +13,7 @@ Talent Genre:
 tags:
   - Talent-Spells
   - Talent-Passive
+  - Talent-Ranked
 Image:
 ---
 **Tier:** 2

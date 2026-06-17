@@ -23,7 +23,7 @@ Defense:
 Special Effect: When your [[Character]] suffers a hit from a [[Ranged]] or [[Force]] [[Attack Check]], after the Attack is resolved you may spend a [[Despair]] from the attacker’s Check to use the Mirror Shield. Then, your Character automatically hits one enemy within [[Medium Range|Medium]] once, dealing the [[Damage#Base Damage|Base Damage]] of the original Attack. Your Character suffers no Damage if this is done, even if the Attack was successful. This shield may also reflect light as a [[Maneuvers|Maneuver]] to blind [[Adversary#Minions|Minions]] and [[Adversary#Rivals|Rivals]], [[Immobilized|Immobilizing]] them for a Round.
 Price: 114000
 Restricted: true
-Unique: false
+Unique: true
 Unlisted: false
 Is Armor: false
 Is Weapon: true

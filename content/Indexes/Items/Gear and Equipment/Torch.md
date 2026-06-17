@@ -31,5 +31,5 @@ Torches are a larger and brighter version of the Lantern, much more versatile wi
 [[Encumbrance]]: 1
 Effect: Creates light up to [[Medium Range]] and decent heat. If used as a [[Weapons|Weapon]], deals +1 [[Damage]], has a [[Critical Rating]] of 5, has a range of [[Engaged Range|Engaged]], is [[Flammable (Passive) (Quality)|Flammable]], and has [[Burn (Active) (Quality)|Burn]] 2 if the Torch is lit. Will run out faster than a lamp.
 
-Price: 20
+Price: 20 [[Rupees]]
 Affiliation: None

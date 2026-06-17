@@ -41,7 +41,7 @@ The sturdy metal construction of this bow offers superior durability, while its 
 
 [[Desperate Strength (Passive) (Quality)|Desperate Strength]]
 [[Superior (Passive) (Quality)|Superior]]
-Special: When making an [[Attack Check]], may suffer any amount of [[Strain]] to add [[Boost Dice]] equal to half the amount of Strain suffered.
+Special: When making a [[Attack Check|Check]] with this Bow, may suffer any amount of [[Strain]] to add [[Boost Dice]] equal to half the amount of Strain suffered.
 
 Price: 13k [[Rupees]]
 [[Affiliations|Affiliation]]: [[Should my character believe in the Royalists, or the Followers?|Royalist]]

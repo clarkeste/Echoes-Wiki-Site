@@ -41,7 +41,7 @@ Weapon Type:
   - Artillery
 Consumable: false
 ---
-A larger, but even more deadly and destructive [[Cannon]]. Even stone walls are but a temporary inconvenience with these Heavy Cannons, a few salvos away from being little more than dust.
+A larger, but even more deadly and destructive [[Cannon]]. Even thick stone walls are but a temporary inconvenience with these Heavy Cannons, a few salvos away from being little more than dust.
 ![](https://i.imgur.com/h04uVw0.png)
 [[Damage|Damage]]: 45
 [[Skills|Skill]]: [[Gunnery|Gunnery]]

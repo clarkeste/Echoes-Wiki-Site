@@ -22,4 +22,4 @@ Image:
 **Activation:** Passive 
 **Ranked:** No 
 
-If their target is [[Disoriented]], [[Staggered]], or [[Prone]], your [[Character|Character]] may add a [[Boost Dice|Boost Die]] to [[Attack Check|Attack Checks]] or [[Social Checks|Social Checks]] that target that enemy.
+If a target is [[Disoriented]], [[Staggered]], or [[Prone]], your [[Character|Character]] may add a [[Boost Dice|Boost Die]] to [[Attack Check|Attack Checks]] or [[Social Checks|Social Checks]] that target that enemy.

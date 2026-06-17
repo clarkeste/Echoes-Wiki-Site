@@ -1,6 +1,9 @@
 ---
 aliases:
   - Fly
+tags:
+  - Rules
+  - New-Rules
 ---
 Some [[Character|Characters]] in [[Echoes of the Departed]] are gifted with the natural ability to fly and soar through the air; to glide like birds, or flap and hover like bats.
 

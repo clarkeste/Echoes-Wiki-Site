@@ -10,6 +10,10 @@ aliases:
   - Speed
   - steed
   - Ship
+tags:
+  - Rules
+  - New-Rules
+  - Combat
 ---
 There are different rules for handling water-faring Ships and larger vehicles such as Carriages, chariots, or other similar contraptions.
 

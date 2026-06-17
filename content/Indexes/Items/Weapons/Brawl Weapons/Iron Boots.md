@@ -15,7 +15,7 @@ Qualities:
 Soak:
 Defense:
 Special Effect: May choose to deal regular Damage instead of Stun Damage. When wearing the Iron Boots, add 1 Soak, the wearer sinks down into water and cannot be moved using the Shove [[Maneuvers|Maneuver]] or any other means. Additionally,  increase [[Encumbrance|Encumbrance]] by 6 for a total of 10 when worn to represent the challenge of having weight focused on the feet.
-Price: 12000
+Price: 9000
 Restricted: false
 Unique: false
 Unlisted: false
@@ -38,11 +38,9 @@ Metal boots, usually made of iron, ground their wearer down and provide complete
 [[Skills|Skill]]: [[Brawl|Brawl]]
 [[Encumbrance|Encumbrance]]: 4
 
-[[Defensive (Passive) (Quality)|Defensive]] 1
 [[Stun Damage (Active) (Quality)|Stun Damage]]
 [[Inaccurate (Passive) (Quality)|Inaccurate]] 3
-Special: May choose to deal regular Damage instead of Stun Damage. When wearing the Iron Boots, add 1 Soak, the wearer sinks down into water and cannot be moved using the Shove [[Maneuvers|Maneuver]] or any other means. Additionally,  increase [[Encumbrance|Encumbrance]] by 6 for a total of 10 when worn to represent the challenge of having weight focused on the feet.
-  
+Special: When wearing the Iron Boots, add 1 [[Soak]], but the wearer sinks down into water and cannot be moved using the Shove [[Maneuvers|Maneuver]] or any other means. Additionally, increase [[Encumbrance|Encumbrance]] by 6 for a total of 10 when worn to represent the challenge of having weight focused on the feet. May choose to deal regular Damage instead of Stun Damage when Attacking with Iron Boots.
 
-Price: 12k [[Rupees|Rupees]]
+Price: 9000 [[Rupees|Rupees]]
 [[Affiliations|Affiliation]]: None

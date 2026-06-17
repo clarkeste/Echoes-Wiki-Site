@@ -16,3 +16,5 @@ The Spellcaster then sees a Vision related to what they were intending, such as 
 [[Advantage]] can be spent to glean more details or interact in a sort of dream-like way with the contents of the Vision, while [[Threat]] can redact information or present dangers. In serious cases, such as with [[Despair]], the Spellcaster may be psychologically attacked. A [[Triumph]], on the other hand, may allow them to traverse this dreamlike world, give it some degree of order, and retain their awareness as a lucid dreamer might.
 
 Other [[Skill Checks]] may occur in this realm of dreams and prophecy.
+
+Default Range is [[Engaged Range|Engaged]].

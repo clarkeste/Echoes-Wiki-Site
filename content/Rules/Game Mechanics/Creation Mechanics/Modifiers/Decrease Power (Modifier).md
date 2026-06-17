@@ -7,6 +7,8 @@ tags:
 ---
 Decrease Power is a [[Modifiers]] used in [[Spell Creation]]. It is a Drawback that reduces the cost of a Spell, and an opposite to [[Increase Power (Modifier)|Increase Power.]]
 
+Only decrease Magic Point cost on a [[Spell Creation|Spell]] on the first three uses on any given [[Spell Creation|Spell]].
+
 ### [[Spell Creation]]: Decrease Power (-3)
 Active: No
 Stacks: Yes

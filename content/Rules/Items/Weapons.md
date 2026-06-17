@@ -24,6 +24,8 @@ There are seven main categories of weapon in [[Echoes of the Departed]].
 
 To view all purchasable items in, please the [[Item Navigation Guide]] for more information.
 
+*To see how to add a Weapon to a [[Character Sheet]], see the [[Items]] article.*
+
 ### Categories
 
 #### Light Weapons

@@ -17,3 +17,5 @@ The Invoke [[Spell Creation|Spell]] allows its user to create objects and shapes
 Creating anything bigger is usually impossible. Should the Caster move too far from their summons or fall [[Incapacitated|unconscious]], created objects will vanish.
 
 Since Invoke is a [[Spell Creation#Long-Lasting Powers, Curses and Blessings|Long-Lasting Spell]], at the beginning of each turn belonging to the Caster who cast the Invoke Spell, that original Spellcaster must suffer 1 [[Strain]]. It can be Dismissed at any time with a [[Maneuvers|Maneuver]], which ends this cost.
+
+An Invoked structure cannot be Dismissed on the same turn it is Cast.

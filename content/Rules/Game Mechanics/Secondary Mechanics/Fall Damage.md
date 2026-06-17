@@ -4,6 +4,7 @@ aliases:
   - falling
 tags:
   - Rules
+  - Combat
 ---
 Falling from different heights causes different amounts of [[Damage]].
 
@@ -16,7 +17,7 @@ Falling from different heights causes different amounts of [[Damage]].
 
 Intentionally jumping instead of following reduces the [[Range Bands|Range Band]] results by one, except for a fall from Strategic Range, which will always result in a death unless the ground is particularly soft, water, or the character manages to grab onto something and break their fall.
 
-When falling, may make a [[Coordination|Coordination]] [[Skill Checks|Check]] with no [[Difficulty|Difficulty]]. [[Wounds|Wound]] Damage suffered is reduced equal to [[Success|Successes]] on the check, and [[Strain|Strain]] Damage suffered is reduced equal to [[Advantage|Advantage]] on the check. A [[Triumph|Triumph]] may allow a character to redirect their fall. When falling from Strategic Range, this check will usually have a Difficulty and Success will mean that the character manages to grab onto something on their way down, saving themselves from certain death.
+When falling, may make a [[Coordination|Coordination]] [[Skill Checks|Check]] with no [[Difficulty|Difficulty]]. [[Wounds|Wound]] Damage suffered is reduced equal to [[Success|Successes]] on the check, and [[Strain|Strain]] Damage suffered is reduced equal to [[Advantage|Advantage]] on the check. A [[Triumph|Triumph]] may allow a character to redirect their fall. When falling from Strategic Range or in some cases Extreme Range, this check will usually have a Difficulty and Success will mean that the character manages to grab onto something on their way down, saving themselves from certain death.
 
 Fall Damage is not affected by [[Soak]].
 

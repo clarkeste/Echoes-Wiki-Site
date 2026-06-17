@@ -58,7 +58,7 @@ A type of light-weight artillery that fire a projectile, often a [[Bomb (Large)|
 [[Guided (Passive) (Quality)|Guided]]
 [[Inaccurate (Passive) (Quality)|Inaccurate]] 2
 [[Prepare (Passive) (Quality)|Prepare]] 1
-Special: Mortars cannot attack targets that have cover from above. Additionally, can be destroyed with a [[Maneuvers|Maneuver]] or two [[Advantage]] by a [[Character]] in [[Engaged Range]].
+Special: Mortars cannot attack targets that have cover from above, or [[Character|Characters]] within [[Short Range]]. Additionally, can be destroyed with a [[Maneuvers|Maneuver]] or two [[Advantage]] by a [[Character]] in [[Engaged Range]].
   
 Price: 42k [[Rupees]] [[Restricted|(R)]]
 Affiliation: [[Should my character believe in the Royalists, or the Followers?|Royalists, Followers]]

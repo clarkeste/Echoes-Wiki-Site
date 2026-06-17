@@ -7,7 +7,7 @@ tags:
   - RPGSessions
 Image: "[[Images/thumbnails/external/7488df967edf906bf7d81dcf1412e23d.jpg]]"
 ---
-RPGSessions is the online and interactive character sheet and [[Narrative Dice|Dice]] roller system that Echoes of the Departed uses. It boasts a full feature set, and robust mechanics for custom content.
+RPGSessions is the online and interactive character sheet and [[Narrative Dice|Dice]] roller system that [[Echoes of the Departed]] uses. It boasts a full feature set, and robust mechanics for custom content.
 ![](https://i.imgur.com/0oLcnZe.jpg)
 #### Getting started with RPGSessions
 First, go to [this link.](https://firstlook.rpgsessions.com/auth/login?redirect=/library/explorer) If you are already signed into RPGSessions, it should take to your library, in which case you should follow the next section of the guide.
@@ -35,7 +35,7 @@ In the top-right corner of the screen, you should see the following options.
 From left-to-right:
 - Library: This is where all your [[Character Sheet|Character Sheets]] are stored and listed for easy editing. Click on the Character Sheet link to learn more.
 - Dice: This is where [[Narrative Dice|Dice]] can be rolled independently. “Live” will roll the Dice in whichever Game you are currently active in, whereas “Test” will not.
-- Games: This is where the [[Game Table]] is stored. It will open a list of Games you are in.
-- Data: This is the Data Library system. It is currently not of much use to players.
+- Games: This is where the [[Game Table]] is stored. It will open a list of Games you are in, including [[Echoes of the Departed]] if you’ve joined!
+- Data: This is the [[RPGSessions Data Library|Data Library]] system! It is incredibly useful, but you’ll mainly interact with it through Character Sheets. Make sure to import the Echoes of the Departed kit before making a Character Sheet!
 - Profile: Allows you to change site and game settings, as well as linking your discord.
 - Logout: What do you think it does?

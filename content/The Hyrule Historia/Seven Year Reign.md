@@ -10,7 +10,7 @@ aliases:
 tags:
 Is Historia: true
 ---
-**The Seven Year Reign** usually refers to the reign of [[Ganondorf Dragmire|Ganondorf Dragmire]] over [[Hyrule]] during the era of the [[Hero of Time|Hero of Time]]. It began after Ganon, abusing the trust of the [[King Arkenalan Bosmison Hyrule|King]], murdered him, most of the [[Former Hyrulean Government and Royal Family|Royal Family]] and many important ministers and politicians with the assistance of elite [[The Gerudo|Gerudo]] soldiers and bribed guards. 
+**The Seven Year Reign** usually refers to the reign of [[Ganondorf Dragmire|Ganondorf Dragmire]] over [[Hyrule]] during the era of the [[Hero of Time|Hero of Time]]. It began after Ganon, abusing the trust of the [[King Arkenalan Bosmisen|King]], murdered him, most of the [[Former Hyrulean Government and Royal Family|Royal Family]] and many important ministers and politicians with the assistance of elite [[The Gerudo|Gerudo]] soldiers and bribed guards. 
 
 After this, Ganon started a dictatorial reign for seven long years. It is believed it is around this period, or shortly before, that Ganon gained the [[The Triforce (Historia)|Triforce of Power]] by infiltrating the [[Sacred Realm (Historia)|Sacred Realm]], and grew determined to gain the other two pieces from their holders. As Hyrule's new king, Ganondorf gained even more knowledge regarding the Triforce that he sought. Because his heart was not in balance, he was only bestowed one third of the Triforce: the Triforce of Power. The Triforce of Courage was bestowed to the Hero of Time, and the Triforce of Wisdom bestowed to the [[Princess Zelda (Historia)|Princess Zelda]] of the era. 
 

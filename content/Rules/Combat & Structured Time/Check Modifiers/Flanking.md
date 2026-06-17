@@ -3,6 +3,7 @@ aliases:
   - from behind
   - Flanking
   - Flanked
+  - Flank
 tags:
   - Rules
   - Combat

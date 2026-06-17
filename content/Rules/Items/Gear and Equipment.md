@@ -12,3 +12,5 @@ Gear and Equipment is a category of [[Items|Item]] that encompasses everything t
 The effects of a piece of Equipment is usually listed in their stat-block in plain text, and varies wildly, as the use cases for different pieces of Equipment are massive. The most consistent states are Price and [[Encumbrance|Encumbrance]].
 
 To see all Gear and Equipment, please check the [[Item Navigation Guide]] for more information.
+
+To see how to add a piece of Gear and Equipment to a [[Character Sheet]], see the [[Items]] article.

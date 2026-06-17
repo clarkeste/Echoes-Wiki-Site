@@ -13,4 +13,4 @@ Base [[Damage]] is equal to the caster’s [[Willpower]], plus their [[Force]].
 
 The [[Critical Rating]] is 3 and can only be modified through [[Talents]]. 
 
-A Spell using Attack uses the Attack check rules, such as [[Success|Successes]] adding additional Damage, and [[Difficulty]] determined by Range.
+A Spell using Attack uses the Attack check rules, such as [[Success|Successes]] adding additional Damage, and [[Difficulty]] determined by Range. If a Spellcaster targets themselves, they can choose to deal on Damage to themselves.

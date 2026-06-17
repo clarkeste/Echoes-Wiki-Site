@@ -5,6 +5,7 @@ aliases:
 tags:
   - Rules
   - New-Rules
+  - Characters
 ---
 In [[Social Checks|Social Checks]], an Approach refers to an argument or conversational tactic use. Different Approaches work better or worse on different [[Character|Characters]] in different contexts, and can indicate various bonuses or [[Setback Dice|Setbacks]]—usually, up to five [[Boost Dice|Boosts]] or five Setbacks on the corresponding Social Check to convince a character of something.
 

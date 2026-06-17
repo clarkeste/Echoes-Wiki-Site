@@ -8,7 +8,7 @@ Critical Rating: 5
 Skill Used:
   - Melee (Heavy)
 Range: Engaged
-Encumbrance: 5
+Encumbrance: 4
 Qualities:
   - Knockdown
   - Disorient 2
@@ -45,7 +45,7 @@ A two-handed weapon forged from rare metals mined in [[Gorons|Goron]] City. Its 
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 5
 [[Range Bands|Range]]: [[Engaged Range|Engaged]]
-[[Encumbrance|Encumbrance]]: 5
+[[Encumbrance|Encumbrance]]: 4
 
 [[Knockdown (Active) (Quality)|Knockdown]]
 [[Disorient (Active) (Quality)|Disorient]] 2

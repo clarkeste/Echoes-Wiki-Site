@@ -20,4 +20,4 @@ Image:
 **Activation:** Active (Action)
 **Ranked:** No
 
-While [[Operating]] a Ship or vehicle, your [[Character]] may use this [[Talents|Talent]] to make a [[Difficulty|Hard]] (3p) [[Operating|Operating]] [[Skill Checks|Check]]. If successful, the top Speed of the Ship increases by one (to a maximum of 5) for a number of Rounds equal to your Character’s [[Cunning|Cunning]].
+While [[Operating]] a Ship or vehicle, your [[Character]] may use this [[Talents|Talent]] to make a [[Difficulty|Hard]] (3p) [[Operating|Operating]] [[Skill Checks|Check]]. If successful, the top Speed of the Ship increases by one (to a maximum of 6) for a number of Rounds equal to your Character’s [[Cunning|Cunning]] or [[Intellect]], whichever is higher.

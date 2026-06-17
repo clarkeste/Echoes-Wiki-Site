@@ -2,7 +2,6 @@
 tags:
   - Talent-Spells
   - Talent-Passive
-  - Talent-Ranked
 Tier: 2
 Activation:
   - Passive

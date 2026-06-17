@@ -2,6 +2,8 @@
 tags:
   - Rules
   - Combat
+aliases:
+  - Dual-Wield
 ---
 In [[Echoes of the Departed]], whenever a [[Character]] is wielding two one-handed [[Weapons]], one in each hand, they are technically Dual-wielding. However, there is a way to attack with both Weapons in a single [[Attack Check]]. This can be with two Swords, a Sword and a Shield, or any other combination.
 

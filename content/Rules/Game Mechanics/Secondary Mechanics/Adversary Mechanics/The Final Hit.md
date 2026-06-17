@@ -1,3 +1,8 @@
+---
+tags:
+  - Rules
+  - Combat
+---
 Some [[Adversary|Adversaries]], particularly [[Nemesis]] Adversaries, must be finished off with a **Final Hit.**
 
 This applies to particularly important enemies who are unlikely to give up the fight until they kill or are killed, or monstrous beings who, for one reason or another, are less prone to being knocked out after physical trauma.

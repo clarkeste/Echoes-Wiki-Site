@@ -17,7 +17,9 @@ What is provable about the Triforce, however, is that it consists of extremely s
 
 The Triforce is considered to have rested in the [[Sacred Realm (Historia)|Sacred Realm]] before the era of the [[Hero of Time|Hero of Time]], but was split into its three pieces by [[Ganondorf Dragmire]]. These three pieces represented three core virtues of the Triforce; Wisdom, Power, and Courage. These pieces were given to the three separate individuals in the land that most represented their attributes. 
 
-An individual with the Triforce will have an emblem on their wrist when its power is used, although this can be hidden. Triforce pieces will resonate when two or more are nearby. When held by individuals, reasonating will mean they glow brighter.
+An individual with the Triforce will have an emblem on their wrist when its power is used, although this can be hidden. Triforce pieces will resonate when two or more are nearby. When held by individuals, resonating will mean they glow brighter.
+
+It has been shown in eras past that the Triforce can be taken from their rightful wielders by some individuals, especially those with powerful magical abilities.
 
 The three pieces of the Triforce are the following:
 

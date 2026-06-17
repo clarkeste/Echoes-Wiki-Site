@@ -19,4 +19,4 @@ Image:
 **Activation:** Active (Incidental)
 **Ranked:** No
 
-Once per [[Adventure]] or period of [[Downtime]], when a making a [[Skill Checks|Check]] to create an [[Item Creation|Item]] or [[Potion Creation]], may choose to re-roll the Check without losing ingredients.
+Once per [[Downtime|Week]], when a making a [[Skill Checks|Check]] to create an [[Item Creation|Item]] or [[Potion Creation]], may choose to re-roll the Check without losing ingredients.

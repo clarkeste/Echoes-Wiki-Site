@@ -4,6 +4,7 @@ tags:
   - Talent-Passive
   - Talent-Utility
   - Talent-Spells
+  - Talent-Ranked
 Tier: 1
 Activation:
   - Passive

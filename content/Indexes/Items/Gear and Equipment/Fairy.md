@@ -26,6 +26,8 @@ Consumable: true
 aliases:
   - Fairy
   - Fairies
+tags:
+  - Items
 ---
 Fairies are little wisps and helpers to great heroes, spoken of only in myth and whispers. Are they even real? 
 

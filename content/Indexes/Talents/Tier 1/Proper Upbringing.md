@@ -19,4 +19,4 @@ Image:
 **Activation:** Active (Incidental) 
 **Ranked:** No 
 
-When your [[Character|Character]] makes is in polite company (as determined by [[The GM]]), or around noblemen, they heal one [[Strain|Strain]] per every [[Social Checks|Social Check]], and add one [[Advantage]] to every [[Social Checks|Social Check]].
+When your [[Character|Character]] makes is in polite company (as determined by [[The GM]]), or around noblemen, they add one [[Advantage]] to every [[Social Checks|Social Check]].

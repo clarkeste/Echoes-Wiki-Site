@@ -2,6 +2,8 @@
 tags:
   - Talent-Spells
   - Talent-Active
+  - Talent-Strain-Spending
+  - Talent-Utility
 Tier: 2
 Activation:
   - Active (Incidental)

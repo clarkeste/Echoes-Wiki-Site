@@ -2,7 +2,6 @@
 aliases:
   - Prepare Quality
   - Prepare
-  - Linked
 tags:
   - Rules
   - Combat

@@ -15,6 +15,6 @@ When [[Attack Check|Attacked]], immediately deal [[Wounds|Wounds]] equal to [[Sw
 
 When dual-wielding Weapons with Swift Strike, attacking [[Character|Characters]] are affected by both instances of Swift Strike.
 
-The maximum Swift Strike [[Wounds]] that can be inflicted in a single [[Attack Check|Check]] by [[Weapons]] that have Swift Strike is 3. The total maximum Swift Strike that can be inflicted is 5.
+The maximum Swift Strike [[Wounds]] that can be inflicted in a single [[Attack Check|Check]] by [[Weapons]] that have Swift Strike is 3. The total maximum Swift Strike that can be inflicted from all sources is 5.
 
-Swift Strike cannot be [[Parry|Parried]].
+Swift Strike can be [[Parry|Parried]].

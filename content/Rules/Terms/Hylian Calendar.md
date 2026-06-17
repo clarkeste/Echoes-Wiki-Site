@@ -38,7 +38,7 @@ Faroraru is a portmanteau of Farore, one of the Golden Goddesses and the name of
 Dinau is named after one of the Golden Goddesses, Din. It is the first month of Summer.
 
 7 - Harkun
-Harkun is named after a notable [[King Harkinian|King in Hyrulean History]] who, under his tenure, reorganized the Hylian Calendar into the system known today.
+Harkun is named after a notable [[King Harkinian Renensen|King in Hyrulean History]] who, under his tenure, reorganized the Hylian Calendar into the system known today.
 
 8 - Timisi
 Timisi is named after the [[Hero of Time|Hero of Time]], and is the last month of Summer.

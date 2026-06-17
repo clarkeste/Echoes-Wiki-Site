@@ -1,22 +1,22 @@
 ---
 tags:
-  - Tier-2
   - Talent-Ranked
   - Talent-Setbacks-and-Boosts
   - Talent-Active
   - Talent-Crafting-Oriented
-Tier: 2
+  - Tier-1
+Tier: 1
 Activation:
   - Active (Incidental)
 Ranked: true
 Unlisted: false
 Magic: false
-XP Cost: 10
+XP Cost: 5
 Talent Genre:
   - General
 Image:
 ---
-**Tier:** 2
+**Tier:** 1
 **Activation:** Active (Incidental)
 **Ranked:** Yes
 

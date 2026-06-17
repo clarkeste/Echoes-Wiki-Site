@@ -34,7 +34,7 @@ Weapon Type:
   - Sword
 Consumable: false
 ---
-Knights of Hyrule who earned their position through skill once carried this elegant sword. These days it's the [[Weapons|Weapon]] of choice for experienced [[Should my character believe in the Royalists, or the Followers?|Royalist and Follower]] soldiers, and strictly regulated.
+Knights of Hyrule who earned their position through skill once carried this elegant sword. These days it's the [[Weapons|Weapon]] of choice for experienced [[Should my character believe in the Royalists, or the Followers?|Royalist and Follower]] soldiers.
 ![](https://i.imgur.com/VRyKL0Z.png)
 [[Damage|Damage]]: +4
 [[Skills|Skill]]: [[Melee-Light|Melee (Light)]]

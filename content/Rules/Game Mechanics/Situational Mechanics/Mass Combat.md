@@ -1,3 +1,9 @@
+---
+tags:
+  - Rules
+  - New-Rules
+  - Guide
+---
 In [[Echoes of the Departed]], Mass Combat is done when a [[PC]] is commanding an army of significant size into combat alongside a similarly powerful force. It can be run in parallel to a traditional [[Combat]] [[Encounter]], or it can be its own independent engagement.
 
 Instead of individual [[Character|Characters]] fighting it out, Mass Combat is instead carried out by [[Mass Combat#Units|Units]], a type of [[NPCs|NPC]] similar to [[Adversary#Minions|Minions]]. They represent a large group of soldiers or combatants, and have a simplified stat-block.
@@ -102,12 +108,12 @@ To see an example of a Commander, take a look at [General Noril’s](https://app
 When a Commander takes control of a Unit, pick one Unit they are commanding. They are now directly embedded into that Unit, and the Unit’s [[Defense]] increases by 1 in addition to all other effects. However, if that Unit is defeated, so is the Commander, and all Units cease receiving benefits from them.
 
 # Actions
-In Mass Combat, when a Unit is picked to be used on that turn, they gain one [[Actions|Action]]. They can do a variety of things with this Action, which are listed below. **A number of Units equal to the overall Battle Commander’s ranks in [[Leadership]] can be moved on a turn.**
+In Mass Combat, when a Unit is picked to be used on that turn, they gain one [[Actions|Action]]. They can do a variety of things with this Action, which are listed below. **Only a number of Units equal to the overall Battle Commander’s ranks in [[Leadership]] can be used or activated in a turn.**
 
 ## Attack
-[[Attack Check|Attack]] another Unit. If this is a Melee Attack, success will cause the attacking Unit to enter the space previously held by the defender. The defending Unit will then suffer [[Damage]] equal to the Damage stat of the attacking Unit plus any additional [[Success|Successes]], and fall back to a position.
+[[Attack Check|Attack]] another Unit. If this is a Melee Attack, success will cause the attacking Unit to enter the space previously held by the defender. The defending Unit will then suffer [[Damage]] equal to the Damage stat of the attacking Unit plus any uncanceled [[Success|Successes]], and flees to an adjacent tile away from their attacker.
 
-The [[Dice Pool]] a Unit uses to attack is determined by the [[Skills|Skill]] of the overall Battle Commander—in the case of the allied side, almost always a [[PC|PC]]. There are up to four Skills that can be used as the positive Dice Pool—however, each one can only be used once on any given turn. These Skills are:
+The [[Dice Pool]] a Unit uses to attack is determined by the [[Skills|Skill]] of the overall Battle Commander—in the case of the allied side, the Battle Commander is almost always a [[PC|PC]]. There are up to four Skills that can be used as the positive Dice Pool—however, each one can only be used once on any given turn. These Skills are:
 
 [[Leadership]]
 [[Knowledge - Warfare]]
@@ -116,11 +122,11 @@ The [[Dice Pool]] a Unit uses to attack is determined by the [[Skills|Skill]] of
 
 Additionally, the Dice Pool under the Skill section of a [[Mass Combat#Commanders|Unit Commander]] can be used instead if the Unit being moved is under their command. However, the Skill of each Unit Commander can only be used once per turn.
 
-[[Difficulty]] is dependent on Range. Melee Attacks are always [[Difficulty|Average]] (2p) Difficulty; Ranged Attacks vary, and have the same difficulty as regular [[Combat]]. [[Difficulty|Average]] (2p) for [[Medium Range|Medium]], Hard (3p) for [[Extreme Range|Extreme]], etc. Modifiers still apply and change the Difficulty, most notably [[Defense]]. Others Modifiers are still are relevant, such as [[Sacred Points|Sacred Points]] expenditure.
+[[Difficulty]] is dependent on Range. Melee Attacks are always [[Difficulty|Average]] (2p) Difficulty; Ranged Attacks vary, and have the same difficulty as regular [[Combat]]. [[Difficulty|Average]] (2p) for [[Medium Range|Medium]], Hard (3p) for [[Long Range|Long]], etc. Modifiers still apply and change the Difficulty, most notably [[Defense]]. Others Modifiers can be relevant, such as [[Sacred Points|Sacred Points]] expenditure.
 
 The defending Battle Commander always gets to pick where their Unit flees. It is encouraged that [[PC|PCs]] overseeing a battle decide ahead of time where they would want their Units to flee, or stay for the enemy’s Mass Combat turn so that they can decide in real time.
 
-The tile/hex that the defending Unit flees to must be to one of the two to three tiles most opposite from where the Attacker Unit attacked from. 
+The tile/hex that the defending Unit flees to must be to one of the two to three tiles most opposite from where the Attacker Unit attacked from. The tile they flee to must be empty of other Units and must not be an impassable tile.
 
 To explain: imagine Unit A is attacking Unit B from the adjacent north-eastern tile. Unit B, the defending Unit, *cannot* flee either to the north or the east. Therefore, they can only flee to two tiles: South-west, or west.
 
@@ -135,7 +141,7 @@ Some Units may have Abilities that can only be activated by using their [[Action
 There may be some cases where a Unit can gain some benefit, or change the battlefield, by interacting with something within [[Engaged Range]] of them/on the same hex tile as them, such as pillaging a tile. May do so, or other similar things, by downgrading the [[Actions|Action]] to a [[Maneuvers|Maneuver]].
 
 # Ranges
-In Mass Combat, the usually more nebulous [[Range Bands]] are locked to being a specific amount of hexes.
+In Mass Combat, the usually nebulous [[Range Bands]] are locked to being a specific amount of hexes.
 
 A Unit who can fire at [[Medium Range]] can fire up to 2 hexes away. [[Long Range]] is 4 hexes. [[Extreme Range]] is 6 hexes. [[Strategic Range]] is 8 hexes. In some cases, there is a Strategic Range+ Range Band, which is 10 hexes; or a Strategic Range++ which is 12 hexes.
 
@@ -180,10 +186,10 @@ Spending even more time to fortify a position to extreme extents may result in i
 ### Destroying Fortified Positions
 Cover can be destroyed by Ranged Attacks. A Unit with a Ranged Attack can choose to aim for a Cover Tile instead of a Unit; if that Ranged Attack deals 8 or more Damage, then the Fortified Position is lowered by one. For example, from Medium to Minor. If the Fortified Position is already at Minor, then the Fortified Position is destroyed.
 
-Additionally, any Unit can spend an Action to do the same thing so long as they are on the Fortified Position Tile. If a Military Engineer does it, each Action reduces the Fortified Position’s level by 2, instead of 1.
+Additionally, any Unit can spend an Action to lower a Fortified Position’s value without an Attack so long as they are on the Fortified Position Tile. If a Military Engineer does it, each Action reduces the Fortified Position’s level by 2, instead of 1.
 
 ## Wall
-Walls are structures that often surround locations such as Fortresses, Citadels, or Cities, and act as the main and initial source of defense against invasion.
+Walls are structures that often surround locations such as Fortresses, Citadels, or Cities, or even houses in urban warfare, and act as the main and initial source of defense against invasion.
 
 Ranged Units stationed on a Wall Tile increase their maximum [[Range Bands|Range Band]] by one. For example, a unit with [[Medium Range]], when on a Wall, is considered to have [[Long Range]] instead. Additionally, they add a [[Boost Dice|Boost Die]] to all [[Attack Check|Attack Checks]] they attempt.
 
@@ -200,14 +206,14 @@ When a Unit inside a Trench is Attacked by a Ranged Unit, they do *not* suffer *
 
 A Unit inside of a Trench can only be pushed back to adjacent Trench Tiles. If there are no viable Trench tiles they can flee to, they are considered Encircled. If a Unit in a Trench is Attacked by another Unit in an adjacent Trench, none of the defensive benefits of the Trench apply.
 
-If a Trench is adjacent to more than 2 other Trench Tiles, it loses all Defensive bonuses.
+If a Trench is adjacent to more than 2 other Trench Tiles, it loses all Defensive bonuses. Trenches must be lines, not entire dugout complexes.
 
 Military Engineers can construct Trenches. A Trench tile can also have Fortified Positions on them, and the benefits stack.
 
 ## Hill
 A Hill is an upraised piece of terrain that provides High Ground to those who reside on it, and therefore a tactical advantage to its occupants. A Hill is often reached by moving up **Inclines** (mentioned below), and often a Hill that is a single Tile is both an Incline Tile and a Hill Tile.
 
-Ranged Units which reside on a Hill increase their maximum [[Range Bands|Range Band]] by one. For example, a Unit with [[Medium Range]], when on a Hill, is considered to have [[Long Range]] instead. Additionally, they add a [[Boost Dice|Boost Die]] to all [[Attack Check|Attack Checks]] they attempt.
+Ranged Units which reside on a Hill increase their maximum [[Range Bands|Range Band]] by one. For example, a Unit with [[Medium Range]], when on a Hill, is considered to have [[Long Range]] instead. Additionally, they add a [[Boost Dice|Boost Die]] to all [[Attack Check|Attack Checks]] they attempt against Units on lower-ground.
 
 A Ranged Attack against a Unit on a Hill, by a Unit that is not also on a Hill, suffers two [[Setback Dice]].
 
@@ -216,10 +222,10 @@ A Hill can be surrounded either by Steep Cliffs, or by Inclines. Different level
 ## Incline
 Inclines are slopes leading upwards, and which can allow a Unit to reach higher ground—but can also present challenges for any Units fighting uphill.
 
-All Melee Attacks targeting a Unit on an Incline add an automatic [[Failure]], and the Unit attacking suffers an additional 1 Strain.
+All Melee Attacks targeting a Unit on an Incline add an automatic [[Failure]], and the Unit melee attacking suffers an additional 1 Strain.
 
 ## River
-Rivers, or water, make up terrain that is Impassable for military Units. While some Rivers might be shallow enough to walk across, this would fall into the category of Wetlands and be given the ‘Muddy’ Tile modifier.
+Rivers, or water, make up terrain that is Impassable for military Units. While some Rivers might be shallow enough to walk across, they would fall into the category of Wetlands and be given the ‘Muddy’ Tile modifier.
 
 Rivers are impassable and therefore can only be crossed at certain points—usually, where there is a Bridge. Sometimes there simply is no path to cross a river.
 
@@ -231,7 +237,7 @@ Steep Cliffs are impassable, representing a mountain-side or sheer wall that is 
 No Units can go up a Steep Mountain Tile. It is completely Impassable terrain. In some cases, they may be able to get to the top of one by going up a Hill instead to reach the high terrain. A Unit that is on high terrain and tries to jump *down* a Steep Cliff will die. Therefore, from both directions, Steep Cliffs are impassable terrain.
 
 ## Difficult Terrain
-Difficult Terrain represents area that are rocky, snowy, broken, uneven, or which are otherwise difficult to move and fight in for large armies.
+Difficult Terrain represents area that are rocky, snowy, broken, urban ruins, uneven, or which are otherwise difficult to move and fight in for large armies.
 
 When a Unit is within Difficult Terrain, each Action they take causes them to suffer 1 [[Strain]]. Whenever a Unit is inside Difficult Terrain and Attacks another Unit, their [[Attack Check]] suffers 2 [[Setback Dice]].
 
@@ -240,7 +246,7 @@ Mounted Units lose their free additional [[Maneuvers|Maneuver]] while inside Dif
 ## Muddy
 Muddy terrain can often be caused during battles, due to rain or heavy bombardment, or can already exist in the form of wetlands or marshes.
 
-Artillery troops cannot enter Muddy tiles. When Infantry or Ranged Units enter Muddy terrain, each Action or Maneuver they take while inside causes them to suffer 1 [[Strain]], and any attempts to Attack from a Unit inside Muddy terrain suffers an automatic [[Failure]]. Mounted Units suffer 2 [[Strain]] instead of 1, and the automatic Failure.
+Artillery troops cannot enter Muddy tiles. When Infantry or Ranged Units enter Muddy terrain, each Action or Maneuver they take while inside causes them to suffer 1 [[Strain]], and any attempts to Attack from a Unit inside Muddy terrain suffers an automatic [[Failure]]. Mounted Units with Vulnerable suffer 2 [[Strain]] instead of 1, and two automatic automatic Failures.d
 
 Military Engineers cannot operate in Muddy tiles.
 
@@ -314,13 +320,13 @@ Archers have remained a part of warfare for millennia, and may for many millenni
 - Artillery
 - Suppressive Fire
 
-[[Cannon|Cannons]] were the first type of Artillery invented, and their usefulness has not diminished. Despite being fragile, they can output heavy [[Damage]] very long ranges—usually, [[Strategic Range]] or Strategic Range+. However, since they have Direct Fire, they cannot Attack a Unit if another Unit is in the way.
+[[Cannon|Cannons]] were the first type of modern Artillery invented, and their usefulness has not diminished. Despite being fragile, they can output heavy [[Damage]] very long ranges—usually, [[Strategic Range]] or Strategic Range+. However, since they have Direct Fire, they cannot Attack a Unit if another Unit is in the way.
 
 #### Mortars - Ranged
 - Suppressive Fire
 - Artillery
 
-[[Mortar|Mortars]] are modern Artillery, and highly effective in every army. They have high [[Damage]], albeit lower than Cannons due to their lessened accuracy, but have a range of [[Strategic Range]] and can fire indirectly. Since they do not have Direct Fire, they can attack far more targets than Cannons, but are still weak and fragile to attack.
+[[Mortar|Mortars]] are modern Artillery, and highly effective in every army. They have a range of [[Strategic Range|Strategic]] and high [[Damage]], albeit lower than Cannons due to their lessened accuracy, but and can fire indirectly. Since they do not have Direct Fire, they can attack far more targets than Cannons, but are still weak and fragile to attack.
 
 #### Light Cavalry - Mounted
 - Keep Them Busy
@@ -356,7 +362,7 @@ Units with Professional are disciplined, trained soldiers. When using [[Mass Com
 #### Formation Fighting
 Units of this type fight in tight formations, and excel at it. As an Action, they can enter Formation. When in Formation, moving via an [[Actions|Action]] or [[Maneuvers|Maneuver]] costs them 1 [[Strain]]. However, while in Formation, their [[Defense]] is increased by +5. The Defense benefit does not apply if they are being [[Flanking|Flanked]] in the Attack.
 
-If a Unit in Formation is every attacked by a Ranged Attack, they immediately fall out of Formation even if the Ranged Attack fails. On their next turn can spend an Action to re-enter Formation.
+If a Unit in Formation is ever attacked by a Ranged Attack, they immediately fall out of Formation even if the Ranged Attack fails. On their next turn can spend an Action to re-enter Formation.
 #### Vulnerable
 This Unit suffers double the penalties from [[Flanking]], or from Tile modifiers, or any other situation, except for being Encircled. For instance, if they would suffer 1 automatic [[Failure]], they instead suffer 2; if [[Flanking]] them would result in the Attacking Unit gaining 2 [[Boost Dice]], they instead gain 4; if a Fortified Position would give this Unit 2 [[Setback Dice]], it instead gives them 4.
 #### Artillery
@@ -368,9 +374,9 @@ Units with this Ability, usually Ranged Units, can act as Infantry as well as Ra
 #### Field Engineers
 Professional Engineers can construct or repair various fortifications or beneficial locations for troops, such as trenches or Fortified Positions. Engineers have to spend [[Actions]] to construct things, and different things cost different amounts of [[Actions]]. To work on a tile, an Engineer must be on or adjacent to a Tile.
 
-Constructing a Trench Tile costs 3 [[Actions]]. Constructing a minor Fortified Position costs 1; a Medium one costs 2; a Major one costs 3; a Complete one costs 4. Each time an Engineer spends an Action to create a Fortified Position/Cover, it raises it one level. So a Tile without Cover becomes Cover 1; Cover 1 becomes Cover 2, etc.
+Constructing a Trench Tile costs 3 [[Actions]]. Constructing a minor Fortified Position costs 1; then a Medium one costs an additional 2; a Major one costs an additional 3; a Complete one costs an additional 4. Each time an Engineer spends an Action to create a Fortified Position/Cover, it raises it one level. So a Tile without Cover becomes Cover 1; Cover 1 becomes Cover 2, etc.
 
-Multiple Engineers can work on the same Tile, so long as they are on or adjacent to the Tile being worked on. However, a Fortified Position can only be increased by 1 Tier per a side’s turn. Each [[Actions|Action]] can repair a Bridge, Wall, or other such structure, by reducing its current Strain by 5 per [[Actions|Action]].
+Multiple Engineers can work on the same Tile, so long as they are on or adjacent to the Tile being worked on. However, a Fortified Position can only be increased by 1 Tier per a side’s turn. An [[Actions|Action]] can repair a Bridge, Wall, or other such structure, by reducing its current Strain by 5 per [[Actions|Action]].
 
 If there is a friendly Unit on the worked-on Tile that is not an Engineer, both Units suffers 1 [[Strain]] for each [[Actions|Action]] spent working on it. If there is an Enemy Unit, they cannot work on that tile at all.
 #### Direct Fire
@@ -441,10 +447,10 @@ During an Enemy turn, enemy [[Mass Combat#Units|Units]] can attack and push back
 If a Unit has no viable place to retreat (ie, all valid hexes are already occupied) then they are considered [[Mass Combat#Encircled|Encircled]].
 
 ### 5: Repeat
-Once an [[Mass Combat#4 Enemy Turn|Enemy Turn]] is over, it reverts back to the [[Mass Combat#3 Allied Turn|Allied Turn]], until the end of the Mass Combat. So on and so fourth.
+Once an [[Mass Combat#4 Enemy Turn|Enemy Turn]] is over, it reverts back to the [[Mass Combat#3 Allied Turn|Allied Turn]], then the Enemy turn. So on and so fourth until the end of the Mass Combat.
 
 ### 6: End of Combat
-A Mass Combat is ‘ended’ when one faction in the Mass Combat chooses to cut their loses and retreat (any [[Mass Combat#Units|Unit]] not in the [[Mass Combat#1 Deployment|Deployment]] area when this is done is lost to the enemy), or when certain victory conditions unique to the Battle are met. The Mass Combat may also be ended if all of the Units on one side are defeated, if the Deployment area for one side is completely overrun with enemy Units, or if the situation is so untenable for one side that victory for the other is essentially guaranteed.6`
+A Mass Combat is ‘ended’ when one faction in the Mass Combat chooses to cut their loses and retreat (any [[Mass Combat#Units|Unit]] not in the [[Mass Combat#1 Deployment|Deployment]] area when this is done is lost to the enemy), or when certain victory conditions unique to the Battle are met. The Mass Combat may also be ended if all of the Units on one side are defeated, if the Deployment area for one side is completely overrun with enemy Units, or if the situation is so untenable for one side that victory for the other is essentially guaranteed.
 
 # Battle Commander
 The Battle Commander refers to the [[Character]] and or [[Player]] who is deciding the strategy for the Mass Combat, ie, the Character who chooses which [[Mass Combat#Units|Units]] move where.
@@ -460,9 +466,9 @@ Just like in every other part of [[Echoes of the Departed]], [[Narrative Dice]] 
 | 2 Advantage, or Triumph | Add a [[Setback Dice\|Setback Die]] to another [[Skill Checks\|Check]] in the scene<br><br>Add a [[Boost Dice\|Boost Die]] to another [[Skill Checks\|Check]] in the scene<br><br>All individual [[Character]] that are a part of or nearby to the Unit heal 1 [[Strain]] per 2 [[Advantage]].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 3 Advantage, or Triumph | Recover 1 [[Strain]] for the active [[Mass Combat#Units\|Unit]]  per 3 [[Advantage]].<br><br>[[Dice Upgrade\|Upgrade]] the positive [[Dice Pool\|Dice]] of a friendly [[Skill Checks\|Check]].<br><br>Cause the [[Mass Combat#Unit Commanders\|Commander]] of the targeted [[Mass Combat#Units\|Unit]] to be unable to provide any bonuses on the next Mass Combat turn.<br><br>The active [[Mass Combat#Units\|Unit]] ignores dangerous battlefield conditions for the next turn.<br><br>Cause the defending [[Mass Combat#Units\|Unit]] to retreat to a viable space that you choose when defeated.                                                                                                                                                                                                                                                                                                                                                                                            |
 | 4 Advantage, or Triumph | Change the environment beneficially, such as a [[Mass Combat#Units\|Unit]] finding a way to cause a landslide to create a bridge across a river.<br><br>Damage, or find a way to destroy, an enemy fortification.<br><br>The [[Mass Combat#Unit Commanders\|Unit Commander]] of the acting force makes a rousing speech, or enacts a cunning plan. Each [[Mass Combat#Units\|Unit]] under their command adds a [[Boost Dice\|Boost Die]] to their next [[Skill Checks\|Check]].<br><br>When [[Mass Combat#Attack\|attacking]], the retreating enemy [[Mass Combat#Units\|Unit]] retreats two spaces instead of one, and the active Unit may move two spaces.                                                                                                                                                                                                                                                                                                                                     |
-| 5 Advantage, or Triumph | Move an additional [[Mass Combat#Units\|Unit]] on the [[Mass Combat#3 Allied Turn\|allied turn]]. <br><br>If the active [[Mass Combat#Units\|Unit]] does not have a [[Mass Combat#Unit Commanders\|Unit Commander]], one brave soldier takes initiative and becomes a Commander permanently.<br><br>Reinforcements arrive, in the form of two additional [[Mass Combat#Units\|Units]] being able to be Deployed immediately, or another [[Mass Combat#Units\|Unit]] being added to the reserve.<br><br>Give the [[PC\|PCs]] an opening they can exploit separately for a major advantage.                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 5 Advantage, or Triumph | Move an additional [[Mass Combat#Units\|Unit]] on the [[Mass Combat#3 Allied Turn\|allied turn]], using the same [[Skills\|Skill]]. <br><br>If the active [[Mass Combat#Units\|Unit]] does not have a [[Mass Combat#Unit Commanders\|Unit Commander]], one brave soldier takes initiative and becomes a Commander permanently.<br><br>Reinforcements arrive, in the form of two additional [[Mass Combat#Units\|Units]] being able to be Deployed immediately, or another [[Mass Combat#Units\|Unit]] being added to the reserve.<br><br>Give the [[PC\|PCs]] an opening they can exploit separately for a major advantage.                                                                                                                                                                                                                                                                                                                                                                      |
 | Two Triumphs            | Kill (or [[Incapacitated\|incapacitate]] if an important [[Character]]) the [[Mass Combat#Unit Commanders\|Unit Commander]] of the targeted [[Mass Combat#Units\|Unit]].<br><br>Destroy a [[Mass Combat#Units\|Unit]], permanently.<br><br>Cause a major event visible from most of the battlefield that rallies the troops. All allied [[Mass Combat#Units\|Units]] heal 4 [[Strain]].<br><br>If attacking an Artillery Unit, manage to capture the equipment before it is destroyed by fleeing enemies. Immediately deploy a new Artillery Unit in the hex your Unit attacked from.                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 1 Threat, or Despair    | The active Unit suffers 1 [[Strain]] per [[Threat]].<br><br>A temporary advantage ends early.<br><br>If the targeted [[Mass Combat#Units\|Unit]] is nearby to the [[PC\|PCs]], members of the Unit are able to peel off and intercept the PCs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 1 Threat, or Despair    | The active Unit suffers 1 [[Strain]] per [[Threat]]. Cannot be done to Ranged Units.<br><br>A temporary advantage ends early.<br><br>If the targeted [[Mass Combat#Units\|Unit]] is nearby to the [[PC\|PCs]], members of the Unit are able to peel off and intercept the PCs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 2 Threat, or Despair    | This [[Mass Combat#Units\|Unit]] becomes occupied and cannot be moved next turn.<br><br>Add a [[Setback Dice\|Setback Die]] to the next allied Unit’s check.<br><br>Add a [[Boost Dice\|Boost Die]] to the next [[Mass Combat#Attack\|Attack Check]] targeting the active [[Mass Combat#Units\|Unit]].<br><br>All individual [[Character\|Characters]] that are a part of or nearby to the [[Mass Combat#Units\|Unit]] suffer 1 [[Strain]] per 2 [[Threat]].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 3 Threat, or Despair    | An environmental effect occurs that is bad for the active faction, such as smoke covering their targets.<br><br>Due to a costly battle, the attacking [[Mass Combat#Units\|Unit]] suffers half as much [[Damage]] as they inflict on the defending Unit.<br><br>On a successful [[Skill Checks\|Check]], the benefits of the space captured by the active [[Mass Combat#Units\|Unit]], such as a bunker, was lost or destroyed in the fighting.<br><br>The enemy is able to move an additional [[Mass Combat#Units\|Unit]] on their turn.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 4 Threat, or Despair    | Change the environment negatively, such as a dam breaking and causing a stream to form between the active [[Mass Combat#Units\|Unit]] and their targets.<br><br>A vital piece of equipment near or in the active [[Mass Combat#Units\|Unit]] is destroyed.<br><br>The active [[Mass Combat#Units\|Unit]] suffers a major loss that is visible from the whole battlefield. The next check of every Unit on the next allied turn adds a [[Setback Dice\|Setback Die]].<br><br>Communications and messengers between the [[Mass Combat#Battle Commander\|Battle Commander]] and a [[Mass Combat#Units\|Unit]] are cutoff. Until that Unit takes an [[Actions\|Action]] to re-establish communication, they are unable to act.                                                                                                                                                                                                                                                                       |

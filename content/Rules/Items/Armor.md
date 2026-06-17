@@ -14,4 +14,4 @@ When worn, the [[Encumbrance|Encumbrance]] of Armor is reduced by 3. Armor may h
 
 To see all the available options, please check out the the [[Item Navigation Guide]].
 
-Check the [[Items|Items]] document to see how to add Armor to a [[Character Sheet|Character Sheet]].
+Check the [[Items|Items]] article to see how to add Armor to a [[Character Sheet|Character Sheet]].

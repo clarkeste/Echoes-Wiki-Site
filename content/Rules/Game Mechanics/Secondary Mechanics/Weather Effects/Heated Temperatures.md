@@ -1,6 +1,11 @@
 ---
 aliases:
+  - scorching temperatures
   - scorching
+tags:
+  - Rules
+  - New-Rules
+  - Combat-Modifiers
 ---
 Various parts of [[Hyrule]] and the world have an ambient heat that is very uncomfortable or outright deadly to many of the living beings of the world; such as, for example, the [[Desert of Mystery, Gerudo Desert|Gerudo Desert]] or [[Death Mountain (Historia)|Death Mountain]]. These temperatures and areas have to be handled with care, or individuals not adapted to the environments might suffer from heat exhaustion or dangerously elevated body temperatures.
 

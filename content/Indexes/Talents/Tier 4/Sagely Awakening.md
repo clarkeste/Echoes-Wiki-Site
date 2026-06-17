@@ -21,4 +21,4 @@ Image:
 **Activation:** Passive
 **Ranked:** No
 
-Gain [[Force]] as a [[Career Skills|Career Skill]]. Decrease the [[Difficulty]] to [[Dispel]] a [[Endow|curse or Endowment]] over a location by one.
+Gain [[Force]] as a [[Career Skills|Career Skill]]. Decrease the [[Difficulty]] to [[Dispel]] a [[Endow|curse]] by one.

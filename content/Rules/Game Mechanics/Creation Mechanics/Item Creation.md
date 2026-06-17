@@ -38,7 +38,7 @@ It takes Days of [[Downtime|Downtime]] equal to the Crafting Points used, to com
 
 Making a wooden weapon decreases the Downtime of the check by half. However, wooden weapons gain [[Flammable (Passive) (Quality)|Flammable]] by default and cannot exceed 12 Crafting Points.
 
-For every ten Crafting Points spent on creating a weapon, add a [[Difficulty Dice|Difficulty Die]] to the Craftsmanship check, with below 10 having one Difficulty Die, 11-20 having two, etc.
+For every six Crafting Points spent on creating a weapon, add a [[Difficulty Dice|Difficulty Die]] to the Craftsmanship check, with below 6 having no Difficulty Dice, 6-12 having one, etc.
 
 Attempting to make an Item faster, using damaged or subpar equipment, or working off of faulty documents, will add [[Setback Dice]]; likewise, creating a particularly unstable weapon, doing so in unsafe circumstances, or making one that needs a truly delicate touch, will result in [[Challenge Dice]].
 
@@ -48,7 +48,7 @@ When crafting an Item, may use Advantage to add more Modifiers; each Advantage c
 
 If the Craftsmanship check is not successful and generates no [[Success|Successes]], then the smith either creates a ruined and unusable weapon, or one far below the specifications due to an error in the smithy process. The process may be attempted again, but will cost the same Downtime it first took. When a Craftsmanship Check to create an Item fails, it can be rerolled once using a [[Sacred Points|Sacred Point]].
 
-Once an item is made, you may make a Template from it by making an [[Operating|Operating]] check. If you made the weapon, it is a [[Difficulty|Average]] (2p) check; if you did not, it is a [[Difficulty|Hard]] (3p) check. This makes the construction available for anyone else who attempts to make the weapon, or you in the future, and lessens the difficulty and Crafting Point cost if it is remade exactly. It reduces the Difficulty by 1, the Crafting Points by 4 and the Downtime by 25%; additional Successes will decrease the Crafting Points by an equal amount, while Triumphs and Advantage might decrease the Difficulty further or add [[Boost Dice|Boosts]], respectively. You may even find Templates for existing weapons on your journey! If you’re having trouble doing the Operating check, recruiting professional help could lower the difficulty to [[Difficulty|Easy]] (1p).
+Once an item is made, you may make a Template from it by making an [[Operating|Operating]] check. If you made the weapon, it is a [[Difficulty|Average]] (2p) check; if you did not, it is a [[Difficulty|Hard]] (3p) check. It takes 12 Hours, generally to make a Template. Making a Template makes the construction available for anyone else who attempts to make the weapon, or you in the future, and lessens the difficulty and Crafting Point cost if it is remade exactly. It reduces the Difficulty by 1, the Crafting Points by 4 and the Downtime by 25%; additional Successes will decrease the Crafting Points by an equal amount, while Triumphs and Advantage might decrease the Difficulty further or add [[Boost Dice|Boosts]], respectively. You may even find Templates for existing weapons on your journey! If you’re having trouble doing the Operating check, recruiting professional help could lower the difficulty to [[Difficulty|Easy]] (1p).
 
 ### Creating a Weapon
 

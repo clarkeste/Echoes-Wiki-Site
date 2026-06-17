@@ -1,3 +1,12 @@
+---
+aliases:
+  - Mount
+  - Horse
+tags:
+  - Rules
+  - New-Rules
+  - Combat
+---
 Horses and other ridable animals follow similar mechanics to those outlined in [[Ship Combat, and Vehicles]], but are simplified and at a more personal-scale.
 
 Horses, just like any other living creature when relevant to track, have a [[Wound Threshold]] and [[Strain Threshold]]. These represent the same things as they do on any other [[Character]].
@@ -23,6 +32,18 @@ A Mount has its Base Handling; this represents its training, natural biology, an
 Handling is applied to any [[Riding]] [[Skill Checks|Checks]] done with the Mount, or to any Checks made in a hurry where the impact of the Mount’s movements is significant. For example, an [[Attack Check]] while on horseback.
 
 The minimum Handling is -6; the max Handling is +6.
+
+#### Encumbrance Threshold
+Mounts have a limited amount of things they can carry, weight they can support, and structures they can pull. Most Horses have an [[Encumbrance|Encumbrance Threshold]] of 20, while beasts of burden often have more. This can be increased with things such as [[Saddlebags]] or a [[Harness & Saddle]].
+
+A Character riding on a Horse adds their weight to the Encumbrance; both what they’re carrying, and their body’s weight. For example, a [[Silhouette]] 1 Character weighs 10 Encumbrance.
+
+A [[Character]] with Silhouette 1 is determined to weigh 10 [[Encumbrance]]. A Character with Silhouette 2 is determined to weigh 20 Encumbrance. A Character that is Silhouette 3 weighs 30 Encumbrance, but a Silhouette 3 Character cannot ride on a Mount unless that Mount is also Silhouette 3 or larger. Same with Silhouette 4 and 5, which are 40 and 50 Encumbrance respectively.
+
+A Silhouette 0 Character weighs 5 Encumbrance. A Silhouette 00 person weighs 0 Encumbrance.
+
+A [[Hylians|Hylian]] riding a horse carrying 8 [[Encumbrance]] worth of things would then add 18 Encumbrance to the Mount’s own Encumbrance. For most horses, that would fall 2 short of reaching their Encumbrance Threshold of 20.
+
 #### Bond
 A bond between a Horse/Mount and any given person. This stat is unique in that it is only applicable when a Mount and a rider are both taken into account. A Mount that has a high Bond with one rider can have a low Bond with another.
 

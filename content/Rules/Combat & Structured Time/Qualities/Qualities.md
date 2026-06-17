@@ -12,7 +12,7 @@ tags:
 ---
 Qualities are effects found on [[Weapons|Weapons]]—sometimes [[Armor|Armor]]—that impart different [[Advantage|Advantages]] or disadvantages when using the Weapon. Some Qualities are bonus effects that can be activated on a particularly Successful [[Attack Check|Check]], whereas others are passively active or things that make a Weapon easier or harder to wield.
 
-In [[RPGSessions|RPGSessions]], consistent and passive Qualities are modeled using the [[Modifiers (RPGSessions)|Modifier]] system. Additionally, so are consistent and passive [[Talents|Talents]]. This allows the Quality to be automated, therefore making it easier to play.
+In [[RPGSessions|RPGSessions]], consistent and passive Qualities are modeled using the [[Modifiers or Qualities (RPGSessions)|Modifier]] system. Additionally, so are consistent and passive [[Talents|Talents]]. This allows the Quality to be automated, therefore making it easier to play.
 
 A different system, similar named, called [[Modifiers|Modifiers]] exists in [[Spell Creation|Spell]], [[Items|Item]], and [[Potion Creation|Potion Creation]]. Each [[Modifiers|Modifier]] is based off of a Quality, and imparts a similar effect.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Rules
+---
 When a [[Character]] is attempting to do a [[Skill Checks|Skill Check]], other Characters may attempt to help them with the task. In [[Combat|structured time]], this is done with a [[Maneuvers|Maneuver]]. There are three types of [[Assistance]] in [[Echoes of the Departed]].
 
 With all types of Assistance, the helping Character must be within [[Engaged Range]] to help with the task.

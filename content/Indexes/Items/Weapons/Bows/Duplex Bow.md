@@ -41,7 +41,7 @@ A bow favored by assassins and those interested in its unique ability to shoot t
 [[Damage|Damage]]: 8
 [[Skills|Skill]]: [[Ranged|Ranged]]
 [[Critical Rating]]: 2
-[[Range Bands|Range]]: [[Long Range|Long]]
+[[Range Bands|Range]]: [[Medium Range|Medium]]
 [[Encumbrance]]: 2
 
 [[Linked (Active) (Quality)|Linked]] 1

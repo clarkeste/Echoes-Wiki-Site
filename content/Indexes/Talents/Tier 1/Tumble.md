@@ -7,6 +7,7 @@ tags:
   - Talent-Positioning
 Tier: 1
 Activation:
+  - Active (Incidental)
 Ranked: false
 Unlisted: false
 Magic: false

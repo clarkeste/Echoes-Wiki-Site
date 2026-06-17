@@ -7,6 +7,7 @@ tags:
   - Talent-Combat-Oriented
 Tier: 3
 Activation:
+  - Active (Incidental)
 Ranked: false
 Unlisted: false
 Magic: true

@@ -19,4 +19,4 @@ Image:
 **Activation:** Active (Incidental, Out of Turn)
 **Ranked:** No
 
-Spend 1 [[Sacred Points|Sacred Point]] to perform a Hold Together [[Incidentals|Incidental]] immediately after a [[Silhouette]] 4 or less vehicle, mount, or sea [[Ship Combat, and Vehicles|Ship]] takes [[Damage]] to turn it into [[Strain]].
+Spend 1 [[Sacred Points|Sacred Point]] to perform a Hold Together [[Incidentals|Incidental]] immediately after a [[Silhouette]] 4 or less vehicle or [[Ship Combat, and Vehicles|Ship]] takes [[Damage]] to turn it into [[Strain]].

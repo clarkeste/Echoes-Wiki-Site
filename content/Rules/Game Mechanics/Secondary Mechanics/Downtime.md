@@ -4,6 +4,8 @@ aliases:
   - half the time
   - Downtime
   - Day
+  - Week
+  - Month
 tags:
   - Rules
   - New-Rules

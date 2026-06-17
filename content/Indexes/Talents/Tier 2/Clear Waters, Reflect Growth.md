@@ -11,8 +11,9 @@ Talent Genre:
 tags:
   - Talent-Knowledge-Oriented
   - Talent-Active
-  - Talent-Strain-Spending
   - Talent-Tactics-and-Leadership
+  - Talent-Strain-Recovering
+  - Tier-2
 Image:
 ---
 **Tier:** 2

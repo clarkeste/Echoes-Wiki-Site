@@ -13,6 +13,6 @@ Contains various important information on creating a [[Character]] in RPGSession
 The following are the articles in this folder:
 
 [[Game Table]]
-[[Modifiers (RPGSessions)]]
+[[Modifiers or Qualities (RPGSessions)]]
 [[RPGSessions]]
 [[RPGSessions Bot]]

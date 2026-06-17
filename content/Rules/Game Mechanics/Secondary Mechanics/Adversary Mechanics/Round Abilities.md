@@ -1,3 +1,11 @@
+---
+aliases:
+  - Round Ability
+tags:
+  - Rules
+  - New-Rules
+  - Combat
+---
 **Round Abilities** are abilities that a particularly powerful [[Adversary]] can do once per [[Encounter]] unless otherwise stated. A Round Ability is equivalent to an [[Incidentals|Incidental]] in terms of Action Economy, but only a single Round Ability can be done per Round.
 
 Round Abilities can in some cases be done at the end of one Round and the beginning of another, but most commonly are done on the turn of the Adversary who has the Round Ability. 

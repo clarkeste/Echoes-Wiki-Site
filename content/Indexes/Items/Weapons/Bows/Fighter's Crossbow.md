@@ -23,7 +23,7 @@ Special Effect: Crossbows are one-handed [[Weapons]], unlike nearly all other [[
 Price: 36000
 Restricted: false
 Unique: false
-Unlisted: false
+Unlisted:
 Is Armor: false
 Is Weapon: true
 Is Gear: false
@@ -49,7 +49,7 @@ The Fighter’s Crossbow represents the pinnacle of ranged technology in Hyrule.
 [[Prepare (Passive) (Quality)|Prepare]] 1
 [[Pierce (Passive) (Quality)|Pierce]] 3
 [[Superior (Passive) (Quality)|Superior]]
-Special: Crossbows are partial one-handed [[Weapons]], unlike nearly all other [[Ranged]] Weapons, but must be prepared with both hands.
+Special: Crossbows are one-handed [[Weapons]], unlike nearly all other [[Ranged]] Weapons.
 
 Price: 36k [[Rupees]]
 [[Affiliations|Affiliation]]: None

@@ -9,7 +9,7 @@ Skill Used:
 Range:
 Encumbrance: 6
 Qualities:
-Soak: 3
+Soak: 2
 Defense: 0
 Special Effect: Protects against scorching climates. Provides Major heat Resistance when in [[Heated Temperatures]].
 Price: 6500
@@ -27,11 +27,11 @@ Loyalty:
 Image:
 Consumable: false
 ---
-[[Gorons|Goron]] artisans used flame-resistant rocks known as Goron Cooling Stones to craft these fireproof boots for curious—or refuge-seeking—[[Hylians|Hylians]] and others visiting Goron City.
+[[Gorons|Goron]] artisans used flame-resistant rocks known as Goron Cooling Stones and zeolite-lined mask to craft these fireproof suits for curious—or refuge-seeking—[[Hylians|Hylians]] and others visiting Goron City.
 ![]()
-[[Soak|Soak]]: 3
+[[Soak|Soak]]: 2
 [[Defense|Defense]]: 0
-[[Encumbrance|Encumbrance]]: 9
+[[Encumbrance|Encumbrance]]: 6
 
 Special: Protects against scorching climates. Provides Major heat Resistance when in [[Heated Temperatures]].
 

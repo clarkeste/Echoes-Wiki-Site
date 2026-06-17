@@ -45,7 +45,7 @@ Daggers are small blades that can be much more easily hidden than other [[Weapon
 [[Swift Strike (Passive) (Quality)|Swift Strike]] 1
 [[Inferior (Passive) (Quality)|Inferior]]
 [[Empowered Flanking (Passive) (Quality)|Empowered Flanking]]
-Special: Daggers cannot benefit from the [[Parry]] [[Talents|Talent]]. All Melee [[Attack Check|Attack Checks]] targeting a character wielding a Dagger, so long as the attacker is not using a Dagger to Attack, gain 2 [[Boost Dice]]. Add one Boost Die when hiding Dagger.
+Special: Daggers cannot benefit from the [[Parry]] [[Talents|Talent]]. Add one Boost Die when hiding a Dagger.
 
-Price: 500 [[Rupees]]
+Price: 600 [[Rupees]]
 [[Affiliations|Affiliation]]: None

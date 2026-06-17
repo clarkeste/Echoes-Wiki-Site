@@ -4,6 +4,8 @@ tags:
   - Rules
   - Guide
 ---
+*See the [[Talents|Talents]] article on what Talents are, and how they can be added to a [[Character Sheet]]*
+
 Hi, and welcome to the Talent Navigation Guide! Here is where all the [[Talents]] for [[Echoes of the Departed]] are catalogued, and where you can easily access various categories to properly navigate them. If you’d like to know what Talents are, how much they cost, etc, check out the [[Talents]] page. This article is primarily for navigating and finding the ones you want.
 
 ### Tiers

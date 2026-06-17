@@ -7,12 +7,12 @@ Damage:
 Critical Rating:
 Skill Used:
 Range:
-Encumbrance: 1
+Encumbrance: 3
 Qualities:
 Soak: 1
-Defense: 0
+Defense: 1
 Special Effect:
-Price: 550
+Price: 3000
 Restricted: false
 Unique: false
 Unlisted: false
@@ -26,11 +26,11 @@ Loyalty:
 Image:
 Consumable: false
 ---
-A combination of metal shoulder, knee, or head plating, to provide defense only to vulnerable areas. Usually, these armor pieces are combined with padded clothes, Brigandines, or similar minimal armor, when worn by Hylians and other humans. It can also be worn on its own or with civilian clothing, which is common among species like the [[Zora|Zora]] or [[Gorons|Gorons]] who often wear little clothing to begin with.
+This can represent a cuirass or breastplate which protects the torso with solid metal; a brigandine which provides excellent deflection; or, for species such as the [[Gorons]] and [[Zora]] who usually wear little to begin with, a combination of metal armor pieces for the upper-chest, head, knee, and arm designed to provide reliable defenses only to vulnerable areas.
 ![]()
 [[Soak|Soak]]: 1
-[[Defense|Defense]]: 0
-[[Encumbrance|Encumbrance]]: 1
+[[Defense|Defense]]: 1
+[[Encumbrance|Encumbrance]]: 3
 
-Price: 550 [[Rupees]]
+Price: 3000 [[Rupees]]
 [[Affiliations|Affiliation]]: None

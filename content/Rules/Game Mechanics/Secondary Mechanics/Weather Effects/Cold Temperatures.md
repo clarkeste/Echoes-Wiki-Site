@@ -1,3 +1,9 @@
+---
+tags:
+  - Rules
+  - New-Rules
+  - Combat-Modifiers
+---
 Many parts of [[Hyrule]] and the world are chilly, cold, or freezing, and can seriously injure or harm individuals without the proper protections against the elements. Winter, too, can make the outside too cold for those without the proper clothing.
 
 These locations, in [[Hyrule]], are most famously Hebra, [[Mount Lanayru (Historia)]], and parts of northern Tabantha. However, the tops of many mountains are cold as well.

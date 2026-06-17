@@ -166,4 +166,4 @@ Career Skills:
 - [[Medicine|Medicine]]
 - [[Resilience|Resilience]]
 - [[Vigilance|Vigilance]]
-- - [[Knowledge - Scholarship|Knowledge: Scholarship ]]
+- [[Knowledge - Scholarship|Knowledge: Scholarship ]]

@@ -9,6 +9,7 @@ tags:
   - Combat-Modifiers
   - Combat
   - RPGSessions
+  - Terminology
 Image: "[[Images/thumbnails/external/eb9479fa5c8c6434631d6f95569339e1.png]]"
 ---
 Sacred Points are a special resource that is shared by groups of [[Player|Players]]. Each Sacred Point can be used to increase the chances of a check’s Success, or otherwise benefit the player characters. Once a Sacred Point is used, it is ‘flipped’ and becomes a Malice Point which can be used by the [[The GM|GM]] on the behalf of [[Adversary|Adversaries]] to make the [[Encounter]] more challenging.

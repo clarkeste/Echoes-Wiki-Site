@@ -10,7 +10,7 @@ Range:
 Encumbrance: 1
 Qualities:
 Soak: 1
-Defense:
+Defense: 0
 Special Effect: Add two [[Boost Dice|Boost Dice ]]to all [[Coordination|Coordination]] and [[Athletics|Athletics]] [[Skill Checks|Check]]. Additionally, may take a second [[Maneuvers|Maneuver]] per turn at no additional cost.
 Price: 6000
 Restricted: false
@@ -32,7 +32,7 @@ Used by travelers, joggers, or speedy mailmen, this outfit’s sweat-absorbing a
 [[Defense|Defense]]: 0
 [[Encumbrance|Encumbrance]]: 1
 
-Special: Add two [[Boost Dice|Boost Dice ]]to all [[Coordination|Coordination]] and [[Athletics|Athletics]] [[Skill Checks|Check]]. Additionally, may take a second [[Maneuvers|Maneuver]] per turn at no additional cost.
+Special: Add two [[Boost Dice|Boost Dice]] to all [[Coordination|Coordination]] and [[Athletics|Athletics]] [[Skill Checks|Check]]. Additionally, may take a second [[Maneuvers|Maneuver]] per turn at no additional cost.
 
 Price: 6000 [[Rupees]]
 [[Affiliations|Affiliation]]: None

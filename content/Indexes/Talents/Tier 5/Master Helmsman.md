@@ -22,4 +22,4 @@ Image:
 **Activation:** Active (Incidental) 
 **Ranked:** No 
 
-Once per Round when operating a [[Ship Combat, and Vehicles|Ship]] or riding a steed, may suffer 2 personal [[Strain]] to perform any [[Actions|Action]] as a [[Maneuvers|Maneuver]].
+Once per Round when operating a [[Ship Combat, and Vehicles|Ship]], vehicle, or riding a steed, may suffer 2 personal [[Strain]] to perform any [[Actions|Action]] as a [[Maneuvers|Maneuver]].

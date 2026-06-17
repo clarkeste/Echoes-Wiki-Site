@@ -1,3 +1,10 @@
+---
+tags:
+  - Rules
+  - Combat
+  - Combat-Modifiers
+  - New-Rules
+---
 ## Swimming and Moving
 When a [[Character]] enters water, movement is done as normal. However, just as sometimes [[Athletics]] [[Skill Checks|Checks]] are required if the surrounding space is difficult to navigate, additional [[Swim]] Checks may be required for tricky terrain, or when trying to get somewhere fast. 
 

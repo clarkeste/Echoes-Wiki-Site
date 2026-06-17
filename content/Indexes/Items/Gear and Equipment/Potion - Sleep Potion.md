@@ -27,7 +27,7 @@ aliases:
   - Sleep Potion
   - Sleep Potions
 ---
-Sleep Potions are used by insomniacs, and as a form of lighter anatheisa in medical procedures. This one is a particularly potent version.
+Sleep Potions are used by insomniacs, and as a form of lighter anesthesia in medical procedures. This one is a particularly potent version.
 
 ![](https://i.imgur.com/wOpjm4s.png)
 

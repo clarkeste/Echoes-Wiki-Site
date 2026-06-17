@@ -44,7 +44,7 @@ While whips have usually been used in herding or controlling animals, some thiev
 [[Ensnare (Active) (Quality)|Ensnare]] 3
 [[Knockdown (Active) (Quality)|Knockdown]]
 [[Prepare (Passive) (Quality)|Prepare]] 1
-Special: On a successful [[Attack Check]], may spend two advantages to pull an [[Immobilized]] target within [[Medium Range]] or [[Short Range]] one [[Range Bands|Range Band]] closer. May only Immobilize one target at a time, and may not make [[Attack Check|Attacks]] on other targets until the whip is no longer Immobilizing a [[Character]]. May use a Whip for any purpose you may use [[Rope]] for.
+Special: On a successful [[Attack Check]], may spend two advantages to pull an [[Immobilized]] target within [[Short Range]] one [[Range Bands|Range Band]] closer. May only Immobilize one target at a time, and may not make [[Attack Check|Attacks]] on other targets until the whip is no longer Immobilizing a [[Character]]. May use a Whip for any purpose you may use [[Rope]] for.
 
 Price: 1500 [[Rupees]]
 [[Affiliations|Affiliation]]: None

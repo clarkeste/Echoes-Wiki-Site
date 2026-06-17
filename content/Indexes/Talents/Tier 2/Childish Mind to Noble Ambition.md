@@ -2,7 +2,7 @@
 Tier: 2
 Activation:
   - Active (Incidental)
-Ranked: true
+Ranked: false
 Unlisted: false
 Magic: false
 XP Cost: 10
@@ -12,7 +12,8 @@ tags:
   - Talent-Active
   - Talent-Social-Oriented
   - Talent-Strain-Spending
-  - Talent
+  - Tier-2
+  - Talent-Characteristics
 Image:
 ---
 **Tier:** 2

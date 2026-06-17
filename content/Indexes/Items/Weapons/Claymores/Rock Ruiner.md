@@ -8,7 +8,7 @@ Critical Rating: 4
 Skill Used:
   - Melee (Heavy)
 Range: Engaged
-Encumbrance: 6
+Encumbrance: 5
 Qualities:
   - Concussive 1
   - Cumbersome 6
@@ -47,7 +47,7 @@ The Rock Ruiner represents the pinnacle of [[Gorons|Goron]] craftsmanship, its s
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 4
 [[Range Bands|Range]]: [[Engaged Range|Engaged]] 
-[[Encumbrance|Encumbrance]]: 6
+[[Encumbrance|Encumbrance]]: 5
 
 [[Concussive (Active) (Quality)|Concussive]] 1
 [[Cumbersome (Passive) (Quality)|Cumbersome]] 6

@@ -5,7 +5,7 @@ tags:
 aliases:
   - Life
 ---
-The base power of Life is similar to a [[Medicine]] [[Skill Checks|Checks]], with one [[Difficulty]] higher.
+The base power of Life is similar to a [[Medicine|Medicine Checks]], with one [[Difficulty]] higher.
 
 It heals [[Wounds]] equal to [[Success|Successes]] and [[Strain]] equal to [[Advantage|Advantages]]. That is its default effect, at least.
 

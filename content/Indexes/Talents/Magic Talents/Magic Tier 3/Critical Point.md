@@ -3,6 +3,7 @@ tags:
   - Talent-Spells
   - Talent-Active
   - Talent-Defense
+  - Talent-Combat-Oriented
 Tier: 3
 Activation:
   - Active (Incidental)
@@ -15,7 +16,7 @@ Talent Genre:
 Image:
 ---
 **Tier:** 3 
-**Activation:** Active (Incidental) 
+**Activation:** Active (Maneuver) 
 **Ranked:** No 
 
 May take a [[Maneuvers|Maneuver]] to increase [[Soak]] by an amount equal to the [[Character]]’s [[Willpower]]; however, if a [[Critical Hit]] is dealt to a Character using Critical Point, the [[Damage]] done in that attack will be doubled and Soak will be ignored. May be dismissed at any time with an additional Maneuver.

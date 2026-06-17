@@ -2,7 +2,6 @@
 aliases:
   - Knockdown Quality
   - Knockdown
-  - Vicious
   - Knock
 tags:
   - Rules

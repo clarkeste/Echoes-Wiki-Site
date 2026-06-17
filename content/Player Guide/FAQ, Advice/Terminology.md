@@ -31,6 +31,6 @@ Some animals have far more common names in Echoes of the Departed.
 - The Bats in Hyrule are often called Keese, and is the name of their subspecies
 - Animated skeletons and bones are called Stalfos
 - ‘Ghosts’ are usually called phantoms or echoes. Actual ghosts that interact with the world are called Poes.
-- While mummified is a word, Gibdo is usually used instead of ‘mummy’. If the mummy in question is not animated in any way, it is usually just called a mummified corpse.
+- While mummified is a word, a moving mummy is called a Gibdo instead of a ‘mummy’. If the mummy in question is not animated in any way, it is usually just called a mummified corpse.
 - ‘Zombies’ is not really a term in the Hyrulean lexicon. Instead, they are usually referred to as undead, or more “wordy” terms. This could be phantom, apparition, demon, specter, etc.
 - Cyclop is not a used word. Instead, the point of reference for a one-eyed creature is the Hinox. ‘ox’ is often used as an add-on to refer to a one-eyed creature. For example, a one-eyed frog might be called a frox.

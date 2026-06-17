@@ -37,7 +37,7 @@ Weapon Type:
 Consumable: false
 ---
 Only the most confident of Hyrule Castle's knights carried this two-handed sword. Its cutting edge is finely honed.
-![|480x501](https://i.imgur.com/bH3gzuF.png)
+*![|480x501](https://i.imgur.com/bH3gzuF.png)*
 [[Damage|Damage]]: +5
 [[Skills|Skill]]: [[Melee-Heavy|Melee (Heavy)]]
 [[Critical Rating]]: 2

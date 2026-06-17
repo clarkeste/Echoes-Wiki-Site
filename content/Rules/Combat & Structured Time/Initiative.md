@@ -27,6 +27,6 @@ Then, click on the applicable Initiative [[Skills|Skill]]—usually [[Cool|Cool]
 
 ![](https://i.imgur.com/WHk6qB4.png)
 
-This should result in your dice pool automatically appearing in the dice panel. Just add any additional [[Setback Dice|Setbacks]] or [[Boost Dice|Boosts]], and hit roll!
+This should result in your dice pool automatically appearing in the dice panel. Just add any additional [[Setback Dice|Setbacks]] or [[Boost Dice|Boosts]], check the “Add to Initiative” box, and hit roll!
 
 Alternatively, on Discord using the [[RPGSessions Bot]], use the “.i r pc (skill)” command to roll initiative, replacing (skill) with the name of the applicable Skill. It will automatically role as your currently active character.

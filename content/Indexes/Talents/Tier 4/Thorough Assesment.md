@@ -22,4 +22,4 @@ Image:
 **Activation:** Active (Action)
 **Ranked:** No
 
-Once per [[Adventure]], take a Thorough Assessment [[Actions|Action]]: make an [[Difficulty|Average]] (2p) [[Knowledge Skills|Knowledge]] [[Skill Checks|Check]], type dependent on the situation, to gain [[Boost Dice]] equal to [[Success|Successes]] that can be distributed during the [[Encounter]] to any allied checks.
+Once per [[Downtime|Week]], take a Thorough Assessment [[Actions|Action]]: make an [[Difficulty|Average]] (2p) [[Knowledge Skills|Knowledge]] [[Skill Checks|Check]], type dependent on the situation, to gain [[Boost Dice]] equal to [[Success|Successes]] that can be distributed during the [[Encounter]] to any allied checks or to your own checks.

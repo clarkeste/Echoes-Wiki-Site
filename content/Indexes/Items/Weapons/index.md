@@ -2,9 +2,9 @@
 title: Weapons
 Consumable: false
 ---
-This is the folder for [[Weapons (Database)]]. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
+This is the folder for Weapons. It is not an article, and therefore has no unique content. Articles related to the title of this folder are:
 
-[[Weapons (Database)]]
+[[Weapons]]
 For an overview of Weapons and how they work.
 
 [[Item Navigation Guide]]

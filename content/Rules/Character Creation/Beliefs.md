@@ -1,3 +1,9 @@
+---
+tags:
+  - Characters
+  - Rules
+  - New-Rules
+---
 Beliefs refer to a [[Character]]’s closely-held thoughts about the world, people, and reality. They are things they truly believe to be true, no matter what.
 
 Beliefs are a powerful thing. They can be the foundation of Character arcs. Positive Change Arcs, where Characters learn that one of their foundational Beliefs is a lie, Corruption Arcs where a Character comes so close to learning but instead lets a lie—manifesting as a Belief—corrupt them, and Flat Arcs where a Character defends their Belief, a core truth, against attacks from all sides, and inspires others to take up that Belief, too.
