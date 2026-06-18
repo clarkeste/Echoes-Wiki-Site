@@ -10,7 +10,7 @@ tags:
 ---
 Not to be confused with [[Sunder (Modifier)|Sunder (Modifier)]].
 
-A [[Weapons|Weapon]] with the [[Sunder (Modifier)|Sunder]] [[Qualities|Quality]] may damage other Weapons and [[Items|Items]], with some exceptions, such as [[Armor|Armor]]. Every 2 [[Advantage|Advantages]] spent will damage the target Item one stage. Stage 1 through 4 damage the Item, but it is still intact and can be repaired; Stage 5 completely destroys a weapon. It is difficult to repair in this state and does not confer any benefits.
+A [[Weapons|Weapon]] with the [[Sunder (Modifier)|Sunder]] [[Qualities|Quality]] may damage other Weapons and [[Items]], with some exceptions, such as [[Armor|Armor]]. Every 2 [[Advantage|Advantages]] spent will damage the target Item one stage. Stage 1 through 4 damage the Item, but it is still intact and can be repaired; Stage 5 completely destroys a weapon. It is difficult to repair in this state and does not confer any benefits.
 
 Sunder can be activated multiple times during an [[Attack Check]] to damage an Item further. Every subsequent activation after the first costs 1 Advantage. The owner of the damaged Item can spend a [[Sacred Points|Sacred Point]] if it moves from Stage 3 to Destroyed in a single Attack to reduce the damage to Stage 4. Sunder cannot be used on Armor.
 

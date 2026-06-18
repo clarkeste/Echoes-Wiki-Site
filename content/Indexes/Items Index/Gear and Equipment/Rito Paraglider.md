@@ -39,6 +39,5 @@ For every vertical [[Range Bands|Range Band]] fallen, may move one horizontal [[
 If a [[Character]]’s current [[Encumbrance]], including their body weight, is higher than 18 the Paraglider is no longer able to support their weight. A [[Character]] with Silhouette 1 is determined to have a body weight of 10 Encumbrance. A Character with Silhouette 2 is determined to weigh 20 Encumbrance. A Silhouette 0 Character weighs 5 Encumbrance. A Silhouette 00 person weighs 0 Encumbrance. If a Character exceeds the 18 Encumbrance limit of the Paraglider, they add two [[Setback Dice]] to any Check they make with the Paraglider, and descend twice as fast. If their Encumbrance is higher than 24, the Paraglider has no effect on them at all.
 
 Other positive effects may occur as a part of the Rito Paraglider’s effects depending on the circumstances and creativity of the [[PC|PCs]], as with all [[Items]].
-
 Price: 72k [[Rupees]]
 Affiliation: None, [[Rito|Rito]]

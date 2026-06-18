@@ -100,14 +100,14 @@
 - Clarified that it is assumed that a [[Character]] who would do a [[Medicine|Medicine Check]] has the proper supplies with them to make a Check, unless there would be a reason to assume they didn’t.
 - Clarified how [[Encumbrance]] and Encumbrance Thresholds work on [[Horses and Mounts]], including that [[Gorons]] are unable to ride most horses.
 - [[Swift Strike (Passive) (Quality)|Swift Strike]] can now be [[Parry|Parried]], creating a tactical decision over whether you want to suffer the 3 Strain required to avoid the [[Wounds]], or just accept the [[Wounds]].
-	- Changed some values to bring [[Potion Creation|Potion]] and [[Item Creation]] into greater parity, such as [[Triumph]] giving 5 Points in both systems
+- Changed some values to bring [[Potion Creation|Potion]] and [[Item Creation]] into greater parity, such as [[Triumph]] giving 5 Points in both systems
+- In both Potion and Item Creation, [[Difficulty]] is now increased for every 6 Alchemy or Crafting Points instead of by every 4
 
 
 ### Website
-- Overhauled various tutorials with new images and explanations across the website to show you how to use the [[RPGSessions Data Library|Data Library]] to add things, primarily in the [[Items]] and [[Talents]] articles.
+- Overhauled various tutorials with new images and explanations across the website to show you how to use the [[RPGSessions Data Library|Data Library]] to add things, primarily in the [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items]] and [[Talents]] articles.
 - Edited a variety of articles, such as [[Weapons]], [[Armor]], etc, to point towards [[Items]] for the tutorial on how to add them to a [[Character Sheet]]
 - Added new tutorials with images, including on how to edit [[Skills|Skill]] ranks in the [[Character Sheet]] article, and how to add [[Qualities]] in the [[Modifiers or Qualities (RPGSessions)|Quality/Modifier]] article
-- Added a few new articles, including [[What Should My Backstory Be Like?]]
 - Added Images to a variety of articles that didn’t have them, such as [[Healing Salve]], and added a new image to [[Staff]]
 - Cleaned up a bunch of tags, and added new ones to articles that should’ve had them but didn’t
 
@@ -229,7 +229,7 @@
 
 - Re-ordered the [[Critical Injury]] Table and made various changes.
 	- Gained the Advantage has been modified; now any target can benefit from the free [[Triumph]], but it only applies until the end of the next Round.
-	- Modified ‘Disarmed!’ so that the dropped [[Items|Item]] goes to [[Short Range|Short]] Range.
+	- Modified ‘Disarmed!’ so that the dropped [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items|Item]] goes to [[Short Range|Short]] Range.
 	- The Unique Minor Wound of [[Monsters (People)|Monsters]] and [[Gorons]] were changed, and the Unique Major Wound of Monsters, Gorons, Zora, and ??? were changed as well.
 	- Slightly changed ‘Pushed Back’ and ‘Toss’; in both, may now spend a [[Sacred Points|Sacred Point]] to immediately re-engage the Target.
 	- Increased the effect of ‘Broken Defenses’
@@ -470,9 +470,9 @@ Additionally, I updated a lot of meta-data on this patch. That shouldn’t show 
 
 - Reduced Pierce of [[Hyrulean Crossbow]] from 4 to 3.
 
-- Increased the price of the [[Golden Shield]] and [[Knight's Shield]]. They are now no longer [[Items]] that can be purchased at [[Character Creation Guide|Character Creation]].
+- Increased the price of the [[Golden Shield]] and [[Knight's Shield]]. They are now no longer [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items]] that can be purchased at [[Character Creation Guide|Character Creation]].
 
-- Increased the price of the [[Hyrulean Crossbow]]. It is now no longer an [[Items|Item]] that can be purchased at [[Character Creation Guide|Character Creation]].
+- Increased the price of the [[Hyrulean Crossbow]]. It is now no longer an [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items|Item]] that can be purchased at [[Character Creation Guide|Character Creation]].
 
 - Modified the [[Dagger]] again, primarily by removing [[Pierce (Passive) (Quality)|Pierce]] and adding +1 [[Damage]].
 ### Item Creation
@@ -618,11 +618,11 @@ A lot of the following changes are designed to fix those two main issues, as wel
 
 - Added a new [[Weapons|Weapon]]: the [[Windcleaver]].
 
-- Added a new [[Items|Item]], a piece of [[Gear and Equipment]] useful for [[Spell Creation|Spellcasters]] called a [[Staff]].
+- Added a new [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items|Item]], a piece of [[Gear and Equipment]] useful for [[Spell Creation|Spellcasters]] called a [[Staff]].
 
-- Changed the [[Damage]] boost from using [[Enforcer's Spaulder]] from +3 to +2.
+- Changed the [[Damage]] boost from using [[Enforcer's Spaulder]] from +3 to +2.]
 
-- The cost of all [[Items]] has been increased substantially,   usually by x6, and in the cases of Items with the #items-premium tag, up to x16. Don’t worry; starting money has been increased by x6 as well to compensate. Since Items with the premium tag were already unaffordable to anyone with starting money, the difference on [[Character Creation Guide|Character Creation]] should be non-existent.
+- The cost of all [[Items]] has been increased substantially, usually by x6, and in the cases of Items with the #items-premium tag, up to x16. Don’t worry; starting money has been increased by x6 as well to compensate. Since Items with the premium tag were already unaffordable to anyone with starting money, the difference on [[Character Creation Guide|Character Creation]] should be non-existent.
 
 - For your convenience, Items that had prices which ended in 99 have been rounded out.
 

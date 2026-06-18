@@ -10,7 +10,7 @@ Image: "[[Images/thumbnails/external/e4d406bc43c54e9cbde13b019fac05a5.png]]"
 ---
 Two characters [[Engaged Range|Engaged]] with each other are in very close proximity. For example, a soldier needs to be Engaged with a target to slice them with a sword. 
 
-Engaged is also used to indicate that a person is close enough to an item to use it. A craftsman needs to be Engaged with an [[Items|Item]] to repair it. An investigator needs to be Engaged with a tree if they want to hide behind it for cover while stalking their prey.
+Engaged is also used to indicate that a person is close enough to an item to use it. A craftsman needs to be Engaged with an [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items|Item]] to repair it. An investigator needs to be Engaged with a tree if they want to hide behind it while stalking their prey.
 
 The Engaged status simply indicates that two things are close enough to each other to directly interact without the use of a tool, like a rope or long weapon.
   

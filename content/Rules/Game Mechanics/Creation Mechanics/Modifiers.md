@@ -9,7 +9,7 @@ tags:
   - Potion-Creation
   - New-Rules
 ---
-Refers to the game mechanic used in [[Items|Item]], [[Potion Creation|Potion]], and [[Spell Creation|Spell Creation]]. Not to be confused with the [[Modifiers or Qualities (RPGSessions)|Modifiers system in RPGSessions]].
+Refers to the game mechanic used in [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items|Item]], [[Potion Creation|Potion]], and [[Spell Creation|Spell Creation]]. Not to be confused with the [[Modifiers or Qualities (RPGSessions)|Modifiers system in RPGSessions]].
 
 Most Modifiers are based on a [[Qualities|Quality]] of the same name, and add that ‘Quality’ to the final product.
 

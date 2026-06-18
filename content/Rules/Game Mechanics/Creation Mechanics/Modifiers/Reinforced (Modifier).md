@@ -9,7 +9,7 @@ Accurate is a [[Modifiers|Modifier]] used in [[Item Creation]]. It is based off 
 Active: No
 Stacks: Yes
 Limit: None
-When an [[Items|Item]] is [[Reinforced (Passive) (Quality)|Reinforced]], it cannot be broken through common means, and is immune to [[Sunder (Active) (Quality)|Sunder]].
+When an [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items|Item]] is [[Reinforced (Passive) (Quality)|Reinforced]], it cannot be broken through common means, and is immune to [[Sunder (Active) (Quality)|Sunder]].
 
 ### [[Item Creation#Creating Armor|Armor Creation]]: Reinforced (14)
 Active: No

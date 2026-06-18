@@ -14,7 +14,7 @@ Qualities are effects found on [[Weapons|Weapons]]â€”sometimes [[Armor|Armor]]â€
 
 In [[RPGSessions|RPGSessions]], consistent and passive Qualities are modeled using the [[Modifiers or Qualities (RPGSessions)|Modifier]] system. Additionally, so are consistent and passive [[Talents|Talents]]. This allows the Quality to be automated, therefore making it easier to play.
 
-A different system, similar named, called [[Modifiers|Modifiers]] exists in [[Spell Creation|Spell]], [[Items|Item]], and [[Potion Creation|Potion Creation]]. Each [[Modifiers|Modifier]] is based off of a Quality, and imparts a similar effect.
+A different system, similar named, called [[Modifiers|Modifiers]] exists in [[Spell Creation|Spell]], [[Item Creation|Item]], and [[Potion Creation|Potion Creation]]. Each [[Modifiers|Modifier]] is based off of a Quality, and imparts a similar effect.
 
 ### Quality List
 - [[Accurate (Passive) (Quality)|Accurate]]

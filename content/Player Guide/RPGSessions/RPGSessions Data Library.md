@@ -52,7 +52,7 @@ Once you’ve done that, hit the blue “update” button in the bottom-right of
 ### Step 3: Profit!
 Now you can add any Weapon, Armor, Gear, or Talent directly from the Data Library! 
 
-The instructions on how to do so are in the [[Items|Item]] article for Items, and in the [[Talents|Talent]] article for Talents—but it’s fairly easy to figure out if you just want to explore the system and what it can do!
+The instructions on how to do so are in the [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items|Item]] article for Items, and in the [[Talents|Talent]] article for Talents—but it’s fairly easy to figure out if you just want to explore the system and what it can do!
 
 ## Benefits of the Data Library
 Being able to add so many different things to a sheet quickly is incredibly convenient, and is a massive time-saver for both me and [[Player|Players]] alike. Outside of the rare situation where the Data Library isn’t usable for one reason or another, you should generally default to using the Data Library. Not necessarily for browsing things you want to buy—although you can if you want—but for adding them to your sheet instantly and painlessly.

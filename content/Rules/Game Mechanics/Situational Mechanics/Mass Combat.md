@@ -122,7 +122,7 @@ The [[Dice Pool]] a Unit uses to attack is determined by the [[Skills|Skill]] of
 
 Additionally, the Dice Pool under the Skill section of a [[Mass Combat#Commanders|Unit Commander]] can be used instead if the Unit being moved is under their command. However, the Skill of each Unit Commander can only be used once per turn.
 
-[[Difficulty]] is dependent on Range. Melee Attacks are always [[Difficulty|Average]] (2p) Difficulty; Ranged Attacks vary, and have the same difficulty as regular [[Combat]]. [[Difficulty|Average]] (2p) for [[Medium Range|Medium]], Hard (3p) for [[Long Range|Long]], etc. Modifiers still apply and change the Difficulty, most notably [[Defense]]. Others Modifiers can be relevant, such as [[Sacred Points|Sacred Points]] expenditure.
+[[Difficulty]] is dependent on Range. Melee Attacks are always [[Difficulty|Average]] (2p) Difficulty; Ranged Attacks vary, and have the same difficulty as regular [[Combat]]. [[Difficulty|Average]] (2p) for [[Medium Range|Medium]], Hard (3p) for [[Long Range|Long]], etc. Modifiers still apply and change the Difficulty, most notably [[Defense]]. Others Modifiers can be relevant, such as [[*Sacred* Points|Sacred Points]] expenditure.
 
 The defending Battle Commander always gets to pick where their Unit flees. It is encouraged that [[PC|PCs]] overseeing a battle decide ahead of time where they would want their Units to flee, or stay for the enemy’s Mass Combat turn so that they can decide in real time.
 

@@ -8,7 +8,7 @@ Most [[Weapons]] in [[Echoes of the Departed]] can be thrown, even if their init
 
 Generally speaking, melee Weapons can be thrown one [[Range Bands|Range Band]] further than their default range, unless otherwise stated. This means most Swords can be thrown into [[Short Range]], and some Spears into [[Medium Range]].
 
-If a Weapon or [[Items|Item]] doesn’t fit that criteria, then the default range they can be thrown is [[Medium Range]]. This applies for things such as bottles or cups.
+If a Weapon or [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items|Item]] doesn’t fit that criteria, then the default range they can be thrown is [[Medium Range]]. This applies for things such as bottles or cups.
 
 Damage is still determined by [[Brawn]] and the [[Damage|Base Damage]] of the thrown Item, in addition to [[Success|Successes]] gained on the [[Attack Check|Check]].
 

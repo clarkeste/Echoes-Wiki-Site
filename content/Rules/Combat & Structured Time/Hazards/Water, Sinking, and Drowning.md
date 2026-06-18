@@ -22,6 +22,6 @@ If a Character stays underneath the water more time than they are allowed, they 
 ## Sinking
 In some case, when a [[Character]] is particularly heavy, usually due to what they are carrying, they may sink into bodies of water. 
 
-Determining if a Character should sink or not is quite simple. If a Character has 12 or more [[Encumbrance]], they begin to sink. Wooden [[Items]], or Items made out of other buoyant materials, are excluded. A Character can make a [[Swim]] [[Skill Checks|Check]] when they begin to sink to avoid their fate. The [[Difficulty]] starts at [[Difficulty|Easy]] (1p) and increases by one per Encumbrance after 12. After [[Difficulty|Formidable]], the Check is impossible and cannot be done until weight is removed.
+Determining if a Character should sink or not is quite simple. If a Character has 12 or more [[Encumbrance]], they begin to sink. Wooden [[Items]] or Items made out of other buoyant materials, are excluded. A Character can make a [[Swim]] [[Skill Checks|Check]] when they begin to sink to avoid their fate. The [[Difficulty]] starts at [[Difficulty|Easy]] (1p) and increases by one per Encumbrance after 12. After [[Difficulty|Formidable]], the Check is impossible and cannot be done until weight is removed.
 
 It should noted that if a Character is a [[Gorons|Goron]], they are much more likely to sink. For the purposes of determining if a Character should sink, Gorons add +10 Encumbrance to their total.

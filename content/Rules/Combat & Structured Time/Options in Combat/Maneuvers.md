@@ -24,8 +24,7 @@ Moving is the most common type of Maneuver. Either by horseback or by one’s ow
 Also known as Aim, Target requires an [[Adversary|adversary]] to aim at. Each Maneuver spent Targeting adds a [[Boost Dice|Boost die]] to an [[Attack Check|Attack Check]] on the target, with a maximum of two. The bonus wears off after two turns if not taken advantage of.
 
 ### Stow, Grab, Use
-Grabbing an [[Items|Item]] off the ground or from a belt, storing something picked up, or drinking a hearty [[Potion Creation|Potion]]. A [[Character|Character]] drinking a Potion in their pocket, for instance, would require two Maneuvers: One to grab it, and one to drink it.
-
+Grabbing an [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items|Item]] off the ground or from a belt, storing something picked up, or drinking a hearty [[Potion Creation|Potion]]. A [[Character|Character]] drinking a Potion in their pocket, for instance, would require two Maneuvers: One to grab it, and one to drink it.
 ### Go Prone, Get up
 When [[Prone|Prone]], either knocked so by an [[Attack Check|Attack]] or due to a [[Maneuvers|Maneuver]], all Ranged attacks targeting the prone character gain a [[Setback Dice|Setback]], and all Melee Attacks gain a [[Boost Dice|Boost]]. Likewise, leaving this position is another [[Maneuvers|Maneuver]].
 

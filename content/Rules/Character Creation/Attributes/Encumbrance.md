@@ -7,7 +7,7 @@ tags:
   - Rules
   - Stats
 ---
-Encumbrance is the amount of weight, space, or general strain that the [[Items|Items]] a [[Character|Character]] is carrying represents.
+Encumbrance is the amount of weight, space, or general strain that the [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items|Items]] a [[Character|Character]] is carrying represents.
 
 The Encumbrance Threshold is by default 5 + the [[Brawn|Brawn]] of your Character, and additional items—like belts or backpacks— that increase your Encumbrance Threshold. Some [[Peoples|Peoples]]—notably, the [[Gorons]]—may have a different default. The Gorons have 8 Encumbrance Threshold.
 

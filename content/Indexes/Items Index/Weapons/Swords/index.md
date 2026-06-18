@@ -13,6 +13,7 @@ For an overview of Weapons and how they work. Check out the [[Weapons#Light Weap
 For a walk-through to help you navigate purchasing [[Items]], particularly during [[Character Creation Guide|Character Creation]].
 
 
+
 The following are the articles in this folder:
 
 [[Blade of Ferocity]]
