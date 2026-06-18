@@ -8,6 +8,7 @@ aliases:
   - Desert
 tags:
 Is Historia: true
+title: Desert of Doubt
 ---
 **The Desert of Doubt** refers to the deeper, most isolated regions of the [[Desert of Mystery, Gerudo Desert|Gerudo Desert]]. It is where the [[The Gerudo|Gerudo]] were forced to flee after the [[Hylian-Gerudo War]] forced them to leave their charred homes. It is usually considered even more dangerous than the parts of the Gerudo Desert closer to [[Hyrule|Hyrule]]—now controlled by the Kingdom of Hyrule—due to its distance from civilization, clearer skies, and more dangerous wildlife. In the Desert of Doubt exists the primitive Gerudo settlements of the modern day.
 

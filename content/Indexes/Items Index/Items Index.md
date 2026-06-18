@@ -53,6 +53,7 @@ The following are the articles in this folder.
 		- [[Cooking Pot]]
 		- [[Fairy]]
 		- [[Field Whetstone]]
+		- [[Firebomb]]
 		- [[Fishing Rod]]
 		- [[Grappling Hook]]
 		- [[Harness & Saddle]]
