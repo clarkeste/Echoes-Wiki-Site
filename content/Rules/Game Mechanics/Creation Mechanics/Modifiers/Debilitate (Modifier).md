@@ -5,6 +5,8 @@ tags:
   - Rules
   - Spell-Creation
   - Potion-Creation
+Potion Rarity: Obscure
+Item Rarity: None
 ---
 Debilitate is a [[Modifiers|Modifier]] used in [[Spell Creation|Spell]] and [[Potion Creation]]. It is based off the [[Debilitate (Active) (Quality)|Debilitate Quality]].
 

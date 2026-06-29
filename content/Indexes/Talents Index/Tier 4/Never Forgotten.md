@@ -18,4 +18,4 @@ Image:
 **Activation:** Passive
 **Ranked:** No
 
-Your [[Character]] must have a [[Virtues|Virtue]] at 5 or more Points to benefit from this [[Talents|Talent]]. When purchased, pick one Virtue that your Character has 5 or more Points in. When this is done, that Virtue cannot go any lower than 5 Points. You will always to be able to access the benefits from the Virtue up to that point, unless you eschew the Virtues. However, should your Character ever return to the Virtue, they will immediately return to their previous status.
+Heal 1 Strain whenever the GM uses a Sacred Point. Upon failing a Check, may suffer 2 Strain to flip a Sacred Point from the GM’s side to the Player’s side as an Incidental.

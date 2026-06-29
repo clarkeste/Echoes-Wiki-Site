@@ -1,3 +1,18 @@
+# 1.4.2
+
+### Mechanics
+- Modified [[Potion Creation|Potion]] and [[Item Creation]] further. Templates now change time by 4 Hours and 7 Days in Potion and Item Creation respectively. 
+- Finished implementing the rarity system to [[Potion Creation|Potion]] and [[Item Creation]]. All [[Modifiers]] in that system now have a listed rarity. The rarity determines how easy or hard it is to get the materials or ingredients required to put that Modifier on an [[Items|Item]] or [[Potions|Potion]]. The materials and ingredients are [[Items]] which may have purposes beyond serving as a resource for [[Point-Buy Systems|Creation Systems]].
+- Added [[Rarity and Materials]], which explains the aforementioned system.
+- The mechanical concept of Virtues was removed. I felt they were too objective and tried to turn something deeply narrative and subjective into a mechanic in a way that didn’t gel. The [[Burdens and Backstory]] article no longer links to it.
+- Changed the [[Never Forgotten]] [[Talents|Talent]] since the Virtue system no longer exists
+
+### Website
+- Added the [[What Should My Character Be Like?]] article, which should help you when making your [[Character]]’s [[Burdens and Backstory|backstory]] and personality
+- Added a variety of new Hyrule Historia articles, such as [[Era of Chaos (Historia)|Era of Chaos]] and [[Carndetti Massacre]]. Changed some others to comport with minor changes to the backstory. Many typos and errors in the Hyrule Historia were fixed.
+- Fixed some links and added new ones where appropriate, such as linking to the [[RPGSessions Spellbook]] article in [[Spell Creation]]
+
+
 
 # 1.4.1
 
@@ -105,7 +120,7 @@
 
 
 ### Website
-- Overhauled various tutorials with new images and explanations across the website to show you how to use the [[RPGSessions Data Library|Data Library]] to add things, primarily in the [[Echoes of the Departed/Wiki Stuff/Game Wiki/Rules/Items/Items]] and [[Talents]] articles.
+- Overhauled various tutorials with new images and explanations across the website to show you how to use the [[RPGSessions Data Library|Data Library]] to add things, primarily in the [[Items]] and [[Talents]] articles.
 - Edited a variety of articles, such as [[Weapons]], [[Armor]], etc, to point towards [[Items]] for the tutorial on how to add them to a [[Character Sheet]]
 - Added new tutorials with images, including on how to edit [[Skills|Skill]] ranks in the [[Character Sheet]] article, and how to add [[Qualities]] in the [[Modifiers or Qualities (RPGSessions)|Quality/Modifier]] article
 - Added Images to a variety of articles that didn’t have them, such as [[Healing Salve]], and added a new image to [[Staff]]

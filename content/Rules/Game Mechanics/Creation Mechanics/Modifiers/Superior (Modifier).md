@@ -7,6 +7,8 @@ tags:
   - Spell-Creation
   - Potion-Creation
   - Item-Creation
+Potion Rarity: Rare
+Item Rarity: Rare
 ---
 Superior is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation|Potion Creation]]. It is based off the [[Superior (Passive) (Quality)|Superior Quality]]
 
@@ -18,11 +20,14 @@ A Superior [[Spell Creation|Spell]] generates automatic 1 [[Advantage|Advantage]
 
 ### [[Potion Creation]]: Superior (5)
 Rarity: Rare
+
 Stacks: No
 Limit: 1
 Increases the potency of a certain quality. For example, [[Heal (Modifier)|Heal]] could grant the user a chance to heal a [[Critical Injury|Critical Injury]]. But be careful—it might boost something so much that it makes it dangerous.
 
 ### [[Item Creation]]: Superior (3)
+Rarity: Rare
+
 Active: No
 Stacks: No (Singular)
 Limit: 1

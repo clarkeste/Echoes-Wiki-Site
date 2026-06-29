@@ -5,10 +5,14 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Uncommon
 ---
 Swift Strike is a [[Modifiers|Modifier]] used in [[Item Creation|Item Creation]]. It is based off the [[Swift Strike (Passive) (Quality)|Swift Strike Quality]].
 
 ### [[Item Creation|Item Creation]]: Swift Strike (5)
+Rarity: Uncommon
+
 Active: No
 Stacks: Yes
 Limit: None

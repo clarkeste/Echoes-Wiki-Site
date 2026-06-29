@@ -22,7 +22,7 @@ As their name implies, they are 'Messengers' of of the Chosen. They are largely 
 When the [[The Pragmatist|Pragmatist]] was still directly issuing orders, the Messengers would deliver their leader’s letters and demands. Despite this, only a few Messengers seemed to have ever known the Pragmatist’s real identity. A notable Messenger is [[Sooga (Historia)|Sooga]], the Believer’s right hand man.
 
 ### Teachers
-Students who preformed several trials to 'affirm' their faith become Teachers. These members directly controlled smaller hideouts, or parts of larger ones and lead gatherings. They also orchestrated attacks on [[Hyrule|Hyrule]]'s infrastructure.
+Students who preformed several trials to 'affirm' their faith become Teachers. These members directly controlled smaller hideouts, or parts of larger ones and led gatherings. They also orchestrated attacks on [[Hyrule|Hyrule]]'s infrastructure.
 
 ### Students 
 Followers who resided directly in the cult's hideouts. They were often seen guarding and ensuring the general well-being of these bases. They were required to stop using their original names, only allowed to re-take it if they chose to step down, or become a Teacher. This rule became looser over time in the branches of the [[Master Kohga (Historia)|Believer]] and the [[The Confessor (Historia)|Confessor]].

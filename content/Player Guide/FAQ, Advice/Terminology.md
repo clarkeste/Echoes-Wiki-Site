@@ -18,8 +18,7 @@ Our modern curse words are not used in Hyrule. Instead, various others are used.
 - Blunderboss: Derived from the name of a weapon in a popular fictional novel, it means somebody who is slow, clumsy and blundering.
 - Hylia damn you/it: This one is likely self-explanatory.
 - Confound It!: An exclamation of frustration or anger.
-- Rusts!/Rusting: An exclamation or adjective.
-- Scunner: Refers to a bad person, or immoral one.
+- Scunner: Refers to a bad person, or immoral one. What a scunner!
 - Blast it!: An exclamation of frustration or anger.
 - Damn, Damnit: These are self-explanatory.
 - Hell: This one is self-explanatory.
@@ -29,8 +28,8 @@ Additionally, adjectives like vile, pathetic and obstinate are used commonly. Ho
 
 Some animals have far more common names in Echoes of the Departed.
 - The Bats in Hyrule are often called Keese, and is the name of their subspecies
-- Animated skeletons and bones are called Stalfos
-- ‘Ghosts’ are usually called phantoms or echoes. Actual ghosts that interact with the world are called Poes.
+- Animated skeletons and bones are called Stalfos, or simply ‘Stal’
+- ‘Ghosts’ are usually called phantoms or echoes. Actual ghosts that interact with the world are called Poes. Ghost is still sometimes used as a general phrase, but it is more of a playful word for it used by children.
 - While mummified is a word, a moving mummy is called a Gibdo instead of a ‘mummy’. If the mummy in question is not animated in any way, it is usually just called a mummified corpse.
-- ‘Zombies’ is not really a term in the Hyrulean lexicon. Instead, they are usually referred to as undead, or more “wordy” terms. This could be phantom, apparition, demon, specter, etc.
+- ‘Zombies’ is not a term in the Hyrulean lexicon. Instead, they are usually referred to as undead, or more “wordy” terms. This could be phantom, apparition, demon, specter, etc.
 - Cyclop is not a used word. Instead, the point of reference for a one-eyed creature is the Hinox. ‘ox’ is often used as an add-on to refer to a one-eyed creature. For example, a one-eyed frog might be called a frox.

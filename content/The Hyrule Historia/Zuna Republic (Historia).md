@@ -7,7 +7,7 @@ tags:
 Is Historia: true
 title: Zuna Republic
 ---
-**The Zuna Republic** is a small island-nation in the southern [[The Great Sea|Great Sea]], near the [[Desert of Doubt (Historia)|Desert of Doubt]]. It is minor and mostly isolated from the rest of the world culturally, but still engages in [[Economy|trade]] by selling items—particular those found in the tropical Zunari Island, or from the Desert of Doubt—that are rare almost everywhere else in the world. The Zuna Republic is a democracy, and one of the couple of island-nations that have a functioning democracy on a small scale.
+**The Zuna Republic** is a small island-nation in the southern [[The Great Sea|Great Sea]], near the [[Desert of Doubt (Historia)|Desert of Doubt]]. It is minor and mostly isolated from the rest of the world culturally, but still engages in [[Economy|trade]] by selling items—particular those found in the tropical Zunari Island, or from the Desert of Doubt—that are rare almost everywhere else in the world. The Zuna Republic is a democracy, and one of the few island-nations that have a functioning democracy on a smaller scale.
 
 The Zuna Republic is inhabited almost exclusively by the [[Zuna]], a unique humanoid species with green skin and thin faces, without a protruding nose. Some may describe them as cactus-like--a reference to their historical origins as a people that roamed and constructed ancient buildings in the deepest reaches of the Desert of Doubt, before migrating to their current home. Style among the Zuna usually includes things such as turbans and flowing robes. Their architecture focuses heavily on the symbol of flowers, and many homes have roof gardens, making their towns and villages particularly green and vibrant with all different colors of flowers.
 

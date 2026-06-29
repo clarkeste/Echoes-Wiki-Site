@@ -4,10 +4,14 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Rare
 ---
 Water Warrior is a [[Modifiers|Modifier]] used in [[Item Creation|Item Creation]]. It is based off the [[Water Warrior (Passive) (Quality)|Water Warrior Quality]].
 
 ### [[Item Creation|Item Creation]]: Water Warrior (4)
+Rarity: Rare
+
 Active: No
 Stacks: No (Singular)
 Limit: 1

@@ -7,6 +7,8 @@ tags:
   - Potion-Creation
   - Spell-Creation
   - Item-Creation
+Potion Rarity: Common
+Item Rarity: Common
 ---
 DIsorient is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation]]. It is based off the [[Disorient (Modifier)|Disorient Quality]].
 
@@ -20,11 +22,14 @@ On a successful [[Attack|Attack Spell]], spend two [[Advantage|Advantages]] on a
 
 ### [[Potion Creation]]: Disorient (1)
 Rarity: Common
+
 Stacks: Yes
 Limit: None
 Disorient, as the name implies, will often make the drinker feel nauseous or unbalanced. Alcohol is a common source for this [[Modifiers|Modifier]].
 
 ### [[Item Creation]]: Disorient (1)
+Rarity: Common
+
 Active: Yes
 Stacks: Yes
 Limit: None

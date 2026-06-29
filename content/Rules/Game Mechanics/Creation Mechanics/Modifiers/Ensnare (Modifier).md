@@ -7,6 +7,8 @@ tags:
   - Spell-Creation
   - Potion-Creation
   - Item-Creation
+Potion Rarity: Uncommon
+Item Rarity: Uncommon
 ---
 Ensnare is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation]]. It is not to be confused with the [[Ensnare (Active) (Quality)|Ensnare Quality]].
 
@@ -20,11 +22,14 @@ In successful [[Attack|Attack Spells]], may spend 2 [[Advantage]] to [[Immobiliz
 
 ### [[Potion Creation]]: Ensnare (2)
 Rarity: Uncommon
+
 Stacks: Yes
 Limit: None  
 Ensnare usually limits the movement and range of motion of its drinkers and consumers.
 
 ### [[Item Creation]]: Ensnare (2)
+Rarity: Uncommon
+
 Active: Yes
 Stacks: Yes
 Limit: None

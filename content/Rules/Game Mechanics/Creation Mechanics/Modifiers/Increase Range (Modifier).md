@@ -5,6 +5,8 @@ tags:
   - Rules
   - Spell-Creation
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Common
 ---
 Increase Power is a [[Modifiers|Modifier]] used in [[Spell Creation|Spell]] and [[Item Creation]].
 
@@ -15,6 +17,7 @@ Limit: None
 Increases the [[Range Bands|Range]] of the [[Spell Creation|Spell]] by one.
 
 ### [[Item Creation]]: Increase Range (4)
+Rarity: Common
 Active: No
 Stacks: Yes
 Limit: None

@@ -12,6 +12,9 @@ Welcome to the Character Creation Guide. This will guide you through the process
 See [[Character Sheet]] for further information on how to edit your Character Sheet, which you’ll want to do as you follow this guide.
 
 If you mean where to get a character image or appearance, essentially any source is fine, including simply googling images until you find one you like. However, it’s usually recommended to use an image that’s actually a piece of artwork as opposed to something like a game screenshot. You’re going to see your character icon a lot—it might as well look good.
+
+Each Step has various articles it links to; these articles have further information on how things work, like how much XP it costs to upgrade something. Make sure to click and read!
+
 # Steps
 ## Step 0 - Import the Data Library
 The [[RPGSessions Data Library|Data Library]] contains all the information in this wiki, already put into RPGSessions. All you need to do is click a few buttons to transfer any given [[Talents|Talent]] or [[Items|Item]]. Check out the [[RPGSessions Data Library|Data Library]] first and import the Echoes of the Departed Kit before taking any further steps!
@@ -32,7 +35,7 @@ But they are just one part of your character’s [[Burdens and Backstory|Story]]
 ## Step 4 - Spend Experience Points
 All the Peoples you can play as start with a different amount of [[Experience Points]], listed on their sheets. These Experience Points, or XP, can be spent on various things. These include [[Characteristics]], [[Skills]], and [[Talents]]. You also gain Experience Points while playing the game.
 
-It should be noted that it is generally suggested to spend as much of your starting XP as possible on Characteristics, as they become much harder to upgrade later on.
+It should be noted that it is suggested to spend as much of your starting XP as possible on Characteristics, as they become *much* harder to upgrade later on, despite the fact they form the foundation of your Character. They should be upgraded as much as possible at the start, generally speaking.
 
 ## Step 5 - Determine Derived Attributes
 [[Derived Attributes]] refer to things such as [[Wound Threshold]], [[Strain Threshold]], or [[Soak]]. These are based on the Characteristics and Talents you have, and it is important to determine them. 

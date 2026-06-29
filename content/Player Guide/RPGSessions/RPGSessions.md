@@ -7,7 +7,7 @@ tags:
   - RPGSessions
 Image: "[[Images/thumbnails/external/7488df967edf906bf7d81dcf1412e23d.jpg]]"
 ---
-RPGSessions is the online and interactive character sheet and [[Narrative Dice|Dice]] roller system that [[Echoes of the Departed]] uses. It boasts a full feature set, and robust mechanics for custom content.
+RPGSessions is the online and interactive character sheet and [[Narrative Dice|Dice]] roller system that [[Echoes of the Departed]] uses. It boasts a full feature set, and robust mechanics for custom content, such as the [[RPGSessions Data Library|Data Library]].
 ![](https://i.imgur.com/0oLcnZe.jpg)
 #### Getting started with RPGSessions
 First, go to [this link.](https://firstlook.rpgsessions.com/auth/login?redirect=/library/explorer) If you are already signed into RPGSessions, it should take to your library, in which case you should follow the next section of the guide.

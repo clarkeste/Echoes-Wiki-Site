@@ -5,10 +5,13 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Common
 ---
 Increase Damage is a [[Modifiers|Modifier]] used in Item Creation. It is similar to the [[Increase Power (Modifier)|Increase Power Modifier]].
 
 #### [[Item Creation|Item Creation]]: Increase Damage (3)
+Rarity: Common
 Active: No
 Stacks: Yes
 Limit: None

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Vicious
+Potion Rarity: Uncommon
+Item Rarity: Uncommon
 ---
 Vicious is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation|Potion Creation]]. It is based off the [[Vicious (Passive) (Quality)|Vicious (Quality)]].
 
@@ -14,11 +16,14 @@ When an [[Attack|Attack Spell]] scores a Critical Injury, the [[Character|target
 
 ### [[Potion Creation]]: Vicious (3)
 Rarity: Uncommon
+
 Stacks: Yes
 Limit: 4
 The Vicious Modifier usually indicates an unstable compound that—at least in [[Potion Template - Internal Potion|Internal Potions]]—can be dangerous to the drinker. Or, can infuse their body with so much adrenaline that the danger gets passed on anybody who is unluckily on the other side of the blade.
 
 ### [[Item Creation]]: Vicious (4)
+Rarity: Uncommon
+
 Active: No
 Stacks: Yes
 Limit: 4

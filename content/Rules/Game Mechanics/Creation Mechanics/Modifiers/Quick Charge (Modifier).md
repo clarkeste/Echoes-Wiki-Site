@@ -5,10 +5,14 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Uncommon
 ---
 Quick Charge is a [[Modifiers|Modifier]] used in [[Item Creation|Item Creation]]. It is based off the [[Quick Charge (Passive) (Quality)|Quick Charge Quality]].
 
 ### [[Item Creation|Item Creation]]: Quick Charge (6)
+Rarity: Uncommon
+
 Active: No
 Stacks: No (Singular)
 Limit: 1

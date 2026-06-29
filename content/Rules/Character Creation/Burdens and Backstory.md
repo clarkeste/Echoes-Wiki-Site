@@ -8,7 +8,11 @@ tags:
 ---
 While a [[Character|Character]]’s backstory might have only an indirect relationship with game mechanics, it is arguably the most important part of a Character—and your choices here can reverberate throughout the entire character. Backstories have very few limitations, so flex your creative writing! Keep in mind though that the [[The GM|GM]] will have to approve of your backstory, and that your backstory should be consistent with the world. A [[Player|Player]] cannot be a time-traveler who comes from the future and has a ray-gun.
 
+See the [[What Should My Character Be Like?]] article for further backstory advice.
+
 As for Burdens, some examples and ideas are compiled below They are by no means an exhaustive list, and are only meant to give inspiration. Burdens can be anything, so long as it is dire enough, and a personal unresolved thread that could resurface. Additionally, many possible Burdens could fit one or more of the following examples. You do not need to slot your Burden into a “category”--simply have it listed in the Notes page of your [[Character Sheet|Character Sheet]] with details.
+
+A Character’s Burden is by no means the *only* way their past reverberates to the modern day and affects them yet, but it is usually the biggest way. It is perhaps what drives them most personally, or the most dangerous thing which haunts them.
 
 ### Escape
 You are pursued by something or someone. Either due to a bounty on your head, a traitorous rapport, information that could cause great harm to those behind the attempt to silence you, or an attempt to cut your destiny short by a phantom wreathed in otherworldly evil. No matter what you do, this cannot be escaped by conventional means; it is a dogged pursuit that will not end until you—or they—are dead.
@@ -34,5 +38,7 @@ Multiple forces pull you in different directions, the strings taut. If any snap,
 ### Take
 Your character is seeking to take a location, object, or person. Capturing an enemy leader on the orders of a dying General, or attempting to steal an artifact or object you have a great personal stake in, that could perhaps could save your life or that of another.
 
-# Virtues
-How you choose to resolve your own personal Burdens as they come up influences which [[Virtues|Virtue]], between Power, Wisdom, and Courage, is the strongest with your character. Please read about them and their effects on the [[Virtues|Virtue]] page.
+# Virtues and Resolving Burdens
+The burdens of life are constant; even if the conditions that led to one are solved, it is only a matter of time until the string is pulled taut once more.
+
+How your [[Character]] comports themselves, what they value, what they love and what they hate, as well as how they choose to resolve their own personal Burdens as they come up, greatly influences which virtue is strongest with your character. Whether that be Courage, Power, or Wisdom. This can have a major effect on the story.

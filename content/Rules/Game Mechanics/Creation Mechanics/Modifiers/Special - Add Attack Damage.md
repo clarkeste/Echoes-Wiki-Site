@@ -4,10 +4,14 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Uncommon
 ---
 Special - Add Attack Damage is a [[Modifiers|Modifier]] used in [[Item Creation#Creating Armor#Creating Armor|Armor Creation]].
 
 ### [[Item Creation#Creating Armor#Creating Armor#Creating Armor#Creating Armor|Armor Creation]]: Special - Add Attack Damage (7)
+Rarity: Uncommon
+
 Active: No
 Stacks: Yes
 Limit: None

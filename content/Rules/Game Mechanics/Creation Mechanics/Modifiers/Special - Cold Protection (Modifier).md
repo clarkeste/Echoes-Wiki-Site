@@ -5,10 +5,13 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Common
 ---
 Special - Cold Protection a [[Modifiers|Modifier]] used in [[Item Creation#Creating Armor#Creating Armor|Armor Creation]].
 
 #### [[Item Creation#Creating Armor|Armor Creation]]: Special - Cold Protection (4)
+Rarity: Common
 Active: No
 Stacks: No
 Limit: 1

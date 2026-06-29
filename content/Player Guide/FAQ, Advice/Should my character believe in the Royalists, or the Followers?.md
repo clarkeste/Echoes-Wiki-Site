@@ -14,14 +14,16 @@ Your character may lean more towards the Royalists if they:
 - Truly believe that the majority of people agree with them, either because they wish to be right or because they seem it as inherently valuable. If this does not seem to be the case, Royalist-aligned persons tend to believe that most people silently harbor these thoughts and say the ‘correct’ things only publicly.
 - Believe that success in most facets of life in areas such as wealth or government enforcement is objective and entirely skill-based, outside of situations where malicious actors conspire to make others have less of a chance. Determining whether malicious actors were involved or not is often dependent on one’s opinion of the actions taken.
 - Believe strongly in tradition, religion, and honor, particularly all of those things when related to lineage. Some instead seek rational explanations to justify their belief, or both.
-- Think that the ends justify the means; that the world is inherently ugly, and engaging in its ugliness, while distasteful, is not inherently evil. 
-- Are often less forgiving, particularly if they believe’s someone actions was directly or indirectly related to their actions. Not uncommonly, a Royalist-aligned person will try to determine why a person deserved a particular fate even if it is not immediately obvious.
+- Value safety for people and order highly; believe that the world operates better if people generally mind their own business and fulfill their roles as they should.
+- Think that the ends justify the means; that the world is inherently ugly, and engaging in its ugliness, while distasteful, is necessary.
+- Are often less forgiving, particularly if they believe someone’s fate was directly or indirectly related to that person’s actions. Not uncommonly, a Royalist-aligned person will try to determine why a person deserved a particular fate even if it is not immediately obvious.
 - Largely support destroying or going around time-tested rules if they believe that something is truly rotten, and drastic action needs to be taken, ie vigilante action or political violence. This is particularly true if they believe these institutions are corrupted by the aforementioned malicious actors. This is often done to establish new, or return to old, institutions.
 
 Your character may lean more towards the Followers if they:
 
 - Believe that a significantly better world without the ugliness of ours is indeed possible. Followers-aligned individuals believe that significant, radical change is required to achieve this better world—and may involve reforming or tearing down certain long-standing institutions.
-- Believe that most inequality and wealth disparity is the result of unfair systems, and rarely the fault of the individuals themselves suffering in poverty. They not uncommonly feel some disdain or distrust towards those that the unfair systems benefit.
-- Do not value tradition, religion, and honor as much as the majority of the population. This can be due to personal experience, or from scholarly research.
-- Value empathy, understanding, and compassion—particularly towards those that afford that same sympathy to others in turn, and with the downtrodden.
+- Believe that most inequality and wealth disparity is the result of unfair systems, and rarely the fault of the individuals themselves suffering in poverty. They often feel disdain or distrust towards those that the unfair systems benefit.
+- Do not value tradition, religion, and honor as much as the majority of the population. This can be due to personal experience or ideology.
+- Had a higher education but is not particularly wealthy or aristocratic, or was personally wronged by the previous system of government. Of course, educated but non-wealthy Royalists also exist.
+- Some value empathy, understanding, and compassion—particularly towards those that afford that same sympathy to others in turn, and with the downtrodden.
 - While some value virtues such as forgiveness and empathy, others do not and instead view their enemies as inherently irredeemable, and victims of their righteous anger. These individuals are sometimes perpetrators of violence.

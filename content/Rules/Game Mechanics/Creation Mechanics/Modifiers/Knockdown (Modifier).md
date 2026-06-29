@@ -7,6 +7,8 @@ tags:
   - Spell-Creation
   - Potion-Creation
   - Item-Creation
+Potion Rarity: Common
+Item Rarity: Common
 ---
 Knockdown is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation]]. It is based off the [[Knockdown (Active) (Quality)|Knockdown Quality]].
 
@@ -20,11 +22,14 @@ In successful [[Attack|Attack Spells]], when Knockdown triggers, the target is k
 
 ### [[Potion Creation]]: Knockdown (1)
 Rarity: Common
+
 Stacks: No (Singular)
 Limit: 1
 Knockdown will often make the [[Character|drinker]] feel unbalanced and unable to properly stand. Alcohol is a common source of this Modifier.
 
 ### [[Item Creation]]: Knockdown (1)
+Rarity: common
+
 Active: Yes
 Stacks: No (Singular)
 Limit: 1

@@ -6,7 +6,7 @@ tags:
 Is Historia: true
 title: Master Kohga
 ---
-**The Believer**, also known as **Kohga of Kakariko Village**, or **Master Kohga**, is a member of the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]] and the new Revolutionary government.
+**The Believer**, also known as **Kohga of Kakariko Village**, **Master Kohga**, or **General Ahoga** is a member of the [[The Followers of Dragmire, Revolutionaries|Followers of Dragmire]] and the new Revolutionary government.
 
 The history of Master Kohga can be traced back to when he was born in [[Kakariko City (Historia)|Kakariko City]]. As was not uncommon for [[Capitalist and Nobleman Class|middle-class]] [[the Sheikah|Sheikah]], he was enrolled into various programs to learn Sheikah history and culture. He excelled in many areas, including both physical disciplines and the liberal arts, for which he became a professor of. As he continued his career as a professor, he became a significant figure within the Kakariko City Sheikah community. Kohga hoped to help the Sheikah escape from the stigmas and 'otherness' they were subjected to in much of [[Hyrule|Hyrule]]. However, his hopes were dashed when his life took a turn for the worse due to increased anti-Sheikah sentiment. Various conspiracies, usually related to the Sheikah's stereotypically aloof and shadowy nature, indicted Kohga and his people in a conspiracy that included the [[Former Hyrulean Government and Royal Family|Royal monarchy]]. The monarchy's response, however, was to recuse responsibility and thereby fan the flames against the Sheikah, re-directing any ill-will from themselves.
 

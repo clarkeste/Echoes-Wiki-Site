@@ -10,7 +10,7 @@ The name ‘**Forgotten Temple**’ refers to the decaying structure located at 
 
 The Forgotten Temple has been largely buried under dirt due to time, but its entrance remains unearthed at the north end of the Tabantha Canyon, its large size taking up the entirety of the canyon path.
 
-Archaeologists and other researchers have surmised that the Forgotten Temple predates [[Hyrule|Hyrule]] itself. Despite its impressive and long-lasting architecture, it is considered to be in danger of collapse, and therefore it is officially closed off to the public. Research trips have been unable to explore too far or check for collapsed pathways, lest they damage another part of the building.
+Archaeologists and other researchers have surmised that the Forgotten Temple predates [[Hyrule|Hyrule]] itself. Despite its impressive and long-lasting architecture, it is considered to be in danger of collapse, and therefore it is officially closed off to the public. Research trips have been unable to explore extensively or search for further secret passageways, lest they damage another part of the building.
 
 It is believed to have been built by prehistoric peoples—ancient Hyruleans who once roamed the land.
 

@@ -4,10 +4,14 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Uncommon
 ---
 Special - Increase Attribute is a [[Modifiers|Modifier]] used in [[Item Creation#Creating Armor|Armor Creation]].
 
 ### [[Item Creation#Creating Armor|Armor Creation]]: Special - Increase Attribute (3)
+Rarity: Uncommon
+
 Active: No
 Stacks: Yes
 Limit: None

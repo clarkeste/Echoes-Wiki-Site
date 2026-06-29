@@ -13,18 +13,18 @@ title: The Triforce
 
 The Triforce consists of three glowing golden triangles that naturally organize themselves to form a larger triangle. It is said in legend that the Triforce was a byproduct of the [[Goddesses and the Gods|Golden Goddesses]] leaving the plane of existence on which our planet rests. It was entrusted to the Goddess Hylia when they left.
 
-What is provable about the Triforce, however, is that it consists of extremely strong magical power. Even one piece can greatly empower an individual, particularly their [[Spellcasting|magical]] ability. All three triangles combined is said to be able to grant any wish the user desires. 
+It bears an extremely strong magical power. Even one piece can greatly empower an individual, particularly their [[Spellcasting|magical]] ability. All three triangles combined is said to be capable of granting any wish the user desires. 
 
 The Triforce is considered to have rested in the [[Sacred Realm (Historia)|Sacred Realm]] before the era of the [[Hero of Time|Hero of Time]], but was split into its three pieces by [[Ganondorf Dragmire]]. These three pieces represented three core virtues of the Triforce; Wisdom, Power, and Courage. These pieces were given to the three separate individuals in the land that most represented their attributes. 
 
-An individual with the Triforce will have an emblem on their wrist when its power is used, although this can be hidden. Triforce pieces will resonate when two or more are nearby. When held by individuals, resonating will mean they glow brighter.
+An individual with the Triforce will have an emblem on their wrist when its power is used, although this allegedly can be hidden. Triforce pieces will resonate when two or more are nearby. When held by individuals, resonating will mean they glow brighter.
 
-It has been shown in eras past that the Triforce can be taken from their rightful wielders by some individuals, especially those with powerful magical abilities.
+It has been shown in eras past that the Triforce can be taken from their rightful wielders by some individuals, especially those with powerful magical abilities. This was the goal of Ganondorf Dragmire.
 
 The three pieces of the Triforce are the following:
 
 ### Triforce of Courage
-When it was split, this piece of the Triforce was given to the Hero of Time due to his courage. This piece of the Triforce represents determination, as well as both the willpower and ability to continue despite the odds.
+When it was split long ago, this piece of the Triforce was given to the Hero of Time due to his courage. This piece of the Triforce represents determination, as well as both the willpower and ability to continue despite the odds.
 
 ### Triforce of Wisdom
 When it was split, this piece of the Triforce was given to the [[Princess Zelda (Historia)|Princess Zelda]] of the time, due to her wisdom. This piece of the Triforce represents will, intelligence, and empathy. It granted Princess Zelda improved magical ability. Since it was given to Zelda, it has been passed down through the female members of the Royal Family.

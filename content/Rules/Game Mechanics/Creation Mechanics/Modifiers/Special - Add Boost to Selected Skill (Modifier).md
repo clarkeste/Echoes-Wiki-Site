@@ -4,10 +4,15 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Uncommon
 ---
 Special - Add Boost to Selected Skill is a [[Modifiers|Modifier]] used in [[Item Creation#Creating Armor#Creating Armor|Armor Creation]].
 
 #### [[Item Creation#Creating Armor#Creating Armor|Armor Creation]]: Special - Add Boost to Selected Skill (4)
+Rarity: Uncommon
+
+
 Active: No
 Stacks: Yes
 Limit: 3

@@ -9,4 +9,4 @@ Is Historia: true
 
 When Ganondorf traveled to [[Hyrule|Hyrule]] and allied with the [[Former Hyrulean Government and Royal Family|King]], he joined the [[Commission for the Reclamation of the Golden Power|Commission for the Reclamation of the Golden Power]]. Ganondorf was able to use the Timekeeper to discover the most likely locations of where the shards of the [[The Triforce (Historia)|Triforce of Courage]] might be. This formed the basis of the locations that the Commission visited, such as [[Kakariko City (Historia)|Kakariko City]], [[The Zora|Zora's Domain]], and the [[Lost Woods (Historia)|Lost Woods]].
 
-What happened to the Timekeeper following Ganondorf's death is unknown.
+The Timekeeper was said to have been destroyed during Ganondorf’s final battle.

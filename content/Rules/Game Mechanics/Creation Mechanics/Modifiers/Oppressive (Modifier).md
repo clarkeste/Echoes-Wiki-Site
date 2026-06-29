@@ -7,6 +7,8 @@ tags:
   - Spell-Creation
   - Potion-Creation
   - Item-Creation
+Potion Rarity: Obscure
+Item Rarity: Rare
 ---
 Oppressive is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation]]. It is based off the [[Oppressive (Active) (Quality)|Oppressive Quality]].
 
@@ -20,11 +22,14 @@ When using this quality in an [[Attack|Attack Spell]], add an extra [[Difficulty
 
 ### [[Potion Creation]]: Oppressive (6)
 Rarity: Obscure
+
 Stacks: Yes
 Limit: None
 The different effects of Oppressive are not well documented. However, it is believed that it allows for its [[Character|drinker]] to dominate in certain combat situations.
 
 ### [[Item Creation]]: Oppressive (6)
+Rarity: Rare
+
 Active: Yes
 Stacks: No
 Limit: 1

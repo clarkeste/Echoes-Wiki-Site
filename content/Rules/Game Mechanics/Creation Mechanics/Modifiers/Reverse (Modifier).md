@@ -4,11 +4,14 @@ aliases:
 tags:
   - Rules
   - Potion-Creation
+Potion Rarity: Uncommon
+Item Rarity: None
 ---
 Reverse is a [[Modifiers|Modifier]] used in [[Potion Creation|Potion Creation]].
 
 ### [[Potion Creation|Potion Creation]]: Reverse
 Rarity: Uncommon
+
 Stacks: No
 Limit: 1
 Reverses all the effects of a [[Potion Creation|Potion]].

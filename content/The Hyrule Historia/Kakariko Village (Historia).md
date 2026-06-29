@@ -1,5 +1,6 @@
 ---
 aliases:
+  - hidden
 tags:
 Is Historia: true
 title: Kakariko Village

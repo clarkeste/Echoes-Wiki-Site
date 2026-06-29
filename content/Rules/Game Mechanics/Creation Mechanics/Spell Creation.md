@@ -12,6 +12,9 @@ tags:
   - Spell-Creation
   - New-Rules
 ---
+*To see how to add Spells to a [[Character Sheet]], see the [[RPGSessions Spellbook|RPG SessionsSpellbook]] article*
+
+
 Magic in [[Echoes of the Departed|Echoes of the Departed]] a is often very soft and versatile; sorcerers with impressive power can do much with their skill, including a wide variety of different attacks or utilities.
   
 To represent this Echoes of the Departed uses a system where you can make your very own Spells, allowing you to flex your creative muscles.
@@ -83,7 +86,7 @@ You may take the following Drawbacks to reduce the cost of your spell.
 - [[Slow-Firing (Modifier)|Slow-Firing]] (-2)
 
 ### The Last Step
-After adding the Modifiers, you’re done! Just give it a catchy name, and put it on your sheet. If it acts similarly to a weapon, it’s advised you add it as a [[Weapons|Weapon]] that uses the Force skill; otherwise, just leave the name, Base Power, and Modifiers of the Spell in the notes section, and that is it!
+After adding the Modifiers, you’re done! Just give it a catchy name, and put it on your sheet. You can do so using the [[RPGSessions Spellbook]] system!
 
 ## Long-Lasting Powers, Curses and Blessings
 Spells that last beyond a single check, such as Endow, Invoke, or some Relocate and Telepathy Spells, can spend numerous Rounds or hours activated if they are not Dispelled. 

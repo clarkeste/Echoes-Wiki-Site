@@ -1,10 +1,17 @@
 ---
 aliases:
   - Special - Resist Shock
+tags:
+  - Rules
+  - Item-Creation
+Potion Rarity: None
+Item Rarity: Rare
 ---
 Special - Resist Shock is a [[Modifiers|Modifier]] used in [[Item Creation#Creating Armor|Armor Creation]].
 
 ### [[Item Creation#Creating Armor|Armor Creation]]: Special - Resist Shock (6)
+Rarity: Rare
+
 Active: No
 Stacks: Yes
 Limit: None

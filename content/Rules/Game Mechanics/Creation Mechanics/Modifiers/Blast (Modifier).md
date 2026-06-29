@@ -7,6 +7,8 @@ tags:
   - Spell-Creation
   - Potion-Creation
   - Item-Creation
+Potion Rarity: Uncommon
+Item Rarity: Rare
 ---
 Blast is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation]]. It is based off the [[Blast (Active) (Quality)|Blast Quality]].
 
@@ -22,11 +24,14 @@ May also trigger Blast if the attack misses by spending 3 Advantages. If this ha
 
 ### [[Potion Creation]]: Blast (6)
 Rarity: Uncommon
+
 Stacks: Yes
 Limit: 2
 Blast makes a Potion not just consumable via drinking, but also by proximity. These Potions are gaseous and can be absorbed by the skin, causing their effects to begin that way. If used internally, rumors are that the effects of the Potion can then spread physically.
 
 ### [[Item Creation]]: Blast (1)
+Rarity: Rare
+
 Active: Yes
 Stacks: Yes
 Limit: 14

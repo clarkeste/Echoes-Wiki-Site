@@ -4,10 +4,14 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Common
 ---
 Special - Worn Underneath Civilian Clothes e is a [[Modifiers|Modifier]] used in [[Item Creation#Creating Armor|Armor Creation]].
 
 ### [[Item Creation#Creating Armor|Armor Creation]]: Special - Worn Underneath Civilian Clothes (7)
+Rarity: Common
+
 Active: No
 Stacks: No
 Limit: 1

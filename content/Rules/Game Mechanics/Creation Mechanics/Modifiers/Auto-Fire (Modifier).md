@@ -7,6 +7,8 @@ tags:
   - Spell-Creation
   - Potion-Creation
   - Item-Creation
+Potion Rarity: Uncommon
+Item Rarity: Rare
 ---
 Auto-Fire is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation|Potion Creation]]. It is based off the [[Auto-Fire (Active) (Quality)|Auto-Fire]] Quality.
 
@@ -22,11 +24,14 @@ Additional hits can be allocated to the target, or to other targets within range
 
 ### [[Potion Creation]]: Auto-Fire (5)
 Rarity: Uncommon
+
 Stacks: No (Singular)
 Limit: 1
 When initially drinking a Potion with Auto-Fire, nothing will happen. However, when a certain effect related to the purpose of the Potion happens, the effects of the Potion will auto-trigger. For example, a Potion with more [[Heal (Modifier)|Heal]] than any other [[Modifiers|Modifier]] will activate when the drinker goes over their [[Wound Threshold]]. These Potions only stay active for 12 hours.
 
 ### [[Item Creation]]: Auto-Fire (5)
+Rarity: Rare
+
 Active: Yes
 Stacks: No (Singular)
 Limit: 1

@@ -7,6 +7,8 @@ tags:
   - Rules
   - Spell-Creation
   - Potion-Creation
+Potion Rarity: Obscure
+Item Rarity: None
 ---
 The effects of Malice are… unpredictable. It is a [[Modifiers|Modifier]] used in [[Spell Creation|Spell]] and [[Potion Creation]]. Great caution is advised. It is based on the [[Malice (Active) (Quality)|Malice Quality]].
 

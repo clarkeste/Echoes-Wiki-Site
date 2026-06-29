@@ -5,10 +5,14 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Rare
 ---
 Empowered Flanking is a [[Modifiers|Modifier]] used in [[Item Creation]]. It is based off the [[Empowered Flanking (Passive) (Quality)|Empowered Flanking Quality]].
 
-### Empowered Flanking (5)
+### [[Item Creation]]: Empowered Flanking (5)
+Rarity: Rare
+
 Active: No
 Stacks: No
 Limit: 1

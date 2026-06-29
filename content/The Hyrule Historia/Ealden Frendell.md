@@ -6,7 +6,7 @@ aliases:
 tags:
 Is Historia: true
 ---
-**Ealden Frendell** was the Minister of Justice before [[Inl Astor|Inl Astor]]. Frendell died under mysterious circumstances. He served as the Minister of Justice for many years, was responsible for criminal justice and collaborated with his compatriot on [[The Council (Historia)|the Council]], [[Nophandus|Nophandus]]. As a Minister, Frendell was a member of the Council and one of the highest-ranking individuals in the government. Astor was his protégé, and took over after Frendell's death.
+**Ealden Frendell** was the Minister of Justice before [[Inl Astor|Inl Astor]]. Frendell died under mysterious circumstances. He served as the Minister of Justice for many years, was responsible for criminal justice, and collaborated with his compatriot on [[The Council (Historia)|the Council]], [[Nophandus|Nophandus]]. As a Minister, Frendell was a member of the Council and one of the highest-ranking individuals in the government. Astor was his protégé, and took over after Frendell's death.
 
 Frendell died shortly after the [[The Confessor (Historia)|Confessor]] appeared to the world by attacking Royal forces at [[Kakariko City (Historia)|Kakariko City]]. While some suggest the two are connected, there is little evidence of this; while details were not released by the [[Former Hyrulean Government and Royal Family|Royal government]], it seems likely that Frendell died in his office due to a poison, heart attack, or some other illness that did not leave a visible wound on his person. After the Royal documents were declassified by the [[The Followers of Dragmire, Revolutionaries|Revolutionary government]], it was revealed there was another individual with him in his office, was also found dead at the same time.
 

@@ -5,10 +5,14 @@ aliases:
 tags:
   - Rules
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Common
 ---
 Pierce is a [[Modifiers|Modifier]] used in [[Item Creation]]. It is based on the [[Pierce (Passive) (Quality)|Pierce Quality]].
 
 #### [[Item Creation]]: Pierce (3)
+Rarity: Common
+
 Active: No
 Stacks: Yes
 Limit: 9

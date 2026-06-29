@@ -6,6 +6,8 @@ tags:
   - Rules
   - Spell-Creation
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Common
 ---
 Stun is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], and [[Spell Creation|Spell Creation]]. It is based off the [[Stun (Active) (Quality)|Stun Quality]].
 
@@ -18,6 +20,8 @@ The Stun Quality interacts with [[Strain|Strain]]; its ability to deal or heal i
 When the Stun quality is activated for two [[Advantage|Advantages]] on a successful [[Attack|Attack Spell]], it inflicts Strain equal to the weapon's Stun rating that bypass [[Soak|Soak]].
 
 ### [[Item Creation|Item Creation]]: Stun (3)
+Rarity: Common
+
 Active: Yes
 Stacks: Yes
 Limit: None

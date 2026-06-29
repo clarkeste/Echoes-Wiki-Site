@@ -5,6 +5,8 @@ tags:
   - Rules
   - Spell-Creation
   - Item-Creation
+Potion Rarity: None
+Item Rarity: Legendary
 ---
 Guided is a [[Modifiers|Modifier]] used in [[Spell Creation|Spell]] and [[Item Creation]]. It is based off the [[Guided (Passive) (Quality)|Guided Quality]].
 
@@ -17,6 +19,8 @@ Limit: 1
 Ignore any [[Setback Dice|Setbacks]] or [[Difficulty|Difficulty]] [[Dice Upgrade|Upgrades]] or Increases on [[Attack Check|Attack Checks]] due to [[Cover|Cover]], [[Hazards|Environmental Hazards]], or conditions like [[Disoriented|Disoriented]].
 
 ### [[Item Creation]]: Guided (6)
+Rarity: Legendary
+
 Active: No
 Stacks: No (Singular)
 Limit: 1

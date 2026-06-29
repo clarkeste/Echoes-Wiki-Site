@@ -7,6 +7,8 @@ tags:
   - Spell-Creation
   - Potion-Creation
   - Item-Creation
+Potion Rarity: Rare
+Item Rarity: Rare
 ---
 Burn is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation]]. It is based off the [[Burn (Active) (Quality)|Burn Quality]].
 
@@ -22,15 +24,17 @@ As an [[Actions|Action]], a character suffering from Burn may make a [[Difficult
 
 ### [[Potion Creation]]: Burn (3)
 Rarity: Rare
+
 Stacks: Yes
 Limit: 3
 Burn in a Potion makes the user resistant to heat, with the amount of resistance increasing by the amount of Burn. Some also report using Burn with [[Potion Template - External Potion|External Potions]] for interesting results.
 
 ### [[Item Creation]]: Burn (3)
+Rarity: Rare
+
 Active: Yes
 Stacks: Yes
 Limit: None
-Rarity: Rare
 On a successful [[Attack Check]], may spend 2 [[Advantage]] to use Burn on a target. A target afflicted with Burn continues to suffer the [[Weapons|Weapon’s]] base [[Damage]] each Round for a number of Rounds equal to the weapon's Burn rating. Damage is applied at the start of each of the target's turns.
 
 As an [[Actions|Action]], a character suffering from Burn may make a [[Difficulty|2p]] [[Coordination]] check to put out the flames, with the [[Difficulty]] sometimes varying. Water too will put out fire.

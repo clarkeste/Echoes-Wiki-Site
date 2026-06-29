@@ -7,6 +7,8 @@ tags:
   - Spell-Creation
   - Potion-Creation
   - Item-Creation
+Potion Rarity: Uncommon
+Item Rarity: Uncommon
 ---
 Concussive is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation]]. It is based off the [[Concussive (Active) (Quality)|Concussive Quality]].
 
@@ -20,11 +22,14 @@ When activated on a successful [[Attack|Attack Spell]], the target is [[Staggere
 
 ### [[Potion Creation]]: Concussive (5)
 Rarity: Uncommon
+
 Stacks: Yes
 Limit: None
 Concussive is a Modifier that deals with being [[Staggered]] or unconscious. In Potions, it can be used as a sleeping aid.
 
 ### [[Item Creation]]: Concussive (5)
+Rarity: Uncommon
+
 Active: Yes
 Stacks: Yes
 Limit: None

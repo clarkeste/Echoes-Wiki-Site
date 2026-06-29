@@ -7,6 +7,8 @@ tags:
   - Spell-Creation
   - Potion-Creation
   - Item-Creation
+Potion Rarity: Common
+Item Rarity: Common
 ---
 Linked is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation|Potion Creation]]. It is based off the [[Linked (Active) (Quality)|Linked Quality]].
 
@@ -19,12 +21,15 @@ Linked [[Spell Creation|Spells]] are powers that fire multiple projectiles, or t
 Some Spells are capable of shooting multiple projectiles. With a successful [[Attack|Attack Spell]], the wielder may spend 2 [[Advantage|Advantage]] to gain an additional hit, and may do so a number of times equal to the Spell's Linked rating. Additional hits deal the same amount as the first one.
 
 ### [[Potion Creation]]: Linked (2)
-Rarity: Uncommon
+Rarity: Common
+
 Stacks: Yes
 Limit: 6
 Linked in a [[Potion Creation|Potion]] will cause the effect of the Potion to happen hours after ingestion, hours equal to the Linked rating.
 
 ### [[Item Creation]]: Linked (2)
+Rarity: Common
+
 Active: Yes
 Stacks: Yes
 Limit: None

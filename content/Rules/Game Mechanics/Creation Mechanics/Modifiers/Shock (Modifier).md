@@ -8,6 +8,8 @@ tags:
   - Spell-Creation
   - Potion-Creation
   - Item-Creation
+Potion Rarity: Uncommon
+Item Rarity: Rare
 ---
 Shock is a [[Modifiers|Modifier]] used in [[Item Creation|Item]], [[Spell Creation|Spell]], and [[Potion Creation|Potion Creation]]. It is based off the [[Shock (Active) (Quality)|Shock Quality]].
 
@@ -21,11 +23,14 @@ On [[Attack|Attack Spells]] that have the [[Shock (Active) (Quality)|Shock Quali
 
 ### [[Potion Creation|Potion Creation]]: Shock (4)
 Rarity: Uncommon
+
 Stacks: No
 Limit: 1
 Shock makes a [[Potion Creation|Potion]] electric. Physically, the liquid of the Potion will look a bit fizzy; after being drunk, however, the effects inside the body can be more severe, such as spasms in [[Potion Template - Internal Potion|Internal Potions]].
 
 ### [[Item Creation|Item Creation]]: Shock (4)
+Rarity: Rare
+
 Active: No
 Stacks: No (Singular)
 Limit: 1
